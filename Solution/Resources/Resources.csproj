@@ -36,6 +36,10 @@
     <SuppressPseudoWarning Condition="'$(Configuration)' == 'Debug'">true</SuppressPseudoWarning>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.Multilingual.Xliff, Version=4.0.1795.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.Multilingual.Xliff\v4.0_4.0.1795.0__31bf3856ad364e35\Microsoft.Multilingual.Xliff.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -49,19 +53,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Website\Install\App_LocalResources\Installwizard.aspx.fa-IR.resx" />
-    <EmbeddedResource Include="Website\Install\App_LocalResources\Installwizard.aspx.resx" />
-    <EmbeddedResource Include="Website\Install\App_LocalResources\UpgradeWizard.aspx.resx" />
-  </ItemGroup>
-  <ItemGroup>
-    <XliffResource Include="Website\Install\App_LocalResources\Installwizard.aspx.fa-IR.xlf" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="Website\Install\App_LocalResources\Locales.xml" />
-    <Content Include="Website\Install\App_LocalResources\ResourceToXliff.exe" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Website\Install\App_LocalResources\Resx2Xlf.bat" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\Multilingual App Toolkit\Microsoft.Multilingual.ResxResources.targets" Label="MultilingualAppToolkit" Condition="Exists('$(MSBuildExtensionsPath)\Microsoft\Multilingual App Toolkit\v$(MultilingualAppToolkitVersion)\Microsoft.Multilingual.ResxResources.targets')" />

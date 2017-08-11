@@ -1,0 +1,644 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="ProviderConfiguration.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="AutoResizeHeight.Help" translate="yes" xml:space="preserve">
+          <source>The value of the AutoResizeHeight property indicates whether the RadEditor will auto-resize its height to match content height.
+
+This property is similar to the Overflow property of the DIV element, which is not supported by the IFRAME elements.
+
+When the AutoResizeHeight property is set to true, then the editor's content area is resizing to match content heigh and no scrollbars will appear.</source>
+          <target state="new">The value of the AutoResizeHeight property indicates whether the RadEditor will auto-resize its height to match content height.
+
+This property is similar to the Overflow property of the DIV element, which is not supported by the IFRAME elements.
+
+When the AutoResizeHeight property is set to true, then the editor's content area is resizing to match content heigh and no scrollbars will appear.</target>
+        </trans-unit>
+        <trans-unit id="AutoResizeHeight.Text" translate="yes" xml:space="preserve">
+          <source>Auto Resize Height:</source>
+          <target state="new">Auto Resize Height:</target>
+        </trans-unit>
+        <trans-unit id="BorderWidth.Help" translate="yes" xml:space="preserve">
+          <source>Sets the border in pixels around the control</source>
+          <target state="new">Sets the border in pixels around the control</target>
+        </trans-unit>
+        <trans-unit id="BorderWidth.Text" translate="yes" xml:space="preserve">
+          <source>Border Width:</source>
+          <target state="new">Border Width:</target>
+        </trans-unit>
+        <trans-unit id="btnEditToolsFile.Text" translate="yes" xml:space="preserve">
+          <source>Configure Editor Toolbars</source>
+          <target state="new">Configure Editor Toolbars</target>
+        </trans-unit>
+        <trans-unit id="btnEnable.Text" translate="yes" xml:space="preserve">
+          <source>Change</source>
+          <target state="new">Change</target>
+        </trans-unit>
+        <trans-unit id="btnUpdateConfig.Text" translate="yes" xml:space="preserve">
+          <source>Update Configuration</source>
+          <target state="new">Update Configuration</target>
+        </trans-unit>
+        <trans-unit id="Client Script Settings.Title" translate="yes" xml:space="preserve">
+          <source>Client Script Settings</source>
+          <target state="new">Client Script Settings</target>
+        </trans-unit>
+        <trans-unit id="cmdCopy.Text" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <target state="new">Copy</target>
+        </trans-unit>
+        <trans-unit id="cmdCreate.Text" translate="yes" xml:space="preserve">
+          <source>Create</source>
+          <target state="new">Create</target>
+        </trans-unit>
+        <trans-unit id="Common Settings.Title" translate="yes" xml:space="preserve">
+          <source>Common Settings</source>
+          <target state="new">Common Settings</target>
+        </trans-unit>
+        <trans-unit id="ContentAreaMode.Help" translate="yes" xml:space="preserve">
+          <source>Choose between editing in a seperate document in an Iframe (default), or inline in a Div in the current page.</source>
+          <target state="new">Choose between editing in a seperate document in an Iframe (default), or inline in a Div in the current page.</target>
+        </trans-unit>
+        <trans-unit id="ContentAreaMode.Text" translate="yes" xml:space="preserve">
+          <source>Content Area Mode</source>
+          <target state="new">Content Area Mode</target>
+        </trans-unit>
+        <trans-unit id="ContentFilters.Help" translate="yes" xml:space="preserve">
+          <source>Filters in RadEditor for ASP.NET AJAX are small code snippets, which are called in a sequence to process the editor content, when the mode (html / design / preview) is switched or when the page is submitted. Each filter is described here: <bpt id="1">&lt;a href="http://www.telerik.com/help/aspnet-ajax/contentfilters.html" target="_blank"&gt;</bpt>Telerik Onlinehelp<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">Filters in RadEditor for ASP.NET AJAX are small code snippets, which are called in a sequence to process the editor content, when the mode (html / design / preview) is switched or when the page is submitted. Each filter is described here: <bpt id="1">&lt;a href="http://www.telerik.com/help/aspnet-ajax/contentfilters.html" target="_blank"&gt;</bpt>Telerik Onlinehelp<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ContentFilters.Text" translate="yes" xml:space="preserve">
+          <source>Content Filters:</source>
+          <target state="new">Content Filters:</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_.Text" translate="yes" xml:space="preserve">
+          <source>Html Editor Management</source>
+          <target state="new">Html Editor Management</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_.Text1" translate="yes" xml:space="preserve">
+          <source>HTML Editor Manager</source>
+          <target state="new">HTML Editor Manager</target>
+        </trans-unit>
+        <trans-unit id="CssFile.Help" translate="yes" xml:space="preserve">
+          <source>The css file to be used by the editor in wysiwyg mode. This file must reside either in the theme directory or in the website directory. The path set here is relative to its parent (e.g. /editor.css is a file in the root of your Theme)</source>
+          <target state="new">The css file to be used by the editor in wysiwyg mode. This file must reside either in the theme directory or in the website directory. The path set here is relative to its parent (e.g. /editor.css is a file in the root of your Theme)</target>
+        </trans-unit>
+        <trans-unit id="CssFile.Text" translate="yes" xml:space="preserve">
+          <source>CSS File:</source>
+          <target state="new">CSS File:</target>
+        </trans-unit>
+        <trans-unit id="Developer Settings.Title" translate="yes" xml:space="preserve">
+          <source>Developer Settings</source>
+          <target state="new">Developer Settings</target>
+        </trans-unit>
+        <trans-unit id="Document Manager Settings.Title" translate="yes" xml:space="preserve">
+          <source>Document Manager Settings</source>
+          <target state="new">Document Manager Settings</target>
+        </trans-unit>
+        <trans-unit id="DocumentsFilters.Help" translate="yes" xml:space="preserve">
+          <source>A semicolon separated list of possible extensions to be used in the document manager.  The extensions must also be in the host settings list of allowed extensions.  Use the following format: *.extensionname</source>
+          <target state="new">A semicolon separated list of possible extensions to be used in the document manager.  The extensions must also be in the host settings list of allowed extensions.  Use the following format: *.extensionname</target>
+        </trans-unit>
+        <trans-unit id="DocumentsFilters.Text" translate="yes" xml:space="preserve">
+          <source>Filters:</source>
+          <target state="new">Filters:</target>
+        </trans-unit>
+        <trans-unit id="DocumentsPath.Help" translate="yes" xml:space="preserve">
+          <source>The folder that the document manager starts with when loading the dialog</source>
+          <target state="new">The folder that the document manager starts with when loading the dialog</target>
+        </trans-unit>
+        <trans-unit id="DocumentsPath.Text" translate="yes" xml:space="preserve">
+          <source>Path:</source>
+          <target state="new">Path:</target>
+        </trans-unit>
+        <trans-unit id="EditConfigTab.Text" translate="yes" xml:space="preserve">
+          <source>Editor Configuration</source>
+          <target state="new">Editor Configuration</target>
+        </trans-unit>
+        <trans-unit id="EditModes.Help" translate="yes" xml:space="preserve">
+          <source>RadEditor offers three different edit modes Design, Html and Preview:
+
+<bpt id="1">&lt;ul&gt;</bpt><bpt id="2">&lt;li&gt;</bpt>Design: In the Design mode you can edit and format the content by using the RadEditor toolbar buttons, dropdowns and dialogs. <ept id="2">&lt;/li&gt;</ept><bpt id="3">&lt;li&gt;</bpt>Html: HTML mode provides direct access to the content HTML . This mode is used most often by advanced users.<ept id="3">&lt;/li&gt;</ept><bpt id="4">&lt;li&gt;</bpt>Preview: Shows how the content will look like before updating the page.<ept id="4">&lt;/li&gt;</ept><ept id="1">&lt;/ul&gt;</ept></source>
+          <target state="new">RadEditor offers three different edit modes Design, Html and Preview:
+
+<bpt id="1">&lt;ul&gt;</bpt><bpt id="2">&lt;li&gt;</bpt>Design: In the Design mode you can edit and format the content by using the RadEditor toolbar buttons, dropdowns and dialogs. <ept id="2">&lt;/li&gt;</ept><bpt id="3">&lt;li&gt;</bpt>Html: HTML mode provides direct access to the content HTML . This mode is used most often by advanced users.<ept id="3">&lt;/li&gt;</ept><bpt id="4">&lt;li&gt;</bpt>Preview: Shows how the content will look like before updating the page.<ept id="4">&lt;/li&gt;</ept><ept id="1">&lt;/ul&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="EditModes.Text" translate="yes" xml:space="preserve">
+          <source>Edit Modes:</source>
+          <target state="new">Edit Modes:</target>
+        </trans-unit>
+        <trans-unit id="EnableResize.Help" translate="yes" xml:space="preserve">
+          <source>Gets or sets the value indicating whether the users will be able to resize the RadEditor control on the client.</source>
+          <target state="new">Gets or sets the value indicating whether the users will be able to resize the RadEditor control on the client.</target>
+        </trans-unit>
+        <trans-unit id="EnableResize.Text" translate="yes" xml:space="preserve">
+          <source>Enable Resize:</source>
+          <target state="new">Enable Resize:</target>
+        </trans-unit>
+        <trans-unit id="FileBrowserContentProviderTypeName.Help" translate="yes" xml:space="preserve">
+          <source>The content provider is a class that handles how files and folders in the file mananger dialogs are handled. Override this setting if you have another content provider in place. </source>
+          <target state="new">The content provider is a class that handles how files and folders in the file mananger dialogs are handled. Override this setting if you have another content provider in place. </target>
+        </trans-unit>
+        <trans-unit id="FileBrowserContentProviderTypeName.Text" translate="yes" xml:space="preserve">
+          <source>File Browser Provider:</source>
+          <target state="new">File Browser Provider:</target>
+        </trans-unit>
+        <trans-unit id="Flash Manager Settings.Title" translate="yes" xml:space="preserve">
+          <source>Flash Manager Settings</source>
+          <target state="new">Flash Manager Settings</target>
+        </trans-unit>
+        <trans-unit id="FlashFilters.Help" translate="yes" xml:space="preserve">
+          <source>A semicolon separated list of possible extensions to be used in the flash manager.  The extensions must also be in the host settings list of allowed extensions.  Use the following format: *.extensionname</source>
+          <target state="new">A semicolon separated list of possible extensions to be used in the flash manager.  The extensions must also be in the host settings list of allowed extensions.  Use the following format: *.extensionname</target>
+        </trans-unit>
+        <trans-unit id="FlashFilters.Text" translate="yes" xml:space="preserve">
+          <source>Filters:</source>
+          <target state="new">Filters:</target>
+        </trans-unit>
+        <trans-unit id="FlashPath.Help" translate="yes" xml:space="preserve">
+          <source>The folder that the flash manager starts with when loading the dialog</source>
+          <target state="new">The folder that the flash manager starts with when loading the dialog</target>
+        </trans-unit>
+        <trans-unit id="FlashPath.Text" translate="yes" xml:space="preserve">
+          <source>Path:</source>
+          <target state="new">Path:</target>
+        </trans-unit>
+        <trans-unit id="Height.Help" translate="yes" xml:space="preserve">
+          <source>The overall height of the editor control</source>
+          <target state="new">The overall height of the editor control</target>
+        </trans-unit>
+        <trans-unit id="Height.Text" translate="yes" xml:space="preserve">
+          <source>Height:</source>
+          <target state="new">Height:</target>
+        </trans-unit>
+        <trans-unit id="HTMLEditorPageDescription.Text" translate="yes" xml:space="preserve">
+          <source>Provides configuration options for HTML Editor Provider.</source>
+          <target state="new">Provides configuration options for HTML Editor Provider.</target>
+        </trans-unit>
+        <trans-unit id="HTMLEditorPageName.Text" translate="yes" xml:space="preserve">
+          <source>HTML Editor Manager</source>
+          <target state="new">HTML Editor Manager</target>
+        </trans-unit>
+        <trans-unit id="Image Manager Settings.Title" translate="yes" xml:space="preserve">
+          <source>Image Manager Settings</source>
+          <target state="new">Image Manager Settings</target>
+        </trans-unit>
+        <trans-unit id="ImagesFilters.Help" translate="yes" xml:space="preserve">
+          <source>A semicolon separated list of possible extensions to be used in the image manager.  The extensions must also be in the host settings list of allowed extensions.  Use the following format: *.extensionname</source>
+          <target state="new">A semicolon separated list of possible extensions to be used in the image manager.  The extensions must also be in the host settings list of allowed extensions.  Use the following format: *.extensionname</target>
+        </trans-unit>
+        <trans-unit id="ImagesFilters.Text" translate="yes" xml:space="preserve">
+          <source>Filters:</source>
+          <target state="new">Filters:</target>
+        </trans-unit>
+        <trans-unit id="ImagesPath.Help" translate="yes" xml:space="preserve">
+          <source>The folder that the image manager starts with when loading the dialog</source>
+          <target state="new">The folder that the image manager starts with when loading the dialog</target>
+        </trans-unit>
+        <trans-unit id="ImagesPath.Text" translate="yes" xml:space="preserve">
+          <source>Path:</source>
+          <target state="new">Path:</target>
+        </trans-unit>
+        <trans-unit id="Language.Help" translate="yes" xml:space="preserve">
+          <source>If set, this will override the language of the website context. The current locale is used by default, so in most cases you should leave this empty</source>
+          <target state="new">If set, this will override the language of the website context. The current locale is used by default, so in most cases you should leave this empty</target>
+        </trans-unit>
+        <trans-unit id="Language.Text" translate="yes" xml:space="preserve">
+          <source>Language:</source>
+          <target state="new">Language:</target>
+        </trans-unit>
+        <trans-unit id="lblChangeProvider.Help" translate="yes" xml:space="preserve">
+          <source>Selecting a different provider from the drop down list, and then clicking 'Change', will change the set HTML Editor Provider for the entire installation.</source>
+          <target state="new">Selecting a different provider from the drop down list, and then clicking 'Change', will change the set HTML Editor Provider for the entire installation.</target>
+        </trans-unit>
+        <trans-unit id="lblChangeProvider.Text" translate="yes" xml:space="preserve">
+          <source>Change Provider</source>
+          <target state="new">Change Provider</target>
+        </trans-unit>
+        <trans-unit id="lblCurrentProvider.Help" translate="yes" xml:space="preserve">
+          <source>This is the HTML Editor Provider that is currently set for this installation. </source>
+          <target state="new">This is the HTML Editor Provider that is currently set for this installation. </target>
+        </trans-unit>
+        <trans-unit id="lblCurrentProvider.Text" translate="yes" xml:space="preserve">
+          <source>Current Provider</source>
+          <target state="new">Current Provider</target>
+        </trans-unit>
+        <trans-unit id="lblEditorConfig.Text" translate="yes" xml:space="preserve">
+          <source>Editor Configuration</source>
+          <target state="new">Editor Configuration</target>
+        </trans-unit>
+        <trans-unit id="lblEditorType.Text" translate="yes" xml:space="preserve">
+          <source>The current provider in this DotNetNuke installation is <bpt id="1">&lt;b&gt;</bpt>{0}<ept id="1">&lt;/b&gt;</ept></source>
+          <target state="new">The current provider in this DotNetNuke installation is <bpt id="1">&lt;b&gt;</bpt>{0}<ept id="1">&lt;/b&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="lblMode.Help" translate="yes" xml:space="preserve">
+          <source>The role you wish to associate this editor configuration with.</source>
+          <target state="new">The role you wish to associate this editor configuration with.</target>
+        </trans-unit>
+        <trans-unit id="lblMode.Text" translate="yes" xml:space="preserve">
+          <source>Bind to Role</source>
+          <target state="new">Bind to Role</target>
+        </trans-unit>
+        <trans-unit id="lblNotAuthorized.Text" translate="yes" xml:space="preserve">
+          <source>You are not authorized to use this module.</source>
+          <target state="new">You are not authorized to use this module.</target>
+        </trans-unit>
+        <trans-unit id="lblNote.Text" translate="yes" xml:space="preserve">
+          <source>The purpose of this module is to register and configure the Rad Editor Provider. It helps host users to set the HTML provider in the web.config and maintain its configuration.</source>
+          <target state="new">The purpose of this module is to register and configure the Rad Editor Provider. It helps host users to set the HTML provider in the web.config and maintain its configuration.</target>
+        </trans-unit>
+        <trans-unit id="lblOnlyHost.Text" translate="yes" xml:space="preserve">
+          <source>Only host users are allowed to use this module.</source>
+          <target state="new">Only host users are allowed to use this module.</target>
+        </trans-unit>
+        <trans-unit id="lblPortal.Help" translate="yes" xml:space="preserve">
+          <source>If checked, the current website will be associated with this editor configuration. </source>
+          <target state="new">If checked, the current website will be associated with this editor configuration. </target>
+        </trans-unit>
+        <trans-unit id="lblPortal.Text" translate="yes" xml:space="preserve">
+          <source>Bind to Website</source>
+          <target state="new">Bind to Website</target>
+        </trans-unit>
+        <trans-unit id="lblSelectedProvider.Text" translate="yes" xml:space="preserve">
+          <source>Current Provider</source>
+          <target state="new">Current Provider</target>
+        </trans-unit>
+        <trans-unit id="lblTabs.Help" translate="yes" xml:space="preserve">
+          <source>Selecting a page from the treeview will associate this editor configuration with the selected page.</source>
+          <target state="new">Selecting a page from the treeview will associate this editor configuration with the selected page.</target>
+        </trans-unit>
+        <trans-unit id="lblTabs.Text" translate="yes" xml:space="preserve">
+          <source>Bind to Tab</source>
+          <target state="new">Bind to Tab</target>
+        </trans-unit>
+        <trans-unit id="LinksType.Help" translate="yes" xml:space="preserve">
+          <source>"Use Page Name":a link to a website page is built like this: default.aspx?TabName=Home;<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept>"Use Page Id":a link to a website page is built like this: default.aspx?TabId=100;<bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>"Normal": a link to a website page is built as a normal link.</source>
+          <target state="new">"Use Page Name":a link to a website page is built like this: default.aspx?TabName=Home;<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept>"Use Page Id":a link to a website page is built like this: default.aspx?TabId=100;<bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>"Normal": a link to a website page is built as a normal link.</target>
+        </trans-unit>
+        <trans-unit id="LinksType.Text" translate="yes" xml:space="preserve">
+          <source>Page Links Type:</source>
+          <target state="new">Page Links Type:</target>
+        </trans-unit>
+        <trans-unit id="LinksType_Normal.Text" translate="yes" xml:space="preserve">
+          <source>Normal</source>
+          <target state="new">Normal</target>
+        </trans-unit>
+        <trans-unit id="LinksType_UseTabId.Text" translate="yes" xml:space="preserve">
+          <source>Use Page Id in URL</source>
+          <target state="new">Use Page Id in URL</target>
+        </trans-unit>
+        <trans-unit id="LinksType_UseTabName.Text" translate="yes" xml:space="preserve">
+          <source>Use Page Name in URL</source>
+          <target state="new">Use Page Name in URL</target>
+        </trans-unit>
+        <trans-unit id="LinksUseRelativeUrls.Help" translate="yes" xml:space="preserve">
+          <source>If set to false, links are created absolute</source>
+          <target state="new">If set to false, links are created absolute</target>
+        </trans-unit>
+        <trans-unit id="LinksUseRelativeUrls.Text" translate="yes" xml:space="preserve">
+          <source>Enable Relative URL Links:</source>
+          <target state="new">Enable Relative URL Links:</target>
+        </trans-unit>
+        <trans-unit id="MaxDocumentSize.Help" translate="yes" xml:space="preserve">
+          <source>Maximum document upload size in bytes</source>
+          <target state="new">Maximum document upload size in bytes</target>
+        </trans-unit>
+        <trans-unit id="MaxDocumentSize.Text" translate="yes" xml:space="preserve">
+          <source>Max File Size:</source>
+          <target state="new">Max File Size:</target>
+        </trans-unit>
+        <trans-unit id="MaxFlashSize.Help" translate="yes" xml:space="preserve">
+          <source>Maximum flash upload size in bytes</source>
+          <target state="new">Maximum flash upload size in bytes</target>
+        </trans-unit>
+        <trans-unit id="MaxFlashSize.Text" translate="yes" xml:space="preserve">
+          <source>Max File Size:</source>
+          <target state="new">Max File Size:</target>
+        </trans-unit>
+        <trans-unit id="MaxImageSize.Help" translate="yes" xml:space="preserve">
+          <source>Maximum image upload size in bytes</source>
+          <target state="new">Maximum image upload size in bytes</target>
+        </trans-unit>
+        <trans-unit id="MaxImageSize.Text" translate="yes" xml:space="preserve">
+          <source>Max File Size:</source>
+          <target state="new">Max File Size:</target>
+        </trans-unit>
+        <trans-unit id="MaxMediaSize.Help" translate="yes" xml:space="preserve">
+          <source>Maximum movie upload size in bytes</source>
+          <target state="new">Maximum movie upload size in bytes</target>
+        </trans-unit>
+        <trans-unit id="MaxMediaSize.Text" translate="yes" xml:space="preserve">
+          <source>Max File Size:</source>
+          <target state="new">Max File Size:</target>
+        </trans-unit>
+        <trans-unit id="MaxSilverlightSize.Help" translate="yes" xml:space="preserve">
+          <source>Maximum silverlight upload size in bytes</source>
+          <target state="new">Maximum silverlight upload size in bytes</target>
+        </trans-unit>
+        <trans-unit id="MaxSilverlightSize.Text" translate="yes" xml:space="preserve">
+          <source>Max File Size:</source>
+          <target state="new">Max File Size:</target>
+        </trans-unit>
+        <trans-unit id="MaxTemplateSize.Help" translate="yes" xml:space="preserve">
+          <source>Maximum template upload size in bytes</source>
+          <target state="new">Maximum template upload size in bytes</target>
+        </trans-unit>
+        <trans-unit id="MaxTemplateSize.Text" translate="yes" xml:space="preserve">
+          <source>Max File Size:</source>
+          <target state="new">Max File Size:</target>
+        </trans-unit>
+        <trans-unit id="Media Manager Settings.Title" translate="yes" xml:space="preserve">
+          <source>Media Manager Settings</source>
+          <target state="new">Media Manager Settings</target>
+        </trans-unit>
+        <trans-unit id="MediaFilters.Help" translate="yes" xml:space="preserve">
+          <source>A semicolon separated list of possible extensions to be used in the media manager.  The extensions must also be in the host settings list of allowed extensions.  Use the following format: *.extensionname</source>
+          <target state="new">A semicolon separated list of possible extensions to be used in the media manager.  The extensions must also be in the host settings list of allowed extensions.  Use the following format: *.extensionname</target>
+        </trans-unit>
+        <trans-unit id="MediaFilters.Text" translate="yes" xml:space="preserve">
+          <source>Filters:</source>
+          <target state="new">Filters:</target>
+        </trans-unit>
+        <trans-unit id="MediaPath.Help" translate="yes" xml:space="preserve">
+          <source>The folder that the media manager starts with when loading the dialog</source>
+          <target state="new">The folder that the media manager starts with when loading the dialog</target>
+        </trans-unit>
+        <trans-unit id="MediaPath.Text" translate="yes" xml:space="preserve">
+          <source>Path:</source>
+          <target state="new">Path:</target>
+        </trans-unit>
+        <trans-unit id="NewLineBr.Help" translate="yes" xml:space="preserve">
+          <source>The NewLineBr property specifies whether the editor should insert a new line (<it id="1" pos="open">&lt;BR&gt;</it> tag) or a new paragraph (<it id="2" pos="open">&lt;P&gt;</it> tag) when the Enter key is pressed. The default value is true (<it id="3" pos="open">&lt;BR&gt;</it> tag) in order to closely reflect the behavior of desktop word-processors. In this case you can insert paragraph tags by pressing Ctrl+M or the New Paragraph button.
+
+If you set the NewLineBr property to false, a paragraph tag will be entered on every carriage return (pressing Enter). Here, pressing Shift+Enter will insert a <it id="4" pos="open">&lt;BR&gt;</it> tag.
+
+Working with bulleted/ numbered lists in Telerik RadEditor
+Lists are types of paragraphs and they accept the same attributes as paragraph tags. This means that whenever you insert a list in your HTML, you insert a new paragraph. Since Telerik RadEditor v5.05 the NewLineBr mechanism has been improved. However this makes it impossible for example to start bulleted/numbered list with the line being blank. <bpt id="5">&lt;a href="http://www.telerik.com/help/aspnet-ajax/usingthenewlinebrproperty.html" target="_blank"&gt;</bpt>Read the onlinehelp for more information<ept id="5">&lt;/a&gt;</ept></source>
+          <target state="new">The NewLineBr property specifies whether the editor should insert a new line (<it id="1" pos="open">&lt;BR&gt;</it> tag) or a new paragraph (<it id="2" pos="open">&lt;P&gt;</it> tag) when the Enter key is pressed. The default value is true (<it id="3" pos="open">&lt;BR&gt;</it> tag) in order to closely reflect the behavior of desktop word-processors. In this case you can insert paragraph tags by pressing Ctrl+M or the New Paragraph button.
+
+If you set the NewLineBr property to false, a paragraph tag will be entered on every carriage return (pressing Enter). Here, pressing Shift+Enter will insert a <it id="4" pos="open">&lt;BR&gt;</it> tag.
+
+Working with bulleted/ numbered lists in Telerik RadEditor
+Lists are types of paragraphs and they accept the same attributes as paragraph tags. This means that whenever you insert a list in your HTML, you insert a new paragraph. Since Telerik RadEditor v5.05 the NewLineBr mechanism has been improved. However this makes it impossible for example to start bulleted/numbered list with the line being blank. <bpt id="5">&lt;a href="http://www.telerik.com/help/aspnet-ajax/usingthenewlinebrproperty.html" target="_blank"&gt;</bpt>Read the onlinehelp for more information<ept id="5">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="NewLineBr.Text" translate="yes" xml:space="preserve">
+          <source>Render New Lines As Breaks:</source>
+          <target state="new">Render New Lines As Breaks:</target>
+        </trans-unit>
+        <trans-unit id="NotCurrentProvider.Text" translate="yes" xml:space="preserve">
+          <source>RadEditorProvider is not default html editor provider now, any changes will not apply to current editor provider. If you want to make configuration take effect please update default provider to 'DotNetNuke.RadEditorProvider' in left drop down list.</source>
+          <target state="new">RadEditorProvider is not default html editor provider now, any changes will not apply to current editor provider. If you want to make configuration take effect please update default provider to 'DotNetNuke.RadEditorProvider' in left drop down list.</target>
+        </trans-unit>
+        <trans-unit id="OnClientCommandExecuting.Help" translate="yes" xml:space="preserve">
+          <source>Set a function name to be called when the editor fires the OnExecute event on the client (fired just before a command is executed). The funtion can be placed in the js file defined in the ScriptToLoad setting. This event comes in handy if you want to add smily support for example. (Read <bpt id="1">&lt;a href="http://radeditor.codeplex.com/Thread/View.aspx?ThreadId=231612" target="_blank"&gt;</bpt>this forum post<ept id="1">&lt;/a&gt;</ept> for more information)</source>
+          <target state="new">Set a function name to be called when the editor fires the OnExecute event on the client (fired just before a command is executed). The funtion can be placed in the js file defined in the ScriptToLoad setting. This event comes in handy if you want to add smily support for example. (Read <bpt id="1">&lt;a href="http://radeditor.codeplex.com/Thread/View.aspx?ThreadId=231612" target="_blank"&gt;</bpt>this forum post<ept id="1">&lt;/a&gt;</ept> for more information)</target>
+        </trans-unit>
+        <trans-unit id="OnClientCommandExecuting.Text" translate="yes" xml:space="preserve">
+          <source>Command Executing:</source>
+          <target state="new">Command Executing:</target>
+        </trans-unit>
+        <trans-unit id="OnClientPasteHtml.Help" translate="yes" xml:space="preserve">
+          <source>Set a function name to be called when the editor fires the OnPaste event (every time something is being pasted into the html code of the editors html editing area). The funtion can be placed in the js file defined in the ScriptToLoad setting.
+
+<bpt id="1">&lt;a href="http://radeditor.codeplex.com/wikipage?title=OnClientPasteExample" target="_blank"&gt;</bpt>See this example for a detailed example<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">Set a function name to be called when the editor fires the OnPaste event (every time something is being pasted into the html code of the editors html editing area). The funtion can be placed in the js file defined in the ScriptToLoad setting.
+
+<bpt id="1">&lt;a href="http://radeditor.codeplex.com/wikipage?title=OnClientPasteExample" target="_blank"&gt;</bpt>See this example for a detailed example<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="OnClientPasteHtml.Text" translate="yes" xml:space="preserve">
+          <source>Paste HTML:</source>
+          <target state="new">Paste HTML:</target>
+        </trans-unit>
+        <trans-unit id="PortalRoot.Text" translate="yes" xml:space="preserve">
+          <source>[PortalRoot]</source>
+          <target state="new">[PortalRoot]</target>
+        </trans-unit>
+        <trans-unit id="ScriptToLoad.Help" translate="yes" xml:space="preserve">
+          <source>If set the provider will load the javascript file specified here. This must be a relative path to the current theme directory.
+
+<bpt id="1">&lt;a href="http://radeditor.codeplex.com/wikipage?title=OnClientPasteExample" target="_blank"&gt;</bpt>See this example for a detailed example<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">If set the provider will load the javascript file specified here. This must be a relative path to the current theme directory.
+
+<bpt id="1">&lt;a href="http://radeditor.codeplex.com/wikipage?title=OnClientPasteExample" target="_blank"&gt;</bpt>See this example for a detailed example<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ScriptToLoad.Text" translate="yes" xml:space="preserve">
+          <source>Script to Load:</source>
+          <target state="new">Script to Load:</target>
+        </trans-unit>
+        <trans-unit id="ShowPortalLinks.Help" translate="yes" xml:space="preserve">
+          <source>If set to true a dropdownlist will appear in the toolbar that renders a tree of website pages. When this feature is active, you can mark a textblock and select a page from that tree to cause the editor to link the text to a certain page.
+
+You must set the CustomLinks tool in your toolbar configuratioon in order to make this work!</source>
+          <target state="new">If set to true a dropdownlist will appear in the toolbar that renders a tree of website pages. When this feature is active, you can mark a textblock and select a page from that tree to cause the editor to link the text to a certain page.
+
+You must set the CustomLinks tool in your toolbar configuratioon in order to make this work!</target>
+        </trans-unit>
+        <trans-unit id="ShowPortalLinks.Text" translate="yes" xml:space="preserve">
+          <source>Show Website Links:</source>
+          <target state="new">Show Website Links:</target>
+        </trans-unit>
+        <trans-unit id="Silverlight Manager Settings.Title" translate="yes" xml:space="preserve">
+          <source>Silverlight Manager Settings</source>
+          <target state="new">Silverlight Manager Settings</target>
+        </trans-unit>
+        <trans-unit id="SilverlightFilters.Help" translate="yes" xml:space="preserve">
+          <source>A semicolon separated list of possible extensions to be used in the silverlight manager.  The extensions must also be in the host settings list of allowed extensions.  Use the following format: *.extensionname</source>
+          <target state="new">A semicolon separated list of possible extensions to be used in the silverlight manager.  The extensions must also be in the host settings list of allowed extensions.  Use the following format: *.extensionname</target>
+        </trans-unit>
+        <trans-unit id="SilverlightFilters.Text" translate="yes" xml:space="preserve">
+          <source>Filters:</source>
+          <target state="new">Filters:</target>
+        </trans-unit>
+        <trans-unit id="SilverlightPath.Help" translate="yes" xml:space="preserve">
+          <source>The folder that the silverlight manager starts with when loading the dialog</source>
+          <target state="new">The folder that the silverlight manager starts with when loading the dialog</target>
+        </trans-unit>
+        <trans-unit id="SilverlightPath.Text" translate="yes" xml:space="preserve">
+          <source>Path:</source>
+          <target state="new">Path:</target>
+        </trans-unit>
+        <trans-unit id="Skin.Help" translate="yes" xml:space="preserve">
+          <source>The theme to used by the editor control</source>
+          <target state="new">The theme to used by the editor control</target>
+        </trans-unit>
+        <trans-unit id="Skin.Text" translate="yes" xml:space="preserve">
+          <source>Theme:</source>
+          <target state="new">Theme:</target>
+        </trans-unit>
+        <trans-unit id="SpellAllowAddCustom.Help" translate="yes" xml:space="preserve">
+          <source>Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="SpellAllowAddCustom.Text" translate="yes" xml:space="preserve">
+          <source>Allow Custom Spelling:</source>
+          <target state="new">Allow Custom Spelling:</target>
+        </trans-unit>
+        <trans-unit id="SpellCheckProvider.Help" translate="yes" xml:space="preserve">
+          <source>Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="SpellCheckProvider.Text" translate="yes" xml:space="preserve">
+          <source>Spell Check Provider Name:</source>
+          <target state="new">Spell Check Provider Name:</target>
+        </trans-unit>
+        <trans-unit id="SpellCustomDictionarySourceTypeName.Help" translate="yes" xml:space="preserve">
+          <source>Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="SpellCustomDictionarySourceTypeName.Text" translate="yes" xml:space="preserve">
+          <source>Custom Spell Dictionary Name:</source>
+          <target state="new">Custom Spell Dictionary Name:</target>
+        </trans-unit>
+        <trans-unit id="SpellCustomDictionarySuffix.Help" translate="yes" xml:space="preserve">
+          <source>Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="SpellCustomDictionarySuffix.Text" translate="yes" xml:space="preserve">
+          <source>Custom Spell Dictionary Suffix:</source>
+          <target state="new">Custom Spell Dictionary Suffix:</target>
+        </trans-unit>
+        <trans-unit id="SpellDictionaryLanguage.Help" translate="yes" xml:space="preserve">
+          <source>Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="SpellDictionaryLanguage.Text" translate="yes" xml:space="preserve">
+          <source>Spell Dictionary Language:</source>
+          <target state="new">Spell Dictionary Language:</target>
+        </trans-unit>
+        <trans-unit id="SpellDictionaryPath.Help" translate="yes" xml:space="preserve">
+          <source>Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="SpellDictionaryPath.Text" translate="yes" xml:space="preserve">
+          <source>Spell Dictionary Path:</source>
+          <target state="new">Spell Dictionary Path:</target>
+        </trans-unit>
+        <trans-unit id="SpellEditDistance.Help" translate="yes" xml:space="preserve">
+          <source>Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="SpellEditDistance.Text" translate="yes" xml:space="preserve">
+          <source>Spell Edit Distance:</source>
+          <target state="new">Spell Edit Distance:</target>
+        </trans-unit>
+        <trans-unit id="SpellFragmentIgnoreOptions.Help" translate="yes" xml:space="preserve">
+          <source>Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="SpellFragmentIgnoreOptions.Text" translate="yes" xml:space="preserve">
+          <source>Spell Fragment Ignore Options:</source>
+          <target state="new">Spell Fragment Ignore Options:</target>
+        </trans-unit>
+        <trans-unit id="SpellWordIgnoreOptions.Help" translate="yes" xml:space="preserve">
+          <source>Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">Spellchecking options are rarely documented, unfortunately. In general you should leave these fields empty unless you know what you're doing. <bpt id="1">&lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;</bpt>Learn more about spell checking options at the Telerik website<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="SpellWordIgnoreOptions.Text" translate="yes" xml:space="preserve">
+          <source>Spell Word Ignore Options:</source>
+          <target state="new">Spell Word Ignore Options:</target>
+        </trans-unit>
+        <trans-unit id="StripFormattingOptions.Help" translate="yes" xml:space="preserve">
+          <source>Developers can enforce content formatting using the StripFormattingOptions property. As a result, format stripping will be applied to all content that users are trying to paste. The EditorStripFormattingOptions setting can have any or a combination of the following values:
+<bpt id="1">&lt;ul&gt;</bpt>
+<bpt id="2">&lt;li&gt;</bpt>None: pastes the clipboard content as is. <ept id="2">&lt;/li&gt;</ept>
+<bpt id="3">&lt;li&gt;</bpt>NoneSupressCleanMessage: Doesn't strip anything on paste and does not ask questions. <ept id="3">&lt;/li&gt;</ept>
+<bpt id="4">&lt;li&gt;</bpt>MSWord: strips Word-specific tags on Paste, preserving fonts and text sizes. <ept id="4">&lt;/li&gt;</ept>
+<bpt id="5">&lt;li&gt;</bpt>MSWordNoFonts: strips Word-specific tags on Paste, preserving text sizes only. <ept id="5">&lt;/li&gt;</ept>
+<bpt id="6">&lt;li&gt;</bpt>MSWordRemoveAll: strips Word-specific tag on Paste, removing both fonts and text sizes. <ept id="6">&lt;/li&gt;</ept>
+<bpt id="7">&lt;li&gt;</bpt>Css: strips CSS styles on Paste. <ept id="7">&lt;/li&gt;</ept>
+<bpt id="8">&lt;li&gt;</bpt>Font: strips Font tags on Paste. <ept id="8">&lt;/li&gt;</ept>
+<bpt id="9">&lt;li&gt;</bpt>Span: strips Span tags on Paste. <ept id="9">&lt;/li&gt;</ept>
+<bpt id="10">&lt;li&gt;</bpt>All: strips all HTML formatting and pastes plain text. <ept id="10">&lt;/li&gt;</ept>
+<bpt id="11">&lt;li&gt;</bpt>AllExceptNewLines: Clears all tags except "br" and new lines (\n) on paste.<ept id="11">&lt;/li&gt;</ept><ept id="1">&lt;/ul&gt;</ept></source>
+          <target state="new">Developers can enforce content formatting using the StripFormattingOptions property. As a result, format stripping will be applied to all content that users are trying to paste. The EditorStripFormattingOptions setting can have any or a combination of the following values:
+<bpt id="1">&lt;ul&gt;</bpt>
+<bpt id="2">&lt;li&gt;</bpt>None: pastes the clipboard content as is. <ept id="2">&lt;/li&gt;</ept>
+<bpt id="3">&lt;li&gt;</bpt>NoneSupressCleanMessage: Doesn't strip anything on paste and does not ask questions. <ept id="3">&lt;/li&gt;</ept>
+<bpt id="4">&lt;li&gt;</bpt>MSWord: strips Word-specific tags on Paste, preserving fonts and text sizes. <ept id="4">&lt;/li&gt;</ept>
+<bpt id="5">&lt;li&gt;</bpt>MSWordNoFonts: strips Word-specific tags on Paste, preserving text sizes only. <ept id="5">&lt;/li&gt;</ept>
+<bpt id="6">&lt;li&gt;</bpt>MSWordRemoveAll: strips Word-specific tag on Paste, removing both fonts and text sizes. <ept id="6">&lt;/li&gt;</ept>
+<bpt id="7">&lt;li&gt;</bpt>Css: strips CSS styles on Paste. <ept id="7">&lt;/li&gt;</ept>
+<bpt id="8">&lt;li&gt;</bpt>Font: strips Font tags on Paste. <ept id="8">&lt;/li&gt;</ept>
+<bpt id="9">&lt;li&gt;</bpt>Span: strips Span tags on Paste. <ept id="9">&lt;/li&gt;</ept>
+<bpt id="10">&lt;li&gt;</bpt>All: strips all HTML formatting and pastes plain text. <ept id="10">&lt;/li&gt;</ept>
+<bpt id="11">&lt;li&gt;</bpt>AllExceptNewLines: Clears all tags except "br" and new lines (\n) on paste.<ept id="11">&lt;/li&gt;</ept><ept id="1">&lt;/ul&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="StripFormattingOptions.Text" translate="yes" xml:space="preserve">
+          <source>Strip Formatting Options:</source>
+          <target state="new">Strip Formatting Options:</target>
+        </trans-unit>
+        <trans-unit id="Template Manager Settings.Title" translate="yes" xml:space="preserve">
+          <source>Template Manager Settings</source>
+          <target state="new">Template Manager Settings</target>
+        </trans-unit>
+        <trans-unit id="TemplateFilters.Help" translate="yes" xml:space="preserve">
+          <source>A semicolon separated list of possible extensions to be used in the template manager.  The extensions must also be in the host settings list of allowed extensions.  Use the following format: *.extensionname</source>
+          <target state="new">A semicolon separated list of possible extensions to be used in the template manager.  The extensions must also be in the host settings list of allowed extensions.  Use the following format: *.extensionname</target>
+        </trans-unit>
+        <trans-unit id="TemplateFilters.Text" translate="yes" xml:space="preserve">
+          <source>Filters:</source>
+          <target state="new">Filters:</target>
+        </trans-unit>
+        <trans-unit id="TemplatePath.Help" translate="yes" xml:space="preserve">
+          <source>The folder that the template manager starts with when loading the dialog</source>
+          <target state="new">The folder that the template manager starts with when loading the dialog</target>
+        </trans-unit>
+        <trans-unit id="TemplatePath.Text" translate="yes" xml:space="preserve">
+          <source>Path:</source>
+          <target state="new">Path:</target>
+        </trans-unit>
+        <trans-unit id="Toolbar Settings.Title" translate="yes" xml:space="preserve">
+          <source>Toolbar Settings</source>
+          <target state="new">Toolbar Settings</target>
+        </trans-unit>
+        <trans-unit id="ToolbarConfigTab.Text" translate="yes" xml:space="preserve">
+          <source>Toolbar Configuration</source>
+          <target state="new">Toolbar Configuration</target>
+        </trans-unit>
+        <trans-unit id="ToolbarMode.Help" translate="yes" xml:space="preserve">
+          <source>RadEditor for ASP.NET AJAX introduces a property named ToolbarMode, which specifies the behavior of the toolbar. Here are the different options for setting the ToolbarMode:<bpt id="1">&lt;ul&gt;</bpt><bpt id="2">&lt;li&gt;</bpt>Default - the toolbar is static and positioned over the content area
+<ept id="2">&lt;/li&gt;</ept><bpt id="3">&lt;li&gt;</bpt>PageTop - in this mode, when a particular editor gets the focus its toolbar will appear docked at the top of the page
+<ept id="3">&lt;/li&gt;</ept><bpt id="4">&lt;li&gt;</bpt>ShowOnFocus - here the toolbar will appear right above the editor when it gets focus.
+<ept id="4">&lt;/li&gt;</ept><bpt id="5">&lt;li&gt;</bpt>Floating - the toolbar will pop up in a window and will allow the user to move it over the page
+<ept id="5">&lt;/li&gt;</ept><ept id="1">&lt;/ul&gt;</ept></source>
+          <target state="new">RadEditor for ASP.NET AJAX introduces a property named ToolbarMode, which specifies the behavior of the toolbar. Here are the different options for setting the ToolbarMode:<bpt id="1">&lt;ul&gt;</bpt><bpt id="2">&lt;li&gt;</bpt>Default - the toolbar is static and positioned over the content area
+<ept id="2">&lt;/li&gt;</ept><bpt id="3">&lt;li&gt;</bpt>PageTop - in this mode, when a particular editor gets the focus its toolbar will appear docked at the top of the page
+<ept id="3">&lt;/li&gt;</ept><bpt id="4">&lt;li&gt;</bpt>ShowOnFocus - here the toolbar will appear right above the editor when it gets focus.
+<ept id="4">&lt;/li&gt;</ept><bpt id="5">&lt;li&gt;</bpt>Floating - the toolbar will pop up in a window and will allow the user to move it over the page
+<ept id="5">&lt;/li&gt;</ept><ept id="1">&lt;/ul&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ToolbarMode.Text" translate="yes" xml:space="preserve">
+          <source>Mode:</source>
+          <target state="new">Mode:</target>
+        </trans-unit>
+        <trans-unit id="ToolsWidth.Help" translate="yes" xml:space="preserve">
+          <source>Sets the width of the editor's toolbar, this should only be used when Toolbar mode is set to anything else than Default!</source>
+          <target state="new">Sets the width of the editor's toolbar, this should only be used when Toolbar mode is set to anything else than Default!</target>
+        </trans-unit>
+        <trans-unit id="ToolsWidth.Text" translate="yes" xml:space="preserve">
+          <source>Width:</source>
+          <target state="new">Width:</target>
+        </trans-unit>
+        <trans-unit id="UserFolder.Text" translate="yes" xml:space="preserve">
+          <source>[UserFolder]</source>
+          <target state="new">[UserFolder]</target>
+        </trans-unit>
+        <trans-unit id="Width.Help" translate="yes" xml:space="preserve">
+          <source>The overall width of the editor control. </source>
+          <target state="new">The overall width of the editor control. </target>
+        </trans-unit>
+        <trans-unit id="Width.Text" translate="yes" xml:space="preserve">
+          <source>Width:</source>
+          <target state="new">Width:</target>
+        </trans-unit>
+        <trans-unit id="CannotManageHTMLEditorProviders.Text" translate="yes" xml:space="preserve">
+          <source>You cannot manage HTML Editor providers</source>
+          <target state="new">You cannot manage HTML Editor providers</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

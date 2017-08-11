@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="PersonaBar.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="nav_Analytics.Text" translate="yes" xml:space="preserve">
+          <source>Analytics</source>
+          <target state="new">Analytics</target>
+        </trans-unit>
+        <trans-unit id="nav_Dashboard.Text" translate="yes" xml:space="preserve">
+          <source>Dashboard</source>
+          <target state="new">Dashboard</target>
+        </trans-unit>
+        <trans-unit id="nav_Logout.Text" translate="yes" xml:space="preserve">
+          <source>Logout</source>
+          <target state="new">Logout</target>
+        </trans-unit>
+        <trans-unit id="nav_Settings.Text" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="new">Settings</target>
+        </trans-unit>
+        <trans-unit id="nav_Tasks.Text" translate="yes" xml:space="preserve">
+          <source>Tasks</source>
+          <target state="new">Tasks</target>
+        </trans-unit>
+        <trans-unit id="nav_Edit.Text" translate="yes" xml:space="preserve">
+          <source>Edit</source>
+          <target state="new">Edit</target>
+        </trans-unit>
+        <trans-unit id="nav_Manage.Text" translate="yes" xml:space="preserve">
+          <source>Manage</source>
+          <target state="new">Manage</target>
+        </trans-unit>
+        <trans-unit id="nav_Content.Text" translate="yes" xml:space="preserve">
+          <source>Content</source>
+          <target state="new">Content</target>
+        </trans-unit>
+        <trans-unit id="nav_Tools.Text" translate="yes" xml:space="preserve">
+          <source>Tools</source>
+          <target state="new">Tools</target>
+        </trans-unit>
+        <trans-unit id="nav_Accounts.Text" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="nav_DocCenter.Text" translate="yes" xml:space="preserve">
+          <source>Doc Center</source>
+          <target state="new">Doc Center</target>
+        </trans-unit>
+        <trans-unit id="nav_Help.Text" translate="yes" xml:space="preserve">
+          <source>Help</source>
+          <target state="new">Help</target>
+        </trans-unit>
+        <trans-unit id="nav_Site.Text" translate="yes" xml:space="preserve">
+          <source>View Site</source>
+          <target state="new">View Site</target>
+        </trans-unit>
+        <trans-unit id="err_BetweenMinMax.Text" translate="yes" xml:space="preserve">
+          <source>Value can only be between Min Value and Max Value</source>
+          <target state="new">Value can only be between Min Value and Max Value</target>
+        </trans-unit>
+        <trans-unit id="err_Email.Text" translate="yes" xml:space="preserve">
+          <source>Only valid email is allowed</source>
+          <target state="new">Only valid email is allowed</target>
+        </trans-unit>
+        <trans-unit id="err_Minimum.Text" translate="yes" xml:space="preserve">
+          <source>Text must be at least {0} chars</source>
+          <target state="new">Text must be at least {0} chars</target>
+        </trans-unit>
+        <trans-unit id="err_MinLessThanMax.Text" translate="yes" xml:space="preserve">
+          <source>The Min Value shall be less than Max Value</source>
+          <target state="new">The Min Value shall be less than Max Value</target>
+        </trans-unit>
+        <trans-unit id="err_NoLargerThanExp.Text" translate="yes" xml:space="preserve">
+          <source>Reputation points cannot be larger than experience points</source>
+          <target state="new">Reputation points cannot be larger than experience points</target>
+        </trans-unit>
+        <trans-unit id="err_NonDecimalNumber.Text" translate="yes" xml:space="preserve">
+          <source>Decimal numbers are not allowed</source>
+          <target state="new">Decimal numbers are not allowed</target>
+        </trans-unit>
+        <trans-unit id="err_NonNegativeNumber.Text" translate="yes" xml:space="preserve">
+          <source>Negative numbers are not allowed</source>
+          <target state="new">Negative numbers are not allowed</target>
+        </trans-unit>
+        <trans-unit id="err_NoUserFolder.Text" translate="yes" xml:space="preserve">
+          <source>{0} does not own any assets.</source>
+          <target state="new">{0} does not own any assets.</target>
+        </trans-unit>
+        <trans-unit id="err_Number.Text" translate="yes" xml:space="preserve">
+          <source>Only numbers are allowed</source>
+          <target state="new">Only numbers are allowed</target>
+        </trans-unit>
+        <trans-unit id="err_OneActionNeeded.Text" translate="yes" xml:space="preserve">
+          <source>At least one action is needed</source>
+          <target state="new">At least one action is needed</target>
+        </trans-unit>
+        <trans-unit id="err_PositiveNumber.Text" translate="yes" xml:space="preserve">
+          <source>Only positive numbers are allowed</source>
+          <target state="new">Only positive numbers are allowed</target>
+        </trans-unit>
+        <trans-unit id="err_Required.Text" translate="yes" xml:space="preserve">
+          <source>Text is required</source>
+          <target state="new">Text is required</target>
+        </trans-unit>
+        <trans-unit id="err_RoleAssignedToUser.Text" translate="yes" xml:space="preserve">
+          <source>This role is already assigned to this user.</source>
+          <target state="new">This role is already assigned to this user.</target>
+        </trans-unit>
+        <trans-unit id="nav_Home.Text" translate="yes" xml:space="preserve">
+          <source>Home</source>
+          <target state="new">Home</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Actions.Text" translate="yes" xml:space="preserve">
+          <source>Actions</source>
+          <target state="new">Actions</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Add Content.Text" translate="yes" xml:space="preserve">
+          <source>Add Content</source>
+          <target state="new">Add Content</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Add User.Text" translate="yes" xml:space="preserve">
+          <source>Add User</source>
+          <target state="new">Add User</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Add.Text" translate="yes" xml:space="preserve">
+          <source>Add</source>
+          <target state="new">Add</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.AllRoles.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;All Roles&gt;</it></source>
+          <target state="new"><it id="1" pos="open">&lt;All Roles&gt;</it></target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Copy.Text" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <target state="new">Copy</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Delete.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Display Name.Text" translate="yes" xml:space="preserve">
+          <source>Display Name:</source>
+          <target state="new">Display Name:</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Edit Content.Text" translate="yes" xml:space="preserve">
+          <source>Edit Content</source>
+          <target state="new">Edit Content</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Edit Tab.Text" translate="yes" xml:space="preserve">
+          <source>Full Control</source>
+          <target state="new">Full Control</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Edit.Text" translate="yes" xml:space="preserve">
+          <source>Full Control</source>
+          <target state="new">Full Control</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Export.Text" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <target state="new">Export</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Filter By Group.Text" translate="yes" xml:space="preserve">
+          <source>Filter By Group</source>
+          <target state="new">Filter By Group</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.GlobalRoles.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;Global Roles&gt;</it></source>
+          <target state="new"><it id="1" pos="open">&lt;Global Roles&gt;</it></target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Import.Text" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <target state="new">Import</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Manage Settings.Text" translate="yes" xml:space="preserve">
+          <source>Manage Settings</source>
+          <target state="new">Manage Settings</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Navigate.Text" translate="yes" xml:space="preserve">
+          <source>Navigate</source>
+          <target state="new">Navigate</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Select Role.Text" translate="yes" xml:space="preserve">
+          <source>Select Role</source>
+          <target state="new">Select Role</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Type-roles.Text" translate="yes" xml:space="preserve">
+          <source>Roles</source>
+          <target state="new">Roles</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.Type-users.Text" translate="yes" xml:space="preserve">
+          <source>Users</source>
+          <target state="new">Users</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.View Tab.Text" translate="yes" xml:space="preserve">
+          <source>View</source>
+          <target state="new">View</target>
+        </trans-unit>
+        <trans-unit id="permissiongrid.View.Text" translate="yes" xml:space="preserve">
+          <source>View</source>
+          <target state="new">View</target>
+        </trans-unit>
+        <trans-unit id="nav_SiteAssets.Text" translate="yes" xml:space="preserve">
+          <source>Site Assets</source>
+          <target state="new">Site Assets</target>
+        </trans-unit>
+        <trans-unit id="nav_GlobalAssets.Text" translate="yes" xml:space="preserve">
+          <source>Global Assets</source>
+          <target state="new">Global Assets</target>
+        </trans-unit>
+        <trans-unit id="title_Tasks.Text" translate="yes" xml:space="preserve">
+          <source>Tasks</source>
+          <target state="new">Tasks</target>
+        </trans-unit>
+        <trans-unit id="txt_ViewIndex.Text" translate="yes" xml:space="preserve">
+          <source>Viewing {0} of {1}</source>
+          <target state="new">Viewing {0} of {1}</target>
+        </trans-unit>
+        <trans-unit id="btn_LoadMore.Text" translate="yes" xml:space="preserve">
+          <source>Load More</source>
+          <target state="new">Load More</target>
+        </trans-unit>
+        <trans-unit id="Documentation.Text" translate="yes" xml:space="preserve">
+          <source>Documentation</source>
+          <target state="new">Documentation</target>
+        </trans-unit>
+        <trans-unit id="Framework.Text" translate="yes" xml:space="preserve">
+          <source>.Net Framework</source>
+          <target state="new">.Net Framework</target>
+        </trans-unit>
+        <trans-unit id="LicenseKey.Text" translate="yes" xml:space="preserve">
+          <source>License Key</source>
+          <target state="new">License Key</target>
+        </trans-unit>
+        <trans-unit id="ServerName.Text" translate="yes" xml:space="preserve">
+          <source>Server Name</source>
+          <target state="new">Server Name</target>
+        </trans-unit>
+        <trans-unit id="UpgradeLicense.Text" translate="yes" xml:space="preserve">
+          <source>[ Upgrade to Evoq ]</source>
+          <target state="new">[ Upgrade to Evoq ]</target>
+        </trans-unit>
+        <trans-unit id="btn_CloseDialog.Text" translate="yes" xml:space="preserve">
+          <source>OK</source>
+          <target state="new">OK</target>
+        </trans-unit>
+        <trans-unit id="CriticalUpdate.Text" translate="yes" xml:space="preserve">
+          <source>[ Critical Update ]</source>
+          <target state="new">[ Critical Update ]</target>
+        </trans-unit>
+        <trans-unit id="NormalUpdate.Text" translate="yes" xml:space="preserve">
+          <source>[ New Update ]</source>
+          <target state="new">[ New Update ]</target>
+        </trans-unit>
+        <trans-unit id="LockEditMode.Help" translate="yes" xml:space="preserve">
+          <source>When locked, the icon will appear blue, and you will remain in Edit Mode even when navigating to other pages.</source>
+          <target state="new">When locked, the icon will appear blue, and you will remain in Edit Mode even when navigating to other pages.</target>
+        </trans-unit>
+        <trans-unit id="LockEditMode.Text" translate="yes" xml:space="preserve">
+          <source>Click to lock Edit Mode.</source>
+          <target state="new">Click to lock Edit Mode.</target>
+        </trans-unit>
+        <trans-unit id="UnlockEditMode.Help" translate="yes" xml:space="preserve">
+          <source>When unlocked, you will exit Edit Mode whenever you navigate to other page or complete your changes.</source>
+          <target state="new">When unlocked, you will exit Edit Mode whenever you navigate to other page or complete your changes.</target>
+        </trans-unit>
+        <trans-unit id="UnlockEditMode.Text" translate="yes" xml:space="preserve">
+          <source>Click to unlock Edit Mode.</source>
+          <target state="new">Click to unlock Edit Mode.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

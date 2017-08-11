@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="SharedResources.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="CreateFolderToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>Create New Folder</source>
+          <target state="new">Create New Folder</target>
+        </trans-unit>
+        <trans-unit id="CreateFolderToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Create New Folder</source>
+          <target state="new">Create New Folder</target>
+        </trans-unit>
+        <trans-unit id="DownloadToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>Download</source>
+          <target state="new">Download</target>
+        </trans-unit>
+        <trans-unit id="DownloadToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Download</source>
+          <target state="new">Download</target>
+        </trans-unit>
+        <trans-unit id="DeleteToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="DeleteToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="FolderAlreadyExists.Error" translate="yes" xml:space="preserve">
+          <source>Cannot create folder ({0}), folder already exists in this location.</source>
+          <target state="new">Cannot create folder ({0}), folder already exists in this location.</target>
+        </trans-unit>
+        <trans-unit id="FolderFileNameHasInvalidcharacters.Error" translate="yes" xml:space="preserve">
+          <source>The name contains invalid character(s).  Please specify a name without {0}.</source>
+          <target state="new">The name contains invalid character(s).  Please specify a name without {0}.</target>
+        </trans-unit>
+        <trans-unit id="RefreshFolderToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>Refresh</source>
+          <target state="new">Refresh</target>
+        </trans-unit>
+        <trans-unit id="RefreshFolderToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Refresh Folder</source>
+          <target state="new">Refresh Folder</target>
+        </trans-unit>
+        <trans-unit id="RootFolder.Text" translate="yes" xml:space="preserve">
+          <source>Root</source>
+          <target state="new">Root</target>
+        </trans-unit>
+        <trans-unit id="UploadFilesToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>Upload Files</source>
+          <target state="new">Upload Files</target>
+        </trans-unit>
+        <trans-unit id="UploadFilesToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Upload Files</source>
+          <target state="new">Upload Files</target>
+        </trans-unit>
+        <trans-unit id="UserHasNoPermissionToDeleteFiles.Error" translate="yes" xml:space="preserve">
+          <source>The user does not have permission to delete files on this folder.</source>
+          <target state="new">The user does not have permission to delete files on this folder.</target>
+        </trans-unit>
+        <trans-unit id="UserHasNoPermissionToDeleteFolder.Error" translate="yes" xml:space="preserve">
+          <source>The user does not have permission to delete this folder.</source>
+          <target state="new">The user does not have permission to delete this folder.</target>
+        </trans-unit>
+        <trans-unit id="UserHasNoPermissionToDownload.Error" translate="yes" xml:space="preserve">
+          <source>The user does not have permission to download this file.</source>
+          <target state="new">The user does not have permission to download this file.</target>
+        </trans-unit>
+        <trans-unit id="RenameToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>Rename</source>
+          <target state="new">Rename</target>
+        </trans-unit>
+        <trans-unit id="RenameToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Rename</source>
+          <target state="new">Rename</target>
+        </trans-unit>
+        <trans-unit id="CopyToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <target state="new">Copy</target>
+        </trans-unit>
+        <trans-unit id="CopyToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <target state="new">Copy</target>
+        </trans-unit>
+        <trans-unit id="FileAlreadyExists.Error" translate="yes" xml:space="preserve">
+          <source>The file already exists on the destination.</source>
+          <target state="new">The file already exists on the destination.</target>
+        </trans-unit>
+        <trans-unit id="MoveToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>Move</source>
+          <target state="new">Move</target>
+        </trans-unit>
+        <trans-unit id="MoveToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Move</source>
+          <target state="new">Move</target>
+        </trans-unit>
+        <trans-unit id="ToggleLeftPaneToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>Toogle</source>
+          <target state="new">Toogle</target>
+        </trans-unit>
+        <trans-unit id="ToggleLeftPaneToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Toggle</source>
+          <target state="new">Toggle</target>
+        </trans-unit>
+        <trans-unit id="DestinationFolderCannotMatchSourceFolder.Error" translate="yes" xml:space="preserve">
+          <source>Destination folder cannot match the source folder.</source>
+          <target state="new">Destination folder cannot match the source folder.</target>
+        </trans-unit>
+        <trans-unit id="UserHasNoPermissionToCopyFolder.Error" translate="yes" xml:space="preserve">
+          <source>The user does not have permission to copy from this folder</source>
+          <target state="new">The user does not have permission to copy from this folder</target>
+        </trans-unit>
+        <trans-unit id="UserHasNoPermissionToMoveFolder.Error" translate="yes" xml:space="preserve">
+          <source>The user does not have permission to move from this folder.</source>
+          <target state="new">The user does not have permission to move from this folder.</target>
+        </trans-unit>
+        <trans-unit id="GetUrlToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>Get URL</source>
+          <target state="new">Get URL</target>
+        </trans-unit>
+        <trans-unit id="GetUrlToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Get URL</source>
+          <target state="new">Get URL</target>
+        </trans-unit>
+        <trans-unit id="ViewPropertiesToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>View Folder Properties</source>
+          <target state="new">View Folder Properties</target>
+        </trans-unit>
+        <trans-unit id="ViewPropertiesToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>View Folder Properties</source>
+          <target state="new">View Folder Properties</target>
+        </trans-unit>
+        <trans-unit id="GridViewToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>List View</source>
+          <target state="new">List View</target>
+        </trans-unit>
+        <trans-unit id="GridViewToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>List</source>
+          <target state="new">List</target>
+        </trans-unit>
+        <trans-unit id="ListViewToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>Icons View</source>
+          <target state="new">Icons View</target>
+        </trans-unit>
+        <trans-unit id="ListViewToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Icons</source>
+          <target state="new">Icons</target>
+        </trans-unit>
+        <trans-unit id="ViewPropertiesSelectionToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>View Properties</source>
+          <target state="new">View Properties</target>
+        </trans-unit>
+        <trans-unit id="ViewPropertiesSelectionToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>View Properties</source>
+          <target state="new">View Properties</target>
+        </trans-unit>
+        <trans-unit id="FieldType.DisplayName" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="FieldSize.DisplayName" translate="yes" xml:space="preserve">
+          <source>Size</source>
+          <target state="new">Size</target>
+        </trans-unit>
+        <trans-unit id="FieldTotalFiles.DisplayName" translate="yes" xml:space="preserve">
+          <source>Total Files</source>
+          <target state="new">Total Files</target>
+        </trans-unit>
+        <trans-unit id="PreviewPanelTitle.Text" translate="yes" xml:space="preserve">
+          <source>Preview</source>
+          <target state="new">Preview</target>
+        </trans-unit>
+        <trans-unit id="FolderNameRequired.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Folder Name is required.</source>
+          <target state="new">Folder Name is required.</target>
+        </trans-unit>
+        <trans-unit id="ZoomImage.AltText" translate="yes" xml:space="preserve">
+          <source>Open the file in a new tab</source>
+          <target state="new">Open the file in a new tab</target>
+        </trans-unit>
+        <trans-unit id="UserHasNoPermissionToReadFile.Error" translate="yes" xml:space="preserve">
+          <source>The user does not have permission to read this file.</source>
+          <target state="new">The user does not have permission to read this file.</target>
+        </trans-unit>
+        <trans-unit id="UserHasNoPermissionToReadFolder.Error" translate="yes" xml:space="preserve">
+          <source>The user does not have permission to read this folder.</source>
+          <target state="new">The user does not have permission to read this folder.</target>
+        </trans-unit>
+        <trans-unit id="FieldCreated.DisplayName" translate="yes" xml:space="preserve">
+          <source>Created</source>
+          <target state="new">Created</target>
+        </trans-unit>
+        <trans-unit id="FieldCreatedBy.DisplayName" translate="yes" xml:space="preserve">
+          <source>Created By</source>
+          <target state="new">Created By</target>
+        </trans-unit>
+        <trans-unit id="FieldModified.DisplayName" translate="yes" xml:space="preserve">
+          <source>Modified</source>
+          <target state="new">Modified</target>
+        </trans-unit>
+        <trans-unit id="FieldModifiedBy.DisplayName" translate="yes" xml:space="preserve">
+          <source>Modified By</source>
+          <target state="new">Modified By</target>
+        </trans-unit>
+        <trans-unit id="UserHasNoPermissionToBrowseFolder.Error" translate="yes" xml:space="preserve">
+          <source>The user does not have permission to browse this folder.</source>
+          <target state="new">The user does not have permission to browse this folder.</target>
+        </trans-unit>
+        <trans-unit id="RefreshMenuItemExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Refresh</source>
+          <target state="new">Refresh</target>
+        </trans-unit>
+        <trans-unit id="SyncMenuItemExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Sync this folder</source>
+          <target state="new">Sync this folder</target>
+        </trans-unit>
+        <trans-unit id="SyncRecursivelyMenuItemExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Sync this folder &amp; subfolders</source>
+          <target state="new">Sync this folder &amp; subfolders</target>
+        </trans-unit>
+        <trans-unit id="SyncToolBarMenuButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>Sync</source>
+          <target state="new">Sync</target>
+        </trans-unit>
+        <trans-unit id="SyncToolBarMenuButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Sync</source>
+          <target state="new">Sync</target>
+        </trans-unit>
+        <trans-unit id="Published.Text" translate="yes" xml:space="preserve">
+          <source>Published</source>
+          <target state="new">Published</target>
+        </trans-unit>
+        <trans-unit id="Unpublished.Text" translate="yes" xml:space="preserve">
+          <source>Unpublished</source>
+          <target state="new">Unpublished</target>
+        </trans-unit>
+        <trans-unit id="UnzipFileToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>Unzip file</source>
+          <target state="new">Unzip file</target>
+        </trans-unit>
+        <trans-unit id="UnzipFileToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Unzip file</source>
+          <target state="new">Unzip file</target>
+        </trans-unit>
+        <trans-unit id="MappedPathRegExValidator.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>MappedPath cannot be an absolute path.</source>
+          <target state="new">MappedPath cannot be an absolute path.</target>
+        </trans-unit>
+        <trans-unit id="MoveNotAllowedBetweenFolderTypes.Error" translate="yes" xml:space="preserve">
+          <source>Move Folder operation between this two folder types is not allowed.</source>
+          <target state="new">Move Folder operation between this two folder types is not allowed.</target>
+        </trans-unit>
+        <trans-unit id="FolderDoesNotExists.Error" translate="yes" xml:space="preserve">
+          <source>The folder does not exist.</source>
+          <target state="new">The folder does not exist.</target>
+        </trans-unit>
+        <trans-unit id="FileDoesNotExists.Error" translate="yes" xml:space="preserve">
+          <source>The file does not exist.</source>
+          <target state="new">The file does not exist.</target>
+        </trans-unit>
+        <trans-unit id="MyFolder.Text" translate="yes" xml:space="preserve">
+          <source>My Folder</source>
+          <target state="new">My Folder</target>
+        </trans-unit>
+        <trans-unit id="ManageFolderTypesToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>Manage Folder Types</source>
+          <target state="new">Manage Folder Types</target>
+        </trans-unit>
+        <trans-unit id="ManageFolderTypesToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Manage Folder Types</source>
+          <target state="new">Manage Folder Types</target>
+        </trans-unit>
+        <trans-unit id="UnlinkToolBarButtonExtensionPoint.AltText" translate="yes" xml:space="preserve">
+          <source>Unlink</source>
+          <target state="new">Unlink</target>
+        </trans-unit>
+        <trans-unit id="UnlinkToolBarButtonExtensionPoint.Text" translate="yes" xml:space="preserve">
+          <source>Unlink</source>
+          <target state="new">Unlink</target>
+        </trans-unit>
+        <trans-unit id="UserHasNoPermissionToUnlinkFolder.Error" translate="yes" xml:space="preserve">
+          <source>The user does not have permission to unlink this folder.</source>
+          <target state="new">The user does not have permission to unlink this folder.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

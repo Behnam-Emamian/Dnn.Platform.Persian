@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="SqlConsole.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Connection.Text" translate="yes" xml:space="preserve">
+          <source>Connection:</source>
+          <target state="new">Connection:</target>
+        </trans-unit>
+        <trans-unit id="nav_SqlConsole.Text" translate="yes" xml:space="preserve">
+          <source>SQL Console</source>
+          <target state="new">SQL Console</target>
+        </trans-unit>
+        <trans-unit id="Query.Text" translate="yes" xml:space="preserve">
+          <source>Query:</source>
+          <target state="new">Query:</target>
+        </trans-unit>
+        <trans-unit id="RunScript.Text" translate="yes" xml:space="preserve">
+          <source>Run Script</source>
+          <target state="new">Run Script</target>
+        </trans-unit>
+        <trans-unit id="SaveQuery.Text" translate="yes" xml:space="preserve">
+          <source>Save Query</source>
+          <target state="new">Save Query</target>
+        </trans-unit>
+        <trans-unit id="Title.Text" translate="yes" xml:space="preserve">
+          <source>Sql Console</source>
+          <target state="new">Sql Console</target>
+        </trans-unit>
+        <trans-unit id="UploadFile.Text" translate="yes" xml:space="preserve">
+          <source>Upload a File</source>
+          <target state="new">Upload a File</target>
+        </trans-unit>
+        <trans-unit id="AllEntries.Text" translate="yes" xml:space="preserve">
+          <source>All Entries</source>
+          <target state="new">All Entries</target>
+        </trans-unit>
+        <trans-unit id="Export.Text" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <target state="new">Export</target>
+        </trans-unit>
+        <trans-unit id="NewQuery.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;New Query&gt;</it></source>
+          <target state="new"><it id="1" pos="open">&lt;New Query&gt;</it></target>
+        </trans-unit>
+        <trans-unit id="PageInfo.Text" translate="yes" xml:space="preserve">
+          <source>Showing {0}-{1} of {2} items</source>
+          <target state="new">Showing {0}-{1} of {2} items</target>
+        </trans-unit>
+        <trans-unit id="QueryTabTitle.Text" translate="yes" xml:space="preserve">
+          <source>Query {0}</source>
+          <target state="new">Query {0}</target>
+        </trans-unit>
+        <trans-unit id="SaveQueryInfo.Text" translate="yes" xml:space="preserve">
+          <source>Enter a name for this query:</source>
+          <target state="new">Enter a name for this query:</target>
+        </trans-unit>
+        <trans-unit id="Search.Text" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="PageSize.Text" translate="yes" xml:space="preserve">
+          <source>{0} Entries</source>
+          <target state="new">{0} Entries</target>
+        </trans-unit>
+        <trans-unit id="ExportClipboard.Text" translate="yes" xml:space="preserve">
+          <source>Copy to Clipboard</source>
+          <target state="new">Copy to Clipboard</target>
+        </trans-unit>
+        <trans-unit id="ExportClipboardFailed.Text" translate="yes" xml:space="preserve">
+          <source>Copy to Clipboard Failed!</source>
+          <target state="new">Copy to Clipboard Failed!</target>
+        </trans-unit>
+        <trans-unit id="ExportClipboardSuccessful.Text" translate="yes" xml:space="preserve">
+          <source>Copied to Clipboard!</source>
+          <target state="new">Copied to Clipboard!</target>
+        </trans-unit>
+        <trans-unit id="ExportCSV.Text" translate="yes" xml:space="preserve">
+          <source>Export to CSV</source>
+          <target state="new">Export to CSV</target>
+        </trans-unit>
+        <trans-unit id="ExportExcel.Text" translate="yes" xml:space="preserve">
+          <source>Export to Excel</source>
+          <target state="new">Export to Excel</target>
+        </trans-unit>
+        <trans-unit id="ExportPDF.Text" translate="yes" xml:space="preserve">
+          <source>Export to PDF</source>
+          <target state="new">Export to PDF</target>
+        </trans-unit>
+        <trans-unit id="NoData.Text" translate="yes" xml:space="preserve">
+          <source>The query did not return any data.</source>
+          <target state="new">The query did not return any data.</target>
+        </trans-unit>
+        <trans-unit id="QueryFailed.Text" translate="yes" xml:space="preserve">
+          <source>The query failed!</source>
+          <target state="new">The query failed!</target>
+        </trans-unit>
+        <trans-unit id="QuerySuccessful.Text" translate="yes" xml:space="preserve">
+          <source>The query completed successfully!</source>
+          <target state="new">The query completed successfully!</target>
+        </trans-unit>
+        <trans-unit id="EmptyName.Text" translate="yes" xml:space="preserve">
+          <source>Can't save query with empty name.</source>
+          <target state="new">Can't save query with empty name.</target>
+        </trans-unit>
+        <trans-unit id="DeleteConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Please confirm you wish to delete this query.</source>
+          <target state="new">Please confirm you wish to delete this query.</target>
+        </trans-unit>
+        <trans-unit id="Cancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="Delete.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

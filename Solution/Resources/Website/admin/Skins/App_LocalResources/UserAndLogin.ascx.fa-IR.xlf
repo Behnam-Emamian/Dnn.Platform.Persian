@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="UserAndLogin.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Account.Text" translate="yes" xml:space="preserve">
+          <source>Edit Account</source>
+          <target state="new">Edit Account</target>
+        </trans-unit>
+        <trans-unit id="EditProfile.Text" translate="yes" xml:space="preserve">
+          <source>Edit Profile</source>
+          <target state="new">Edit Profile</target>
+        </trans-unit>
+        <trans-unit id="Login.Text" translate="yes" xml:space="preserve">
+          <source>Login</source>
+          <target state="new">Login</target>
+        </trans-unit>
+        <trans-unit id="Logout.Text" translate="yes" xml:space="preserve">
+          <source>Logout</source>
+          <target state="new">Logout</target>
+        </trans-unit>
+        <trans-unit id="MessageCount.Text" translate="yes" xml:space="preserve">
+          <source>{0} Messages</source>
+          <target state="new">{0} Messages</target>
+        </trans-unit>
+        <trans-unit id="Messages.Text" translate="yes" xml:space="preserve">
+          <source> Messages</source>
+          <target state="new"> Messages</target>
+        </trans-unit>
+        <trans-unit id="Notifications.Text" translate="yes" xml:space="preserve">
+          <source> Notifications</source>
+          <target state="new"> Notifications</target>
+        </trans-unit>
+        <trans-unit id="OneMessage.Text" translate="yes" xml:space="preserve">
+          <source>1 Message</source>
+          <target state="new">1 Message</target>
+        </trans-unit>
+        <trans-unit id="Profile.Text" translate="yes" xml:space="preserve">
+          <source>My Profile</source>
+          <target state="new">My Profile</target>
+        </trans-unit>
+        <trans-unit id="ProfilePicture.Text" translate="yes" xml:space="preserve">
+          <source>My Profile Picture</source>
+          <target state="new">My Profile Picture</target>
+        </trans-unit>
+        <trans-unit id="Register.Text" translate="yes" xml:space="preserve">
+          <source>Register</source>
+          <target state="new">Register</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

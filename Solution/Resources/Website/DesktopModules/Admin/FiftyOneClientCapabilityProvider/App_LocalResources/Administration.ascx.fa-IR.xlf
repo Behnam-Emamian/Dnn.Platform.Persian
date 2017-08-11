@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Administration.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Activate.Header" translate="yes" xml:space="preserve">
+          <source>Get Started &amp; Activate Features</source>
+          <target state="new">Get Started &amp; Activate Features</target>
+        </trans-unit>
+        <trans-unit id="ActivateButtonText.Text" translate="yes" xml:space="preserve">
+          <source>Activate</source>
+          <target state="new">Activate</target>
+        </trans-unit>
+        <trans-unit id="ActivatedMessageHtml.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p class="{0}"&gt;</bpt>Premium Data is active. Thank you.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p class="{0}"&gt;</bpt>Premium Data is active. Thank you.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ActivateInstructionsHtml.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;h3&gt;</bpt>Activate All Features<ept id="1">&lt;/h3&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Step 1 - Obtain a 51Degrees on premise license key.<ept id="2">&lt;/p&gt;</ept>&lt;br/&gt;<bpt id="3">&lt;p&gt;</bpt>Step 2 - Paste your license key into the text box below and then select "Activate" to use the license key with this site.<ept id="3">&lt;/p&gt;</ept>&lt;br/&gt;</source>
+          <target state="new"><bpt id="1">&lt;h3&gt;</bpt>Activate All Features<ept id="1">&lt;/h3&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Step 1 - Obtain a 51Degrees on premise license key.<ept id="2">&lt;/p&gt;</ept>&lt;br/&gt;<bpt id="3">&lt;p&gt;</bpt>Step 2 - Paste your license key into the text box below and then select "Activate" to use the license key with this site.<ept id="3">&lt;/p&gt;</ept>&lt;br/&gt;</target>
+        </trans-unit>
+        <trans-unit id="ActivationDataInvalidHtml.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div class="{0}"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>The data source provided does not contain valid data.<ept id="2">&lt;/p&gt;</ept><ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div class="{0}"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>The data source provided does not contain valid data.<ept id="2">&lt;/p&gt;</ept><ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ActivationFailureCouldNotUpdateConfigHtml.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div class="{0}"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>The fiftyOne/detection element of the config file '{1}' could not be inserted.  Please ensure the following text is present between the fiftyOne tags and try activating the license key again.<ept id="2">&lt;/p&gt;</ept>
+&lt;br/&gt;
+<bpt id="3">&lt;span style="margin-left: 0px !important;"&gt;</bpt><bpt id="4">&lt;code style="color: #000000;"&gt;</bpt>&amp;lt;<ept id="4">&lt;/code&gt;</ept><bpt id="5">&lt;code&gt;</bpt><bpt id="6">&lt;span style="color: #006699;"&gt;</bpt><bpt id="7">&lt;strong&gt;</bpt>detection<ept id="7">&lt;/strong&gt;</ept><ept id="3">&lt;/span&gt;</ept><ept id="5">&lt;/code&gt;</ept>&amp;nbsp;<bpt id="8">&lt;code style="color: #808080;"&gt;</bpt>binaryFilePath<ept id="8">&lt;/code&gt;</ept><bpt id="9">&lt;code style="color: #000000;"&gt;</bpt>=<ept id="9">&lt;/code&gt;</ept><bpt id="10">&lt;code style="color: blue;"&gt;</bpt>"~/App_Data/51Degrees-Premium.dat"<ept id="10">&lt;/code&gt;</ept><it id="11" pos="open">&lt;code&gt;</it><it id="12" pos="open">&lt;span style="color: #000000;"&gt;</it>/&amp;gt;<ept id="6">&lt;/span&gt;</ept><ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div class="{0}"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>The fiftyOne/detection element of the config file '{1}' could not be inserted.  Please ensure the following text is present between the fiftyOne tags and try activating the license key again.<ept id="2">&lt;/p&gt;</ept>
+&lt;br/&gt;
+<bpt id="3">&lt;span style="margin-left: 0px !important;"&gt;</bpt><bpt id="4">&lt;code style="color: #000000;"&gt;</bpt>&amp;lt;<ept id="4">&lt;/code&gt;</ept><bpt id="5">&lt;code&gt;</bpt><bpt id="6">&lt;span style="color: #006699;"&gt;</bpt><bpt id="7">&lt;strong&gt;</bpt>detection<ept id="7">&lt;/strong&gt;</ept><ept id="3">&lt;/span&gt;</ept><ept id="5">&lt;/code&gt;</ept>&amp;nbsp;<bpt id="8">&lt;code style="color: #808080;"&gt;</bpt>binaryFilePath<ept id="8">&lt;/code&gt;</ept><bpt id="9">&lt;code style="color: #000000;"&gt;</bpt>=<ept id="9">&lt;/code&gt;</ept><bpt id="10">&lt;code style="color: blue;"&gt;</bpt>"~/App_Data/51Degrees-Premium.dat"<ept id="10">&lt;/code&gt;</ept><it id="11" pos="open">&lt;code&gt;</it><it id="12" pos="open">&lt;span style="color: #000000;"&gt;</it>/&amp;gt;<ept id="6">&lt;/span&gt;</ept><ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ActivationFailureCouldNotWriteDataFileHtml.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div class="{0}"&gt;</bpt>
+<bpt id="2">&lt;p&gt;</bpt>The device data file '{1}' could not be saved.  Check the user '{2}' has write access to the folder, or change the folder location to one with write access.<ept id="2">&lt;/p&gt;</ept>
+<ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div class="{0}"&gt;</bpt>
+<bpt id="2">&lt;p&gt;</bpt>The device data file '{1}' could not be saved.  Check the user '{2}' has write access to the folder, or change the folder location to one with write access.<ept id="2">&lt;/p&gt;</ept>
+<ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ActivationFailureCouldNotWriteLicenceFileHtml.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div class="{0}"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>The license file '{1}' could not be written to this site's bin folder '{2}'. Create a text file with the extension .lic and paste the license key into the file.  Save the text file in the bin folder.<ept id="2">&lt;/p&gt;</ept><ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div class="{0}"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>The license file '{1}' could not be written to this site's bin folder '{2}'. Create a text file with the extension .lic and paste the license key into the file.  Save the text file in the bin folder.<ept id="2">&lt;/p&gt;</ept><ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ActivationFailureGenericHtml.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div class="{0}"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>Whoops. There was a problem activating the license key. We're unsure why the license key provided could not be activated. Please <bpt id="3">&lt;a href="http://51degrees.mobi/AboutUs/ContactUs.aspx"&gt;</bpt>Contact Us<ept id="3">&lt;/a&gt;</ept> providing details of your site implementation and we'll try and help you.<ept id="2">&lt;/p&gt;</ept><ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div class="{0}"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>Whoops. There was a problem activating the license key. We're unsure why the license key provided could not be activated. Please <bpt id="3">&lt;a href="http://51degrees.mobi/AboutUs/ContactUs.aspx"&gt;</bpt>Contact Us<ept id="3">&lt;/a&gt;</ept> providing details of your site implementation and we'll try and help you.<ept id="2">&lt;/p&gt;</ept><ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ActivationFailureHttpHtml.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div class="{0}"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>We were unable to reach the 51Degrees.mobi license validation site at the host '{1}'.  This could be for one of the following reasons.<ept id="2">&lt;/p&gt;</ept>
+<bpt id="3">&lt;ul&gt;</bpt>
+<bpt id="4">&lt;li&gt;</bpt>
+This site is running in medium trust mode and the 
+<bpt id="5">&lt;a href="http://msdn.microsoft.com/en-us/library/system.web.configuration.trustsection.originurl(v=VS.80).aspx"&gt;</bpt>originUrl<ept id="5">&lt;/a&gt;</ept> 
+attribute in the web.config does not allow access to the host '{1}'.  Change the originUrl to include '{1}'.  Multiple host names can 
+be separated by | signs.<ept id="4">&lt;/li&gt;</ept>
+<bpt id="6">&lt;li&gt;</bpt>
+The web servers firewall or another firewall is blocking access to the host or the SSL port 443.  Check the firewall configuration.
+<ept id="6">&lt;/li&gt;</ept>
+<ept id="3">&lt;/ul&gt;</ept>
+<bpt id="7">&lt;p&gt;</bpt>When you've completed these checks try activating the license key again.<ept id="7">&lt;/p&gt;</ept><ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div class="{0}"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>We were unable to reach the 51Degrees.mobi license validation site at the host '{1}'.  This could be for one of the following reasons.<ept id="2">&lt;/p&gt;</ept>
+<bpt id="3">&lt;ul&gt;</bpt>
+<bpt id="4">&lt;li&gt;</bpt>
+This site is running in medium trust mode and the 
+<bpt id="5">&lt;a href="http://msdn.microsoft.com/en-us/library/system.web.configuration.trustsection.originurl(v=VS.80).aspx"&gt;</bpt>originUrl<ept id="5">&lt;/a&gt;</ept> 
+attribute in the web.config does not allow access to the host '{1}'.  Change the originUrl to include '{1}'.  Multiple host names can 
+be separated by | signs.<ept id="4">&lt;/li&gt;</ept>
+<bpt id="6">&lt;li&gt;</bpt>
+The web servers firewall or another firewall is blocking access to the host or the SSL port 443.  Check the firewall configuration.
+<ept id="6">&lt;/li&gt;</ept>
+<ept id="3">&lt;/ul&gt;</ept>
+<bpt id="7">&lt;p&gt;</bpt>When you've completed these checks try activating the license key again.<ept id="7">&lt;/p&gt;</ept><ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ActivationFailureInvalidHtml.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div class="{0}"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>The license key provided failed validation.  Please check the license key is validate with your reseller.<ept id="2">&lt;/p&gt;</ept><ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div class="{0}"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>The license key provided failed validation.  Please check the license key is validate with your reseller.<ept id="2">&lt;/p&gt;</ept><ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ActivationStreamFailureHtml.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div class="{0}"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>The data source provided could not be read from.<ept id="2">&lt;/p&gt;</ept><ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div class="{0}"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>The data source provided could not be read from.<ept id="2">&lt;/p&gt;</ept><ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ActivationSuccessHtml.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div class="{0}"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>Success.  Select the "Refresh" button to reload the web page and start using Premium Device Data.  Note: There may be a short delay while the application restarts.<ept id="2">&lt;/p&gt;</ept><ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div class="{0}"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>Success.  Select the "Refresh" button to reload the web page and start using Premium Device Data.  Note: There may be a short delay while the application restarts.<ept id="2">&lt;/p&gt;</ept><ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="BackToExplorer.Text" translate="yes" xml:space="preserve">
+          <source>Back to Device Explorer</source>
+          <target state="new">Back to Device Explorer</target>
+        </trans-unit>
+        <trans-unit id="BrowserList.Header" translate="yes" xml:space="preserve">
+          <source>Browser</source>
+          <target state="new">Browser</target>
+        </trans-unit>
+        <trans-unit id="ContentList.Header" translate="yes" xml:space="preserve">
+          <source>Content</source>
+          <target state="new">Content</target>
+        </trans-unit>
+        <trans-unit id="DeviceExplorer.Header" translate="yes" xml:space="preserve">
+          <source>Device Explorer</source>
+          <target state="new">Device Explorer</target>
+        </trans-unit>
+        <trans-unit id="GetLatestData.Text" translate="yes" xml:space="preserve">
+          <source>Get Latest Data</source>
+          <target state="new">Get Latest Data</target>
+        </trans-unit>
+        <trans-unit id="HardwareList.Header" translate="yes" xml:space="preserve">
+          <source>Hardware</source>
+          <target state="new">Hardware</target>
+        </trans-unit>
+        <trans-unit id="NoResultsFound.Text" translate="yes" xml:space="preserve">
+          <source>There were no results found matching your search.</source>
+          <target state="new">There were no results found matching your search.</target>
+        </trans-unit>
+        <trans-unit id="PremiumIntro.Text" translate="yes" xml:space="preserve">
+          <source>The {0} data contains thousands of devices, including games consoles, eBook readers, tablets, smart phones and feature phones.  Each device is associated with a wide range of relevant properties, from screen size and input methods to operating system, browser and hardware.</source>
+          <target state="new">The {0} data contains thousands of devices, including games consoles, eBook readers, tablets, smart phones and feature phones.  Each device is associated with a wide range of relevant properties, from screen size and input methods to operating system, browser and hardware.</target>
+        </trans-unit>
+        <trans-unit id="RefreshButtonText.Text" translate="yes" xml:space="preserve">
+          <source>Refresh</source>
+          <target state="new">Refresh</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Used to reload page after upgrade to premium.</note>
+        </trans-unit>
+        <trans-unit id="SearchButton.Text" translate="yes" xml:space="preserve">
+          <source>Find Device</source>
+          <target state="new">Find Device</target>
+        </trans-unit>
+        <trans-unit id="UploadButtonText.Text" translate="yes" xml:space="preserve">
+          <source>Upload</source>
+          <target state="new">Upload</target>
+        </trans-unit>
+        <trans-unit id="UploadData.Text" translate="yes" xml:space="preserve">
+          <source>Upload Data</source>
+          <target state="new">Upload Data</target>
+        </trans-unit>
+        <trans-unit id="ValidationFileErrorText.Text" translate="yes" xml:space="preserve">
+          <source>Use the Browse button to select a Premium data file to upload.</source>
+          <target state="new">Use the Browse button to select a Premium data file to upload.</target>
+        </trans-unit>
+        <trans-unit id="ValidationRequiredErrorText.Text" translate="yes" xml:space="preserve">
+          <source>A license key must be entered.</source>
+          <target state="new">A license key must be entered.</target>
+        </trans-unit>
+        <trans-unit id="ValidationRegExErrorText.Text" translate="yes" xml:space="preserve">
+          <source>The license key must only contain upper case alpha characters or numerics.</source>
+          <target state="new">The license key must only contain upper case alpha characters or numerics.</target>
+        </trans-unit>
+        <trans-unit id="BackButtonDevicesText.Text" translate="yes" xml:space="preserve">
+          <source>Other Vendors</source>
+          <target state="new">Other Vendors</target>
+        </trans-unit>
+        <trans-unit id="DeviceSearchRequired.Text" translate="yes" xml:space="preserve">
+          <source>Required</source>
+          <target state="new">Required</target>
+        </trans-unit>
+        <trans-unit id="BackButtonDeviceText.Text" translate="yes" xml:space="preserve">
+          <source>Other {0} Devices</source>
+          <target state="new">Other {0} Devices</target>
+        </trans-unit>
+        <trans-unit id="PremiumUploadError.Text" translate="yes" xml:space="preserve">
+          <source>There was a problem uploading your data.</source>
+          <target state="new">There was a problem uploading your data.</target>
+        </trans-unit>
+        <trans-unit id="PremiumUploadSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Data has been uploaded successfully.</source>
+          <target state="new">Data has been uploaded successfully.</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_.Text" translate="yes" xml:space="preserve">
+          <source>Device Detection</source>
+          <target state="new">Device Detection</target>
+        </trans-unit>
+        <trans-unit id="SettingsAutoUpdates.Text" translate="yes" xml:space="preserve">
+          <source>Auto Updates Enabled</source>
+          <target state="new">Auto Updates Enabled</target>
+        </trans-unit>
+        <trans-unit id="SettingsEnabled.Text" translate="yes" xml:space="preserve">
+          <source>Device Detection Enabled</source>
+          <target state="new">Device Detection Enabled</target>
+        </trans-unit>
+        <trans-unit id="SettingsAutoUpdates.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to automatically update the device data file.  When enabled the site will check 51Degrees for new versions of the device data file and automatically apply them without recycling the application domain.  Enhanced data is needed to support this option.</source>
+          <target state="new">Check this box to automatically update the device data file.  When enabled the site will check 51Degrees for new versions of the device data file and automatically apply them without recycling the application domain.  Enhanced data is needed to support this option.</target>
+        </trans-unit>
+        <trans-unit id="SettingsEnabled.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to enable device detection.</source>
+          <target state="new">Check this box to enable device detection.</target>
+        </trans-unit>
+        <trans-unit id="SettingsShareUsage.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to share usage data with 51Degrees.</source>
+          <target state="new">Check this box to share usage data with 51Degrees.</target>
+        </trans-unit>
+        <trans-unit id="SettingsShareUsage.Text" translate="yes" xml:space="preserve">
+          <source>Share Usage Enabled</source>
+          <target state="new">Share Usage Enabled</target>
+        </trans-unit>
+        <trans-unit id="Cancel.Action" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="DeviceBrowserUnavailable.Html" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>The device data set being used for device detection does not include sufficient information about web enabled devices to support the device explorer tab.<ept id="1">&lt;/p&gt;</ept>
+<bpt id="2">&lt;p&gt;</bpt>Devices available in the enhanced versions of device detection can be explored on the 51Degrees site.<ept id="2">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>The device data set being used for device detection does not include sufficient information about web enabled devices to support the device explorer tab.<ept id="1">&lt;/p&gt;</ept>
+<bpt id="2">&lt;p&gt;</bpt>Devices available in the enhanced versions of device detection can be explored on the 51Degrees site.<ept id="2">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="DeviceBrowserUnavailableButton.Action" translate="yes" xml:space="preserve">
+          <source>Explore Devices</source>
+          <target state="new">Explore Devices</target>
+        </trans-unit>
+        <trans-unit id="DeviceBrowserUnavailableButton.Url" translate="yes" xml:space="preserve">
+          <source>https://51degrees.com/resources/device-explorer</source>
+          <target state="new">https://51degrees.com/resources/device-explorer</target>
+        </trans-unit>
+        <trans-unit id="Explorer.Header" translate="yes" xml:space="preserve">
+          <source>Explore Devices</source>
+          <target state="new">Explore Devices</target>
+        </trans-unit>
+        <trans-unit id="ManualUpdates.Help" translate="yes" xml:space="preserve">
+          <source>Upload new device data set files manually.</source>
+          <target state="new">Upload new device data set files manually.</target>
+        </trans-unit>
+        <trans-unit id="NewDevices.Header" translate="yes" xml:space="preserve">
+          <source>Top 5 New Devices</source>
+          <target state="new">Top 5 New Devices</target>
+        </trans-unit>
+        <trans-unit id="Properties.Header" translate="yes" xml:space="preserve">
+          <source>Available Properties</source>
+          <target state="new">Available Properties</target>
+        </trans-unit>
+        <trans-unit id="Refresh.Action" translate="yes" xml:space="preserve">
+          <source>Refresh</source>
+          <target state="new">Refresh</target>
+        </trans-unit>
+        <trans-unit id="Settings.Header" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="new">Settings</target>
+        </trans-unit>
+        <trans-unit id="SettingsConfiguration.Header" translate="yes" xml:space="preserve">
+          <source>Configuration</source>
+          <target state="new">Configuration</target>
+        </trans-unit>
+        <trans-unit id="SettingsDataSetDeviceCombinations.Help" translate="yes" xml:space="preserve">
+          <source>The number of combinations of device, operating system and web browsers this site can detect.</source>
+          <target state="new">The number of combinations of device, operating system and web browsers this site can detect.</target>
+        </trans-unit>
+        <trans-unit id="SettingsDataSetDeviceCombinations.Text" translate="yes" xml:space="preserve">
+          <source>Combinations</source>
+          <target state="new">Combinations</target>
+        </trans-unit>
+        <trans-unit id="SettingsDataSetHardwareProfiles.Help" translate="yes" xml:space="preserve">
+          <source>The number of different web enabled device models this site can currently detect.</source>
+          <target state="new">The number of different web enabled device models this site can currently detect.</target>
+        </trans-unit>
+        <trans-unit id="SettingsDataSetHardwareProfiles.Text" translate="yes" xml:space="preserve">
+          <source>Devices</source>
+          <target state="new">Devices</target>
+        </trans-unit>
+        <trans-unit id="SettingsDataSetName.Help" translate="yes" xml:space="preserve">
+          <source>Either Lite, Premium or Enterprise depending on the active 51Degrees data set.  Lite is provided with DNN Platform and Premium data comes with DNN Evoq. DNN Platform can be upgraded with a licence key.</source>
+          <target state="new">Either Lite, Premium or Enterprise depending on the active 51Degrees data set.  Lite is provided with DNN Platform and Premium data comes with DNN Evoq. DNN Platform can be upgraded with a licence key.</target>
+        </trans-unit>
+        <trans-unit id="SettingsDataSetName.Text" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="SettingsDataSetNextUpdate.Help" translate="yes" xml:space="preserve">
+          <source>When the next data set is expected to be available from 51Degrees.</source>
+          <target state="new">When the next data set is expected to be available from 51Degrees.</target>
+        </trans-unit>
+        <trans-unit id="SettingsDataSetNextUpdate.Text" translate="yes" xml:space="preserve">
+          <source>Next Update</source>
+          <target state="new">Next Update</target>
+        </trans-unit>
+        <trans-unit id="SettingsDataSetPropertyCount.Help" translate="yes" xml:space="preserve">
+          <source>The number of properties available in the active data set.</source>
+          <target state="new">The number of properties available in the active data set.</target>
+        </trans-unit>
+        <trans-unit id="SettingsDataSetPropertyCount.Text" translate="yes" xml:space="preserve">
+          <source>Property Count</source>
+          <target state="new">Property Count</target>
+        </trans-unit>
+        <trans-unit id="SettingsDataSetPublished.Help" translate="yes" xml:space="preserve">
+          <source>Date the active data set was published by 51Degrees.</source>
+          <target state="new">Date the active data set was published by 51Degrees.</target>
+        </trans-unit>
+        <trans-unit id="SettingsDataSetPublished.Text" translate="yes" xml:space="preserve">
+          <source>Published</source>
+          <target state="new">Published</target>
+        </trans-unit>
+        <trans-unit id="SettingsDataSetVersion.Help" translate="yes" xml:space="preserve">
+          <source>The version format of the device data file.</source>
+          <target state="new">The version format of the device data file.</target>
+        </trans-unit>
+        <trans-unit id="SettingsDataSetVersion.Text" translate="yes" xml:space="preserve">
+          <source>Data Format</source>
+          <target state="new">Data Format</target>
+        </trans-unit>
+        <trans-unit id="SettingsManualUpload.Header" translate="yes" xml:space="preserve">
+          <source>Upload Device Data</source>
+          <target state="new">Upload Device Data</target>
+        </trans-unit>
+        <trans-unit id="SettingsRefresh.Help" translate="yes" xml:space="preserve">
+          <source>When device detection is used with Evoq or enhanced 51Degrees device data this option checks for a new version of device data at 51Degrees.</source>
+          <target state="new">When device detection is used with Evoq or enhanced 51Degrees device data this option checks for a new version of device data at 51Degrees.</target>
+        </trans-unit>
+        <trans-unit id="SettingsRefresh.Text" translate="yes" xml:space="preserve">
+          <source>Refresh</source>
+          <target state="new">Refresh</target>
+        </trans-unit>
+        <trans-unit id="SettingsStats.Header" translate="yes" xml:space="preserve">
+          <source>Device Data Information</source>
+          <target state="new">Device Data Information</target>
+        </trans-unit>
+        <trans-unit id="SettingsUpload.Help" translate="yes" xml:space="preserve">
+          <source>Upload a 51Degrees data file for use with device detection.  New data files can be obtained directly from 51Degrees.</source>
+          <target state="new">Upload a 51Degrees data file for use with device detection.  New data files can be obtained directly from 51Degrees.</target>
+        </trans-unit>
+        <trans-unit id="SettingsUpload.Text" translate="yes" xml:space="preserve">
+          <source>Manual Upload</source>
+          <target state="new">Manual Upload</target>
+        </trans-unit>
+        <trans-unit id="Unavailable.Text" translate="yes" xml:space="preserve">
+          <source>Unavailable</source>
+          <target state="new">Unavailable</target>
+        </trans-unit>
+        <trans-unit id="Update.Action" translate="yes" xml:space="preserve">
+          <source>Update</source>
+          <target state="new">Update</target>
+        </trans-unit>
+        <trans-unit id="GetStarted.Header" translate="yes" xml:space="preserve">
+          <source>Get Started</source>
+          <target state="new">Get Started</target>
+        </trans-unit>
+        <trans-unit id="GetStartedIntro.Html" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Client side responsive web design (RWD) involves sending all content to the browser and letting the browser resize and adjust for the device.  The 51Degrees Client Capability Provider enables the option to control content server side including sending different images, navigation and content to different device types.  This reduces page weight to mobile improving performance, presents an optimised user interface, ultimately enhancing the user's experience.<ept id="1">&lt;/p&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Over 85% of blue chip companies use device detection, including eCommerce, Media, AdTech, Finance and Travel sectors. Read more for case studies and ideas.<ept id="2">&lt;/p&gt;</ept><bpt id="3">&lt;a href="https://51degrees.com/dnn" title="Find out more about device detection with DNN" class="dnnPrimaryAction" target="_blank"&gt;</bpt>Read More<ept id="3">&lt;/a&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Client side responsive web design (RWD) involves sending all content to the browser and letting the browser resize and adjust for the device.  The 51Degrees Client Capability Provider enables the option to control content server side including sending different images, navigation and content to different device types.  This reduces page weight to mobile improving performance, presents an optimised user interface, ultimately enhancing the user's experience.<ept id="1">&lt;/p&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Over 85% of blue chip companies use device detection, including eCommerce, Media, AdTech, Finance and Travel sectors. Read more for case studies and ideas.<ept id="2">&lt;/p&gt;</ept><bpt id="3">&lt;a href="https://51degrees.com/dnn" title="Find out more about device detection with DNN" class="dnnPrimaryAction" target="_blank"&gt;</bpt>Read More<ept id="3">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="SettingsChangeError.Text" translate="yes" xml:space="preserve">
+          <source>The device detection settings could not be changed.  Check the 51Degrees.mobi.config file for modify permissions and recycle the application domain.</source>
+          <target state="new">The device detection settings could not be changed.  Check the 51Degrees.mobi.config file for modify permissions and recycle the application domain.</target>
+        </trans-unit>
+        <trans-unit id="SettingsChangeSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Device detection settings have been updated.  Recycle the application domain for the changes to take effect.</source>
+          <target state="new">Device detection settings have been updated.  Recycle the application domain for the changes to take effect.</target>
+        </trans-unit>
+        <trans-unit id="SettingsImageOptimiser.Help" translate="yes" xml:space="preserve">
+          <source>When image optimizer AND device detection are enabled DNN will not send images to devices that are too large for their screens to display.  Query string parameters can be added to image URLs to automatically size images to improve performance.</source>
+          <target state="new">When image optimizer AND device detection are enabled DNN will not send images to devices that are too large for their screens to display.  Query string parameters can be added to image URLs to automatically size images to improve performance.</target>
+        </trans-unit>
+        <trans-unit id="SettingsImageOptimiser.Text" translate="yes" xml:space="preserve">
+          <source>Device Image Optimization Enabled?</source>
+          <target state="new">Device Image Optimization Enabled?</target>
+        </trans-unit>
+        <trans-unit id="SettingsFactory.Help" translate="yes" xml:space="preserve">
+          <source>The type of data management method in use.  Stream uses less memory but is slower.  Memory is faster but uses more memory.</source>
+          <target state="new">The type of data management method in use.  Stream uses less memory but is slower.  Memory is faster but uses more memory.</target>
+        </trans-unit>
+        <trans-unit id="SettingsFactory.Text" translate="yes" xml:space="preserve">
+          <source>Mode</source>
+          <target state="new">Mode</target>
+        </trans-unit>
+        <trans-unit id="SettingsFileMode.Help" translate="yes" xml:space="preserve">
+          <source>The bulk of the device data is retained on the file system.  Small portions are loaded into memory when needed.  Reduces memory consumption.  When disabled memory mode is used where the device data file is loaded into memory.  File mode uses the least amount of memory.</source>
+          <target state="new">The bulk of the device data is retained on the file system.  Small portions are loaded into memory when needed.  Reduces memory consumption.  When disabled memory mode is used where the device data file is loaded into memory.  File mode uses the least amount of memory.</target>
+        </trans-unit>
+        <trans-unit id="SettingsFileMode.Text" translate="yes" xml:space="preserve">
+          <source>File Mode Enabled?</source>
+          <target state="new">File Mode Enabled?</target>
+        </trans-unit>
+        <trans-unit id="GetStartedButton.Text" translate="yes" xml:space="preserve">
+          <source>Enable Features</source>
+          <target state="new">Enable Features</target>
+        </trans-unit>
+        <trans-unit id="GetStartedDetail.Html" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;h3&gt;</bpt>Image Optimisation<ept id="1">&lt;/h3&gt;</ept>
+<bpt id="2">&lt;p&gt;</bpt>Ensure precisely sized images are sent to web pages by adding querystring parameters to image URLs to return precisely sized images for the screen. For example; <bpt id="3">&lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;</bpt>&amp;lt;img src="Empty.gif" data-src="/image.png?w=auto"/&amp;gt;<ept id="3">&lt;/span&gt;</ept> or <bpt id="4">&lt;a style="font-family: 'Courier New', Courier, monospace; font-weight: bold;" href="/DesktopModules/Admin/FiftyOneClientCapabilityProvider/Images/Optimization.png?w=300" target="_blank"&gt;</bpt>/DesktopModules/Admin/FiftyOneClientCapabilityProvider/Images/Optimization.png?w=300<ept id="4">&lt;/a&gt;</ept><ept id="2">&lt;/p&gt;</ept>
+<bpt id="5">&lt;p&gt;</bpt>Images larger than the device screen will automatically be shrunk before sending.<ept id="5">&lt;/p&gt;</ept>
+<bpt id="6">&lt;h3&gt;</bpt>Device Detection<ept id="6">&lt;/h3&gt;</ept>
+<bpt id="7">&lt;h4&gt;</bpt>For Web Administrators<ept id="7">&lt;/h4&gt;</ept>
+<bpt id="8">&lt;ul&gt;</bpt>
+<bpt id="9">&lt;li&gt;</bpt>Retain desktop optimized content such as Flash or big screen videos on the same page as smartphone and tablet content.<ept id="9">&lt;/li&gt;</ept>
+<bpt id="10">&lt;li&gt;</bpt>Use hover mega menus to optimize rapid navigation for mouse and keyboard whilst using a responsive menu for touch screens.<ept id="10">&lt;/li&gt;</ept>
+<bpt id="11">&lt;li&gt;</bpt>Redirect users to optimized pages for Smartphones and Tablets.<ept id="11">&lt;/li&gt;</ept>
+<bpt id="12">&lt;li&gt;</bpt>Enhance Google Analytics with information about screen size and input methods.<ept id="12">&lt;/li&gt;</ept>
+<ept id="8">&lt;/ul&gt;</ept>
+<bpt id="13">&lt;h4&gt;</bpt>For Developers<ept id="13">&lt;/h4&gt;</ept>
+<bpt id="14">&lt;ul&gt;</bpt>
+<bpt id="15">&lt;li&gt;</bpt>Turn page content on and off based on server side rules. For example; <bpt id="16">&lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;</bpt>Request.Browser["IsTablet"]<ept id="16">&lt;/span&gt;</ept> to understand if the requesting device is a tablet.<ept id="15">&lt;/li&gt;</ept>
+<bpt id="17">&lt;li&gt;</bpt>Access device capabilities from JavaScript with <bpt id="18">&lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;</bpt>http://HOSTNAME/51Degrees.features.js<ept id="18">&lt;/span&gt;</ept><ept id="17">&lt;/li&gt;</ept>
+<ept id="14">&lt;/ul&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;h3&gt;</bpt>Image Optimisation<ept id="1">&lt;/h3&gt;</ept>
+<bpt id="2">&lt;p&gt;</bpt>Ensure precisely sized images are sent to web pages by adding querystring parameters to image URLs to return precisely sized images for the screen. For example; <bpt id="3">&lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;</bpt>&amp;lt;img src="Empty.gif" data-src="/image.png?w=auto"/&amp;gt;<ept id="3">&lt;/span&gt;</ept> or <bpt id="4">&lt;a style="font-family: 'Courier New', Courier, monospace; font-weight: bold;" href="/DesktopModules/Admin/FiftyOneClientCapabilityProvider/Images/Optimization.png?w=300" target="_blank"&gt;</bpt>/DesktopModules/Admin/FiftyOneClientCapabilityProvider/Images/Optimization.png?w=300<ept id="4">&lt;/a&gt;</ept><ept id="2">&lt;/p&gt;</ept>
+<bpt id="5">&lt;p&gt;</bpt>Images larger than the device screen will automatically be shrunk before sending.<ept id="5">&lt;/p&gt;</ept>
+<bpt id="6">&lt;h3&gt;</bpt>Device Detection<ept id="6">&lt;/h3&gt;</ept>
+<bpt id="7">&lt;h4&gt;</bpt>For Web Administrators<ept id="7">&lt;/h4&gt;</ept>
+<bpt id="8">&lt;ul&gt;</bpt>
+<bpt id="9">&lt;li&gt;</bpt>Retain desktop optimized content such as Flash or big screen videos on the same page as smartphone and tablet content.<ept id="9">&lt;/li&gt;</ept>
+<bpt id="10">&lt;li&gt;</bpt>Use hover mega menus to optimize rapid navigation for mouse and keyboard whilst using a responsive menu for touch screens.<ept id="10">&lt;/li&gt;</ept>
+<bpt id="11">&lt;li&gt;</bpt>Redirect users to optimized pages for Smartphones and Tablets.<ept id="11">&lt;/li&gt;</ept>
+<bpt id="12">&lt;li&gt;</bpt>Enhance Google Analytics with information about screen size and input methods.<ept id="12">&lt;/li&gt;</ept>
+<ept id="8">&lt;/ul&gt;</ept>
+<bpt id="13">&lt;h4&gt;</bpt>For Developers<ept id="13">&lt;/h4&gt;</ept>
+<bpt id="14">&lt;ul&gt;</bpt>
+<bpt id="15">&lt;li&gt;</bpt>Turn page content on and off based on server side rules. For example; <bpt id="16">&lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;</bpt>Request.Browser["IsTablet"]<ept id="16">&lt;/span&gt;</ept> to understand if the requesting device is a tablet.<ept id="15">&lt;/li&gt;</ept>
+<bpt id="17">&lt;li&gt;</bpt>Access device capabilities from JavaScript with <bpt id="18">&lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;</bpt>http://HOSTNAME/51Degrees.features.js<ept id="18">&lt;/span&gt;</ept><ept id="17">&lt;/li&gt;</ept>
+<ept id="14">&lt;/ul&gt;</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

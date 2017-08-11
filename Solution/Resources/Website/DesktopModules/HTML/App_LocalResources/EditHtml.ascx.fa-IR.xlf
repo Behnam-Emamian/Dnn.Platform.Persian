@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="EditHtml.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="plPublish.Text" translate="yes" xml:space="preserve">
+          <source>Publish</source>
+          <target state="new">Publish</target>
+        </trans-unit>
+        <trans-unit id="plPublish.Help" translate="yes" xml:space="preserve">
+          <source>Indicate if the content is ready for publishing</source>
+          <target state="new">Indicate if the content is ready for publishing</target>
+        </trans-unit>
+        <trans-unit id="dshHistory.Text" translate="yes" xml:space="preserve">
+          <source>Item History</source>
+          <target state="new">Item History</target>
+        </trans-unit>
+        <trans-unit id="plPreviewVersion.Text" translate="yes" xml:space="preserve">
+          <source>Version</source>
+          <target state="new">Version</target>
+        </trans-unit>
+        <trans-unit id="plPreviewVersion.Help" translate="yes" xml:space="preserve">
+          <source>Displays the content version number</source>
+          <target state="new">Displays the content version number</target>
+        </trans-unit>
+        <trans-unit id="plPreviewWorkflowInUse.Text" translate="yes" xml:space="preserve">
+          <source>Workflow Used</source>
+          <target state="new">Workflow Used</target>
+        </trans-unit>
+        <trans-unit id="plPreviewWorkflowInUse.Help" translate="yes" xml:space="preserve">
+          <source>The name of the workflow configuration that this module is currently using.</source>
+          <target state="new">The name of the workflow configuration that this module is currently using.</target>
+        </trans-unit>
+        <trans-unit id="lblPreviewWorkflowState.Text" translate="yes" xml:space="preserve">
+          <source>State</source>
+          <target state="new">State</target>
+        </trans-unit>
+        <trans-unit id="plWorkflowState.Help" translate="yes" xml:space="preserve">
+          <source>Displays the current state of the content</source>
+          <target state="new">Displays the current state of the content</target>
+        </trans-unit>
+        <trans-unit id="Date.Header" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target state="new">Date</target>
+        </trans-unit>
+        <trans-unit id="State.Header" translate="yes" xml:space="preserve">
+          <source>State</source>
+          <target state="new">State</target>
+        </trans-unit>
+        <trans-unit id="Version.Header" translate="yes" xml:space="preserve">
+          <source>Version</source>
+          <target state="new">Version</target>
+        </trans-unit>
+        <trans-unit id="Item.Text" translate="yes" xml:space="preserve">
+          <source>Preview Content</source>
+          <target state="new">Preview Content</target>
+        </trans-unit>
+        <trans-unit id="Edit.Text" translate="yes" xml:space="preserve">
+          <source>Rollback Content To This Version</source>
+          <target state="new">Rollback Content To This Version</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;P&gt;</bpt>The Text/HTML Module renders plain text, rich text or HTML. Five different editing views are available: <ept id="1">&lt;/P&gt;</ept>
+<it id="2" pos="open">&lt;OL&gt;</it>
+<it id="3" pos="open">&lt;LI&gt;</it><bpt id="4">&lt;STRONG&gt;</bpt>Basic Text Box / Text<ept id="4">&lt;/STRONG&gt;</ept>: Renders basic text and HTML tags.  Text entered on a new line is rendered as a line break. The text style is the Normal style, as set in your style sheet. 
+<it id="5" pos="open">&lt;LI&gt;</it><bpt id="6">&lt;STRONG&gt;</bpt>Basic Text Box / HTML<ept id="6">&lt;/STRONG&gt;</ept>: Displays basic text in HTML format.
+<it id="7" pos="open">&lt;LI&gt;</it><bpt id="8">&lt;STRONG&gt;</bpt>Basic Text Box / Raw<ept id="8">&lt;/STRONG&gt;</ept>: Displays basic text in HTML format. Text entered on a new line is not rendered as a line break.
+<it id="9" pos="open">&lt;LI&gt;</it><bpt id="10">&lt;STRONG&gt;</bpt>Rich Text Editor / HTML<ept id="10">&lt;/STRONG&gt;</ept>: Allows you to paste HTML from other sources.
+<it id="11" pos="open">&lt;LI&gt;</it><bpt id="12">&lt;STRONG&gt;</bpt>Rich Text Editor / Design<ept id="12">&lt;/STRONG&gt;</ept>: A full word processor or WYSIWYG (What You See is What You Get) editor with functionality such as hyperlinks, email links, File Manager image gallery, bullet points, spell check and more.</source>
+          <target state="new"><bpt id="1">&lt;P&gt;</bpt>The Text/HTML Module renders plain text, rich text or HTML. Five different editing views are available: <ept id="1">&lt;/P&gt;</ept>
+<it id="2" pos="open">&lt;OL&gt;</it>
+<it id="3" pos="open">&lt;LI&gt;</it><bpt id="4">&lt;STRONG&gt;</bpt>Basic Text Box / Text<ept id="4">&lt;/STRONG&gt;</ept>: Renders basic text and HTML tags.  Text entered on a new line is rendered as a line break. The text style is the Normal style, as set in your style sheet. 
+<it id="5" pos="open">&lt;LI&gt;</it><bpt id="6">&lt;STRONG&gt;</bpt>Basic Text Box / HTML<ept id="6">&lt;/STRONG&gt;</ept>: Displays basic text in HTML format.
+<it id="7" pos="open">&lt;LI&gt;</it><bpt id="8">&lt;STRONG&gt;</bpt>Basic Text Box / Raw<ept id="8">&lt;/STRONG&gt;</ept>: Displays basic text in HTML format. Text entered on a new line is not rendered as a line break.
+<it id="9" pos="open">&lt;LI&gt;</it><bpt id="10">&lt;STRONG&gt;</bpt>Rich Text Editor / HTML<ept id="10">&lt;/STRONG&gt;</ept>: Allows you to paste HTML from other sources.
+<it id="11" pos="open">&lt;LI&gt;</it><bpt id="12">&lt;STRONG&gt;</bpt>Rich Text Editor / Design<ept id="12">&lt;/STRONG&gt;</ept>: A full word processor or WYSIWYG (What You See is What You Get) editor with functionality such as hyperlinks, email links, File Manager image gallery, bullet points, spell check and more.</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_edit.Text" translate="yes" xml:space="preserve">
+          <source>Edit Content</source>
+          <target state="new">Edit Content</target>
+        </trans-unit>
+        <trans-unit id="AddContent.Text" translate="yes" xml:space="preserve">
+          <source>Add Content...</source>
+          <target state="new">Add Content...</target>
+        </trans-unit>
+        <trans-unit id="cmdPreview.Text" translate="yes" xml:space="preserve">
+          <source>Preview</source>
+          <target state="new">Preview</target>
+        </trans-unit>
+        <trans-unit id="cmdSave.Text" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="User.Header" translate="yes" xml:space="preserve">
+          <source>User</source>
+          <target state="new">User</target>
+        </trans-unit>
+        <trans-unit id="Content Staging.Text" translate="yes" xml:space="preserve">
+          <source>Content Staging</source>
+          <target state="new">Content Staging</target>
+        </trans-unit>
+        <trans-unit id="Direct Publish.Text" translate="yes" xml:space="preserve">
+          <source>Direct Publish</source>
+          <target state="new">Direct Publish</target>
+        </trans-unit>
+        <trans-unit id="Draft.Text" translate="yes" xml:space="preserve">
+          <source>Draft</source>
+          <target state="new">Draft</target>
+        </trans-unit>
+        <trans-unit id="Published.Text" translate="yes" xml:space="preserve">
+          <source>Published</source>
+          <target state="new">Published</target>
+        </trans-unit>
+        <trans-unit id="False.Text" translate="yes" xml:space="preserve">
+          <source>False</source>
+          <target state="new">False</target>
+        </trans-unit>
+        <trans-unit id="True.Text" translate="yes" xml:space="preserve">
+          <source>True</source>
+          <target state="new">True</target>
+        </trans-unit>
+        <trans-unit id="dshMaster.Text" translate="yes" xml:space="preserve">
+          <source>Master Language Version</source>
+          <target state="new">Master Language Version</target>
+        </trans-unit>
+        <trans-unit id="chkPublish.Text" translate="yes" xml:space="preserve">
+          <source>Publish Changes?</source>
+          <target state="new">Publish Changes?</target>
+        </trans-unit>
+        <trans-unit id="plActionOnSave.Help" translate="yes" xml:space="preserve">
+          <source>Action the system should take in addition to saving the module content when 'Save' is clicked.</source>
+          <target state="new">Action the system should take in addition to saving the module content when 'Save' is clicked.</target>
+        </trans-unit>
+        <trans-unit id="plCurrentWorkflowInUse.Help" translate="yes" xml:space="preserve">
+          <source>The current workflow being used by this module.</source>
+          <target state="new">The current workflow being used by this module.</target>
+        </trans-unit>
+        <trans-unit id="plCurrentWorkflowState.Help" translate="yes" xml:space="preserve">
+          <source>State of the workflow used by this module.</source>
+          <target state="new">State of the workflow used by this module.</target>
+        </trans-unit>
+        <trans-unit id="plMaxVersions.Help" translate="yes" xml:space="preserve">
+          <source>The maximum number of versions that are maintained for any html content.</source>
+          <target state="new">The maximum number of versions that are maintained for any html content.</target>
+        </trans-unit>
+        <trans-unit id="plPreviewWorkflowState.Help" translate="yes" xml:space="preserve">
+          <source>The workflow state of the content displayed.</source>
+          <target state="new">The workflow state of the content displayed.</target>
+        </trans-unit>
+        <trans-unit id="Delete.Text" translate="yes" xml:space="preserve">
+          <source>Delete This Version</source>
+          <target state="new">Delete This Version</target>
+        </trans-unit>
+        <trans-unit id="cmdCancelSubmit.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="cmdCancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="EditPreviewState.Text" translate="yes" xml:space="preserve">
+          <source>Edit Preview</source>
+          <target state="new">Edit Preview</target>
+        </trans-unit>
+        <trans-unit id="plActionOnSave.Text" translate="yes" xml:space="preserve">
+          <source>On Save</source>
+          <target state="new">On Save</target>
+        </trans-unit>
+        <trans-unit id="plCurrentWorkflowInUse.Text" translate="yes" xml:space="preserve">
+          <source>Workflow in Use</source>
+          <target state="new">Workflow in Use</target>
+        </trans-unit>
+        <trans-unit id="plCurrentWorkflowState.Text" translate="yes" xml:space="preserve">
+          <source>Workflow State</source>
+          <target state="new">Workflow State</target>
+        </trans-unit>
+        <trans-unit id="plMaxVersions.Text" translate="yes" xml:space="preserve">
+          <source>Maximum Number Of Versions</source>
+          <target state="new">Maximum Number Of Versions</target>
+        </trans-unit>
+        <trans-unit id="plPreviewWorkflowState.Text" translate="yes" xml:space="preserve">
+          <source>Workflow State</source>
+          <target state="new">Workflow State</target>
+        </trans-unit>
+        <trans-unit id="dshCurrentContent.Text" translate="yes" xml:space="preserve">
+          <source>Current Content</source>
+          <target state="new">Current Content</target>
+        </trans-unit>
+        <trans-unit id="DeleteVersion.Confirm" translate="yes" xml:space="preserve">
+          <source>Are you sure you wish to permanently delete version [VERSION] ([STATE]) that was created on [DATECREATED] by [USERNAME]?</source>
+          <target state="new">Are you sure you wish to permanently delete version [VERSION] ([STATE]) that was created on [DATECREATED] by [USERNAME]?</target>
+        </trans-unit>
+        <trans-unit id="plCurrentWorkVersion.Help" translate="yes" xml:space="preserve">
+          <source>Displays the content version number</source>
+          <target state="new">Displays the content version number</target>
+        </trans-unit>
+        <trans-unit id="plCurrentWorkVersion.Text" translate="yes" xml:space="preserve">
+          <source>Version</source>
+          <target state="new">Version</target>
+        </trans-unit>
+        <trans-unit id="lblNoRecords.Text" translate="yes" xml:space="preserve">
+          <source>There is no history for this content. </source>
+          <target state="new">There is no history for this content. </target>
+        </trans-unit>
+        <trans-unit id="VersionsPreview.Text" translate="yes" xml:space="preserve">
+          <source>Preview</source>
+          <target state="new">Preview</target>
+        </trans-unit>
+        <trans-unit id="VersionsRemove.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="VersionsRollback.Text" translate="yes" xml:space="preserve">
+          <source>Rollback</source>
+          <target state="new">Rollback</target>
+        </trans-unit>
+        <trans-unit id="NoVersions.Text" translate="yes" xml:space="preserve">
+          <source>There is no version history for this content.</source>
+          <target state="new">There is no version history for this content.</target>
+        </trans-unit>
+        <trans-unit id="cmdHistory.Text" translate="yes" xml:space="preserve">
+          <source>Version History</source>
+          <target state="new">Version History</target>
+        </trans-unit>
+        <trans-unit id="cmdHideMasterContent.Text" translate="yes" xml:space="preserve">
+          <source>Hide Default Language</source>
+          <target state="new">Hide Default Language</target>
+        </trans-unit>
+        <trans-unit id="cmdShowMasterContent.Text" translate="yes" xml:space="preserve">
+          <source>Show Default Language</source>
+          <target state="new">Show Default Language</target>
+        </trans-unit>
+        <trans-unit id="liBasicText.Text" translate="yes" xml:space="preserve">
+          <source>Basic Text Box</source>
+          <target state="new">Basic Text Box</target>
+        </trans-unit>
+        <trans-unit id="liRichText.Text" translate="yes" xml:space="preserve">
+          <source>Rich Text Editor</source>
+          <target state="new">Rich Text Editor</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

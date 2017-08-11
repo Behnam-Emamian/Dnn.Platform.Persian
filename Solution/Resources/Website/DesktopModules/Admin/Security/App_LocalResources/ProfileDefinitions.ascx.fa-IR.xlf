@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="ProfileDefinitions.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ControlTitle_manageprofile.Text" translate="yes" xml:space="preserve">
+          <source>Manage Profile Properties</source>
+          <target state="new">Manage Profile Properties</target>
+        </trans-unit>
+        <trans-unit id="AddContent.Action" translate="yes" xml:space="preserve">
+          <source>Add New Profile Property</source>
+          <target state="new">Add New Profile Property</target>
+        </trans-unit>
+        <trans-unit id="cmdRefresh.Text" translate="yes" xml:space="preserve">
+          <source>Refresh Grid</source>
+          <target state="new">Refresh Grid</target>
+        </trans-unit>
+        <trans-unit id="Edit.Header" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="Del.Header" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="Name.Header" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="Category.Header" translate="yes" xml:space="preserve">
+          <source>Category</source>
+          <target state="new">Category</target>
+        </trans-unit>
+        <trans-unit id="DataType.Header" translate="yes" xml:space="preserve">
+          <source>DataType</source>
+          <target state="new">DataType</target>
+        </trans-unit>
+        <trans-unit id="Length.Header" translate="yes" xml:space="preserve">
+          <source>Length</source>
+          <target state="new">Length</target>
+        </trans-unit>
+        <trans-unit id="DefaultValue.Header" translate="yes" xml:space="preserve">
+          <source>Default Value</source>
+          <target state="new">Default Value</target>
+        </trans-unit>
+        <trans-unit id="ValidationExpression.Header" translate="yes" xml:space="preserve">
+          <source>Validation Expression</source>
+          <target state="new">Validation Expression</target>
+        </trans-unit>
+        <trans-unit id="Required.Header" translate="yes" xml:space="preserve">
+          <source>Required</source>
+          <target state="new">Required</target>
+        </trans-unit>
+        <trans-unit id="Visible.Header" translate="yes" xml:space="preserve">
+          <source>Visible</source>
+          <target state="new">Visible</target>
+        </trans-unit>
+        <trans-unit id="Dn.Header" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="Up.Header" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="MoveDown.Text" translate="yes" xml:space="preserve">
+          <source>Move Down</source>
+          <target state="new">Move Down</target>
+        </trans-unit>
+        <trans-unit id="MoveUp.Text" translate="yes" xml:space="preserve">
+          <source>Move Up</source>
+          <target state="new">Move Up</target>
+        </trans-unit>
+        <trans-unit id="cmdApply.Text" translate="yes" xml:space="preserve">
+          <source>Apply Changes</source>
+          <target state="new">Apply Changes</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertiesHelp.Text" translate="yes" xml:space="preserve">
+          <source>You can change the order of the profile fields, and whether they are Required or Visible on this screen.  Click on the "Apply Changes" button to save any changes you make.  To edit other properties of each Profile Property click the pencil icon in the first column of the grid.</source>
+          <target state="new">You can change the order of the profile fields, and whether they are Required or Visible on this screen.  Click on the "Apply Changes" button to save any changes you make.  To edit other properties of each Profile Property click the pencil icon in the first column of the grid.</target>
+        </trans-unit>
+        <trans-unit id="DefaultVisibility.Header" translate="yes" xml:space="preserve">
+          <source>Default Visibility</source>
+          <target state="new">Default Visibility</target>
+        </trans-unit>
+        <trans-unit id="Delete.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="Edit.Text" translate="yes" xml:space="preserve">
+          <source>Edit</source>
+          <target state="new">Edit</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

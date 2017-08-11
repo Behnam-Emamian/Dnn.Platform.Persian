@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="EditRoles.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="BasicSettings.Text" translate="yes" xml:space="preserve">
+          <source>Basic Settings</source>
+          <target state="new">Basic Settings</target>
+        </trans-unit>
+        <trans-unit id="BasicSettingsDescription.Text" translate="yes" xml:space="preserve">
+          <source>In this section, you can set up the basic settings for this role.</source>
+          <target state="new">In this section, you can set up the basic settings for this role.</target>
+        </trans-unit>
+        <trans-unit id="RoleName.Text" translate="yes" xml:space="preserve">
+          <source>Role Name:</source>
+          <target state="new">Role Name:</target>
+        </trans-unit>
+        <trans-unit id="RoleName.Help" translate="yes" xml:space="preserve">
+          <source>Enter the name of the role.</source>
+          <target state="new">Enter the name of the role.</target>
+        </trans-unit>
+        <trans-unit id="Description.Text" translate="yes" xml:space="preserve">
+          <source>Description:</source>
+          <target state="new">Description:</target>
+        </trans-unit>
+        <trans-unit id="Description.Help" translate="yes" xml:space="preserve">
+          <source>Enter a description of the role.</source>
+          <target state="new">Enter a description of the role.</target>
+        </trans-unit>
+        <trans-unit id="PublicRole.Text" translate="yes" xml:space="preserve">
+          <source>Public Role:</source>
+          <target state="new">Public Role:</target>
+        </trans-unit>
+        <trans-unit id="PublicRole.Help" translate="yes" xml:space="preserve">
+          <source>Check this box if users can subscribe to this role via the Manage Services page of their user account.</source>
+          <target state="new">Check this box if users can subscribe to this role via the Manage Services page of their user account.</target>
+        </trans-unit>
+        <trans-unit id="AutoAssignment.Text" translate="yes" xml:space="preserve">
+          <source>Auto Assignment:</source>
+          <target state="new">Auto Assignment:</target>
+        </trans-unit>
+        <trans-unit id="AutoAssignment.Help" translate="yes" xml:space="preserve">
+          <source>Check this box if users are automatically assigned to this role</source>
+          <target state="new">Check this box if users are automatically assigned to this role</target>
+        </trans-unit>
+        <trans-unit id="AdvancedSettings.Text" translate="yes" xml:space="preserve">
+          <source>Advanced Settings</source>
+          <target state="new">Advanced Settings</target>
+        </trans-unit>
+        <trans-unit id="AdvancedSettingsHelp.Text" translate="yes" xml:space="preserve">
+          <source>In this section, you can set up more advanced settings for this role.</source>
+          <target state="new">In this section, you can set up more advanced settings for this role.</target>
+        </trans-unit>
+        <trans-unit id="ServiceFee.Text" translate="yes" xml:space="preserve">
+          <source>Service Fee</source>
+          <target state="new">Service Fee</target>
+        </trans-unit>
+        <trans-unit id="ServiceFee.Help" translate="yes" xml:space="preserve">
+          <source>Enter the fee charged for users in this role.</source>
+          <target state="new">Enter the fee charged for users in this role.</target>
+        </trans-unit>
+        <trans-unit id="BillingPeriod.Text" translate="yes" xml:space="preserve">
+          <source>Billing Period (Every)</source>
+          <target state="new">Billing Period (Every)</target>
+        </trans-unit>
+        <trans-unit id="BillingPeriod.Help" translate="yes" xml:space="preserve">
+          <source>These two fields are used in conjunction to enter a Billing Period. E.g 2 weeks, or 1 month</source>
+          <target state="new">These two fields are used in conjunction to enter a Billing Period. E.g 2 weeks, or 1 month</target>
+        </trans-unit>
+        <trans-unit id="TrialFee.Text" translate="yes" xml:space="preserve">
+          <source>Trial Fee</source>
+          <target state="new">Trial Fee</target>
+        </trans-unit>
+        <trans-unit id="TrialFee.Help" translate="yes" xml:space="preserve">
+          <source>Enter the trial fee charged for users in this role.</source>
+          <target state="new">Enter the trial fee charged for users in this role.</target>
+        </trans-unit>
+        <trans-unit id="TrialPeriod.Text" translate="yes" xml:space="preserve">
+          <source>Trial Period (Every)</source>
+          <target state="new">Trial Period (Every)</target>
+        </trans-unit>
+        <trans-unit id="TrialPeriod.Help" translate="yes" xml:space="preserve">
+          <source>These two fields are used in conjunction to enter a Trial Period. e.g 2 weeks, or 1 month</source>
+          <target state="new">These two fields are used in conjunction to enter a Trial Period. e.g 2 weeks, or 1 month</target>
+        </trans-unit>
+        <trans-unit id="cmdManage.Text" translate="yes" xml:space="preserve">
+          <source>Manage Users in this Role</source>
+          <target state="new">Manage Users in this Role</target>
+        </trans-unit>
+        <trans-unit id="valRoleName.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>You must enter a valid name.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>You must enter a valid name.</target>
+        </trans-unit>
+        <trans-unit id="valServiceFee1.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>Service fee value entered is not valid.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>Service fee value entered is not valid.</target>
+        </trans-unit>
+        <trans-unit id="valServiceFee2.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>Service fee must be greater than or equal to zero.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>Service fee must be greater than or equal to zero.</target>
+        </trans-unit>
+        <trans-unit id="valBillingPeriod1.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>Billing period value entered is not valid.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>Billing period value entered is not valid.</target>
+        </trans-unit>
+        <trans-unit id="valBillingPeriod2.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>Billing period must be greater than zero.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>Billing period must be greater than zero.</target>
+        </trans-unit>
+        <trans-unit id="valTrialFee1.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>Trial fee value entered is not valid.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>Trial fee value entered is not valid.</target>
+        </trans-unit>
+        <trans-unit id="valTrialFee2.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>Trial fee must be greater than or equal to zero.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>Trial fee must be greater than or equal to zero.</target>
+        </trans-unit>
+        <trans-unit id="valTrialPeriod1.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>Trial period value entered is not valid.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>Trial period value entered is not valid.</target>
+        </trans-unit>
+        <trans-unit id="valTrialPeriod2.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>Trial period must be greater than zero.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>Trial period must be greater than zero.</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_edit.Text" translate="yes" xml:space="preserve">
+          <source>Edit Security Roles</source>
+          <target state="new">Edit Security Roles</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;h1&gt;</bpt>About Edit Security Roles<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Administrators can manage the security roles defined for their site. The module allows you to add new security roles, modify existing security roles, delete security roles, and manage the users assigned to security roles.<ept id="2">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;h1&gt;</bpt>About Edit Security Roles<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Administrators can manage the security roles defined for their site. The module allows you to add new security roles, modify existing security roles, delete security roles, and manage the users assigned to security roles.<ept id="2">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="plRoleGroups.Text" translate="yes" xml:space="preserve">
+          <source>Role Group:</source>
+          <target state="new">Role Group:</target>
+        </trans-unit>
+        <trans-unit id="plRoleGroups.Help" translate="yes" xml:space="preserve">
+          <source>Select the role group to which this role belongs.</source>
+          <target state="new">Select the role group to which this role belongs.</target>
+        </trans-unit>
+        <trans-unit id="plRSVPCode.Text" translate="yes" xml:space="preserve">
+          <source>RSVP Code:</source>
+          <target state="new">RSVP Code:</target>
+        </trans-unit>
+        <trans-unit id="plRSVPCode.Help" translate="yes" xml:space="preserve">
+          <source>Enter an RSVP Code for the role.  Users can easily subscribe to this role by entering this code on the Manage Services page of their user account.</source>
+          <target state="new">Enter an RSVP Code for the role.  Users can easily subscribe to this role by entering this code on the Manage Services page of their user account.</target>
+        </trans-unit>
+        <trans-unit id="plRSVPLink.Text" translate="yes" xml:space="preserve">
+          <source>RSVP Link:</source>
+          <target state="new">RSVP Link:</target>
+        </trans-unit>
+        <trans-unit id="plRSVPLink.Help" translate="yes" xml:space="preserve">
+          <source>A link that allows users to subscribe to this role will be displayed when an RSVP Code is saved for this role.</source>
+          <target state="new">A link that allows users to subscribe to this role will be displayed when an RSVP Code is saved for this role.</target>
+        </trans-unit>
+        <trans-unit id="plIcon.Text" translate="yes" xml:space="preserve">
+          <source>Icon:</source>
+          <target state="new">Icon:</target>
+        </trans-unit>
+        <trans-unit id="plIcon.Help" translate="yes" xml:space="preserve">
+          <source>Select an icon for the role.</source>
+          <target state="new">Select an icon for the role.</target>
+        </trans-unit>
+        <trans-unit id="DuplicateRole.Text" translate="yes" xml:space="preserve">
+          <source>A role with the same name already exists.  The role was not added.</source>
+          <target state="new">A role with the same name already exists.  The role was not added.</target>
+        </trans-unit>
+        <trans-unit id="ProcessorWarning.Text" translate="yes" xml:space="preserve">
+          <source>&lt;b&gt;Warning:&lt;/b&gt; The Payment Processor settings on the Admin &gt; Site Settings page must be configured to enable fee-base roles/services.</source>
+          <target state="new">&lt;b&gt;Warning:&lt;/b&gt; The Payment Processor settings on the Admin &gt; Site Settings page must be configured to enable fee-base roles/services.</target>
+        </trans-unit>
+        <trans-unit id="IncompatibleFee.Text" translate="yes" xml:space="preserve">
+          <source>You must select a billing frequency if you want to enter a fee for this role.</source>
+          <target state="new">You must select a billing frequency if you want to enter a fee for this role.</target>
+        </trans-unit>
+        <trans-unit id="valRoleName2.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>The Name is invalid - roles can not contain the following characters: &amp; $ + , / ? ~ # <it id="2" pos="open">&lt; &gt;</it> ¿ ¡ « » !  . :  * ' [ ]</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>The Name is invalid - roles can not contain the following characters: &amp; $ + , / ? ~ # <it id="2" pos="open">&lt; &gt;</it> ¿ ¡ « » !  . :  * ' [ ]</target>
+        </trans-unit>
+        <trans-unit id="securityModeListLabel.Help" translate="yes" xml:space="preserve">
+          <source>Choose the security mode for this role/group.</source>
+          <target state="new">Choose the security mode for this role/group.</target>
+        </trans-unit>
+        <trans-unit id="securityModeListLabel.Text" translate="yes" xml:space="preserve">
+          <source>Security Mode:</source>
+          <target state="new">Security Mode:</target>
+        </trans-unit>
+        <trans-unit id="statusListLabel.Help" translate="yes" xml:space="preserve">
+          <source>Select the status for this role/group.</source>
+          <target state="new">Select the status for this role/group.</target>
+        </trans-unit>
+        <trans-unit id="statusListLabel.Text" translate="yes" xml:space="preserve">
+          <source>Status:</source>
+          <target state="new">Status:</target>
+        </trans-unit>
+        <trans-unit id="SystemRoleWarning.Text" translate="yes" xml:space="preserve">
+          <source>This role is a system role, only minimal edits allowed.</source>
+          <target state="new">This role is a system role, only minimal edits allowed.</target>
+        </trans-unit>
+        <trans-unit id="AssignToExistUsers.Help" translate="yes" xml:space="preserve">
+          <source>Assign this role to all existing users.</source>
+          <target state="new">Assign this role to all existing users.</target>
+        </trans-unit>
+        <trans-unit id="AssignToExistUsers.Text" translate="yes" xml:space="preserve">
+          <source>Assign to existing users:</source>
+          <target state="new">Assign to existing users:</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

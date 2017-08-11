@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Licensing.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="nav_Licensing.Text" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <target state="new">About</target>
+        </trans-unit>
+        <trans-unit id="NoLicense.Header" translate="yes" xml:space="preserve">
+          <source>You have no EVOQ licenses ... yet</source>
+          <target state="new">You have no EVOQ licenses ... yet</target>
+        </trans-unit>
+        <trans-unit id="NoLicense.Text" translate="yes" xml:space="preserve">
+          <source>Upgrade to EVOQ below to gain access to professional features on your sites.</source>
+          <target state="new">Upgrade to EVOQ below to gain access to professional features on your sites.</target>
+        </trans-unit>
+        <trans-unit id="LicenseType.Header" translate="yes" xml:space="preserve">
+          <source>LICENSE TYPE</source>
+          <target state="new">LICENSE TYPE</target>
+        </trans-unit>
+        <trans-unit id="InvoiceNumber.Header" translate="yes" xml:space="preserve">
+          <source>INVOICE NUMBER</source>
+          <target state="new">INVOICE NUMBER</target>
+        </trans-unit>
+        <trans-unit id="WebServer.Header" translate="yes" xml:space="preserve">
+          <source>WEB SERVER</source>
+          <target state="new">WEB SERVER</target>
+        </trans-unit>
+        <trans-unit id="Activated.Header" translate="yes" xml:space="preserve">
+          <source>ACTIVATED</source>
+          <target state="new">ACTIVATED</target>
+        </trans-unit>
+        <trans-unit id="Expires.Header" translate="yes" xml:space="preserve">
+          <source>EXPIRES</source>
+          <target state="new">EXPIRES</target>
+        </trans-unit>
+        <trans-unit id="CheckOutEvoq.Header" translate="yes" xml:space="preserve">
+          <source>CHECK OUT EVOQ</source>
+          <target state="new">CHECK OUT EVOQ</target>
+        </trans-unit>
+        <trans-unit id="CheckOutEvoq" translate="yes" xml:space="preserve">
+          <source>Evoq provides a comprehensive set of features your entire team will use and love. Organizations across the globe rely on Evoq to deliver powerful web experiences.</source>
+          <target state="new">Evoq provides a comprehensive set of features your entire team will use and love. Organizations across the globe rely on Evoq to deliver powerful web experiences.</target>
+        </trans-unit>
+        <trans-unit id="UpgradeToEvoq.Header" translate="yes" xml:space="preserve">
+          <source>UPGRADE</source>
+          <target state="new">UPGRADE</target>
+        </trans-unit>
+        <trans-unit id="UpgradeToEvoq" translate="yes" xml:space="preserve">
+          <source>Ready to take your web presence to the next level? Start a free trial or schedule a custom demo for your team.</source>
+          <target state="new">Ready to take your web presence to the next level? Start a free trial or schedule a custom demo for your team.</target>
+        </trans-unit>
+        <trans-unit id="DocumentCenter.Header" translate="yes" xml:space="preserve">
+          <source>DOCUMENTATION CENTER</source>
+          <target state="new">DOCUMENTATION CENTER</target>
+        </trans-unit>
+        <trans-unit id="DocumentCenter" translate="yes" xml:space="preserve">
+          <source>No matter your questions, DNN's new "Doc Center" is the go-to for answers, tutorials, and product help.</source>
+          <target state="new">No matter your questions, DNN's new "Doc Center" is the go-to for answers, tutorials, and product help.</target>
+        </trans-unit>
+        <trans-unit id="LicenseType.Development" translate="yes" xml:space="preserve">
+          <source>Development</source>
+          <target state="new">Development</target>
+        </trans-unit>
+        <trans-unit id="LicenseType.Production" translate="yes" xml:space="preserve">
+          <source>Production</source>
+          <target state="new">Production</target>
+        </trans-unit>
+        <trans-unit id="LicenseType.Failover" translate="yes" xml:space="preserve">
+          <source>Failover</source>
+          <target state="new">Failover</target>
+        </trans-unit>
+        <trans-unit id="LicenseType.Staging" translate="yes" xml:space="preserve">
+          <source>Staging</source>
+          <target state="new">Staging</target>
+        </trans-unit>
+        <trans-unit id="LicenseType.Test" translate="yes" xml:space="preserve">
+          <source>Test</source>
+          <target state="new">Test</target>
+        </trans-unit>
+        <trans-unit id="Error.Unknown.Activation" translate="yes" xml:space="preserve">
+          <source>Unable to process request, please try again later or use manual activation.</source>
+          <target state="new">Unable to process request, please try again later or use manual activation.</target>
+        </trans-unit>
+        <trans-unit id="Error.LicenseAlreadyExists" translate="yes" xml:space="preserve">
+          <source>License Activation failed. The host server {0} already has a {1} license.</source>
+          <target state="new">License Activation failed. The host server {0} already has a {1} license.</target>
+        </trans-unit>
+        <trans-unit id="Error.ContactServer.activate" translate="yes" xml:space="preserve">
+          <source>Unable to activate license. Connection to license server failed. Please try again later or use manual activation. If you continue to have difficulties, please contact Technical Support.</source>
+          <target state="new">Unable to activate license. Connection to license server failed. Please try again later or use manual activation. If you continue to have difficulties, please contact Technical Support.</target>
+        </trans-unit>
+        <trans-unit id="Error.ContactServer.canrenew" translate="yes" xml:space="preserve">
+          <source>Connection to license server failed. You will not be able to automatically activate or renew licenses. You can use manual activation to activate a license.<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept><bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>
+For license renewal contact <bpt id="3">&lt;a href="mailto:customercare@dnnsoftware.com"&gt;</bpt>customercare@dnnsoftware.com<ept id="3">&lt;/a&gt;</ept>.</source>
+          <target state="new">Connection to license server failed. You will not be able to automatically activate or renew licenses. You can use manual activation to activate a license.<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept><bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>
+For license renewal contact <bpt id="3">&lt;a href="mailto:customercare@dnnsoftware.com"&gt;</bpt>customercare@dnnsoftware.com<ept id="3">&lt;/a&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="Error.ContactServer.deactivate" translate="yes" xml:space="preserve">
+          <source>Your license was deleted.<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept><bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>
+Unable to add activation back to your invoice as Connection to license server failed. Please contact Technical Support for license activation.</source>
+          <target state="new">Your license was deleted.<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept><bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>
+Unable to add activation back to your invoice as Connection to license server failed. Please contact Technical Support for license activation.</target>
+        </trans-unit>
+        <trans-unit id="Error.ContactServer.renew" translate="yes" xml:space="preserve">
+          <source>Unable to Renew License. Connection to license server failed. Please try again later or contact <bpt id="1">&lt;a href="mailto:customercare@dnnsoftware.com"&gt;</bpt>customercare@dnnsoftware.com<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">Unable to Renew License. Connection to license server failed. Please try again later or contact <bpt id="1">&lt;a href="mailto:customercare@dnnsoftware.com"&gt;</bpt>customercare@dnnsoftware.com<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="Error.ACT1.Text" translate="yes" xml:space="preserve">
+          <source>License Activation failed. The license details provided do not match a valid license.<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept><bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>Verify your license details on <bpt id="3">&lt;a href="{0}" target="_blank"&gt;</bpt>your licenses page on dnnsoftware.com<ept id="3">&lt;/a&gt;</ept> and try again. If you continue to have difficulties, please contact Technical Support.</source>
+          <target state="new">License Activation failed. The license details provided do not match a valid license.<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept><bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>Verify your license details on <bpt id="3">&lt;a href="{0}" target="_blank"&gt;</bpt>your licenses page on dnnsoftware.com<ept id="3">&lt;/a&gt;</ept> and try again. If you continue to have difficulties, please contact Technical Support.</target>
+        </trans-unit>
+        <trans-unit id="Error.ACT2.Text" translate="yes" xml:space="preserve">
+          <source>License activation failed. Production activation for {0} is in use.</source>
+          <target state="new">License activation failed. Production activation for {0} is in use.</target>
+        </trans-unit>
+        <trans-unit id="Error.ACT3.Text" translate="yes" xml:space="preserve">
+          <source>You have exceeded the limit of activations from this client address</source>
+          <target state="new">You have exceeded the limit of activations from this client address</target>
+        </trans-unit>
+        <trans-unit id="Error.ACT4.Text" translate="yes" xml:space="preserve">
+          <source>License activation failed. Production activation for {0} is in use.</source>
+          <target state="new">License activation failed. Production activation for {0} is in use.</target>
+        </trans-unit>
+        <trans-unit id="Error.ACT6.Text" translate="yes" xml:space="preserve">
+          <source>License activation failed. Your service period for this license expired on {0:d}. Please contact <bpt id="1">&lt;a href="mailto:customercare@dnnsoftware.com"&gt;</bpt>customercare@dnnsoftware.com<ept id="1">&lt;/a&gt;</ept>.</source>
+          <target state="new">License activation failed. Your service period for this license expired on {0:d}. Please contact <bpt id="1">&lt;a href="mailto:customercare@dnnsoftware.com"&gt;</bpt>customercare@dnnsoftware.com<ept id="1">&lt;/a&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="Error.DEA1.Text" translate="yes" xml:space="preserve">
+          <source>Delete License failed. The license was not found.</source>
+          <target state="new">Delete License failed. The license was not found.</target>
+        </trans-unit>
+        <trans-unit id="WebLicenseList.url" translate="yes" xml:space="preserve">
+          <source>http://www.dnnsoftware.com/Support/Success-Network/License-Management</source>
+          <target state="new">http://www.dnnsoftware.com/Support/Success-Network/License-Management</target>
+        </trans-unit>
+        <trans-unit id="Error.Unknown" translate="yes" xml:space="preserve">
+          <source>Unable to process request, please try again later.</source>
+          <target state="new">Unable to process request, please try again later.</target>
+        </trans-unit>
+        <trans-unit id="Error.ExpiredLicense" translate="yes" xml:space="preserve">
+          <source>License activation failed. Your license expired on {0:d}. Check your licenses on <bpt id="1">&lt;a href="{1}" target="_blank"&gt;</bpt>your licenses page on dnnsoftware.com<ept id="1">&lt;/a&gt;</ept>. Log in using the account you received when you first bought the product.</source>
+          <target state="new">License activation failed. Your license expired on {0:d}. Check your licenses on <bpt id="1">&lt;a href="{1}" target="_blank"&gt;</bpt>your licenses page on dnnsoftware.com<ept id="1">&lt;/a&gt;</ept>. Log in using the account you received when you first bought the product.</target>
+        </trans-unit>
+        <trans-unit id="Success.DevLicenseActivated" translate="yes" xml:space="preserve">
+          <source>Development License has been activated successfully.</source>
+          <target state="new">Development License has been activated successfully.</target>
+        </trans-unit>
+        <trans-unit id="Success.FailoverLicenseActivated" translate="yes" xml:space="preserve">
+          <source>Failover License has been activated successfully</source>
+          <target state="new">Failover License has been activated successfully</target>
+        </trans-unit>
+        <trans-unit id="Success.LicenseActivated" translate="yes" xml:space="preserve">
+          <source>Production License has been activated successfully</source>
+          <target state="new">Production License has been activated successfully</target>
+        </trans-unit>
+        <trans-unit id="Success.LicenseDeactivated" translate="yes" xml:space="preserve">
+          <source>Your license has been deleted successfully.</source>
+          <target state="new">Your license has been deleted successfully.</target>
+        </trans-unit>
+        <trans-unit id="Success.LicenseDeactivatedContactServerErr" translate="yes" xml:space="preserve">
+          <source>Your license was deleted.<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept><bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>Unable to add activation back to your invoice as Connection to license server failed. If you need to activate as a production license, please contact Technical Support.</source>
+          <target state="new">Your license was deleted.<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept><bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>Unable to add activation back to your invoice as Connection to license server failed. If you need to activate as a production license, please contact Technical Support.</target>
+        </trans-unit>
+        <trans-unit id="Success.LicenseDeactivatedNoActivationIncrease" translate="yes" xml:space="preserve">
+          <source>Your license was deleted.<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept><bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>Unable to add activation back to the invoice. If you need to activate as a production license, please contact Technical Support.</source>
+          <target state="new">Your license was deleted.<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept><bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>Unable to add activation back to the invoice. If you need to activate as a production license, please contact Technical Support.</target>
+        </trans-unit>
+        <trans-unit id="Success.LicenseRenewed" translate="yes" xml:space="preserve">
+          <source>Your license has been renewed successfully.</source>
+          <target state="new">Your license has been renewed successfully.</target>
+        </trans-unit>
+        <trans-unit id="Success.StagingLicenseActivated" translate="yes" xml:space="preserve">
+          <source>Staging License has been activated successfully</source>
+          <target state="new">Staging License has been activated successfully</target>
+        </trans-unit>
+        <trans-unit id="Success.TestLicenseActivated" translate="yes" xml:space="preserve">
+          <source>Test License has been activated successfully</source>
+          <target state="new">Test License has been activated successfully</target>
+        </trans-unit>
+        <trans-unit id="Success.TrialActivation" translate="yes" xml:space="preserve">
+          <source>Your extended trial license has been successfully installed.</source>
+          <target state="new">Your extended trial license has been successfully installed.</target>
+        </trans-unit>
+        <trans-unit id="Success.TrialExtensionRequest" translate="yes" xml:space="preserve">
+          <source>Your trial license extension request has been submitted. You should receive an email within 1 business day, with instructions for extending your license. If you have any questions about trial license extensions, please call DNN Corp. Sales Dept. at 650-288-3150.</source>
+          <target state="new">Your trial license extension request has been submitted. You should receive an email within 1 business day, with instructions for extending your license. If you have any questions about trial license extensions, please call DNN Corp. Sales Dept. at 650-288-3150.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

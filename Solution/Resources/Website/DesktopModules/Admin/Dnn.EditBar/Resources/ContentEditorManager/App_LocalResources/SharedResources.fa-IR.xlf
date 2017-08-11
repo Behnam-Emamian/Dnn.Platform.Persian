@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="SharedResources.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="25% + 50% + 25%.Text" translate="yes" xml:space="preserve">
+          <source>Three column 25 - 50 - 25</source>
+          <target state="new">Three column 25 - 50 - 25</target>
+        </trans-unit>
+        <trans-unit id="25% + 75%.Text" translate="yes" xml:space="preserve">
+          <source>Two column 25 - 75</source>
+          <target state="new">Two column 25 - 75</target>
+        </trans-unit>
+        <trans-unit id="33% + 33% + 33%.Text" translate="yes" xml:space="preserve">
+          <source>Three column 33 - 33 - 33</source>
+          <target state="new">Three column 33 - 33 - 33</target>
+        </trans-unit>
+        <trans-unit id="50% + 50%.Text" translate="yes" xml:space="preserve">
+          <source>Two column 50 - 50</source>
+          <target state="new">Two column 50 - 50</target>
+        </trans-unit>
+        <trans-unit id="75% + 25%.Text" translate="yes" xml:space="preserve">
+          <source>Two column 75 - 25</source>
+          <target state="new">Two column 75 - 25</target>
+        </trans-unit>
+        <trans-unit id="AddModule.Text" translate="yes" xml:space="preserve">
+          <source>Add Module</source>
+          <target state="new">Add Module</target>
+        </trans-unit>
+        <trans-unit id="Blank.Text" translate="yes" xml:space="preserve">
+          <source>Blank</source>
+          <target state="new">Blank</target>
+        </trans-unit>
+        <trans-unit id="Cancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="CancelConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to cancel adding this module to the page?</source>
+          <target state="new">Are you sure you want to cancel adding this module to the page?</target>
+        </trans-unit>
+        <trans-unit id="CloseLabel.Text" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <target state="new">Close</target>
+        </trans-unit>
+        <trans-unit id="ConfirmNo.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="ConfirmTitle.Text" translate="yes" xml:space="preserve">
+          <source>Confirm</source>
+          <target state="new">Confirm</target>
+        </trans-unit>
+        <trans-unit id="ConfirmYes.Text" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="ContentLayout.Delete.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you wish to delete this layout?</source>
+          <target state="new">Are you sure you wish to delete this layout?</target>
+        </trans-unit>
+        <trans-unit id="ContentLayout.Text" translate="yes" xml:space="preserve">
+          <source>Content Layout</source>
+          <target state="new">Content Layout</target>
+        </trans-unit>
+        <trans-unit id="DiscardLabel.Text" translate="yes" xml:space="preserve">
+          <source>Discard</source>
+          <target state="new">Discard</target>
+        </trans-unit>
+        <trans-unit id="DragTip.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>ADD MODULE:<ept id="1">&lt;/p&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Click, drag and drop module into your chosen location<ept id="2">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>ADD MODULE:<ept id="1">&lt;/p&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Click, drag and drop module into your chosen location<ept id="2">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="EditBarMessageLabel.Text" translate="yes" xml:space="preserve">
+          <source>Changes shown are not published</source>
+          <target state="new">Changes shown are not published</target>
+        </trans-unit>
+        <trans-unit id="NoModules.Text" translate="yes" xml:space="preserve">
+          <source>There are no modules available to use on this page.</source>
+          <target state="new">There are no modules available to use on this page.</target>
+        </trans-unit>
+        <trans-unit id="PendingSave.Text" translate="yes" xml:space="preserve">
+          <source>You have not finished adding the module, are you sure you want to continue without saving?</source>
+          <target state="new">You have not finished adding the module, are you sure you want to continue without saving?</target>
+        </trans-unit>
+        <trans-unit id="PublishLabel.Text" translate="yes" xml:space="preserve">
+          <source>Publish</source>
+          <target state="new">Publish</target>
+        </trans-unit>
+        <trans-unit id="Service_CopyPermissionError.Text" translate="yes" xml:space="preserve">
+          <source>Error occurred when copy permissions to descendant pages.</source>
+          <target state="new">Error occurred when copy permissions to descendant pages.</target>
+        </trans-unit>
+        <trans-unit id="Service_CopyPermissionSuccessful.Text" translate="yes" xml:space="preserve">
+          <source>Copy permissions to descendant pages successful.</source>
+          <target state="new">Copy permissions to descendant pages successful.</target>
+        </trans-unit>
+        <trans-unit id="Service_LayoutNotExist.Text" translate="yes" xml:space="preserve">
+          <source>The layout has already been deleted.</source>
+          <target state="new">The layout has already been deleted.</target>
+        </trans-unit>
+        <trans-unit id="Service_ModuleNotExist.Text" translate="yes" xml:space="preserve">
+          <source>The module has already been deleted.</source>
+          <target state="new">The module has already been deleted.</target>
+        </trans-unit>
+        <trans-unit id="System.Text" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="Service_RestoreTabModuleError.Text" translate="yes" xml:space="preserve">
+          <source>Error restoring page has occurred:&lt;br/&gt;{0}</source>
+          <target state="new">Error restoring page has occurred:&lt;br/&gt;{0}</target>
+        </trans-unit>
+        <trans-unit id="Service_RemoveTabModuleError.Text" translate="yes" xml:space="preserve">
+          <source>Error removing page has occurred:&lt;br/&gt;{0}</source>
+          <target state="new">Error removing page has occurred:&lt;br/&gt;{0}</target>
+        </trans-unit>
+        <trans-unit id="Service_RestoreModuleError.Text" translate="yes" xml:space="preserve">
+          <source>Error restoring module {0} on page {1}. Page is deleted.</source>
+          <target state="new">Error restoring module {0} on page {1}. Page is deleted.</target>
+        </trans-unit>
+        <trans-unit id="Service_RestoreTabError.Text" translate="yes" xml:space="preserve">
+          <source>Page {0} cannot be restored until its parent is restored first.&lt;br/&gt;</source>
+          <target state="new">Page {0} cannot be restored until its parent is restored first.&lt;br/&gt;</target>
+        </trans-unit>
+        <trans-unit id="DeleteModuleConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you wish to delete this module?</source>
+          <target state="new">Are you sure you wish to delete this module?</target>
+        </trans-unit>
+        <trans-unit id="SearchPlaceHolder.Text" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="Category_Recommended.Text" translate="yes" xml:space="preserve">
+          <source>Recommended</source>
+          <target state="new">Recommended</target>
+        </trans-unit>
+        <trans-unit id="Category_All.Text" translate="yes" xml:space="preserve">
+          <source>All</source>
+          <target state="new">All</target>
+        </trans-unit>
+        <trans-unit id="Service_RemoveTabError.Text" translate="yes" xml:space="preserve">
+          <source>Page {0} cannot be deleted until its children have been deleted first.&lt;br/&gt;</source>
+          <target state="new">Page {0} cannot be deleted until its children have been deleted first.&lt;br/&gt;</target>
+        </trans-unit>
+        <trans-unit id="AddExistingModule.Text" translate="yes" xml:space="preserve">
+          <source>Add Existing Module</source>
+          <target state="new">Add Existing Module</target>
+        </trans-unit>
+        <trans-unit id="pagePicker_clearButtonTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Clear</source>
+          <target state="new">Clear</target>
+        </trans-unit>
+        <trans-unit id="pagePicker_loadingResultText.Text" translate="yes" xml:space="preserve">
+          <source>...Loading Results</source>
+          <target state="new">...Loading Results</target>
+        </trans-unit>
+        <trans-unit id="pagePicker_resultsText.Text" translate="yes" xml:space="preserve">
+          <source>Results</source>
+          <target state="new">Results</target>
+        </trans-unit>
+        <trans-unit id="pagePicker_searchButtonTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="pagePicker_searchInputPlaceHolder.Text" translate="yes" xml:space="preserve">
+          <source>Page Name</source>
+          <target state="new">Page Name</target>
+        </trans-unit>
+        <trans-unit id="pagePicker_selectedItemCollapseTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Click to collapse</source>
+          <target state="new">Click to collapse</target>
+        </trans-unit>
+        <trans-unit id="pagePicker_selectedItemExpandTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Click to expand</source>
+          <target state="new">Click to expand</target>
+        </trans-unit>
+        <trans-unit id="pagePicker_selectItemDefaultText.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;None Specified&gt;</it></source>
+          <target state="new"><it id="1" pos="open">&lt;None Specified&gt;</it></target>
+        </trans-unit>
+        <trans-unit id="pagePicker_sortAscendingButtonTitle.Text" translate="yes" xml:space="preserve">
+          <source>A-Z</source>
+          <target state="new">A-Z</target>
+        </trans-unit>
+        <trans-unit id="pagePicker_sortAscendingButtonTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Sort in ascending order</source>
+          <target state="new">Sort in ascending order</target>
+        </trans-unit>
+        <trans-unit id="pagePicker_unsortedOrderButtonTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Remove sorting</source>
+          <target state="new">Remove sorting</target>
+        </trans-unit>
+        <trans-unit id="pagerPicker_sortDescendingButtonTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Sort in descending order</source>
+          <target state="new">Sort in descending order</target>
+        </trans-unit>
+        <trans-unit id="MakeCopy.Text" translate="yes" xml:space="preserve">
+          <source>Make a copy</source>
+          <target state="new">Make a copy</target>
+        </trans-unit>
+        <trans-unit id="Page.Text" translate="yes" xml:space="preserve">
+          <source>Page:</source>
+          <target state="new">Page:</target>
+        </trans-unit>
+        <trans-unit id="Site.Text" translate="yes" xml:space="preserve">
+          <source>Site:</source>
+          <target state="new">Site:</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

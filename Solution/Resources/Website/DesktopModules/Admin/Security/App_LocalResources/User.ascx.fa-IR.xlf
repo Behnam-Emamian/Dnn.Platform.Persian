@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="User.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="cmdAdd.Text" translate="yes" xml:space="preserve">
+          <source>Add New User</source>
+          <target state="new">Add New User</target>
+        </trans-unit>
+        <trans-unit id="plAuthorize.Text" translate="yes" xml:space="preserve">
+          <source>Authorize:</source>
+          <target state="new">Authorize:</target>
+        </trans-unit>
+        <trans-unit id="plAuthorize.Help" translate="yes" xml:space="preserve">
+          <source>Authorize this user.</source>
+          <target state="new">Authorize this user.</target>
+        </trans-unit>
+        <trans-unit id="plNotify.Text" translate="yes" xml:space="preserve">
+          <source>Notify:</source>
+          <target state="new">Notify:</target>
+        </trans-unit>
+        <trans-unit id="plNotify.Help" translate="yes" xml:space="preserve">
+          <source>Send an email to the user's email address.</source>
+          <target state="new">Send an email to the user's email address.</target>
+        </trans-unit>
+        <trans-unit id="CreateUser.Text" translate="yes" xml:space="preserve">
+          <source>Create User</source>
+          <target state="new">Create User</target>
+        </trans-unit>
+        <trans-unit id="plPassword.Text" translate="yes" xml:space="preserve">
+          <source>Password:</source>
+          <target state="new">Password:</target>
+        </trans-unit>
+        <trans-unit id="plPassword.Help" translate="yes" xml:space="preserve">
+          <source>Enter a password for this user.</source>
+          <target state="new">Enter a password for this user.</target>
+        </trans-unit>
+        <trans-unit id="plConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Confirm Password:</source>
+          <target state="new">Confirm Password:</target>
+        </trans-unit>
+        <trans-unit id="plConfirm.Help" translate="yes" xml:space="preserve">
+          <source>Re-enter the password to confirm.</source>
+          <target state="new">Re-enter the password to confirm.</target>
+        </trans-unit>
+        <trans-unit id="Password.Text" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <target state="new">Password</target>
+        </trans-unit>
+        <trans-unit id="PasswordHelpUser.Text" translate="yes" xml:space="preserve">
+          <source>Enter a password.</source>
+          <target state="new">Enter a password.</target>
+        </trans-unit>
+        <trans-unit id="PasswordHelpAdmin.Text" translate="yes" xml:space="preserve">
+          <source>Optionally enter a password for this user or allow the system to generate a random password.</source>
+          <target state="new">Optionally enter a password for this user or allow the system to generate a random password.</target>
+        </trans-unit>
+        <trans-unit id="plRandom.Text" translate="yes" xml:space="preserve">
+          <source>Random Password</source>
+          <target state="new">Random Password</target>
+        </trans-unit>
+        <trans-unit id="plRandom.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to generate a random password.</source>
+          <target state="new">Check this box to generate a random password.</target>
+        </trans-unit>
+        <trans-unit id="InvalidCaptcha.Text" translate="yes" xml:space="preserve">
+          <source>Incorrect Security Code</source>
+          <target state="new">Incorrect Security Code</target>
+        </trans-unit>
+        <trans-unit id="CaptchaText.Text" translate="yes" xml:space="preserve">
+          <source>Enter the code shown above in the box below.</source>
+          <target state="new">Enter the code shown above in the box below.</target>
+        </trans-unit>
+        <trans-unit id="UnRegister.Text" translate="yes" xml:space="preserve">
+          <source>UnRegister</source>
+          <target state="new">UnRegister</target>
+        </trans-unit>
+        <trans-unit id="Delete.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="cmdRemove.Text" translate="yes" xml:space="preserve">
+          <source>Remove</source>
+          <target state="new">Remove</target>
+        </trans-unit>
+        <trans-unit id="cmdRestore.Text" translate="yes" xml:space="preserve">
+          <source>Restore</source>
+          <target state="new">Restore</target>
+        </trans-unit>
+        <trans-unit id="ConfirmUnRegister.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to un-register.</source>
+          <target state="new">Are you sure you want to un-register.</target>
+        </trans-unit>
+        <trans-unit id="plQuestion.Text" translate="yes" xml:space="preserve">
+          <source>Password Question:</source>
+          <target state="new">Password Question:</target>
+        </trans-unit>
+        <trans-unit id="plQuestion.Help" translate="yes" xml:space="preserve">
+          <source>Enter a password question to be used when retrieving the password.</source>
+          <target state="new">Enter a password question to be used when retrieving the password.</target>
+        </trans-unit>
+        <trans-unit id="plAnswer.Text" translate="yes" xml:space="preserve">
+          <source>Password Answer:</source>
+          <target state="new">Password Answer:</target>
+        </trans-unit>
+        <trans-unit id="plAnswer.Help" translate="yes" xml:space="preserve">
+          <source>Enter an answer to the password question.</source>
+          <target state="new">Enter an answer to the password question.</target>
+        </trans-unit>
+        <trans-unit id="ComparePasswordsValidator.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>The Password and Confirmation Password must match.</source>
+          <target state="new">The Password and Confirmation Password must match.</target>
+        </trans-unit>
+        <trans-unit id="UpdateUserName.Text" translate="yes" xml:space="preserve">
+          <source>Note: This user is registered in {0} sites.</source>
+          <target state="new">Note: This user is registered in {0} sites.</target>
+        </trans-unit>
+        <trans-unit id="ViewSiteList.Text" translate="yes" xml:space="preserve">
+          <source>View list of sites</source>
+          <target state="new">View list of sites</target>
+        </trans-unit>
+        <trans-unit id="HideSiteList.Text" translate="yes" xml:space="preserve">
+          <source>Hide list of sites</source>
+          <target state="new">Hide list of sites</target>
+        </trans-unit>
+        <trans-unit id="DisplayNameNotUnique.Text" translate="yes" xml:space="preserve">
+          <source>The display name you have entered is already in use, please choose a different one.</source>
+          <target state="new">The display name you have entered is already in use, please choose a different one.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

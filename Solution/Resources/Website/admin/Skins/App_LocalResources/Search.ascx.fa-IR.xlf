@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Search.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Web.Text" translate="yes" xml:space="preserve">
+          <source>Web</source>
+          <target state="new">Web</target>
+        </trans-unit>
+        <trans-unit id="Web.ToolTip" translate="yes" xml:space="preserve">
+          <source>Google Web Search</source>
+          <target state="new">Google Web Search</target>
+        </trans-unit>
+        <trans-unit id="Site.Text" translate="yes" xml:space="preserve">
+          <source>Site</source>
+          <target state="new">Site</target>
+        </trans-unit>
+        <trans-unit id="Site.ToolTip" translate="yes" xml:space="preserve">
+          <source>Site Search</source>
+          <target state="new">Site Search</target>
+        </trans-unit>
+        <trans-unit id="Search.Text" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="URL.Text" translate="yes" xml:space="preserve">
+          <source>http://www.google.com/custom?q=[TEXT]&amp;sa=Search&amp;client=pub-9770992166002654&amp;forid=1&amp;ie=ISO-8859-1&amp;oe=ISO-8859-1&amp;cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23336699%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BFORID%3A1&amp;hl=en&amp;sitesearch=[DOMAIN]</source>
+          <target state="new">http://www.google.com/custom?q=[TEXT]&amp;sa=Search&amp;client=pub-9770992166002654&amp;forid=1&amp;ie=ISO-8859-1&amp;oe=ISO-8859-1&amp;cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23336699%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BFORID%3A1&amp;hl=en&amp;sitesearch=[DOMAIN]</target>
+        </trans-unit>
+        <trans-unit id="DropDownGlyph.AltText" translate="yes" xml:space="preserve">
+          <source>Select the search type</source>
+          <target state="new">Select the search type</target>
+        </trans-unit>
+        <trans-unit id="SeeMoreResults.Text" translate="yes" xml:space="preserve">
+          <source>See More Results</source>
+          <target state="new">See More Results</target>
+        </trans-unit>
+        <trans-unit id="NoResult.Text" translate="yes" xml:space="preserve">
+          <source>No Results Found</source>
+          <target state="new">No Results Found</target>
+        </trans-unit>
+        <trans-unit id="Placeholder.Text" translate="yes" xml:space="preserve">
+          <source>Search...</source>
+          <target state="new">Search...</target>
+        </trans-unit>
+        <trans-unit id="SearchClearQuery.Text" translate="yes" xml:space="preserve">
+          <source>Clear search text</source>
+          <target state="new">Clear search text</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Membership.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Approved.Text" translate="yes" xml:space="preserve">
+          <source>Authorized:</source>
+          <target state="new">Authorized:</target>
+        </trans-unit>
+        <trans-unit id="Approved.Help" translate="yes" xml:space="preserve">
+          <source>Indicates whether this user is authorized for the site.</source>
+          <target state="new">Indicates whether this user is authorized for the site.</target>
+        </trans-unit>
+        <trans-unit id="CreatedDate.Text" translate="yes" xml:space="preserve">
+          <source>Created Date:</source>
+          <target state="new">Created Date:</target>
+        </trans-unit>
+        <trans-unit id="CreatedDate.Help" translate="yes" xml:space="preserve">
+          <source>The date this user account was created.</source>
+          <target state="new">The date this user account was created.</target>
+        </trans-unit>
+        <trans-unit id="LastActivityDate.Text" translate="yes" xml:space="preserve">
+          <source>Last Activity Date:</source>
+          <target state="new">Last Activity Date:</target>
+        </trans-unit>
+        <trans-unit id="LastActivityDate.Help" translate="yes" xml:space="preserve">
+          <source>The date this user was last active on the site.</source>
+          <target state="new">The date this user was last active on the site.</target>
+        </trans-unit>
+        <trans-unit id="LastLoginDate.Text" translate="yes" xml:space="preserve">
+          <source>Last Login Date:</source>
+          <target state="new">Last Login Date:</target>
+        </trans-unit>
+        <trans-unit id="LastLoginDate.Help" translate="yes" xml:space="preserve">
+          <source>The date this user last logged into the site.</source>
+          <target state="new">The date this user last logged into the site.</target>
+        </trans-unit>
+        <trans-unit id="LastPasswordChangeDate.Text" translate="yes" xml:space="preserve">
+          <source>Last Password Change:</source>
+          <target state="new">Last Password Change:</target>
+        </trans-unit>
+        <trans-unit id="LastPasswordChangeDate.Help" translate="yes" xml:space="preserve">
+          <source>The date this user last changed their password.</source>
+          <target state="new">The date this user last changed their password.</target>
+        </trans-unit>
+        <trans-unit id="LastLockoutDate.Text" translate="yes" xml:space="preserve">
+          <source>Last Lock-Out Date:</source>
+          <target state="new">Last Lock-Out Date:</target>
+        </trans-unit>
+        <trans-unit id="LastLockoutDate.Help" translate="yes" xml:space="preserve">
+          <source>The date this user was last locked out of the site due to repetitive failed logins.</source>
+          <target state="new">The date this user was last locked out of the site due to repetitive failed logins.</target>
+        </trans-unit>
+        <trans-unit id="IsOnLine.Text" translate="yes" xml:space="preserve">
+          <source>User Is Online:</source>
+          <target state="new">User Is Online:</target>
+        </trans-unit>
+        <trans-unit id="IsOnLine.Help" translate="yes" xml:space="preserve">
+          <source>Indicates whether the user is currently online.</source>
+          <target state="new">Indicates whether the user is currently online.</target>
+        </trans-unit>
+        <trans-unit id="LockedOut.Text" translate="yes" xml:space="preserve">
+          <source>Locked Out:</source>
+          <target state="new">Locked Out:</target>
+        </trans-unit>
+        <trans-unit id="LockedOut.Help" translate="yes" xml:space="preserve">
+          <source>Indicates whether the user is currently locked out of the site due to repetitive failed logins.</source>
+          <target state="new">Indicates whether the user is currently locked out of the site due to repetitive failed logins.</target>
+        </trans-unit>
+        <trans-unit id="cmdAuthorize.Text" translate="yes" xml:space="preserve">
+          <source>Authorize User</source>
+          <target state="new">Authorize User</target>
+        </trans-unit>
+        <trans-unit id="cmdUnAuthorize.Text" translate="yes" xml:space="preserve">
+          <source>UnAuthorize User</source>
+          <target state="new">UnAuthorize User</target>
+        </trans-unit>
+        <trans-unit id="cmdUnLock.Text" translate="yes" xml:space="preserve">
+          <source>Unlock Account</source>
+          <target state="new">Unlock Account</target>
+        </trans-unit>
+        <trans-unit id="UpdatePassword.Text" translate="yes" xml:space="preserve">
+          <source>Update Password:</source>
+          <target state="new">Update Password:</target>
+        </trans-unit>
+        <trans-unit id="UpdatePassword.Help" translate="yes" xml:space="preserve">
+          <source>Indicates whether this user is forced to update their password.</source>
+          <target state="new">Indicates whether this user is forced to update their password.</target>
+        </trans-unit>
+        <trans-unit id="IsDeleted.Text" translate="yes" xml:space="preserve">
+          <source>Deleted:</source>
+          <target state="new">Deleted:</target>
+        </trans-unit>
+        <trans-unit id="IsDeleted.Help" translate="yes" xml:space="preserve">
+          <source>Indicates whether this user is deleted.</source>
+          <target state="new">Indicates whether this user is deleted.</target>
+        </trans-unit>
+        <trans-unit id="cmdPassword.Text" translate="yes" xml:space="preserve">
+          <source>Force Password Change</source>
+          <target state="new">Force Password Change</target>
+        </trans-unit>
+        <trans-unit id="Never.Text" translate="yes" xml:space="preserve">
+          <source>Never</source>
+          <target state="new">Never</target>
+        </trans-unit>
+        <trans-unit id="OptionUnavailable.Text" translate="yes" xml:space="preserve">
+          <source>Reset Password option is currently unavailable.</source>
+          <target state="new">Reset Password option is currently unavailable.</target>
+        </trans-unit>
+        <trans-unit id="DemoteFromSuperUser.Text" translate="yes" xml:space="preserve">
+          <source>Make Regular User</source>
+          <target state="new">Make Regular User</target>
+        </trans-unit>
+        <trans-unit id="PromoteToSuperUser.Text" translate="yes" xml:space="preserve">
+          <source>Make Super User</source>
+          <target state="new">Make Super User</target>
+        </trans-unit>
+        <trans-unit id="UserFolder.Help" translate="yes" xml:space="preserve">
+          <source>The folder that stores this user's files.</source>
+          <target state="new">The folder that stores this user's files.</target>
+        </trans-unit>
+        <trans-unit id="UserFolder.Text" translate="yes" xml:space="preserve">
+          <source>User Folder:</source>
+          <target state="new">User Folder:</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

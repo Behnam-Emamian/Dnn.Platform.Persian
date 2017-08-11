@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="ViewSource.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="cmdUpdate.Text" translate="yes" xml:space="preserve">
+          <source>Update</source>
+          <target state="new">Update</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_viewsource.Text" translate="yes" xml:space="preserve">
+          <source>View Source</source>
+          <target state="new">View Source</target>
+        </trans-unit>
+        <trans-unit id="plSource.Help" translate="yes" xml:space="preserve">
+          <source>You can view the file's contents in the text box below.  If you are running on a local machine then you can also edit and modify the source.</source>
+          <target state="new">You can view the file's contents in the text box below.  If you are running on a local machine then you can also edit and modify the source.</target>
+        </trans-unit>
+        <trans-unit id="plSource.Text" translate="yes" xml:space="preserve">
+          <source>Location:</source>
+          <target state="new">Location:</target>
+        </trans-unit>
+        <trans-unit id="SourceFile.Text" translate="yes" xml:space="preserve">
+          <source>Source File - {0}</source>
+          <target state="new">Source File - {0}</target>
+        </trans-unit>
+        <trans-unit id="plFile.Help" translate="yes" xml:space="preserve">
+          <source>Select a file whose source you want to view.</source>
+          <target state="new">Select a file whose source you want to view.</target>
+        </trans-unit>
+        <trans-unit id="plFile.Text" translate="yes" xml:space="preserve">
+          <source>Select File:</source>
+          <target state="new">Select File:</target>
+        </trans-unit>
+        <trans-unit id="NoFileTypeSelected.Text" translate="yes" xml:space="preserve">
+          <source>You must select a File Type to edit before clicking the Update button.</source>
+          <target state="new">You must select a File Type to edit before clicking the Update button.</target>
+        </trans-unit>
+        <trans-unit id="plLanguage.Text" translate="yes" xml:space="preserve">
+          <source>Language:</source>
+          <target state="new">Language:</target>
+        </trans-unit>
+        <trans-unit id="plLanguage.Help" translate="yes" xml:space="preserve">
+          <source>Select your preferred language for developing the module.</source>
+          <target state="new">Select your preferred language for developing the module.</target>
+        </trans-unit>
+        <trans-unit id="C#.Text" translate="yes" xml:space="preserve">
+          <source>C#</source>
+          <target state="new">C#</target>
+        </trans-unit>
+        <trans-unit id="VB.Text" translate="yes" xml:space="preserve">
+          <source>Visual Basic</source>
+          <target state="new">Visual Basic</target>
+        </trans-unit>
+        <trans-unit id="plTemplate.Text" translate="yes" xml:space="preserve">
+          <source>Template:</source>
+          <target state="new">Template:</target>
+        </trans-unit>
+        <trans-unit id="plTemplate.Help" translate="yes" xml:space="preserve">
+          <source>Select your preferred module development template.  Module development templates are stored in the Templates subfolder within the Module Creator module folder.</source>
+          <target state="new">Select your preferred module development template.  Module development templates are stored in the Templates subfolder within the Module Creator module folder.</target>
+        </trans-unit>
+        <trans-unit id="plControl.Text" translate="yes" xml:space="preserve">
+          <source>Control Name:</source>
+          <target state="new">Control Name:</target>
+        </trans-unit>
+        <trans-unit id="plControl.Help" translate="yes" xml:space="preserve">
+          <source>A unique name for the module control.</source>
+          <target state="new">A unique name for the module control.</target>
+        </trans-unit>
+        <trans-unit id="plType.Text" translate="yes" xml:space="preserve">
+          <source>Control Type:</source>
+          <target state="new">Control Type:</target>
+        </trans-unit>
+        <trans-unit id="plType.Help" translate="yes" xml:space="preserve">
+          <source>Select the type of control.</source>
+          <target state="new">Select the type of control.</target>
+        </trans-unit>
+        <trans-unit id="cmdCreate.Text" translate="yes" xml:space="preserve">
+          <source>Create</source>
+          <target state="new">Create</target>
+        </trans-unit>
+        <trans-unit id="ControlCreated.Text" translate="yes" xml:space="preserve">
+          <source>The file was successfully created.</source>
+          <target state="new">The file was successfully created.</target>
+        </trans-unit>
+        <trans-unit id="ControlUpdated.Text" translate="yes" xml:space="preserve">
+          <source>The file was updated successfully.</source>
+          <target state="new">The file was updated successfully.</target>
+        </trans-unit>
+        <trans-unit id="FolderNameInvalid.Text" translate="yes" xml:space="preserve">
+          <source>The Folder Name identified for this module does not exist.  Please review the settings for this module in Host - Extensions.</source>
+          <target state="new">The Folder Name identified for this module does not exist.  Please review the settings for this module in Host - Extensions.</target>
+        </trans-unit>
+        <trans-unit id="AddControlError.Text" translate="yes" xml:space="preserve">
+          <source>You must select a module template and provide a control name.</source>
+          <target state="new">You must select a module template and provide a control name.</target>
+        </trans-unit>
+        <trans-unit id="cmdPackage.Text" translate="yes" xml:space="preserve">
+          <source>Create Package</source>
+          <target state="new">Create Package</target>
+        </trans-unit>
+        <trans-unit id="cmdConfigure.Text" translate="yes" xml:space="preserve">
+          <source>Configure</source>
+          <target state="new">Configure</target>
+        </trans-unit>
+        <trans-unit id="Add.Text" translate="yes" xml:space="preserve">
+          <source>Add</source>
+          <target state="new">Add</target>
+        </trans-unit>
+        <trans-unit id="Edit.Text" translate="yes" xml:space="preserve">
+          <source>Edit</source>
+          <target state="new">Edit</target>
+        </trans-unit>
+        <trans-unit id="AddFile.Text" translate="yes" xml:space="preserve">
+          <source>Add File</source>
+          <target state="new">Add File</target>
+        </trans-unit>
+        <trans-unit id="EditFile.Text" translate="yes" xml:space="preserve">
+          <source>Edit File</source>
+          <target state="new">Edit File</target>
+        </trans-unit>
+        <trans-unit id="Snippet.Text" translate="yes" xml:space="preserve">
+          <source>Code Snippets</source>
+          <target state="new">Code Snippets</target>
+        </trans-unit>
+        <trans-unit id="cmdSave.Text" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="cmdSaveAs.Text" translate="yes" xml:space="preserve">
+          <source>Save As</source>
+          <target state="new">Save As</target>
+        </trans-unit>
+        <trans-unit id="DeleteSnippet.Text" translate="yes" xml:space="preserve">
+          <source>Delete Snippet?</source>
+          <target state="new">Delete Snippet?</target>
+        </trans-unit>
+        <trans-unit id="View.Text" translate="yes" xml:space="preserve">
+          <source>View</source>
+          <target state="new">View</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

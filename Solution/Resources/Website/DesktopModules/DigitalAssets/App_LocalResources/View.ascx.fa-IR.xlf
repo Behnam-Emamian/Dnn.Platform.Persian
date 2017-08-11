@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="View.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ChooseFiles.Text" translate="yes" xml:space="preserve">
+          <source>Choose Files</source>
+          <target state="new">Choose Files</target>
+        </trans-unit>
+        <trans-unit id="Close.Text" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <target state="new">Close</target>
+        </trans-unit>
+        <trans-unit id="Cancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="EditModule.Text" translate="yes" xml:space="preserve">
+          <source>Edit Module</source>
+          <target state="new">Edit Module</target>
+        </trans-unit>
+        <trans-unit id="FolderName.Help" translate="yes" xml:space="preserve">
+          <source>The name of the folder.</source>
+          <target state="new">The name of the folder.</target>
+        </trans-unit>
+        <trans-unit id="FolderName.Text" translate="yes" xml:space="preserve">
+          <source>Folder Name</source>
+          <target state="new">Folder Name</target>
+        </trans-unit>
+        <trans-unit id="FolderType.Help" translate="yes" xml:space="preserve">
+          <source>Select the folder type.</source>
+          <target state="new">Select the folder type.</target>
+        </trans-unit>
+        <trans-unit id="FolderType.Text" translate="yes" xml:space="preserve">
+          <source>Folder Type</source>
+          <target state="new">Folder Type</target>
+        </trans-unit>
+        <trans-unit id="Modified.Header" translate="yes" xml:space="preserve">
+          <source>Date modified</source>
+          <target state="new">Date modified</target>
+        </trans-unit>
+        <trans-unit id="Name.Header" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="rfvFolderName.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Folder name is required.</source>
+          <target state="new">Folder name is required.</target>
+        </trans-unit>
+        <trans-unit id="Save.Text" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="UploadFiles.DropHere" translate="yes" xml:space="preserve">
+          <source>DROP STUFF HERE</source>
+          <target state="new">DROP STUFF HERE</target>
+        </trans-unit>
+        <trans-unit id="UploadFiles.Info" translate="yes" xml:space="preserve">
+          <source>You can select more than one file at a time.</source>
+          <target state="new">You can select more than one file at a time.</target>
+        </trans-unit>
+        <trans-unit id="CreateNewFolderTitle.Text" translate="yes" xml:space="preserve">
+          <source>Create New Folder</source>
+          <target state="new">Create New Folder</target>
+        </trans-unit>
+        <trans-unit id="Loading.Text" translate="yes" xml:space="preserve">
+          <source>loading...</source>
+          <target state="new">loading...</target>
+        </trans-unit>
+        <trans-unit id="Delete.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="NoItemsSelected.Text" translate="yes" xml:space="preserve">
+          <source>You must select at least one item to perform the delete operation.</source>
+          <target state="new">You must select at least one item to perform the delete operation.</target>
+        </trans-unit>
+        <trans-unit id="DeleteConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete [ITEMS]?</source>
+          <target state="new">Are you sure you want to delete [ITEMS]?</target>
+        </trans-unit>
+        <trans-unit id="OneFile.Text" translate="yes" xml:space="preserve">
+          <source>1 File</source>
+          <target state="new">1 File</target>
+        </trans-unit>
+        <trans-unit id="OneFolder.Text" translate="yes" xml:space="preserve">
+          <source>1 Folder</source>
+          <target state="new">1 Folder</target>
+        </trans-unit>
+        <trans-unit id="Items.Text" translate="yes" xml:space="preserve">
+          <source>Item(s)</source>
+          <target state="new">Item(s)</target>
+        </trans-unit>
+        <trans-unit id="UploadError.Text" translate="yes" xml:space="preserve">
+          <source>Error uploading file</source>
+          <target state="new">Error uploading file</target>
+        </trans-unit>
+        <trans-unit id="And.Text" translate="yes" xml:space="preserve">
+          <source>[FILES] and [FOLDERS]</source>
+          <target state="new">[FILES] and [FOLDERS]</target>
+        </trans-unit>
+        <trans-unit id="NoItems.Text" translate="yes" xml:space="preserve">
+          <source>This folder is empty.</source>
+          <target state="new">This folder is empty.</target>
+        </trans-unit>
+        <trans-unit id="ExtensionChangeConfirmContent.Text" translate="yes" xml:space="preserve">
+          <source>If you change a file name extension, the file might become unusable. <it id="1" pos="open">&lt;br&gt;</it>Are you sure you want to change it?</source>
+          <target state="new">If you change a file name extension, the file might become unusable. <it id="1" pos="open">&lt;br&gt;</it>Are you sure you want to change it?</target>
+        </trans-unit>
+        <trans-unit id="ExtensionChangeConfirmTitle.Text" translate="yes" xml:space="preserve">
+          <source>Extension has changed.</source>
+          <target state="new">Extension has changed.</target>
+        </trans-unit>
+        <trans-unit id="NoConfirm.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="OkConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Ok</source>
+          <target state="new">Ok</target>
+        </trans-unit>
+        <trans-unit id="CopyFiles.Text" translate="yes" xml:space="preserve">
+          <source>Copy Files</source>
+          <target state="new">Copy Files</target>
+        </trans-unit>
+        <trans-unit id="CopyFiles.Title" translate="yes" xml:space="preserve">
+          <source>Copy [SELECTION] to...</source>
+          <target state="new">Copy [SELECTION] to...</target>
+        </trans-unit>
+        <trans-unit id="NFiles.Text" translate="yes" xml:space="preserve">
+          <source>[NUM] Files</source>
+          <target state="new">[NUM] Files</target>
+        </trans-unit>
+        <trans-unit id="NFolders.Text" translate="yes" xml:space="preserve">
+          <source>[NUM] Folders</source>
+          <target state="new">[NUM] Folders</target>
+        </trans-unit>
+        <trans-unit id="NoItemsDeletedDescription.Text" translate="yes" xml:space="preserve">
+          <source>You do not have permission to delete the following items:</source>
+          <target state="new">You do not have permission to delete the following items:</target>
+        </trans-unit>
+        <trans-unit id="NoItemsDeleted.Title" translate="yes" xml:space="preserve">
+          <source>[ITEMS] cannot be deleted</source>
+          <target state="new">[ITEMS] cannot be deleted</target>
+        </trans-unit>
+        <trans-unit id="Move.Title" translate="yes" xml:space="preserve">
+          <source>Move [SELECTION] to...</source>
+          <target state="new">Move [SELECTION] to...</target>
+        </trans-unit>
+        <trans-unit id="Keep.Text" translate="yes" xml:space="preserve">
+          <source>Keep</source>
+          <target state="new">Keep</target>
+        </trans-unit>
+        <trans-unit id="Replace.Text" translate="yes" xml:space="preserve">
+          <source>Replace</source>
+          <target state="new">Replace</target>
+        </trans-unit>
+        <trans-unit id="DuplicateCopy.Subtext" translate="yes" xml:space="preserve">
+          <source>Items with the filename(s) you tried to copy already exist in this location.</source>
+          <target state="new">Items with the filename(s) you tried to copy already exist in this location.</target>
+        </trans-unit>
+        <trans-unit id="DuplicateFilesExist.Text" translate="yes" xml:space="preserve">
+          <source>Duplicate Files Exist</source>
+          <target state="new">Duplicate Files Exist</target>
+        </trans-unit>
+        <trans-unit id="DuplicateMove.Subtext" translate="yes" xml:space="preserve">
+          <source>Items with the filename(s) you tried to move already exist in this location.</source>
+          <target state="new">Items with the filename(s) you tried to move already exist in this location.</target>
+        </trans-unit>
+        <trans-unit id="DuplicateUpload.Subtext" translate="yes" xml:space="preserve">
+          <source>Items with the filename(s) you tried to upload already exist in this location.</source>
+          <target state="new">Items with the filename(s) you tried to upload already exist in this location.</target>
+        </trans-unit>
+        <trans-unit id="KeepAll.Text" translate="yes" xml:space="preserve">
+          <source>Keep All</source>
+          <target state="new">Keep All</target>
+        </trans-unit>
+        <trans-unit id="ReplaceAll.Text" translate="yes" xml:space="preserve">
+          <source>Replace All</source>
+          <target state="new">Replace All</target>
+        </trans-unit>
+        <trans-unit id="CreateFolderError.Title" translate="yes" xml:space="preserve">
+          <source>An error occurred while creating the folder.</source>
+          <target state="new">An error occurred while creating the folder.</target>
+        </trans-unit>
+        <trans-unit id="DeleteItemsError.Title" translate="yes" xml:space="preserve">
+          <source>An error occurred while deleting the items.</source>
+          <target state="new">An error occurred while deleting the items.</target>
+        </trans-unit>
+        <trans-unit id="LoadFolderContentError.Title" translate="yes" xml:space="preserve">
+          <source>An error occurred while loading the folder content.</source>
+          <target state="new">An error occurred while loading the folder content.</target>
+        </trans-unit>
+        <trans-unit id="LoadSubFoldersError.Title" translate="yes" xml:space="preserve">
+          <source>An error occurred while loading the sub folders.</source>
+          <target state="new">An error occurred while loading the sub folders.</target>
+        </trans-unit>
+        <trans-unit id="RenameFileError.Title" translate="yes" xml:space="preserve">
+          <source>File naming error.</source>
+          <target state="new">File naming error.</target>
+        </trans-unit>
+        <trans-unit id="RenameFolderError.Title" translate="yes" xml:space="preserve">
+          <source>Folder naming error.</source>
+          <target state="new">Folder naming error.</target>
+        </trans-unit>
+        <trans-unit id="UploadFiles.Title" translate="yes" xml:space="preserve">
+          <source>Upload Files.</source>
+          <target state="new">Upload Files.</target>
+        </trans-unit>
+        <trans-unit id="FileUploadAlreadyExists.Text" translate="yes" xml:space="preserve">
+          <source>The file you want to upload already exists in this location.</source>
+          <target state="new">The file you want to upload already exists in this location.</target>
+        </trans-unit>
+        <trans-unit id="FileUploadErrorOccurred.Error" translate="yes" xml:space="preserve">
+          <source>An error occurred while uploading the file.</source>
+          <target state="new">An error occurred while uploading the file.</target>
+        </trans-unit>
+        <trans-unit id="FileUploadStopped.Text" translate="yes" xml:space="preserve">
+          <source>File upload stopped.</source>
+          <target state="new">File upload stopped.</target>
+        </trans-unit>
+        <trans-unit id="ExpandFile.Text" translate="yes" xml:space="preserve">
+          <source>Expand File</source>
+          <target state="new">Expand File</target>
+        </trans-unit>
+        <trans-unit id="KeepCompressed.Text" translate="yes" xml:space="preserve">
+          <source>Keep Compressed</source>
+          <target state="new">Keep Compressed</target>
+        </trans-unit>
+        <trans-unit id="ZipConfirmation.Text" translate="yes" xml:space="preserve">
+          <source>You tried to upload a compressed zip file called [FILE].<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept>Do you want to expand this compressed file?</source>
+          <target state="new">You tried to upload a compressed zip file called [FILE].<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept>Do you want to expand this compressed file?</target>
+        </trans-unit>
+        <trans-unit id="GetUrl.Text" translate="yes" xml:space="preserve">
+          <source>Get URL</source>
+          <target state="new">Get URL</target>
+        </trans-unit>
+        <trans-unit id="GetUrl.Title" translate="yes" xml:space="preserve">
+          <source>Get URL</source>
+          <target state="new">Get URL</target>
+        </trans-unit>
+        <trans-unit id="GetUrlAltText.Text" translate="yes" xml:space="preserve">
+          <source>Click and press CTRL+C to copy...</source>
+          <target state="new">Click and press CTRL+C to copy...</target>
+        </trans-unit>
+        <trans-unit id="GetFileUrlLabel.Text" translate="yes" xml:space="preserve">
+          <source>File URL Is:</source>
+          <target state="new">File URL Is:</target>
+        </trans-unit>
+        <trans-unit id="GetUrlError.Title" translate="yes" xml:space="preserve">
+          <source>An error occurred while getting the URL.</source>
+          <target state="new">An error occurred while getting the URL.</target>
+        </trans-unit>
+        <trans-unit id="ManageFolderTypes.Text" translate="yes" xml:space="preserve">
+          <source>Manage Folder Types</source>
+          <target state="new">Manage Folder Types</target>
+        </trans-unit>
+        <trans-unit id="ParentFolder.Header" translate="yes" xml:space="preserve">
+          <source>Parent Folder</source>
+          <target state="new">Parent Folder</target>
+        </trans-unit>
+        <trans-unit id="SearchBreadcrumb.Text" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="NoItemsSearch.Text" translate="yes" xml:space="preserve">
+          <source>No items match your search</source>
+          <target state="new">No items match your search</target>
+        </trans-unit>
+        <trans-unit id="Copy.Text" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <target state="new">Copy</target>
+        </trans-unit>
+        <trans-unit id="CreateFolder.Text" translate="yes" xml:space="preserve">
+          <source>Create Folder</source>
+          <target state="new">Create Folder</target>
+        </trans-unit>
+        <trans-unit id="DeleteFolder.Text" translate="yes" xml:space="preserve">
+          <source>Delete Folder</source>
+          <target state="new">Delete Folder</target>
+        </trans-unit>
+        <trans-unit id="RefreshFolder.Text" translate="yes" xml:space="preserve">
+          <source>Refresh Folder</source>
+          <target state="new">Refresh Folder</target>
+        </trans-unit>
+        <trans-unit id="RenameFolder.Text" translate="yes" xml:space="preserve">
+          <source>Rename Folder</source>
+          <target state="new">Rename Folder</target>
+        </trans-unit>
+        <trans-unit id="ViewFolderProperties.Text" translate="yes" xml:space="preserve">
+          <source>View Folder Properties</source>
+          <target state="new">View Folder Properties</target>
+        </trans-unit>
+        <trans-unit id="Download.Text" translate="yes" xml:space="preserve">
+          <source>Download</source>
+          <target state="new">Download</target>
+        </trans-unit>
+        <trans-unit id="Move.Text" translate="yes" xml:space="preserve">
+          <source>Move</source>
+          <target state="new">Move</target>
+        </trans-unit>
+        <trans-unit id="Rename.Text" translate="yes" xml:space="preserve">
+          <source>Rename</source>
+          <target state="new">Rename</target>
+        </trans-unit>
+        <trans-unit id="ViewProperties.Text" translate="yes" xml:space="preserve">
+          <source>View Properties</source>
+          <target state="new">View Properties</target>
+        </trans-unit>
+        <trans-unit id="Size.Header" translate="yes" xml:space="preserve">
+          <source>Size</source>
+          <target state="new">Size</target>
+        </trans-unit>
+        <trans-unit id="Copy.Error" translate="yes" xml:space="preserve">
+          <source>Copy Error</source>
+          <target state="new">Copy Error</target>
+        </trans-unit>
+        <trans-unit id="Move.Error" translate="yes" xml:space="preserve">
+          <source>Move Error</source>
+          <target state="new">Move Error</target>
+        </trans-unit>
+        <trans-unit id="LeftPaneFilesTab.Text" translate="yes" xml:space="preserve">
+          <source>Files</source>
+          <target state="new">Files</target>
+        </trans-unit>
+        <trans-unit id="UploadFilesDragDrop.Info" translate="yes" xml:space="preserve">
+          <source>Or drag and drop on the blue area below</source>
+          <target state="new">Or drag and drop on the blue area below</target>
+        </trans-unit>
+        <trans-unit id="ParentFolder.Text" translate="yes" xml:space="preserve">
+          <source>Parent Folder</source>
+          <target state="new">Parent Folder</target>
+        </trans-unit>
+        <trans-unit id="ParentFolder.Help" translate="yes" xml:space="preserve">
+          <source>The parent folder in which the new folder will be created.</source>
+          <target state="new">The parent folder in which the new folder will be created.</target>
+        </trans-unit>
+        <trans-unit id="Moving.Text" translate="yes" xml:space="preserve">
+          <source>Moving [SELECTION]</source>
+          <target state="new">Moving [SELECTION]</target>
+        </trans-unit>
+        <trans-unit id="MappedPath.Help" translate="yes" xml:space="preserve">
+          <source>Enter the path to this folder in the folder provider. The path entered is relative to the root of the provider, so if the field is left empty then the folder will map to the provider root.</source>
+          <target state="new">Enter the path to this folder in the folder provider. The path entered is relative to the root of the provider, so if the field is left empty then the folder will map to the provider root.</target>
+        </trans-unit>
+        <trans-unit id="MappedPath.Text" translate="yes" xml:space="preserve">
+          <source>Mapped Path</source>
+          <target state="new">Mapped Path</target>
+        </trans-unit>
+        <trans-unit id="SelectAll.Text" translate="yes" xml:space="preserve">
+          <source>Select All</source>
+          <target state="new">Select All</target>
+        </trans-unit>
+        <trans-unit id="UnselectAll.Text" translate="yes" xml:space="preserve">
+          <source>Unselect All</source>
+          <target state="new">Unselect All</target>
+        </trans-unit>
+        <trans-unit id="All.Text" translate="yes" xml:space="preserve">
+          <source>All</source>
+          <target state="new">All</target>
+        </trans-unit>
+        <trans-unit id="PagerFirstPage.Text" translate="yes" xml:space="preserve">
+          <source>First</source>
+          <target state="new">First</target>
+        </trans-unit>
+        <trans-unit id="PagerFirstPage.ToolTip" translate="yes" xml:space="preserve">
+          <source>Go to the first page</source>
+          <target state="new">Go to the first page</target>
+        </trans-unit>
+        <trans-unit id="PagerLastPage.Text" translate="yes" xml:space="preserve">
+          <source>Last</source>
+          <target state="new">Last</target>
+        </trans-unit>
+        <trans-unit id="PagerLastPage.ToolTip" translate="yes" xml:space="preserve">
+          <source>Go to the last page</source>
+          <target state="new">Go to the last page</target>
+        </trans-unit>
+        <trans-unit id="PagerNextPage.Text" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="new">Next</target>
+        </trans-unit>
+        <trans-unit id="PagerNextPage.ToolTip" translate="yes" xml:space="preserve">
+          <source>Go to the next page</source>
+          <target state="new">Go to the next page</target>
+        </trans-unit>
+        <trans-unit id="PagerPageSize.Text" translate="yes" xml:space="preserve">
+          <source>Items per Page:</source>
+          <target state="new">Items per Page:</target>
+        </trans-unit>
+        <trans-unit id="PagerPreviousPage.Text" translate="yes" xml:space="preserve">
+          <source>Prev</source>
+          <target state="new">Prev</target>
+        </trans-unit>
+        <trans-unit id="PagerPreviousPage.ToolTip" translate="yes" xml:space="preserve">
+          <source>Go to the previous page</source>
+          <target state="new">Go to the previous page</target>
+        </trans-unit>
+        <trans-unit id="PagerTextFormatMultiplePages.Text" translate="yes" xml:space="preserve">
+          <source>[ITEMS] items on [PAGES] pages</source>
+          <target state="new">[ITEMS] items on [PAGES] pages</target>
+        </trans-unit>
+        <trans-unit id="PagerTextFormatOnePage.Text" translate="yes" xml:space="preserve">
+          <source>[ITEMS] items</source>
+          <target state="new">[ITEMS] items</target>
+        </trans-unit>
+        <trans-unit id="PagerTextFormatOnePageOneItem.Text" translate="yes" xml:space="preserve">
+          <source>[ITEMS] item</source>
+          <target state="new">[ITEMS] item</target>
+        </trans-unit>
+        <trans-unit id="MaxFileUploadSizeError.Text" translate="yes" xml:space="preserve">
+          <source>Could not be uploaded: File size bigger than [MAXFILESIZE]</source>
+          <target state="new">Could not be uploaded: File size bigger than [MAXFILESIZE]</target>
+        </trans-unit>
+        <trans-unit id="Delete.Title" translate="yes" xml:space="preserve">
+          <source>Delete [ITEMS] ...</source>
+          <target state="new">Delete [ITEMS] ...</target>
+        </trans-unit>
+        <trans-unit id="UnzipFile.Text" translate="yes" xml:space="preserve">
+          <source>Unzip File</source>
+          <target state="new">Unzip File</target>
+        </trans-unit>
+        <trans-unit id="UnzipFileErrorTitle.Text" translate="yes" xml:space="preserve">
+          <source>An error occured while unzipping the file.</source>
+          <target state="new">An error occured while unzipping the file.</target>
+        </trans-unit>
+        <trans-unit id="MappedPathRegExValidator.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>The path must be relative to the root of the provider.</source>
+          <target state="new">The path must be relative to the root of the provider.</target>
+        </trans-unit>
+        <trans-unit id="FileUploadEmptyFileIsNotSupported.Error" translate="yes" xml:space="preserve">
+          <source>Your browser does not support empty file uploads.</source>
+          <target state="new">Your browser does not support empty file uploads.</target>
+        </trans-unit>
+        <trans-unit id="UploadingExtracting.Text" translate="yes" xml:space="preserve">
+          <source>Uploading and extracting...</source>
+          <target state="new">Uploading and extracting...</target>
+        </trans-unit>
+        <trans-unit id="InvalidGroup.Error" translate="yes" xml:space="preserve">
+          <source>The group ID is not set. Please go back to the groups page and select the desired group.</source>
+          <target state="new">The group ID is not set. Please go back to the groups page and select the desired group.</target>
+        </trans-unit>
+        <trans-unit id="InvalidUser.Error" translate="yes" xml:space="preserve">
+          <source>The module is configured as User mode, it cannot be used with unauthenticated user.</source>
+          <target state="new">The module is configured as User mode, it cannot be used with unauthenticated user.</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_.Text" translate="yes" xml:space="preserve">
+          <source>File Management</source>
+          <target state="new">File Management</target>
+        </trans-unit>
+        <trans-unit id="ToolbarTitle.Actions.Text" translate="yes" xml:space="preserve">
+          <source>Actions</source>
+          <target state="new">Actions</target>
+        </trans-unit>
+        <trans-unit id="ToolbarTitle.Views.Text" translate="yes" xml:space="preserve">
+          <source>Views</source>
+          <target state="new">Views</target>
+        </trans-unit>
+        <trans-unit id="Unlink.Text" translate="yes" xml:space="preserve">
+          <source>Unlink</source>
+          <target state="new">Unlink</target>
+        </trans-unit>
+        <trans-unit id="UnlinkFolder.Text" translate="yes" xml:space="preserve">
+          <source>Unlink Folder</source>
+          <target state="new">Unlink Folder</target>
+        </trans-unit>
+        <trans-unit id="UnlinkFolderError.Title" translate="yes" xml:space="preserve">
+          <source>An error occurred while unlinking the folder.</source>
+          <target state="new">An error occurred while unlinking the folder.</target>
+        </trans-unit>
+        <trans-unit id="Unlink.Title" translate="yes" xml:space="preserve">
+          <source>Unlink Folder...</source>
+          <target state="new">Unlink Folder...</target>
+        </trans-unit>
+        <trans-unit id="UnlinkConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to unlink the Folder?</source>
+          <target state="new">Are you sure you want to unlink the Folder?</target>
+        </trans-unit>
+        <trans-unit id="DeleteConfirmWithMappedSubfolder.Text" translate="yes" xml:space="preserve">
+          <source>Note: Selected folders include [COUNT] Remote Folder.  This will be unlinked from this site and the folder and files will remain at the remote location.</source>
+          <target state="new">Note: Selected folders include [COUNT] Remote Folder.  This will be unlinked from this site and the folder and files will remain at the remote location.</target>
+        </trans-unit>
+        <trans-unit id="DeleteConfirmWithMappedSubfolders.Text" translate="yes" xml:space="preserve">
+          <source>Note: Selected folders include [COUNT] Remote Folders.  These will be unlinked from this site and folders and files will remain at the remote location.</source>
+          <target state="new">Note: Selected folders include [COUNT] Remote Folders.  These will be unlinked from this site and folders and files will remain at the remote location.</target>
+        </trans-unit>
+        <trans-unit id="FileLabel.Text" translate="yes" xml:space="preserve">
+          <source>File</source>
+          <target state="new">File</target>
+        </trans-unit>
+        <trans-unit id="FileMultLabel.Text" translate="yes" xml:space="preserve">
+          <source>Files</source>
+          <target state="new">Files</target>
+        </trans-unit>
+        <trans-unit id="FolderLabel.Text" translate="yes" xml:space="preserve">
+          <source>Folder</source>
+          <target state="new">Folder</target>
+        </trans-unit>
+        <trans-unit id="FolderMultLabel.Text" translate="yes" xml:space="preserve">
+          <source>Folders</source>
+          <target state="new">Folders</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

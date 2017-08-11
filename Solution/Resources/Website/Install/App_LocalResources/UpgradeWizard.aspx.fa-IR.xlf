@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="UpgradeWizard.aspx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="AccountInfo.Text" translate="yes" xml:space="preserve">
+          <source>Account Info</source>
+          <target state="new">Account Info</target>
+        </trans-unit>
+        <trans-unit id="BestPractices.Text" translate="yes" xml:space="preserve">
+          <source>You are about to upgrade your website to a more recent version of the application. Applying upgrades on a consistent basis is the best way to ensure that you are protecting the integrity of your investment and the security of your users and assets. Before proceeding with the automated upgrade process please ensure that:
+<bpt id="1">&lt;ul&gt;</bpt>
+<it id="2" pos="open">&lt;li&gt;</it>you have made plans to first attempt this process in a staging environment
+<it id="3" pos="open">&lt;li&gt;</it>you have documented your current installation characteristics including doing research on the compatibility of any third party modules which you may be using
+<it id="4" pos="open">&lt;li&gt;</it>you have created the necessary backups of your environment so that you will be able to restore your website in the event of an unexpected upgrade failure.
+<ept id="1">&lt;/ul&gt;</ept></source>
+          <target state="new">You are about to upgrade your website to a more recent version of the application. Applying upgrades on a consistent basis is the best way to ensure that you are protecting the integrity of your investment and the security of your users and assets. Before proceeding with the automated upgrade process please ensure that:
+<bpt id="1">&lt;ul&gt;</bpt>
+<it id="2" pos="open">&lt;li&gt;</it>you have made plans to first attempt this process in a staging environment
+<it id="3" pos="open">&lt;li&gt;</it>you have documented your current installation characteristics including doing research on the compatibility of any third party modules which you may be using
+<it id="4" pos="open">&lt;li&gt;</it>you have created the necessary backups of your environment so that you will be able to restore your website in the event of an unexpected upgrade failure.
+<ept id="1">&lt;/ul&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="VersionsMatch.Text" translate="yes" xml:space="preserve">
+          <source>Database and application versions match - there is no upgrade to apply.</source>
+          <target state="new">Database and application versions match - there is no upgrade to apply.</target>
+        </trans-unit>
+        <trans-unit id="VersionsMatchButIncrementalExists.Text" translate="yes" xml:space="preserve">
+          <source>Database and application versions match - there is an incremental release you can upgrade to.</source>
+          <target state="new">Database and application versions match - there is an incremental release you can upgrade to.</target>
+        </trans-unit>
+        <trans-unit id="CurrentVersion.Text" translate="yes" xml:space="preserve">
+          <source>Current Version - {0}</source>
+          <target state="new">Current Version - {0}</target>
+        </trans-unit>
+        <trans-unit id="DatabaseUpgrade.Text" translate="yes" xml:space="preserve">
+          <source>Updating Database</source>
+          <target state="new">Updating Database</target>
+        </trans-unit>
+        <trans-unit id="Error.Text" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <target state="new">Error</target>
+        </trans-unit>
+        <trans-unit id="ErrorInStep.Text" translate="yes" xml:space="preserve">
+          <source>ERROR occured - {0}</source>
+          <target state="new">ERROR occured - {0}</target>
+        </trans-unit>
+        <trans-unit id="ExtensionsUpgrade.Text" translate="yes" xml:space="preserve">
+          <source>Updating Extensions</source>
+          <target state="new">Updating Extensions</target>
+        </trans-unit>
+        <trans-unit id="IntroDetail.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Welcome to the DotNetNuke Upgrade Page.<ept id="1">&lt;/p&gt;</ept>
+
+<bpt id="2">&lt;p&gt;</bpt>The first step is to choose the language you want to use for the upgrade.<ept id="2">&lt;/p&gt;</ept>
+
+</source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Welcome to the DotNetNuke Upgrade Page.<ept id="1">&lt;/p&gt;</ept>
+
+<bpt id="2">&lt;p&gt;</bpt>The first step is to choose the language you want to use for the upgrade.<ept id="2">&lt;/p&gt;</ept>
+
+</target>
+        </trans-unit>
+        <trans-unit id="InvalidCredentials.Text" translate="yes" xml:space="preserve">
+          <source>Username and Password not recognized.</source>
+          <target state="new">Username and Password not recognized.</target>
+        </trans-unit>
+        <trans-unit id="Next.Text" translate="yes" xml:space="preserve">
+          <source>Upgrade Now</source>
+          <target state="new">Upgrade Now</target>
+        </trans-unit>
+        <trans-unit id="NoInstallationLog.Text" translate="yes" xml:space="preserve">
+          <source>No Installation Log</source>
+          <target state="new">No Installation Log</target>
+        </trans-unit>
+        <trans-unit id="Password.Help" translate="yes" xml:space="preserve">
+          <source>The password for the Super User account.</source>
+          <target state="new">The password for the Super User account.</target>
+        </trans-unit>
+        <trans-unit id="Password.Text" translate="yes" xml:space="preserve">
+          <source>Password:</source>
+          <target state="new">Password:</target>
+        </trans-unit>
+        <trans-unit id="ImprovementsProgramTitle.Text" translate="yes" xml:space="preserve">
+          <source>Product Improvement Program</source>
+          <target state="new">Product Improvement Program</target>
+        </trans-unit>
+        <trans-unit id="ImprovementProgramExplain.Text" translate="yes" xml:space="preserve">
+          <source>The product improvement program allows us to better understand how we can
+improve DNN for you. The data will help us analyze usage and what is important
+for people using the product. All of the data is anonymous and for internal use only. Learn more about the <bpt id="1">&lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;</bpt>Product Improvement Program<ept id="1">&lt;/a&gt;</ept>.</source>
+          <target state="new">The product improvement program allows us to better understand how we can
+improve DNN for you. The data will help us analyze usage and what is important
+for people using the product. All of the data is anonymous and for internal use only. Learn more about the <bpt id="1">&lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;</bpt>Product Improvement Program<ept id="1">&lt;/a&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="ImprovementProgramLabel.Text" translate="yes" xml:space="preserve">
+          <source>Send anonymous usage information to DNN</source>
+          <target state="new">Send anonymous usage information to DNN</target>
+        </trans-unit>
+        <trans-unit id="Retry.Text" translate="yes" xml:space="preserve">
+          <source>Retry</source>
+          <target state="new">Retry</target>
+        </trans-unit>
+        <trans-unit id="SeeLogs.Text" translate="yes" xml:space="preserve">
+          <source>View Logs</source>
+          <target state="new">View Logs</target>
+        </trans-unit>
+        <trans-unit id="TimerMinutes.Text" translate="yes" xml:space="preserve">
+          <source>Minutes</source>
+          <target state="new">Minutes</target>
+        </trans-unit>
+        <trans-unit id="Title.Text" translate="yes" xml:space="preserve">
+          <source>Upgrade</source>
+          <target state="new">Upgrade</target>
+        </trans-unit>
+        <trans-unit id="Upgrade.Text" translate="yes" xml:space="preserve">
+          <source>Upgrade</source>
+          <target state="new">Upgrade</target>
+        </trans-unit>
+        <trans-unit id="UpgradeDone.Text" translate="yes" xml:space="preserve">
+          <source>Upgrade Complete</source>
+          <target state="new">Upgrade Complete</target>
+        </trans-unit>
+        <trans-unit id="UpgradingDatabase.Text" translate="yes" xml:space="preserve">
+          <source>Upgrading Database</source>
+          <target state="new">Upgrading Database</target>
+        </trans-unit>
+        <trans-unit id="Username.Help" translate="yes" xml:space="preserve">
+          <source>The username for the Super User account.</source>
+          <target state="new">The username for the Super User account.</target>
+        </trans-unit>
+        <trans-unit id="Username.Text" translate="yes" xml:space="preserve">
+          <source>Host (SuperUser) Username:</source>
+          <target state="new">Host (SuperUser) Username:</target>
+        </trans-unit>
+        <trans-unit id="Version.Text" translate="yes" xml:space="preserve">
+          <source>Upgrade - Version {0}</source>
+          <target state="new">Upgrade - Version {0}</target>
+        </trans-unit>
+        <trans-unit id="ViewWebsite.Text" translate="yes" xml:space="preserve">
+          <source>View Website</source>
+          <target state="new">View Website</target>
+        </trans-unit>
+        <trans-unit id="VisitWebsite.Text" translate="yes" xml:space="preserve">
+          <source>Visit Website</source>
+          <target state="new">Visit Website</target>
+        </trans-unit>
+        <trans-unit id="UpgradeStarted.Text" translate="yes" xml:space="preserve">
+          <source>Upgrade Started at</source>
+          <target state="new">Upgrade Started at</target>
+        </trans-unit>
+        <trans-unit id="AcceptTerms.Required" translate="yes" xml:space="preserve">
+          <source>Accept the terms of the license agreement to continue.</source>
+          <target state="new">Accept the terms of the license agreement to continue.</target>
+        </trans-unit>
+        <trans-unit id="AcceptTerms.Text" translate="yes" xml:space="preserve">
+          <source>I accept the terms of the <bpt id="1">&lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;</bpt>license agreement<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">I accept the terms of the <bpt id="1">&lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;</bpt>license agreement<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Vocabularies.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="cancelCreate.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_createvocabulary.Text" translate="yes" xml:space="preserve">
+          <source>Create New Vocabulary</source>
+          <target state="new">Create New Vocabulary</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_editvocabulary.Text" translate="yes" xml:space="preserve">
+          <source>Edit Vocabulary</source>
+          <target state="new">Edit Vocabulary</target>
+        </trans-unit>
+        <trans-unit id="SaveVocabulary.Text" translate="yes" xml:space="preserve">
+          <source>Update</source>
+          <target state="new">Update</target>
+        </trans-unit>
+        <trans-unit id="CurrentTerm.Text" translate="yes" xml:space="preserve">
+          <source>Edit Term</source>
+          <target state="new">Edit Term</target>
+        </trans-unit>
+        <trans-unit id="DeleteVocabulary.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="Terms.Text" translate="yes" xml:space="preserve">
+          <source>Terms</source>
+          <target state="new">Terms</target>
+        </trans-unit>
+        <trans-unit id="Title.Text" translate="yes" xml:space="preserve">
+          <source>Edit Vocabulary</source>
+          <target state="new">Edit Vocabulary</target>
+        </trans-unit>
+        <trans-unit id="DeleteTerm.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="SaveTerm.Text" translate="yes" xml:space="preserve">
+          <source>Update</source>
+          <target state="new">Update</target>
+        </trans-unit>
+        <trans-unit id="AddTerm.Text" translate="yes" xml:space="preserve">
+          <source>Add Term</source>
+          <target state="new">Add Term</target>
+        </trans-unit>
+        <trans-unit id="CreateTerm.Text" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="NewTerm.Text" translate="yes" xml:space="preserve">
+          <source>Create New Term</source>
+          <target state="new">Create New Term</target>
+        </trans-unit>
+        <trans-unit id="TermValidationError.Message" translate="yes" xml:space="preserve">
+          <source>There was an error validating the term.  Terms must include a name.</source>
+          <target state="new">There was an error validating the term.  Terms must include a name.</target>
+        </trans-unit>
+        <trans-unit id="TermValidationError.MessageHeader" translate="yes" xml:space="preserve">
+          <source>Term Validation Error</source>
+          <target state="new">Term Validation Error</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_edit.Text" translate="yes" xml:space="preserve">
+          <source>Edit Vocabulary</source>
+          <target state="new">Edit Vocabulary</target>
+        </trans-unit>
+        <trans-unit id="ParentTerm.Text" translate="yes" xml:space="preserve">
+          <source>Parent Term</source>
+          <target state="new">Parent Term</target>
+        </trans-unit>
+        <trans-unit id="ParentTerm.ToolTip" translate="yes" xml:space="preserve">
+          <source>The parent term for this heirarchical term.</source>
+          <target state="new">The parent term for this heirarchical term.</target>
+        </trans-unit>
+        <trans-unit id="TermName.Text" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="TermName.ToolTip" translate="yes" xml:space="preserve">
+          <source>The name of the term.</source>
+          <target state="new">The name of the term.</target>
+        </trans-unit>
+        <trans-unit id="TermName.Required" translate="yes" xml:space="preserve">
+          <source>The term name is a required field.</source>
+          <target state="new">The term name is a required field.</target>
+        </trans-unit>
+        <trans-unit id="Application.Text" translate="yes" xml:space="preserve">
+          <source>Application</source>
+          <target state="new">Application</target>
+        </trans-unit>
+        <trans-unit id="Description.Text" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+        <trans-unit id="Description.ToolTip" translate="yes" xml:space="preserve">
+          <source>The description for the vocabulary.</source>
+          <target state="new">The description for the vocabulary.</target>
+        </trans-unit>
+        <trans-unit id="Hierarchy.Text" translate="yes" xml:space="preserve">
+          <source>Hierarchy</source>
+          <target state="new">Hierarchy</target>
+        </trans-unit>
+        <trans-unit id="Name.Required" translate="yes" xml:space="preserve">
+          <source>A name is required for a vocabulary.</source>
+          <target state="new">A name is required for a vocabulary.</target>
+        </trans-unit>
+        <trans-unit id="Name.Text" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="Name.ToolTip" translate="yes" xml:space="preserve">
+          <source>The name for the vocabulary.</source>
+          <target state="new">The name for the vocabulary.</target>
+        </trans-unit>
+        <trans-unit id="Portal.Text" translate="yes" xml:space="preserve">
+          <source>Website</source>
+          <target state="new">Website</target>
+        </trans-unit>
+        <trans-unit id="Scope.Text" translate="yes" xml:space="preserve">
+          <source>Scope</source>
+          <target state="new">Scope</target>
+        </trans-unit>
+        <trans-unit id="Scope.ToolTip" translate="yes" xml:space="preserve">
+          <source>The scope for this vocabulary, application-wide or site-specific.</source>
+          <target state="new">The scope for this vocabulary, application-wide or site-specific.</target>
+        </trans-unit>
+        <trans-unit id="Simple.Text" translate="yes" xml:space="preserve">
+          <source>Simple</source>
+          <target state="new">Simple</target>
+        </trans-unit>
+        <trans-unit id="Type.Text" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="Type.ToolTip" translate="yes" xml:space="preserve">
+          <source>The type of vocabulary, simple or heirarchical.</source>
+          <target state="new">The type of vocabulary, simple or heirarchical.</target>
+        </trans-unit>
+        <trans-unit id="VocabularyExists.Error" translate="yes" xml:space="preserve">
+          <source>The vocabulary "{0}" exists in the list.</source>
+          <target state="new">The vocabulary "{0}" exists in the list.</target>
+        </trans-unit>
+        <trans-unit id="Create.Text" translate="yes" xml:space="preserve">
+          <source>Create New Vocabulary</source>
+          <target state="new">Create New Vocabulary</target>
+        </trans-unit>
+        <trans-unit id="Description.Header" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+        <trans-unit id="Name.Header" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="Scope.Header" translate="yes" xml:space="preserve">
+          <source>Scope</source>
+          <target state="new">Scope</target>
+        </trans-unit>
+        <trans-unit id="Type.Header" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="Create.ToolTip" translate="yes" xml:space="preserve">
+          <source>Click on this button to create a new vocabulary.</source>
+          <target state="new">Click on this button to create a new vocabulary.</target>
+        </trans-unit>
+        <trans-unit id="Edit.Text" translate="yes" xml:space="preserve">
+          <source>Edit</source>
+          <target state="new">Edit</target>
+        </trans-unit>
+        <trans-unit id="Confirm.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to add a vocabulary?</source>
+          <target state="new">Are you sure you want to add a vocabulary?</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_.Text" translate="yes" xml:space="preserve">
+          <source>Vocabularies</source>
+          <target state="new">Vocabularies</target>
+        </trans-unit>
+        <trans-unit id="nav_Vocabularies.Text" translate="yes" xml:space="preserve">
+          <source>Vocabularies</source>
+          <target state="new">Vocabularies</target>
+        </trans-unit>
+        <trans-unit id="TermExists.Error" translate="yes" xml:space="preserve">
+          <source>The term "{0}" exists in the list.</source>
+          <target state="new">The term "{0}" exists in the list.</target>
+        </trans-unit>
+        <trans-unit id="ConfirmDeletion_Vocabulary.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete "{0}"?</source>
+          <target state="new">Are you sure you want to delete "{0}"?</target>
+        </trans-unit>
+        <trans-unit id="ConfirmDeletion_Term.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete the term "{0}"?</source>
+          <target state="new">Are you sure you want to delete the term "{0}"?</target>
+        </trans-unit>
+        <trans-unit id="LoadMore.Text" translate="yes" xml:space="preserve">
+          <source>Load More</source>
+          <target state="new">Load More</target>
+        </trans-unit>
+        <trans-unit id="RequiredField.Text" translate="yes" xml:space="preserve">
+          <source>Required Field</source>
+          <target state="new">Required Field</target>
+        </trans-unit>
+        <trans-unit id="CreateVocabulary.Text" translate="yes" xml:space="preserve">
+          <source>Create</source>
+          <target state="new">Create</target>
+        </trans-unit>
+        <trans-unit id="NoVocabularyTerms.Error" translate="yes" xml:space="preserve">
+          <source>No vocabularies found.</source>
+          <target state="new">No vocabularies found.</target>
+        </trans-unit>
+        <trans-unit id="Close.Text" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <target state="new">Close</target>
+        </trans-unit>
+        <trans-unit id="All.Text" translate="yes" xml:space="preserve">
+          <source>All</source>
+          <target state="new">All</target>
+        </trans-unit>
+        <trans-unit id="BackToVocabularies.Text" translate="yes" xml:space="preserve">
+          <source>Back To Vocabularies</source>
+          <target state="new">Back To Vocabularies</target>
+        </trans-unit>
+        <trans-unit id="EditFieldHelper.Text" translate="yes" xml:space="preserve">
+          <source>Press ENTER when done, or ESC to cancel</source>
+          <target state="new">Press ENTER when done, or ESC to cancel</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="EditScript.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ControlTitle_edit.Text" translate="yes" xml:space="preserve">
+          <source>Edit Script</source>
+          <target state="new">Edit Script</target>
+        </trans-unit>
+        <trans-unit id="scriptListLabel.Help" translate="yes" xml:space="preserve">
+          <source>Select the Script to use for this instance of the Razor Host module.</source>
+          <target state="new">Select the Script to use for this instance of the Razor Host module.</target>
+        </trans-unit>
+        <trans-unit id="scriptListLabel.Text" translate="yes" xml:space="preserve">
+          <source>Script:</source>
+          <target state="new">Script:</target>
+        </trans-unit>
+        <trans-unit id="SourceFile.Text" translate="yes" xml:space="preserve">
+          <source>Source File - {0}</source>
+          <target state="new">Source File - {0}</target>
+        </trans-unit>
+        <trans-unit id="plSource.Text" translate="yes" xml:space="preserve">
+          <source>Script Source:</source>
+          <target state="new">Script Source:</target>
+        </trans-unit>
+        <trans-unit id="scriptsLabel.Help" translate="yes" xml:space="preserve">
+          <source>Select the script you want to edit from the list.</source>
+          <target state="new">Select the script you want to edit from the list.</target>
+        </trans-unit>
+        <trans-unit id="scriptsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Select Script:</source>
+          <target state="new">Select Script:</target>
+        </trans-unit>
+        <trans-unit id="AddNew.Text" translate="yes" xml:space="preserve">
+          <source>Add New Script File</source>
+          <target state="new">Add New Script File</target>
+        </trans-unit>
+        <trans-unit id="currentScriptLabel.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to make the current script the active script that is rendered in view mode.</source>
+          <target state="new">Check this box to make the current script the active script that is rendered in view mode.</target>
+        </trans-unit>
+        <trans-unit id="currentScriptLabel.Text" translate="yes" xml:space="preserve">
+          <source>Is Active:</source>
+          <target state="new">Is Active:</target>
+        </trans-unit>
+        <trans-unit id="cmdSave.Text" translate="yes" xml:space="preserve">
+          <source>Save Script</source>
+          <target state="new">Save Script</target>
+        </trans-unit>
+        <trans-unit id="cmdSaveClose.Text" translate="yes" xml:space="preserve">
+          <source>Save Script and Return</source>
+          <target state="new">Save Script and Return</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

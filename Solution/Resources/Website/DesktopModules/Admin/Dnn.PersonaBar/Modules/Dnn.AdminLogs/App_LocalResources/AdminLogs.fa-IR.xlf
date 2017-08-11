@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="AdminLogs.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="plPortalID.Text" translate="yes" xml:space="preserve">
+          <source>Website</source>
+          <target state="new">Website</target>
+        </trans-unit>
+        <trans-unit id="plPortalID.Help" translate="yes" xml:space="preserve">
+          <source>Select the site you want to view.</source>
+          <target state="new">Select the site you want to view.</target>
+        </trans-unit>
+        <trans-unit id="plLogType.Text" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="plLogType.Help" translate="yes" xml:space="preserve">
+          <source>Filter the events displayed in the log.</source>
+          <target state="new">Filter the events displayed in the log.</target>
+        </trans-unit>
+        <trans-unit id="plShowRecords.Text" translate="yes" xml:space="preserve">
+          <source>Show Records</source>
+          <target state="new">Show Records</target>
+        </trans-unit>
+        <trans-unit id="plShowRecords.Help" translate="yes" xml:space="preserve">
+          <source>Select the records you want to view.</source>
+          <target state="new">Select the records you want to view.</target>
+        </trans-unit>
+        <trans-unit id="ColorCoding.Text" translate="yes" xml:space="preserve">
+          <source>Color Coding on</source>
+          <target state="new">Color Coding on</target>
+        </trans-unit>
+        <trans-unit id="Settings.Text" translate="yes" xml:space="preserve">
+          <source>Logging Settings</source>
+          <target state="new">Logging Settings</target>
+        </trans-unit>
+        <trans-unit id="Legend.Text" translate="yes" xml:space="preserve">
+          <source>Color Coding Legend</source>
+          <target state="new">Color Coding Legend</target>
+        </trans-unit>
+        <trans-unit id="Date.Text" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target state="new">Date</target>
+        </trans-unit>
+        <trans-unit id="Type.Text" translate="yes" xml:space="preserve">
+          <source>Log Type</source>
+          <target state="new">Log Type</target>
+        </trans-unit>
+        <trans-unit id="Username.Text" translate="yes" xml:space="preserve">
+          <source>Username</source>
+          <target state="new">Username</target>
+        </trans-unit>
+        <trans-unit id="Portal.Text" translate="yes" xml:space="preserve">
+          <source>Website</source>
+          <target state="new">Website</target>
+        </trans-unit>
+        <trans-unit id="Summary.Text" translate="yes" xml:space="preserve">
+          <source>Summary</source>
+          <target state="new">Summary</target>
+        </trans-unit>
+        <trans-unit id="btnDelete.Text" translate="yes" xml:space="preserve">
+          <source>Delete Selected</source>
+          <target state="new">Delete Selected</target>
+        </trans-unit>
+        <trans-unit id="btnClear.Text" translate="yes" xml:space="preserve">
+          <source>Clear Log</source>
+          <target state="new">Clear Log</target>
+        </trans-unit>
+        <trans-unit id="SendExceptions.Text" translate="yes" xml:space="preserve">
+          <source>Send Log Entries</source>
+          <target state="new">Send Log Entries</target>
+        </trans-unit>
+        <trans-unit id="ExceptionsWarning.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;b&gt;</bpt>Please note<ept id="1">&lt;/b&gt;</ept>: By using these features 
+            below, you <bpt id="2">&lt;i&gt;</bpt>may<ept id="2">&lt;/i&gt;</ept> be sending sensitive data over the Internet in clear 
+            text (<bpt id="3">&lt;i&gt;</bpt>not<ept id="3">&lt;/i&gt;</ept> encrypted). Before sending this exception, 
+            please review the contents of your log entry to verify that no 
+            sensitive data is contained within it. Only the log entries checked above 
+            will be sent.</source>
+          <target state="new"><bpt id="1">&lt;b&gt;</bpt>Please note<ept id="1">&lt;/b&gt;</ept>: By using these features 
+            below, you <bpt id="2">&lt;i&gt;</bpt>may<ept id="2">&lt;/i&gt;</ept> be sending sensitive data over the Internet in clear 
+            text (<bpt id="3">&lt;i&gt;</bpt>not<ept id="3">&lt;/i&gt;</ept> encrypted). Before sending this exception, 
+            please review the contents of your log entry to verify that no 
+            sensitive data is contained within it. Only the log entries checked above 
+            will be sent.</target>
+        </trans-unit>
+        <trans-unit id="SendExceptionsEmail.Text" translate="yes" xml:space="preserve">
+          <source>Send Log Entries via Email</source>
+          <target state="new">Send Log Entries via Email</target>
+        </trans-unit>
+        <trans-unit id="plEmailAddress.Text" translate="yes" xml:space="preserve">
+          <source>Email Address</source>
+          <target state="new">Email Address</target>
+        </trans-unit>
+        <trans-unit id="plEmailAddress.Help" translate="yes" xml:space="preserve">
+          <source>Please enter the email address of the person you want to receive the log entries.</source>
+          <target state="new">Please enter the email address of the person you want to receive the log entries.</target>
+        </trans-unit>
+        <trans-unit id="SendMessage.Text" translate="yes" xml:space="preserve">
+          <source>Message (optional)</source>
+          <target state="new">Message (optional)</target>
+        </trans-unit>
+        <trans-unit id="SendMessage.Help" translate="yes" xml:space="preserve">
+          <source>Include an optional message with the log entries.</source>
+          <target state="new">Include an optional message with the log entries.</target>
+        </trans-unit>
+        <trans-unit id="btnEmail.Text" translate="yes" xml:space="preserve">
+          <source>Email Selected</source>
+          <target state="new">Email Selected</target>
+        </trans-unit>
+        <trans-unit id="AddContent.Action" translate="yes" xml:space="preserve">
+          <source>Add Log Setting</source>
+          <target state="new">Add Log Setting</target>
+        </trans-unit>
+        <trans-unit id="NoEntries.Text" translate="yes" xml:space="preserve">
+          <source>There are no log items.</source>
+          <target state="new">There are no log items.</target>
+        </trans-unit>
+        <trans-unit id="Showing.Text" translate="yes" xml:space="preserve">
+          <source>Showing {0} to {1} of {2}</source>
+          <target state="new">Showing {0} to {1} of {2}</target>
+        </trans-unit>
+        <trans-unit id="DeleteSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The selected log entries were successfully deleted.</source>
+          <target state="new">The selected log entries were successfully deleted.</target>
+        </trans-unit>
+        <trans-unit id="EmailSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Your email has been sent.</source>
+          <target state="new">Your email has been sent.</target>
+        </trans-unit>
+        <trans-unit id="EmailFailure.Text" translate="yes" xml:space="preserve">
+          <source>Your email has <bpt id="1">&lt;b&gt;</bpt>not<ept id="1">&lt;/b&gt;</ept> been sent.</source>
+          <target state="new">Your email has <bpt id="1">&lt;b&gt;</bpt>not<ept id="1">&lt;/b&gt;</ept> been sent.</target>
+        </trans-unit>
+        <trans-unit id="ServiceUnavailable.Text" translate="yes" xml:space="preserve">
+          <source>The web service at DotNetNuke.com is currently unavailable.</source>
+          <target state="new">The web service at DotNetNuke.com is currently unavailable.</target>
+        </trans-unit>
+        <trans-unit id="ServerName.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;b&gt;</bpt>Server Name<ept id="1">&lt;/b&gt;</ept>: </source>
+          <target state="new"><bpt id="1">&lt;b&gt;</bpt>Server Name<ept id="1">&lt;/b&gt;</ept>: </target>
+        </trans-unit>
+        <trans-unit id="LogCleared.Text" translate="yes" xml:space="preserve">
+          <source>The log has been cleared.</source>
+          <target state="new">The log has been cleared.</target>
+        </trans-unit>
+        <trans-unit id="ClickRow.Text" translate="yes" xml:space="preserve">
+          <source>Click on a row for details.</source>
+          <target state="new">Click on a row for details.</target>
+        </trans-unit>
+        <trans-unit id="ExceptionCode.Text" translate="yes" xml:space="preserve">
+          <source>Exception</source>
+          <target state="new">Exception</target>
+        </trans-unit>
+        <trans-unit id="ItemCreatedCode.Text" translate="yes" xml:space="preserve">
+          <source>Item Created</source>
+          <target state="new">Item Created</target>
+        </trans-unit>
+        <trans-unit id="ItemUpdatedCode.Text" translate="yes" xml:space="preserve">
+          <source>Item Updated</source>
+          <target state="new">Item Updated</target>
+        </trans-unit>
+        <trans-unit id="ItemDeletedCode.Text" translate="yes" xml:space="preserve">
+          <source>Item Deleted</source>
+          <target state="new">Item Deleted</target>
+        </trans-unit>
+        <trans-unit id="SuccessCode.Text" translate="yes" xml:space="preserve">
+          <source>Operation Success</source>
+          <target state="new">Operation Success</target>
+        </trans-unit>
+        <trans-unit id="FailureCode.Text" translate="yes" xml:space="preserve">
+          <source>Operation Failure</source>
+          <target state="new">Operation Failure</target>
+        </trans-unit>
+        <trans-unit id="AdminOpCode.Text" translate="yes" xml:space="preserve">
+          <source>General Admin Operation</source>
+          <target state="new">General Admin Operation</target>
+        </trans-unit>
+        <trans-unit id="AdminAlertCode.Text" translate="yes" xml:space="preserve">
+          <source>Admin Alert</source>
+          <target state="new">Admin Alert</target>
+        </trans-unit>
+        <trans-unit id="HostAlertCode.Text" translate="yes" xml:space="preserve">
+          <source>Host Alert</source>
+          <target state="new">Host Alert</target>
+        </trans-unit>
+        <trans-unit id="ToEmail.Text" translate="yes" xml:space="preserve">
+          <source>To Specified Email Address</source>
+          <target state="new">To Specified Email Address</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_.Text" translate="yes" xml:space="preserve">
+          <source>Event Viewer</source>
+          <target state="new">Event Viewer</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;h1&gt;</bpt>About Log Viewer<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Allows you to edit website events to log.<ept id="2">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;h1&gt;</bpt>About Log Viewer<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Allows you to edit website events to log.<ept id="2">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="SecurityException.Text" translate="yes" xml:space="preserve">
+          <source>Security Exception</source>
+          <target state="new">Security Exception</target>
+        </trans-unit>
+        <trans-unit id="plSubject.Help" translate="yes" xml:space="preserve">
+          <source>Enter the subject for the email.</source>
+          <target state="new">Enter the subject for the email.</target>
+        </trans-unit>
+        <trans-unit id="plSubject.Text" translate="yes" xml:space="preserve">
+          <source>Subject</source>
+          <target state="new">Subject</target>
+        </trans-unit>
+        <trans-unit id="InavlidEmailAddress.Text" translate="yes" xml:space="preserve">
+          <source>'{0}' is not a valid email address.</source>
+          <target state="new">'{0}' is not a valid email address.</target>
+        </trans-unit>
+        <trans-unit id="Viewer.Text" translate="yes" xml:space="preserve">
+          <source>Viewer</source>
+          <target state="new">Viewer</target>
+        </trans-unit>
+        <trans-unit id="ClearLog.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to clear all log entries?</source>
+          <target state="new">Are you sure you want to clear all log entries?</target>
+        </trans-unit>
+        <trans-unit id="SelectException.Text" translate="yes" xml:space="preserve">
+          <source>Please select at least one log entry.</source>
+          <target state="new">Please select at least one log entry.</target>
+        </trans-unit>
+        <trans-unit id="LogEntryDefaultMsg.Text" translate="yes" xml:space="preserve">
+          <source>Attached are my error log entries.</source>
+          <target state="new">Attached are my error log entries.</target>
+        </trans-unit>
+        <trans-unit id="LogEntryDefaultSubject.Text" translate="yes" xml:space="preserve">
+          <source>Error Logs</source>
+          <target state="new">Error Logs</target>
+        </trans-unit>
+        <trans-unit id="LogType.Header" translate="yes" xml:space="preserve">
+          <source>Log Type</source>
+          <target state="new">Log Type</target>
+        </trans-unit>
+        <trans-unit id="Portal.Header" translate="yes" xml:space="preserve">
+          <source>Website</source>
+          <target state="new">Website</target>
+        </trans-unit>
+        <trans-unit id="Active.Header" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <target state="new">Active</target>
+        </trans-unit>
+        <trans-unit id="FileName.Header" translate="yes" xml:space="preserve">
+          <source>File Name</source>
+          <target state="new">File Name</target>
+        </trans-unit>
+        <trans-unit id="Edit.EditText" translate="yes" xml:space="preserve">
+          <source>Edit</source>
+          <target state="new">Edit</target>
+        </trans-unit>
+        <trans-unit id="plIsActive.Text" translate="yes" xml:space="preserve">
+          <source>Logging</source>
+          <target state="new">Logging</target>
+        </trans-unit>
+        <trans-unit id="plIsActive.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to enable logging.</source>
+          <target state="new">Check this box to enable logging.</target>
+        </trans-unit>
+        <trans-unit id="plLogTypeKey.Text" translate="yes" xml:space="preserve">
+          <source>Log Type</source>
+          <target state="new">Log Type</target>
+        </trans-unit>
+        <trans-unit id="plLogTypeKey.Help" translate="yes" xml:space="preserve">
+          <source>The type of event being logged.</source>
+          <target state="new">The type of event being logged.</target>
+        </trans-unit>
+        <trans-unit id="plLogTypePortalID.Text" translate="yes" xml:space="preserve">
+          <source>Website</source>
+          <target state="new">Website</target>
+        </trans-unit>
+        <trans-unit id="plLogTypePortalID.Help" translate="yes" xml:space="preserve">
+          <source>The site which this log event is associated with.</source>
+          <target state="new">The site which this log event is associated with.</target>
+        </trans-unit>
+        <trans-unit id="plKeepMostRecent.Text" translate="yes" xml:space="preserve">
+          <source>Keep Most Recent</source>
+          <target state="new">Keep Most Recent</target>
+        </trans-unit>
+        <trans-unit id="plFileName.Text" translate="yes" xml:space="preserve">
+          <source>FileName</source>
+          <target state="new">FileName</target>
+        </trans-unit>
+        <trans-unit id="plFileName.Help" translate="yes" xml:space="preserve">
+          <source>The file name of the log file.</source>
+          <target state="new">The file name of the log file.</target>
+        </trans-unit>
+        <trans-unit id="plEmailNotificationStatus.Text" translate="yes" xml:space="preserve">
+          <source>Email Notification</source>
+          <target state="new">Email Notification</target>
+        </trans-unit>
+        <trans-unit id="plEmailNotificationStatus.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to send an email message when this event occurs.</source>
+          <target state="new">Check this box to send an email message when this event occurs.</target>
+        </trans-unit>
+        <trans-unit id="plThreshold.Text" translate="yes" xml:space="preserve">
+          <source>Occurrence Threshold</source>
+          <target state="new">Occurrence Threshold</target>
+        </trans-unit>
+        <trans-unit id="plMailFromAddress.Text" translate="yes" xml:space="preserve">
+          <source>Mail From Address</source>
+          <target state="new">Mail From Address</target>
+        </trans-unit>
+        <trans-unit id="plMailFromAddress.Help" translate="yes" xml:space="preserve">
+          <source>The email address that the notification will be sent from.</source>
+          <target state="new">The email address that the notification will be sent from.</target>
+        </trans-unit>
+        <trans-unit id="plMailToAddress.Text" translate="yes" xml:space="preserve">
+          <source>Mail To Address</source>
+          <target state="new">Mail To Address</target>
+        </trans-unit>
+        <trans-unit id="plMailToAddress.Help" translate="yes" xml:space="preserve">
+          <source>The email address to send the notification to</source>
+          <target state="new">The email address to send the notification to</target>
+        </trans-unit>
+        <trans-unit id="EmailSettings.Text" translate="yes" xml:space="preserve">
+          <source>Email Notification Settings</source>
+          <target state="new">Email Notification Settings</target>
+        </trans-unit>
+        <trans-unit id="ConfigDeleted.Text" translate="yes" xml:space="preserve">
+          <source>The log setting has been deleted.</source>
+          <target state="new">The log setting has been deleted.</target>
+        </trans-unit>
+        <trans-unit id="ConfigUpdated.Text" translate="yes" xml:space="preserve">
+          <source>The log setting has been updated.</source>
+          <target state="new">The log setting has been updated.</target>
+        </trans-unit>
+        <trans-unit id="ConfigAdded.Text" translate="yes" xml:space="preserve">
+          <source>The log setting has been added.</source>
+          <target state="new">The log setting has been added.</target>
+        </trans-unit>
+        <trans-unit id="LogEntry.Text" translate="yes" xml:space="preserve">
+          <source> Log Entry</source>
+          <target state="new"> Log Entry</target>
+        </trans-unit>
+        <trans-unit id="LogEntries.Text" translate="yes" xml:space="preserve">
+          <source> Log Entries</source>
+          <target state="new"> Log Entries</target>
+        </trans-unit>
+        <trans-unit id="Occurence.Text" translate="yes" xml:space="preserve">
+          <source> Occurence</source>
+          <target state="new"> Occurence</target>
+        </trans-unit>
+        <trans-unit id="Occurences.Text" translate="yes" xml:space="preserve">
+          <source> Occurences</source>
+          <target state="new"> Occurences</target>
+        </trans-unit>
+        <trans-unit id="In.Text" translate="yes" xml:space="preserve">
+          <source>in</source>
+          <target state="new">in</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_edit.Text" translate="yes" xml:space="preserve">
+          <source>Edit Log Settings</source>
+          <target state="new">Edit Log Settings</target>
+        </trans-unit>
+        <trans-unit id="DeleteError.Text" translate="yes" xml:space="preserve">
+          <source>The selected log setting could not be deleted.  You should delete all existing log entries for this log type first.</source>
+          <target state="new">The selected log setting could not be deleted.  You should delete all existing log entries for this log type first.</target>
+        </trans-unit>
+        <trans-unit id="TimeType_1.Text" translate="yes" xml:space="preserve">
+          <source>Seconds</source>
+          <target state="new">Seconds</target>
+        </trans-unit>
+        <trans-unit id="TimeType_2.Text" translate="yes" xml:space="preserve">
+          <source>Minutes</source>
+          <target state="new">Minutes</target>
+        </trans-unit>
+        <trans-unit id="TimeType_3.Text" translate="yes" xml:space="preserve">
+          <source>Hours</source>
+          <target state="new">Hours</target>
+        </trans-unit>
+        <trans-unit id="TimeType_4.Text" translate="yes" xml:space="preserve">
+          <source>Days</source>
+          <target state="new">Days</target>
+        </trans-unit>
+        <trans-unit id="nav_AdminLogs.Text" translate="yes" xml:space="preserve">
+          <source>Admin Logs</source>
+          <target state="new">Admin Logs</target>
+        </trans-unit>
+        <trans-unit id="AdminLogs.Header" translate="yes" xml:space="preserve">
+          <source>Admin Logs</source>
+          <target state="new">Admin Logs</target>
+        </trans-unit>
+        <trans-unit id="ConfigAddError.Text" translate="yes" xml:space="preserve">
+          <source>The log setting could not be added. Please try again later.</source>
+          <target state="new">The log setting could not be added. Please try again later.</target>
+        </trans-unit>
+        <trans-unit id="ConfigBtnCancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="ConfigBtnDelete.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="ConfigBtnSave.Text" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="ConfigDeleteCancelled.Text" translate="yes" xml:space="preserve">
+          <source>Cancelled deletion.</source>
+          <target state="new">Cancelled deletion.</target>
+        </trans-unit>
+        <trans-unit id="ConfigDeletedWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete selected log setting?</source>
+          <target state="new">Are you sure you want to delete selected log setting?</target>
+        </trans-unit>
+        <trans-unit id="ConfigDeleteInconsistency.Text" translate="yes" xml:space="preserve">
+          <source>Inconsistency error occurred. Please refresh the page and try again.</source>
+          <target state="new">Inconsistency error occurred. Please refresh the page and try again.</target>
+        </trans-unit>
+        <trans-unit id="ConfigUpdateError.Text" translate="yes" xml:space="preserve">
+          <source>The log setting could not be updated. Please try again later.</source>
+          <target state="new">The log setting could not be updated. Please try again later.</target>
+        </trans-unit>
+        <trans-unit id="False.Text" translate="yes" xml:space="preserve">
+          <source>False</source>
+          <target state="new">False</target>
+        </trans-unit>
+        <trans-unit id="LogSettings.Header" translate="yes" xml:space="preserve">
+          <source>Log Settings</source>
+          <target state="new">Log Settings</target>
+        </trans-unit>
+        <trans-unit id="no.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="True.Text" translate="yes" xml:space="preserve">
+          <source>True</source>
+          <target state="new">True</target>
+        </trans-unit>
+        <trans-unit id="yes.Text" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="btnCancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="btnSend.Text" translate="yes" xml:space="preserve">
+          <source>Send</source>
+          <target state="new">Send</target>
+        </trans-unit>
+        <trans-unit id="EntriesPerPage.Text" translate="yes" xml:space="preserve">
+          <source> entries per page</source>
+          <target state="new"> entries per page</target>
+        </trans-unit>
+        <trans-unit id="LogDeleteWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete selected logs?</source>
+          <target state="new">Are you sure you want to delete selected logs?</target>
+        </trans-unit>
+        <trans-unit id="ShowingOne.Text" translate="yes" xml:space="preserve">
+          <source>Showing 1 entry</source>
+          <target state="new">Showing 1 entry</target>
+        </trans-unit>
+        <trans-unit id="ShowingTotal.Text" translate="yes" xml:space="preserve">
+          <source>Showing {0} entries</source>
+          <target state="new">Showing {0} entries</target>
+        </trans-unit>
+        <trans-unit id="MailToAddress.Message" translate="yes" xml:space="preserve">
+          <source>Valid mail to address is required.</source>
+          <target state="new">Valid mail to address is required.</target>
+        </trans-unit>
+        <trans-unit id="Email.Message" translate="yes" xml:space="preserve">
+          <source>Valid email is required.</source>
+          <target state="new">Valid email is required.</target>
+        </trans-unit>
+        <trans-unit id="UnAuthorizedToSendLog.Text" translate="yes" xml:space="preserve">
+          <source>You are not authorized to send these log entries.</source>
+          <target state="new">You are not authorized to send these log entries.</target>
+        </trans-unit>
+        <trans-unit id="AllTypes.Text" translate="yes" xml:space="preserve">
+          <source>All Types</source>
+          <target state="new">All Types</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

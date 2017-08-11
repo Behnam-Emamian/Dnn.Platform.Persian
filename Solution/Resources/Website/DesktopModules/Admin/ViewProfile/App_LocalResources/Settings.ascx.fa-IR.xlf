@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Settings.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ControlTitle_settings.Text" translate="yes" xml:space="preserve">
+          <source>View Profile Settings</source>
+          <target state="new">View Profile Settings</target>
+        </trans-unit>
+        <trans-unit id="IncludeButton.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to include the Edit Profile button.</source>
+          <target state="new">Check this box to include the Edit Profile button.</target>
+        </trans-unit>
+        <trans-unit id="IncludeButton.Text" translate="yes" xml:space="preserve">
+          <source>Include Edit Button:</source>
+          <target state="new">Include Edit Button:</target>
+        </trans-unit>
+        <trans-unit id="LoadDefault.Confirm" translate="yes" xml:space="preserve">
+          <source>This will overwrite the existing template.  Are you sure you want to continue?</source>
+          <target state="new">This will overwrite the existing template.  Are you sure you want to continue?</target>
+        </trans-unit>
+        <trans-unit id="LoadDefault.Text" translate="yes" xml:space="preserve">
+          <source>Load Default</source>
+          <target state="new">Load Default</target>
+        </trans-unit>
+        <trans-unit id="plTemplate.Help" translate="yes" xml:space="preserve">
+          <source>Enter template for user profile display.</source>
+          <target state="new">Enter template for user profile display.</target>
+        </trans-unit>
+        <trans-unit id="plTemplate.Text" translate="yes" xml:space="preserve">
+          <source>Profile Template:</source>
+          <target state="new">Profile Template:</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

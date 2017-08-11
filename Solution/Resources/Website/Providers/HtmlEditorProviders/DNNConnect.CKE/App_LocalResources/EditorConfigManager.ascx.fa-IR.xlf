@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="EditorConfigManager.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="$this.DefaultModifiers" translate="yes" extype="System.CodeDom.MemberAttributes, System" xml:space="preserve">
+          <source>Private</source>
+          <target state="needs-review-translation">Private</target>
+        </trans-unit>
+        <trans-unit id="$this.TrayLargeIcon" translate="yes" extype="System.Boolean, mscorlib" xml:space="preserve">
+          <source>False</source>
+          <target state="needs-review-translation">False</target>
+        </trans-unit>
+        <trans-unit id="$this.TrayAutoArrange" translate="yes" extype="System.Boolean, mscorlib" xml:space="preserve">
+          <source>True</source>
+          <target state="needs-review-translation">True</target>
+        </trans-unit>
+        <trans-unit id="EditorMangerPageName.Text" translate="yes" xml:space="preserve">
+          <source>HTML Editor Manager</source>
+          <target state="new">HTML Editor Manager</target>
+        </trans-unit>
+        <trans-unit id="EditorMangerPageDescription.Text" translate="yes" xml:space="preserve">
+          <source>Provides configuration options for HTML Editor Provider.</source>
+          <target state="new">Provides configuration options for HTML Editor Provider.</target>
+        </trans-unit>
+        <trans-unit id="EditorMangerName.Text" translate="yes" xml:space="preserve">
+          <source>CKEditor Provider Config Manager</source>
+          <target state="new">CKEditor Provider Config Manager</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

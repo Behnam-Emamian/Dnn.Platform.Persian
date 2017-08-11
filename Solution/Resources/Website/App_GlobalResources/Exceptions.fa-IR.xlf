@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Exceptions.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="AddFileExtensionNotAllowed.Text" translate="yes" xml:space="preserve">
+          <source>The extension '{0}' is not allowed.  The file has not been added.</source>
+          <target state="new">The extension '{0}' is not allowed.  The file has not been added.</target>
+        </trans-unit>
+        <trans-unit id="AddFileNoSpaceAvailable.Text" translate="yes" xml:space="preserve">
+          <source>The site has no space available to store the specified file.  The file has not been added.</source>
+          <target state="new">The site has no space available to store the specified file.  The file has not been added.</target>
+        </trans-unit>
+        <trans-unit id="AddFilePermissionsNotMet.Text" translate="yes" xml:space="preserve">
+          <source>Permissions are not met.  The file has not been added.</source>
+          <target state="new">Permissions are not met.  The file has not been added.</target>
+        </trans-unit>
+        <trans-unit id="AddFileUnderlyingSystemError.Text" translate="yes" xml:space="preserve">
+          <source>The underlying system threw an exception.  The file has not been added.</source>
+          <target state="new">The underlying system threw an exception.  The file has not been added.</target>
+        </trans-unit>
+        <trans-unit id="AddFolderAlreadyExists.Text" translate="yes" xml:space="preserve">
+          <source>The folder path provided already exists.  The folder has not been added.</source>
+          <target state="new">The folder path provided already exists.  The folder has not been added.</target>
+        </trans-unit>
+        <trans-unit id="AddFolderParentCannotBeFound.Text" translate="yes" xml:space="preserve">
+          <source>Parent folder cannot be found.</source>
+          <target state="new">Parent folder cannot be found.</target>
+        </trans-unit>
+        <trans-unit id="AddFolderUnderlyingSystemError.Text" translate="yes" xml:space="preserve">
+          <source>The underlying system threw an exception.  The folder has not been added.</source>
+          <target state="new">The underlying system threw an exception.  The folder has not been added.</target>
+        </trans-unit>
+        <trans-unit id="ArgumentCannotBeNullOrEmpty.Text" translate="yes" xml:space="preserve">
+          <source>The argument '{0}' cannot be null or empty.</source>
+          <target state="new">The argument '{0}' cannot be null or empty.</target>
+        </trans-unit>
+        <trans-unit id="CopyFileNoSpaceAvailable.Text" translate="yes" xml:space="preserve">
+          <source>The site has no space available to store the specified file.  The file has not been copied.</source>
+          <target state="new">The site has no space available to store the specified file.  The file has not been copied.</target>
+        </trans-unit>
+        <trans-unit id="CopyFilePermissionsNotMet.Text" translate="yes" xml:space="preserve">
+          <source>Permissions are not met.  The file has not been copied.</source>
+          <target state="new">Permissions are not met.  The file has not been copied.</target>
+        </trans-unit>
+        <trans-unit id="CopyFileUnderlyingSystemError.Text" translate="yes" xml:space="preserve">
+          <source>The underlying system threw an exception.  The file has not been copied.</source>
+          <target state="new">The underlying system threw an exception.  The file has not been copied.</target>
+        </trans-unit>
+        <trans-unit id="DeleteFileUnderlyingSystemError.Text" translate="yes" xml:space="preserve">
+          <source>The underlying system threw an exception.  The file has not been deleted.</source>
+          <target state="new">The underlying system threw an exception.  The file has not been deleted.</target>
+        </trans-unit>
+        <trans-unit id="DeleteFolderUnderlyingSystemError.Text" translate="yes" xml:space="preserve">
+          <source>The underlying system threw an exception.  The folder has not been deleted.</source>
+          <target state="new">The underlying system threw an exception.  The folder has not been deleted.</target>
+        </trans-unit>
+        <trans-unit id="InvalidZipFile.Text" translate="yes" xml:space="preserve">
+          <source>The file specified is not a zip compressed file.</source>
+          <target state="new">The file specified is not a zip compressed file.</target>
+        </trans-unit>
+        <trans-unit id="MoveFolderCannotComplete.Text" translate="yes" xml:space="preserve">
+          <source>The operation cannot be completed.</source>
+          <target state="new">The operation cannot be completed.</target>
+        </trans-unit>
+        <trans-unit id="MoveFolderUnderlyingSystemError.Text" translate="yes" xml:space="preserve">
+          <source>The underlying system threw an exception.  The move operation cannot be completed.  A manual folder synchronization may be necessary.</source>
+          <target state="new">The underlying system threw an exception.  The move operation cannot be completed.  A manual folder synchronization may be necessary.</target>
+        </trans-unit>
+        <trans-unit id="NoNetworkAvailableError.Text" translate="yes" xml:space="preserve">
+          <source>Network connectivity is needed but there is no network available.</source>
+          <target state="new">Network connectivity is needed but there is no network available.</target>
+        </trans-unit>
+        <trans-unit id="PropertyCannotBeNegative.Text" translate="yes" xml:space="preserve">
+          <source>The property '{1}' in object '{0}' cannot be negative.</source>
+          <target state="new">The property '{1}' in object '{0}' cannot be negative.</target>
+        </trans-unit>
+        <trans-unit id="PropertyCannotBeNull.Text" translate="yes" xml:space="preserve">
+          <source>The property '{1}' in object '{0}' cannot be null.</source>
+          <target state="new">The property '{1}' in object '{0}' cannot be null.</target>
+        </trans-unit>
+        <trans-unit id="PropertyCannotBeNullOrEmpty.Text" translate="yes" xml:space="preserve">
+          <source>The property '{1}' in object '{0}' cannot be null or empty.</source>
+          <target state="new">The property '{1}' in object '{0}' cannot be null or empty.</target>
+        </trans-unit>
+        <trans-unit id="RenameFileAlreadyExists.Text" translate="yes" xml:space="preserve">
+          <source>This folder already contains a file with the same name.  The file has not been renamed.</source>
+          <target state="new">This folder already contains a file with the same name.  The file has not been renamed.</target>
+        </trans-unit>
+        <trans-unit id="RenameFileUnderlyingSystemError.Text" translate="yes" xml:space="preserve">
+          <source>The underlying system threw an exception.  The file has not been renamed.</source>
+          <target state="new">The underlying system threw an exception.  The file has not been renamed.</target>
+        </trans-unit>
+        <trans-unit id="RenameFolderAlreadyExists.Text" translate="yes" xml:space="preserve">
+          <source>The destination folder already exists.  The folder has not been renamed.</source>
+          <target state="new">The destination folder already exists.  The folder has not been renamed.</target>
+        </trans-unit>
+        <trans-unit id="RenameFolderUnderlyingSystemError.Text" translate="yes" xml:space="preserve">
+          <source>The underlying system threw an exception.  The folder has not been renamed.</source>
+          <target state="new">The underlying system threw an exception.  The folder has not been renamed.</target>
+        </trans-unit>
+        <trans-unit id="UnderlyingSystemError.Text" translate="yes" xml:space="preserve">
+          <source>The underlying system threw an exception.</source>
+          <target state="new">The underlying system threw an exception.</target>
+        </trans-unit>
+        <trans-unit id="ValueCannotBeNegative.Text" translate="yes" xml:space="preserve">
+          <source>The argument '{0}' cannot be negative.</source>
+          <target state="new">The argument '{0}' cannot be negative.</target>
+        </trans-unit>
+        <trans-unit id="ValueMustBeOfType.Text" translate="yes" xml:space="preserve">
+          <source>The argument '{0}' must be of type '{1}'.</source>
+          <target state="new">The argument '{0}' must be of type '{1}'.</target>
+        </trans-unit>
+        <trans-unit id="WriteFileToResponsePermissionsNotMet.Text" translate="yes" xml:space="preserve">
+          <source>Permissions are not met.  The file cannot be downloaded.</source>
+          <target state="new">Permissions are not met.  The file cannot be downloaded.</target>
+        </trans-unit>
+        <trans-unit id="UserRelationshipForSameUsersError.Text" translate="yes" xml:space="preserve">
+          <source>Initiating and Target Users cannot have same UserID '{0}'.</source>
+          <target state="new">Initiating and Target Users cannot have same UserID '{0}'.</target>
+        </trans-unit>
+        <trans-unit id="UserRelationshipForDifferentPortalError.Text" translate="yes" xml:space="preserve">
+          <source>Website ID '{0}' of Initiating User is different from Website ID '{1}' of Target  User.</source>
+          <target state="new">Website ID '{0}' of Initiating User is different from Website ID '{1}' of Target  User.</target>
+        </trans-unit>
+        <trans-unit id="UserRelationshipBlockedError.Text" translate="yes" xml:space="preserve">
+          <source>Target User '{0}' has Blocked Relationship '{1}' from Target User '{2}'.</source>
+          <target state="new">Target User '{0}' has Blocked Relationship '{1}' from Target User '{2}'.</target>
+        </trans-unit>
+        <trans-unit id="UserRelationshipExistsError.Text" translate="yes" xml:space="preserve">
+          <source>Relationship already exists for Initiating User '{0}' Target User '{1}' RelationshipID '{2}'.</source>
+          <target state="new">Relationship already exists for Initiating User '{0}' Target User '{1}' RelationshipID '{2}'.</target>
+        </trans-unit>
+        <trans-unit id="UserRelationshipDoesNotExistError.Text" translate="yes" xml:space="preserve">
+          <source>UserRelationshipID '{0}' does not exist.</source>
+          <target state="new">UserRelationshipID '{0}' does not exist.</target>
+        </trans-unit>
+        <trans-unit id="MsgSubjectOrBodyRequiredError.Text" translate="yes" xml:space="preserve">
+          <source>Both subject and body cannot be null or empty.</source>
+          <target state="new">Both subject and body cannot be null or empty.</target>
+        </trans-unit>
+        <trans-unit id="MsgBodyRequiredError.Text" translate="yes" xml:space="preserve">
+          <source>Body cannot be null or empty.</source>
+          <target state="new">Body cannot be null or empty.</target>
+        </trans-unit>
+        <trans-unit id="MsgRolesOrUsersRequiredError.Text" translate="yes" xml:space="preserve">
+          <source>Both roles and users cannot be null or empty-lists.</source>
+          <target state="new">Both roles and users cannot be null or empty-lists.</target>
+        </trans-unit>
+        <trans-unit id="MsgSubjectTooBigError.Text" translate="yes" xml:space="preserve">
+          <source>Subject supplied is too big.  Maximum {0}, Actual {1}.</source>
+          <target state="new">Subject supplied is too big.  Maximum {0}, Actual {1}.</target>
+        </trans-unit>
+        <trans-unit id="MsgToListTooBigError.Text" translate="yes" xml:space="preserve">
+          <source>To list supplied is too big.  Maximum {0}, Actual {1}.</source>
+          <target state="new">To list supplied is too big.  Maximum {0}, Actual {1}.</target>
+        </trans-unit>
+        <trans-unit id="MsgEmptyToListFoundError.Text" translate="yes" xml:space="preserve">
+          <source>Empty To List found while analyzing User and Roles List.</source>
+          <target state="new">Empty To List found while analyzing User and Roles List.</target>
+        </trans-unit>
+        <trans-unit id="MsgSenderRequiredError.Text" translate="yes" xml:space="preserve">
+          <source>Either Sender is null or Sender.UserID is negative.</source>
+          <target state="new">Either Sender is null or Sender.UserID is negative.</target>
+        </trans-unit>
+        <trans-unit id="PrivateMessageDisabledError.Text" translate="yes" xml:space="preserve">
+          <source>Users doesn't allow send message to other user/group in current message settings.</source>
+          <target state="new">Users doesn't allow send message to other user/group in current message settings.</target>
+        </trans-unit>
+        <trans-unit id="MsgOnlyHostOrAdminOrUserInGroupCanSendToRoleError.Text" translate="yes" xml:space="preserve">
+          <source>Only Super Users, Administrators and group members can send messages to the role.</source>
+          <target state="new">Only Super Users, Administrators and group members can send messages to the role.</target>
+        </trans-unit>
+        <trans-unit id="MsgThrottlingIntervalNotMet.Text" translate="yes" xml:space="preserve">
+          <source>The message cannot be sent at this time because the Administrator requires a minimum of {0} minute(s) between messages from the same user.</source>
+          <target state="new">The message cannot be sent at this time because the Administrator requires a minimum of {0} minute(s) between messages from the same user.</target>
+        </trans-unit>
+        <trans-unit id="MsgAttachmentsNotAllowed.Text" translate="yes" xml:space="preserve">
+          <source>Attachments are not allowed.</source>
+          <target state="new">Attachments are not allowed.</target>
+        </trans-unit>
+        <trans-unit id="MsgMessageOrRecipientNotFound.Text" translate="yes" xml:space="preserve">
+          <source>Either Message is not found or Recipient is not present for the message.</source>
+          <target state="new">Either Message is not found or Recipient is not present for the message.</target>
+        </trans-unit>
+        <trans-unit id="MsgRecipientLimitExceeded.Text" translate="yes" xml:space="preserve">
+          <source>Maximum recipient limit reached.  To send the message, please remove some recipients from the To list.</source>
+          <target state="new">Maximum recipient limit reached.  To send the message, please remove some recipients from the To list.</target>
+        </trans-unit>
+        <trans-unit id="MsgMessageRequiredError.Text" translate="yes" xml:space="preserve">
+          <source>The message object supplied cannot be null.</source>
+          <target state="new">The message object supplied cannot be null.</target>
+        </trans-unit>
+        <trans-unit id="TabNotInPortal.Text" translate="yes" xml:space="preserve">
+          <source>Specified page is not in this site.</source>
+          <target state="new">Specified page is not in this site.</target>
+        </trans-unit>
+        <trans-unit id="TabModuleNotExist.Text" translate="yes" xml:space="preserve">
+          <source>Specified module instance does not exist.</source>
+          <target state="new">Specified module instance does not exist.</target>
+        </trans-unit>
+        <trans-unit id="ControllerNotFound.Text" translate="yes" xml:space="preserve">
+          <source>Unable to locate a controller for {0}.  Searched in namespaces: {1}.</source>
+          <target state="new">Unable to locate a controller for {0}.  Searched in namespaces: {1}.</target>
+        </trans-unit>
+        <trans-unit id="AmbiguousController.Text" translate="yes" xml:space="preserve">
+          <source>Multiple types were found that match the controller named '{0}' in namespaces {1}.</source>
+          <target state="new">Multiple types were found that match the controller named '{0}' in namespaces {1}.</target>
+        </trans-unit>
+        <trans-unit id="MaxLengthExceeded.Text" translate="yes" xml:space="preserve">
+          <source>The maximum length of the Field {0} has been exceeded.</source>
+          <target state="new">The maximum length of the Field {0} has been exceeded.</target>
+        </trans-unit>
+        <trans-unit id="InvalidPublishPeriod.Text" translate="yes" xml:space="preserve">
+          <source>The End Date must be after the Start Date.</source>
+          <target state="new">The End Date must be after the Start Date.</target>
+        </trans-unit>
+        <trans-unit id="ProfileService_UpdateVanityUrl.Error" translate="yes" xml:space="preserve">
+          <source>There was an error updating the Profile URL.  If you continue to see this message, please check with the Administrator.</source>
+          <target state="new">There was an error updating the Profile URL.  If you continue to see this message, please check with the Administrator.</target>
+        </trans-unit>
+        <trans-unit id="StartDateMustNotBeInThePast.Text" translate="yes" xml:space="preserve">
+          <source>The Start Date must not be in the past.</source>
+          <target state="new">The Start Date must not be in the past.</target>
+        </trans-unit>
+        <trans-unit id="StartDateRequired.Text" translate="yes" xml:space="preserve">
+          <source>The Start Date is required.</source>
+          <target state="new">The Start Date is required.</target>
+        </trans-unit>
+        <trans-unit id="FileLockedRunningWorkflowError.Text" translate="yes" xml:space="preserve">
+          <source>File locked.  The file cannot be updated because it is currently part of a workflow.</source>
+          <target state="new">File locked.  The file cannot be updated because it is currently part of a workflow.</target>
+        </trans-unit>
+        <trans-unit id="InstallPackageError.Text" translate="yes" xml:space="preserve">
+          <source>Package {0} Installed failed because '{1}'.</source>
+          <target state="new">Package {0} Installed failed because '{1}'.</target>
+        </trans-unit>
+        <trans-unit id="FileLockedOutOfPublishPeriodError.Text" translate="yes" xml:space="preserve">
+          <source>File locked.  The file cannot be updated because it is not within a valid start and end date for publication.</source>
+          <target state="new">File locked.  The file cannot be updated because it is not within a valid start and end date for publication.</target>
+        </trans-unit>
+        <trans-unit id="CannotMoveFolderAlreadyExists.Text" translate="yes" xml:space="preserve">
+          <source>The folder '{0}' cannot be moved.  A folder with that name already exists under the folder '{1}'.</source>
+          <target state="new">The folder '{0}' cannot be moved.  A folder with that name already exists under the folder '{1}'.</target>
+        </trans-unit>
+        <trans-unit id="CannotMoveFolderBetweenFolderType.Text" translate="yes" xml:space="preserve">
+          <source>The folder with name '{0}' cannot be moved.  Move Folder operation between this two folder types is not allowed.</source>
+          <target state="new">The folder with name '{0}' cannot be moved.  Move Folder operation between this two folder types is not allowed.</target>
+        </trans-unit>
+        <trans-unit id="ErrorCreatingBusinessControllerClass.Text" translate="yes" xml:space="preserve">
+          <source>Error Creating BusinessControllerClass '{0}' of module({1}) id=({2}) in tab({3}) and portal({4})</source>
+          <target state="new">Error Creating BusinessControllerClass '{0}' of module({1}) id=({2}) in tab({3}) and portal({4})</target>
+        </trans-unit>
+        <trans-unit id="InvalidAnalyzerClass.Text" translate="yes" xml:space="preserve">
+          <source>The class '{0}' cannot be created because it's invalid or is not an analyzer, will use default analyzer.</source>
+          <target state="new">The class '{0}' cannot be created because it's invalid or is not an analyzer, will use default analyzer.</target>
+        </trans-unit>
+        <trans-unit id="LuceneControllerIsDisposed.Text" translate="yes" xml:space="preserve">
+          <source>LuceneController is disposed and cannot be used anymore.</source>
+          <target state="new">LuceneController is disposed and cannot be used anymore.</target>
+        </trans-unit>
+        <trans-unit id="ModuleDefIdMustBeGreaterThanZero.Text" translate="yes" xml:space="preserve">
+          <source>ModuleDefId must be greater than zero when SearchTypeId is for a module.</source>
+          <target state="new">ModuleDefId must be greater than zero when SearchTypeId is for a module.</target>
+        </trans-unit>
+        <trans-unit id="ModuleDefIdWhenSearchTypeForModule.Text" translate="yes" xml:space="preserve">
+          <source>ModuleDefId is needed only when SearchTypeId is for a module.</source>
+          <target state="new">ModuleDefId is needed only when SearchTypeId is for a module.</target>
+        </trans-unit>
+        <trans-unit id="ModuleIdMustBeGreaterThanZero.Text" translate="yes" xml:space="preserve">
+          <source>ModuleId must be greater than zero when SearchTypeId is for a module.</source>
+          <target state="new">ModuleId must be greater than zero when SearchTypeId is for a module.</target>
+        </trans-unit>
+        <trans-unit id="ModuleIdMustHaveSearchTypeIdForModule.Text" translate="yes" xml:space="preserve">
+          <source>ModuleId based search must have SearchTypeId for a module only.</source>
+          <target state="new">ModuleId based search must have SearchTypeId for a module only.</target>
+        </trans-unit>
+        <trans-unit id="ModuleIdWhenSearchTypeForModule.Text" translate="yes" xml:space="preserve">
+          <source>ModuleId is needed only when SearchTypeId is for a module.</source>
+          <target state="new">ModuleId is needed only when SearchTypeId is for a module.</target>
+        </trans-unit>
+        <trans-unit id="SearchAnalyzerMinWordLength.Text" translate="yes" xml:space="preserve">
+          <source>Search Analyzer: min word length ({0}) is greater than max word length ({1}) value.</source>
+          <target state="new">Search Analyzer: min word length ({0}) is greater than max word length ({1}) value.</target>
+        </trans-unit>
+        <trans-unit id="SearchIndexingDirectoryNoValid.Text" translate="yes" xml:space="preserve">
+          <source>Search indexing directory is either empty or does not exist.</source>
+          <target state="new">Search indexing directory is either empty or does not exist.</target>
+        </trans-unit>
+        <trans-unit id="UnableToCreateLuceneWriter.Text" translate="yes" xml:space="preserve">
+          <source>Unable to create Lucene writer (lock file is in use).  Please recycle AppPool in IIS to release lock.</source>
+          <target state="new">Unable to create Lucene writer (lock file is in use).  Please recycle AppPool in IIS to release lock.</target>
+        </trans-unit>
+        <trans-unit id="PublishPagePermissionsNotMet" translate="yes" xml:space="preserve">
+          <source>Permissions are not met.  The page has not been published.</source>
+          <target state="new">Permissions are not met.  The page has not been published.</target>
+        </trans-unit>
+        <trans-unit id="TabHasNotAnUnpublishedVersion.Text" translate="yes" xml:space="preserve">
+          <source>Tha tab {0} has not an unpublished version.</source>
+          <target state="new">Tha tab {0} has not an unpublished version.</target>
+        </trans-unit>
+        <trans-unit id="TabVersionAlreadyPublished.Text" translate="yes" xml:space="preserve">
+          <source>For Tab {0}, the version {1} is already published.</source>
+          <target state="new">For Tab {0}, the version {1} is already published.</target>
+        </trans-unit>
+        <trans-unit id="TabVersionCannotBeDeleted_UnpublishedVersion.Text" translate="yes" xml:space="preserve">
+          <source>For Tab {0}, the version {1} cannot be deleted because it is an unpublished version.</source>
+          <target state="new">For Tab {0}, the version {1} cannot be deleted because it is an unpublished version.</target>
+        </trans-unit>
+        <trans-unit id="TabVersionCannotBeDiscarded_OnlyOneVersion.Text" translate="yes" xml:space="preserve">
+          <source>The tab {0} has only one version created.  It cannot be discarded.</source>
+          <target state="new">The tab {0} has only one version created.  It cannot be discarded.</target>
+        </trans-unit>
+        <trans-unit id="TabVersionCannotBeRolledBack_UnpublishedVersionExists.Text" translate="yes" xml:space="preserve">
+          <source>For Tab {0}, the version {1} cannot be rolled back because an unpublished version exists.</source>
+          <target state="new">For Tab {0}, the version {1} cannot be rolled back because an unpublished version exists.</target>
+        </trans-unit>
+        <trans-unit id="TabVersionCannotBeCreated_UnpublishedVersionAlreadyExistsConcurrencyProblem.Text" translate="yes" xml:space="preserve">
+          <source>For Tab {0}, the new unpublished version cannot be created since another unpublished version exists.  Maybe another user has taken action on the page and its state has been changed.  Please refresh the page to see the current state.</source>
+          <target state="new">For Tab {0}, the new unpublished version cannot be created since another unpublished version exists.  Maybe another user has taken action on the page and its state has been changed.  Please refresh the page to see the current state.</target>
+        </trans-unit>
+        <trans-unit id="TabVersionCannotBeCreated_UnpublishedVersionAlreadyExists.Text" translate="yes" xml:space="preserve">
+          <source>For Tab {0}, the new unpublished version cannot be created since another unpublished version exists.</source>
+          <target state="new">For Tab {0}, the new unpublished version cannot be created since another unpublished version exists.</target>
+        </trans-unit>
+        <trans-unit id="TabVersioningNotEnabled.Text" translate="yes" xml:space="preserve">
+          <source>Tab Versioning is not enabled.</source>
+          <target state="new">Tab Versioning is not enabled.</target>
+        </trans-unit>
+        <trans-unit id="WorkflowInUsageException.Text" translate="yes" xml:space="preserve">
+          <source>You cannot delete a workflow in use.</source>
+          <target state="new">You cannot delete a workflow in use.</target>
+        </trans-unit>
+        <trans-unit id="WorkflowNameAlreadyExistsException.Text" translate="yes" xml:space="preserve">
+          <source>A workflow with this name already exists.</source>
+          <target state="new">A workflow with this name already exists.</target>
+        </trans-unit>
+        <trans-unit id="SystemWorkflowDeletionException.Text" translate="yes" xml:space="preserve">
+          <source>System workflow cannot be deleted.</source>
+          <target state="new">System workflow cannot be deleted.</target>
+        </trans-unit>
+        <trans-unit id="WorkflowDoesNotExistException.Text" translate="yes" xml:space="preserve">
+          <source>Workflow does not exist.</source>
+          <target state="new">Workflow does not exist.</target>
+        </trans-unit>
+        <trans-unit id="WorkflowStateNameAlreadyExistsException.Text" translate="yes" xml:space="preserve">
+          <source>A workflow state with this name already exists.</source>
+          <target state="new">A workflow state with this name already exists.</target>
+        </trans-unit>
+        <trans-unit id="WorkflowConcurrencyException.Text" translate="yes" xml:space="preserve">
+          <source>The current state of the workflow is not the same of the current state specified in the input parameter.</source>
+          <target state="new">The current state of the workflow is not the same of the current state specified in the input parameter.</target>
+        </trans-unit>
+        <trans-unit id="UserCannotReviewWorkflowState.Text" translate="yes" xml:space="preserve">
+          <source>User cannot review the workflow state.</source>
+          <target state="new">User cannot review the workflow state.</target>
+        </trans-unit>
+        <trans-unit id="WorkflowAlreadyStarted.Text" translate="yes" xml:space="preserve">
+          <source>Workflow cannot get started for this Content Item.  It already has a started workflow.</source>
+          <target state="new">Workflow cannot get started for this Content Item.  It already has a started workflow.</target>
+        </trans-unit>
+        <trans-unit id="WorkflowAuthorNotFound.Text" translate="yes" xml:space="preserve">
+          <source>Author cannot be found.  Notification won't be sent.</source>
+          <target state="new">Author cannot be found.  Notification won't be sent.</target>
+        </trans-unit>
+        <trans-unit id="WorkflowCannotDiscard.Text" translate="yes" xml:space="preserve">
+          <source>Cannot discard on last workflow state.</source>
+          <target state="new">Cannot discard on last workflow state.</target>
+        </trans-unit>
+        <trans-unit id="WorkflowStateInUsageException.Text" translate="yes" xml:space="preserve">
+          <source>Cannot delete a state in use.</source>
+          <target state="new">Cannot delete a state in use.</target>
+        </trans-unit>
+        <trans-unit id="WorkflowNewStateCannotBeAddedToSystemWorkflows.Text" translate="yes" xml:space="preserve">
+          <source>New states cannot be added to system workflows.</source>
+          <target state="new">New states cannot be added to system workflows.</target>
+        </trans-unit>
+        <trans-unit id="WorkflowStateCannotBeMoved.Text" translate="yes" xml:space="preserve">
+          <source>Workflow state cannot be moved.</source>
+          <target state="new">Workflow state cannot be moved.</target>
+        </trans-unit>
+        <trans-unit id="WorkflowSystemWorkflowStateCannotBeDeleted.Text" translate="yes" xml:space="preserve">
+          <source>System workflow state cannot be deleted.</source>
+          <target state="new">System workflow state cannot be deleted.</target>
+        </trans-unit>
+        <trans-unit id="WorkflowSystemWorkflowStateCannotComplete.Text" translate="yes" xml:space="preserve">
+          <source>System workflow state cannot be completed.</source>
+          <target state="new">System workflow state cannot be completed.</target>
+        </trans-unit>
+        <trans-unit id="ModuleDoesNotBelongToPage.Text" translate="yes" xml:space="preserve">
+          <source>This module does not belong to the page.  Please move to the master page to change the module.</source>
+          <target state="new">This module does not belong to the page.  Please move to the master page to change the module.</target>
+        </trans-unit>
+        <trans-unit id="TabVersionCannotBeRolledBack_LastVersion.Text" translate="yes" xml:space="preserve">
+          <source>For Tab {0}, the version {1} cannot be rolled back as is the last version.</source>
+          <target state="new">For Tab {0}, the version {1} cannot be rolled back as is the last version.</target>
+        </trans-unit>
+        <trans-unit id="FolderFileNameHasInvalidcharacters.Text" translate="yes" xml:space="preserve">
+          <source>The name contains invalid character(s). Please specify a name without {0}.</source>
+          <target state="new">The name contains invalid character(s). Please specify a name without {0}.</target>
+        </trans-unit>
+        <trans-unit id="FolderFileNameIsReserved.Text" translate="yes" xml:space="preserve">
+          <source>The name is reserved. Try a different name.</source>
+          <target state="new">The name is reserved. Try a different name.</target>
+        </trans-unit>
+        <trans-unit id="UserHasNoPermissionToEditFile.Text" translate="yes" xml:space="preserve">
+          <source>The user doesn't have the correct permissions to edit this file.</source>
+          <target state="new">The user doesn't have the correct permissions to edit this file.</target>
+        </trans-unit>
+        <trans-unit id="FolderAlreadyExists.Text" translate="yes" xml:space="preserve">
+          <source>Cannot create folder ({0}), folder already exists in this location.</source>
+          <target state="new">Cannot create folder ({0}), folder already exists in this location.</target>
+        </trans-unit>
+        <trans-unit id="UserHasNoPermissionToEditFolder.Text" translate="yes" xml:space="preserve">
+          <source>The user doesn't have the correct permissions to edit this folder.</source>
+          <target state="new">The user doesn't have the correct permissions to edit this folder.</target>
+        </trans-unit>
+        <trans-unit id="UserHasNoPermissionToAdd.Text" translate="yes" xml:space="preserve">
+          <source>The user doesn't have the correct permissions to add folders on this location.</source>
+          <target state="new">The user doesn't have the correct permissions to add folders on this location.</target>
+        </trans-unit>
+        <trans-unit id="InvalidMappedPath.Text" translate="yes" xml:space="preserve">
+          <source>The Mapped Path is invalid.</source>
+          <target state="new">The Mapped Path is invalid.</target>
+        </trans-unit>
+        <trans-unit id="FileNameInvalid.Text" translate="yes" xml:space="preserve">
+          <source>The specified name ({0}) is not valid.</source>
+          <target state="new">The specified name ({0}) is not valid.</target>
+        </trans-unit>
+        <trans-unit id="FolderDoesNotExists.Text" translate="yes" xml:space="preserve">
+          <source>The folder does not exist.</source>
+          <target state="new">The folder does not exist.</target>
+        </trans-unit>
+        <trans-unit id="UserHasNoPermissionToBrowseFolder.Text" translate="yes" xml:space="preserve">
+          <source>The user doesn't have the correct permissions to browse this folder.</source>
+          <target state="new">The user doesn't have the correct permissions to browse this folder.</target>
+        </trans-unit>
+        <trans-unit id="SitemapProviderError.Text" translate="yes" xml:space="preserve">
+          <source>URL sitemap provider '{0}' failed with error: {1}.</source>
+          <target state="new">URL sitemap provider '{0}' failed with error: {1}.</target>
+        </trans-unit>
+        <trans-unit id="SitemapUrlGenerationError.Text" translate="yes" xml:space="preserve">
+          <source>URL sitemap generation for page '{0} - {1}' caused an exception: {2}.</source>
+          <target state="new">URL sitemap generation for page '{0} - {1}' caused an exception: {2}.</target>
+        </trans-unit>
+        <trans-unit id="DynamicContentEntityInUse.Text" translate="yes" xml:space="preserve">
+          <source>The {0} with Id {1} is in use, so it cannot be deleted.</source>
+          <target state="new">The {0} with Id {1} is in use, so it cannot be deleted.</target>
+        </trans-unit>
+        <trans-unit id="PropertyCannotBeEmpty.Text" translate="yes" xml:space="preserve">
+          <source>The property '{1}' in object '{0}' cannot be empty (count = 0).</source>
+          <target state="new">The property '{1}' in object '{0}' cannot be empty (count = 0).</target>
+        </trans-unit>
+        <trans-unit id="ErrorMessageCannotBeNullOrEmpty.Text" translate="yes" xml:space="preserve">
+          <source>Both the ErorrKey and the ErrorMessage cannot be null or empty.</source>
+          <target state="new">Both the ErorrKey and the ErrorMessage cannot be null or empty.</target>
+        </trans-unit>
+        <trans-unit id="JsonContentTypeInvalid.Text" translate="yes" xml:space="preserve">
+          <source>The contentTypeId specified in the json document - {0} - does not exist.</source>
+          <target state="new">The contentTypeId specified in the json document - {0} - does not exist.</target>
+        </trans-unit>
+        <trans-unit id="JsonInvalidField.Text" translate="yes" xml:space="preserve">
+          <source>The content type does not specify the field - {0}.</source>
+          <target state="new">The content type does not specify the field - {0}.</target>
+        </trans-unit>
+        <trans-unit id="JsonMissingContent.Text" translate="yes" xml:space="preserve">
+          <source>There is no content node in the json document.</source>
+          <target state="new">There is no content node in the json document.</target>
+        </trans-unit>
+        <trans-unit id="CreateValidatorException.Text" translate="yes" xml:space="preserve">
+          <source>Could not instantiate Validator - {0}.</source>
+          <target state="new">Could not instantiate Validator - {0}.</target>
+        </trans-unit>
+        <trans-unit id="InvalidValidatorException.Text" translate="yes" xml:space="preserve">
+          <source>Could not create ValidatorType - - {0}.</source>
+          <target state="new">Could not create ValidatorType - - {0}.</target>
+        </trans-unit>
+        <trans-unit id="UpdateUserMembershipFailed.Text" translate="yes" xml:space="preserve">
+          <source>Asp.net membership update user failed. Possible Reason(s): you enabled requiresUniqueEmail in membership config, but there have different user(s) used same email address with current user.</source>
+          <target state="new">Asp.net membership update user failed. Possible Reason(s): you enabled requiresUniqueEmail in membership config, but there have different user(s) used same email address with current user.</target>
+        </trans-unit>
+        <trans-unit id="SystemDataTypesSecurityException.Text" translate="yes" xml:space="preserve">
+          <source>System Data Types can only be created, modified or deleted by Super Users.</source>
+          <target state="new">System Data Types can only be created, modified or deleted by Super Users.</target>
+        </trans-unit>
+        <trans-unit id="SystemContentTypesSecurityException.Text" translate="yes" xml:space="preserve">
+          <source>System Content Types can only be created, modified or deleted by Super Users.</source>
+          <target state="new">System Content Types can only be created, modified or deleted by Super Users.</target>
+        </trans-unit>
+        <trans-unit id="EntityIsNotValid.Text" translate="yes" xml:space="preserve">
+          <source>The entity of type '{0}' is not valid.</source>
+          <target state="new">The entity of type '{0}' is not valid.</target>
+        </trans-unit>
+        <trans-unit id="FieldDefinitionInvalidDeadLoop.Text" translate="yes" xml:space="preserve">
+          <source>It is not possible to create the field with name {0} because it would create a dead loop definition.</source>
+          <target state="new">It is not possible to create the field with name {0} because it would create a dead loop definition.</target>
+        </trans-unit>
+        <trans-unit id="ContentTypeFieldDefinitionDoesNotExist.Text" translate="yes" xml:space="preserve">
+          <source>The content type to which the field definition belongs is not valid.</source>
+          <target state="new">The content type to which the field definition belongs is not valid.</target>
+        </trans-unit>
+        <trans-unit id="ContentTypeDoesNotExist.Text" translate="yes" xml:space="preserve">
+          <source>The specified content type is not valid.</source>
+          <target state="new">The specified content type is not valid.</target>
+        </trans-unit>
+        <trans-unit id="UserDoesNotExist.Text" translate="yes" xml:space="preserve">
+          <source>The user you are trying to follow no longer exists.</source>
+          <target state="new">The user you are trying to follow no longer exists.</target>
+        </trans-unit>
+        <trans-unit id="AlreadyFollowingUser.Text" translate="yes" xml:space="preserve">
+          <source>You are already following this user.</source>
+          <target state="new">You are already following this user.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

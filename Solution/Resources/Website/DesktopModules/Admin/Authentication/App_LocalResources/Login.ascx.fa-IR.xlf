@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Login.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="AssociateHelp.Text" translate="yes" xml:space="preserve">
+          <source>You can associate your login information with an existing user account by entering your user name and password.</source>
+          <target state="new">You can associate your login information with an existing user account by entering your user name and password.</target>
+        </trans-unit>
+        <trans-unit id="AssociateTitle.Text" translate="yes" xml:space="preserve">
+          <source>Associate with Existing Account</source>
+          <target state="new">Associate with Existing Account</target>
+        </trans-unit>
+        <trans-unit id="AuthenticatedHelp.Text" translate="yes" xml:space="preserve">
+          <source>You have been successfully authenticated, however this identity is not a member of this site.  You can either associate this identity with an existing user account by providing the user name and password, or you can register as a new member.</source>
+          <target state="new">You have been successfully authenticated, however this identity is not a member of this site.  You can either associate this identity with an existing user account by providing the user name and password, or you can register as a new member.</target>
+        </trans-unit>
+        <trans-unit id="AuthenticatedTitle.Text" translate="yes" xml:space="preserve">
+          <source>Authenticated</source>
+          <target state="new">Authenticated</target>
+        </trans-unit>
+        <trans-unit id="cmdAssociate.Text" translate="yes" xml:space="preserve">
+          <source>Associate with User Account</source>
+          <target state="new">Associate with User Account</target>
+        </trans-unit>
+        <trans-unit id="cmdCreate.Text" translate="yes" xml:space="preserve">
+          <source>Create a New Account</source>
+          <target state="new">Create a New Account</target>
+        </trans-unit>
+        <trans-unit id="cmdForgotPassword.Text" translate="yes" xml:space="preserve">
+          <source>Forgot Password?</source>
+          <target state="new">Forgot Password?</target>
+        </trans-unit>
+        <trans-unit id="cmdPassword.Text" translate="yes" xml:space="preserve">
+          <source>Retrieve Password</source>
+          <target state="new">Retrieve Password</target>
+        </trans-unit>
+        <trans-unit id="cmdProceed.Text" translate="yes" xml:space="preserve">
+          <source>Proceed Anyway (Change Password Later)</source>
+          <target state="new">Proceed Anyway (Change Password Later)</target>
+        </trans-unit>
+        <trans-unit id="cmdRegister.Text" translate="yes" xml:space="preserve">
+          <source>Register</source>
+          <target state="new">Register</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_.Text" translate="yes" xml:space="preserve">
+          <source>User Log In</source>
+          <target state="new">User Log In</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_login.Text" translate="yes" xml:space="preserve">
+          <source>User Log In</source>
+          <target state="new">User Log In</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_signin.Text" translate="yes" xml:space="preserve">
+          <source>User Log In</source>
+          <target state="new">User Log In</target>
+        </trans-unit>
+        <trans-unit id="CreateTitle.Text" translate="yes" xml:space="preserve">
+          <source>Create a New Account</source>
+          <target state="new">Create a New Account</target>
+        </trans-unit>
+        <trans-unit id="EnterCode.Text" translate="yes" xml:space="preserve">
+          <source>Enter Your Verification Code</source>
+          <target state="new">Enter Your Verification Code</target>
+        </trans-unit>
+        <trans-unit id="InvalidCode.Text" translate="yes" xml:space="preserve">
+          <source>Invalid Verification Code</source>
+          <target state="new">Invalid Verification Code</target>
+        </trans-unit>
+        <trans-unit id="IPAddressBanned.Text" translate="yes" xml:space="preserve">
+          <source>You cannot login to the site from this IP address.</source>
+          <target state="new">You cannot login to the site from this IP address.</target>
+        </trans-unit>
+        <trans-unit id="LoginFailed.Text" translate="yes" xml:space="preserve">
+          <source>Login Failed. Please remember that passwords are case sensitive.</source>
+          <target state="new">Login Failed. Please remember that passwords are case sensitive.</target>
+        </trans-unit>
+        <trans-unit id="PasswordExpired.Text" translate="yes" xml:space="preserve">
+          <source>Your password expired on {0}.  Please update your password before continuing.</source>
+          <target state="new">Your password expired on {0}.  Please update your password before continuing.</target>
+        </trans-unit>
+        <trans-unit id="PasswordExpiring.Text" translate="yes" xml:space="preserve">
+          <source>Your password will expire on {0}.  Please update your password before continuing.</source>
+          <target state="new">Your password will expire on {0}.  Please update your password before continuing.</target>
+        </trans-unit>
+        <trans-unit id="PasswordInvalid.Text" translate="yes" xml:space="preserve">
+          <source>You must enter a valid password.  Please contact the Site Administrator if you do not know the password requirements.</source>
+          <target state="new">You must enter a valid password.  Please contact the Site Administrator if you do not know the password requirements.</target>
+        </trans-unit>
+        <trans-unit id="PasswordMismatch.Text" translate="yes" xml:space="preserve">
+          <source>Password values entered do not match.</source>
+          <target state="new">Password values entered do not match.</target>
+        </trans-unit>
+        <trans-unit id="PasswordMissing.Text" translate="yes" xml:space="preserve">
+          <source>You must provide your current password in order to change the password.</source>
+          <target state="new">You must provide your current password in order to change the password.</target>
+        </trans-unit>
+        <trans-unit id="PasswordNotDifferent.Text" translate="yes" xml:space="preserve">
+          <source>The new password is the same as the old password.  Please enter a different password.</source>
+          <target state="new">The new password is the same as the old password.  Please enter a different password.</target>
+        </trans-unit>
+        <trans-unit id="PasswordSent.Text" translate="yes" xml:space="preserve">
+          <source>Password has been sent to<it id="1" pos="open">&lt;br&gt;</it>your email address.</source>
+          <target state="new">Password has been sent to<it id="1" pos="open">&lt;br&gt;</it>your email address.</target>
+        </trans-unit>
+        <trans-unit id="PasswordUpdate.Text" translate="yes" xml:space="preserve">
+          <source>Please update your password before continuing.</source>
+          <target state="new">Please update your password before continuing.</target>
+        </trans-unit>
+        <trans-unit id="plToken.Help" translate="yes" xml:space="preserve">
+          <source>The unique token that identifies the user.</source>
+          <target state="new">The unique token that identifies the user.</target>
+        </trans-unit>
+        <trans-unit id="plToken.Text" translate="yes" xml:space="preserve">
+          <source>User Token:</source>
+          <target state="new">User Token:</target>
+        </trans-unit>
+        <trans-unit id="plType.Help" translate="yes" xml:space="preserve">
+          <source>The type of authentication</source>
+          <target state="new">The type of authentication</target>
+        </trans-unit>
+        <trans-unit id="plType.Text" translate="yes" xml:space="preserve">
+          <source>Type:</source>
+          <target state="new">Type:</target>
+        </trans-unit>
+        <trans-unit id="ProfileUpdate.Text" translate="yes" xml:space="preserve">
+          <source>Please update your profile before continuing.</source>
+          <target state="new">Please update your profile before continuing.</target>
+        </trans-unit>
+        <trans-unit id="RegisterTitle.Text" translate="yes" xml:space="preserve">
+          <source>Register a new Account</source>
+          <target state="new">Register a new Account</target>
+        </trans-unit>
+        <trans-unit id="Remember.Text" translate="yes" xml:space="preserve">
+          <source>Remember Login</source>
+          <target state="new">Remember Login</target>
+        </trans-unit>
+        <trans-unit id="UserLockedOut.Text" translate="yes" xml:space="preserve">
+          <source>This account has been locked out after too many unsuccessful login attempts.  Please wait {0} minutes before trying to login again. If you have forgotten your password, please try the Password Reminder option before contacting the Site Administrator.</source>
+          <target state="new">This account has been locked out after too many unsuccessful login attempts.  Please wait {0} minutes before trying to login again. If you have forgotten your password, please try the Password Reminder option before contacting the Site Administrator.</target>
+        </trans-unit>
+        <trans-unit id="UsernameError.Text" translate="yes" xml:space="preserve">
+          <source>User name does not exist.</source>
+          <target state="new">User name does not exist.</target>
+        </trans-unit>
+        <trans-unit id="UserNotAuthorized.Text" translate="yes" xml:space="preserve">
+          <source>You are not currently authorized to login to this site.</source>
+          <target state="new">You are not currently authorized to login to this site.</target>
+        </trans-unit>
+        <trans-unit id="AssociationFailed.Text" translate="yes" xml:space="preserve">
+          <source>Error associating identity with user.  Remember that user names and passwords are case-sensitive.</source>
+          <target state="new">Error associating identity with user.  Remember that user names and passwords are case-sensitive.</target>
+        </trans-unit>
+        <trans-unit id="UserLockedOut_ContactAdmin.Text" translate="yes" xml:space="preserve">
+          <source>This account has been locked out after too many unsuccessful login attempts.  Please contact the Site Administrator.</source>
+          <target state="new">This account has been locked out after too many unsuccessful login attempts.  Please contact the Site Administrator.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

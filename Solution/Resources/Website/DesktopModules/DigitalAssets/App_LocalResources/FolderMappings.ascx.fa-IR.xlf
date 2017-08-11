@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="FolderMappings.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="cmdCancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="cmdNewMapping.Text" translate="yes" xml:space="preserve">
+          <source>Add New Type</source>
+          <target state="new">Add New Type</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_foldermappings.Text" translate="yes" xml:space="preserve">
+          <source>Folder Types</source>
+          <target state="new">Folder Types</target>
+        </trans-unit>
+        <trans-unit id="DeleteConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete the {0} Folder Type Definition?</source>
+          <target state="new">Are you sure you want to delete the {0} Folder Type Definition?</target>
+        </trans-unit>
+        <trans-unit id="Description.Text" translate="yes" xml:space="preserve">
+          <source>Manage the folder types available on this site. The default types (Standard, Secure and Database) cannot be edited or deleted. Non default types can be reordered by selecting and moving them to a new position. The order will be considered while resolving conflicts during folder synchronizations.</source>
+          <target state="new">Manage the folder types available on this site. The default types (Standard, Secure and Database) cannot be edited or deleted. Non default types can be reordered by selecting and moving them to a new position. The order will be considered while resolving conflicts during folder synchronizations.</target>
+        </trans-unit>
+        <trans-unit id="Name.Header" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="TableHeader.Text" translate="yes" xml:space="preserve">
+          <source>Folder Type Definitions</source>
+          <target state="new">Folder Type Definitions</target>
+        </trans-unit>
+        <trans-unit id="Type.Header" translate="yes" xml:space="preserve">
+          <source>Folder Provider</source>
+          <target state="new">Folder Provider</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Roles.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Name.Header" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="Description.Header" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+        <trans-unit id="Fee.Header" translate="yes" xml:space="preserve">
+          <source>Fee</source>
+          <target state="new">Fee</target>
+        </trans-unit>
+        <trans-unit id="Every.Header" translate="yes" xml:space="preserve">
+          <source>Every</source>
+          <target state="new">Every</target>
+        </trans-unit>
+        <trans-unit id="Period.Header" translate="yes" xml:space="preserve">
+          <source>Period</source>
+          <target state="new">Period</target>
+        </trans-unit>
+        <trans-unit id="Trial.Header" translate="yes" xml:space="preserve">
+          <source>Trial</source>
+          <target state="new">Trial</target>
+        </trans-unit>
+        <trans-unit id="Public.Header" translate="yes" xml:space="preserve">
+          <source>Public</source>
+          <target state="new">Public</target>
+        </trans-unit>
+        <trans-unit id="Auto.Header" translate="yes" xml:space="preserve">
+          <source>Auto</source>
+          <target state="new">Auto</target>
+        </trans-unit>
+        <trans-unit id="AddContent.Action" translate="yes" xml:space="preserve">
+          <source>Add New Role</source>
+          <target state="new">Add New Role</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_.Text" translate="yes" xml:space="preserve">
+          <source>Security Roles</source>
+          <target state="new">Security Roles</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;h1&gt;</bpt>About Roles<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Administrators can manage the security roles defined for their website. The module allows you to add new security roles, modify existing security roles, delete security roles, and manage the users assigned to security roles.<ept id="2">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;h1&gt;</bpt>About Roles<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Administrators can manage the security roles defined for their website. The module allows you to add new security roles, modify existing security roles, delete security roles, and manage the users assigned to security roles.<ept id="2">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="plRoleGroups.Text" translate="yes" xml:space="preserve">
+          <source>Filter by Role Group:</source>
+          <target state="new">Filter by Role Group:</target>
+        </trans-unit>
+        <trans-unit id="plRoleGroups.Help" translate="yes" xml:space="preserve">
+          <source>Select a Role Group to view roles within that group.</source>
+          <target state="new">Select a Role Group to view roles within that group.</target>
+        </trans-unit>
+        <trans-unit id="AddGroup.Action" translate="yes" xml:space="preserve">
+          <source>Add New Role Group</source>
+          <target state="new">Add New Role Group</target>
+        </trans-unit>
+        <trans-unit id="UserRoles.Text" translate="yes" xml:space="preserve">
+          <source>Manage Users</source>
+          <target state="new">Manage Users</target>
+        </trans-unit>
+        <trans-unit id="UserSettings.Action" translate="yes" xml:space="preserve">
+          <source>User Settings</source>
+          <target state="new">User Settings</target>
+        </trans-unit>
+        <trans-unit id="UserCount.Header" translate="yes" xml:space="preserve">
+          <source>Users</source>
+          <target state="new">Users</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

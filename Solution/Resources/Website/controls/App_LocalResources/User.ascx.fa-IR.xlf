@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="User.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="plFirstName.Text" translate="yes" xml:space="preserve">
+          <source>First Name:</source>
+          <target state="new">First Name:</target>
+        </trans-unit>
+        <trans-unit id="plLastName.Text" translate="yes" xml:space="preserve">
+          <source>Last Name:</source>
+          <target state="new">Last Name:</target>
+        </trans-unit>
+        <trans-unit id="plUserName.Text" translate="yes" xml:space="preserve">
+          <source>User Name:</source>
+          <target state="new">User Name:</target>
+        </trans-unit>
+        <trans-unit id="plUserName.Help" translate="yes" xml:space="preserve">
+          <source>Choose a user name.  If the user name already exists you will get an opportunity to select an alternate name.</source>
+          <target state="new">Choose a user name.  If the user name already exists you will get an opportunity to select an alternate name.</target>
+        </trans-unit>
+        <trans-unit id="plPassword.Text" translate="yes" xml:space="preserve">
+          <source>Password:</source>
+          <target state="new">Password:</target>
+        </trans-unit>
+        <trans-unit id="plPassword.Help" translate="yes" xml:space="preserve">
+          <source>Choose a password.</source>
+          <target state="new">Choose a password.</target>
+        </trans-unit>
+        <trans-unit id="plConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Confirm:</source>
+          <target state="new">Confirm:</target>
+        </trans-unit>
+        <trans-unit id="plConfirm.Help" translate="yes" xml:space="preserve">
+          <source>Re-enter your password to confirm.</source>
+          <target state="new">Re-enter your password to confirm.</target>
+        </trans-unit>
+        <trans-unit id="plEmail.Text" translate="yes" xml:space="preserve">
+          <source>Email Address:</source>
+          <target state="new">Email Address:</target>
+        </trans-unit>
+        <trans-unit id="valFirstName.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>First name is required.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>First name is required.</target>
+        </trans-unit>
+        <trans-unit id="valLastName.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>Last name is required.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>Last name is required.</target>
+        </trans-unit>
+        <trans-unit id="valUsername.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>User name is required.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>User name is required.</target>
+        </trans-unit>
+        <trans-unit id="valPassword.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>Password is required.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>Password is required.</target>
+        </trans-unit>
+        <trans-unit id="valConfirm1.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>Password confirmation is required.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>Password confirmation is required.</target>
+        </trans-unit>
+        <trans-unit id="valConfirm2.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>Password values entered do not match.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>Password values entered do not match.</target>
+        </trans-unit>
+        <trans-unit id="valEmail1.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>Email is required.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>Email is required.</target>
+        </trans-unit>
+        <trans-unit id="valEmail2.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;br&gt;</it>Email must be valid.</source>
+          <target state="new"><it id="1" pos="open">&lt;br&gt;</it>Email must be valid.</target>
+        </trans-unit>
+        <trans-unit id="plFirstName.Help" translate="yes" xml:space="preserve">
+          <source>Enter your first name.</source>
+          <target state="new">Enter your first name.</target>
+        </trans-unit>
+        <trans-unit id="plLastName.Help" translate="yes" xml:space="preserve">
+          <source>Enter your last name.</source>
+          <target state="new">Enter your last name.</target>
+        </trans-unit>
+        <trans-unit id="plEmail.Help" translate="yes" xml:space="preserve">
+          <source>Enter your email address.</source>
+          <target state="new">Enter your email address.</target>
+        </trans-unit>
+        <trans-unit id="plWebsite.Text" translate="yes" xml:space="preserve">
+          <source>Website:</source>
+          <target state="new">Website:</target>
+        </trans-unit>
+        <trans-unit id="plWebsite.Help" translate="yes" xml:space="preserve">
+          <source>Enter your website address.</source>
+          <target state="new">Enter your website address.</target>
+        </trans-unit>
+        <trans-unit id="plIM.Text" translate="yes" xml:space="preserve">
+          <source>Instant Messenger ID:</source>
+          <target state="new">Instant Messenger ID:</target>
+        </trans-unit>
+        <trans-unit id="plIM.Help" translate="yes" xml:space="preserve">
+          <source>Enter your instant messenger (Skype, Yahoo, Google, etc) ID.</source>
+          <target state="new">Enter your instant messenger (Skype, Yahoo, Google, etc) ID.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

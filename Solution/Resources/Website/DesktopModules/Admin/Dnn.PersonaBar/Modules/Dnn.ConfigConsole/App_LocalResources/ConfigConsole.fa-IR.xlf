@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="ConfigConsole.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="cmdExecute.Text" translate="yes" xml:space="preserve">
+          <source>Execute Merge</source>
+          <target state="new">Execute Merge</target>
+        </trans-unit>
+        <trans-unit id="cmdUpload.Text" translate="yes" xml:space="preserve">
+          <source>Upload XML Merge Script</source>
+          <target state="new">Upload XML Merge Script</target>
+        </trans-unit>
+        <trans-unit id="ERROR_Merge.Text" translate="yes" xml:space="preserve">
+          <source>The system encountered an error applying the specified configuration changes.  Please review the event log for error details.</source>
+          <target state="new">The system encountered an error applying the specified configuration changes.  Please review the event log for error details.</target>
+        </trans-unit>
+        <trans-unit id="plScriptNote.Text" translate="yes" xml:space="preserve">
+          <source>*NOTE:</source>
+          <target state="new">*NOTE:</target>
+        </trans-unit>
+        <trans-unit id="plScriptNoteDesc.Text" translate="yes" xml:space="preserve">
+          <source>once uploaded, you may edit the script in the field below before executing</source>
+          <target state="new">once uploaded, you may edit the script in the field below before executing</target>
+        </trans-unit>
+        <trans-unit id="plScript.Text" translate="yes" xml:space="preserve">
+          <source>Merge Script</source>
+          <target state="new">Merge Script</target>
+        </trans-unit>
+        <trans-unit id="cmdLoad.Text" translate="yes" xml:space="preserve">
+          <source>Load</source>
+          <target state="new">Load</target>
+        </trans-unit>
+        <trans-unit id="Configuration.Text" translate="yes" xml:space="preserve">
+          <source>Files</source>
+          <target state="new">Files</target>
+        </trans-unit>
+        <trans-unit id="Merge.Text" translate="yes" xml:space="preserve">
+          <source>Merge Scripts</source>
+          <target state="new">Merge Scripts</target>
+        </trans-unit>
+        <trans-unit id="plConfigHelp.Text" translate="yes" xml:space="preserve">
+          <source>- Select a config file to edit -</source>
+          <target state="new">- Select a config file to edit -</target>
+        </trans-unit>
+        <trans-unit id="plConfig.Text" translate="yes" xml:space="preserve">
+          <source>Configuration File</source>
+          <target state="new">Configuration File</target>
+        </trans-unit>
+        <trans-unit id="SaveWarning.Text" translate="yes" xml:space="preserve">
+          <source>Changing the web.config will cause your website to reload and may decrease site performance while the application is reloaded by the webserver.  Do you want to continue?</source>
+          <target state="new">Changing the web.config will cause your website to reload and may decrease site performance while the application is reloaded by the webserver.  Do you want to continue?</target>
+        </trans-unit>
+        <trans-unit id="ERROR_ConfigurationFormat.Text" translate="yes" xml:space="preserve">
+          <source>Your configuration file is not a valid XML file.  Please correct the formatting issue and try again. {0}</source>
+          <target state="new">Your configuration file is not a valid XML file.  Please correct the formatting issue and try again. {0}</target>
+        </trans-unit>
+        <trans-unit id="LoadConfigWarning.Text" translate="yes" xml:space="preserve">
+          <source>Warning: You will lose your current changes if you load a new config file.</source>
+          <target state="new">Warning: You will lose your current changes if you load a new config file.</target>
+        </trans-unit>
+        <trans-unit id="MergeConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to merge these changes to this config file?</source>
+          <target state="new">Are you sure you want to merge these changes to this config file?</target>
+        </trans-unit>
+        <trans-unit id="SaveConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to save changes this config file?</source>
+          <target state="new">Are you sure you want to save changes this config file?</target>
+        </trans-unit>
+        <trans-unit id="SelectConfig.Text" translate="yes" xml:space="preserve">
+          <source>Select a config file...</source>
+          <target state="new">Select a config file...</target>
+        </trans-unit>
+        <trans-unit id="Success.Text" translate="yes" xml:space="preserve">
+          <source>The changes were successfully made.</source>
+          <target state="new">The changes were successfully made.</target>
+        </trans-unit>
+        <trans-unit id="cmdSave.Text" translate="yes" xml:space="preserve">
+          <source>Save Changes</source>
+          <target state="new">Save Changes</target>
+        </trans-unit>
+        <trans-unit id="fileLabel.Help" translate="yes" xml:space="preserve">
+          <source>You can modify the file before making changes.</source>
+          <target state="new">You can modify the file before making changes.</target>
+        </trans-unit>
+        <trans-unit id="fileLabel.Text" translate="yes" xml:space="preserve">
+          <source>File:</source>
+          <target state="new">File:</target>
+        </trans-unit>
+        <trans-unit id="scriptLabel.Help" translate="yes" xml:space="preserve">
+          <source>You can edit the merge script before executing it.</source>
+          <target state="new">You can edit the merge script before executing it.</target>
+        </trans-unit>
+        <trans-unit id="scriptLabel.Text" translate="yes" xml:space="preserve">
+          <source>Script:</source>
+          <target state="new">Script:</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_.Text" translate="yes" xml:space="preserve">
+          <source>Configuration Manager</source>
+          <target state="new">Configuration Manager</target>
+        </trans-unit>
+        <trans-unit id="nav_ConfigConsole.Text" translate="yes" xml:space="preserve">
+          <source>Config Manager</source>
+          <target state="new">Config Manager</target>
+        </trans-unit>
+        <trans-unit id="ConfigConsole.Text" translate="yes" xml:space="preserve">
+          <source>Configuration Manager</source>
+          <target state="new">Configuration Manager</target>
+        </trans-unit>
+        <trans-unit id="SaveButton.Text" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="CancelButton.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="ConfigFilesTab.Text" translate="yes" xml:space="preserve">
+          <source>Config Files</source>
+          <target state="new">Config Files</target>
+        </trans-unit>
+        <trans-unit id="MergeScriptsTab.Text" translate="yes" xml:space="preserve">
+          <source>Merge Scripts</source>
+          <target state="new">Merge Scripts</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

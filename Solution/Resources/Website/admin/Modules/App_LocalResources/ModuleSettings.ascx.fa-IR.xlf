@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="ModuleSettings.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ModuleSettings.Text" translate="yes" xml:space="preserve">
+          <source>Module Settings</source>
+          <target state="new">Module Settings</target>
+        </trans-unit>
+        <trans-unit id="plFriendlyName.Text" translate="yes" xml:space="preserve">
+          <source>Module:</source>
+          <target state="new">Module:</target>
+        </trans-unit>
+        <trans-unit id="plFriendlyName.Help" translate="yes" xml:space="preserve">
+          <source>Displays the name of the module.</source>
+          <target state="new">Displays the name of the module.</target>
+        </trans-unit>
+        <trans-unit id="plTitle.Text" translate="yes" xml:space="preserve">
+          <source>Module Title:</source>
+          <target state="new">Module Title:</target>
+        </trans-unit>
+        <trans-unit id="plTitle.Help" translate="yes" xml:space="preserve">
+          <source>Enter a title for the module.  The title will appear in the title bar of the container for this module, if supported by the container.</source>
+          <target state="new">Enter a title for the module.  The title will appear in the title bar of the container for this module, if supported by the container.</target>
+        </trans-unit>
+        <trans-unit id="PageSettings.Text" translate="yes" xml:space="preserve">
+          <source>Page Settings</source>
+          <target state="new">Page Settings</target>
+        </trans-unit>
+        <trans-unit id="Security.Text" translate="yes" xml:space="preserve">
+          <source>Advanced Settings</source>
+          <target state="new">Advanced Settings</target>
+        </trans-unit>
+        <trans-unit id="plAllTabs.Text" translate="yes" xml:space="preserve">
+          <source>Display Module on All Pages</source>
+          <target state="new">Display Module on All Pages</target>
+        </trans-unit>
+        <trans-unit id="plAllTabs.Help" translate="yes" xml:space="preserve">
+          <source>Check the box to to display the module in the same location on all site pages.</source>
+          <target state="new">Check the box to to display the module in the same location on all site pages.</target>
+        </trans-unit>
+        <trans-unit id="plVisibility.Text" translate="yes" xml:space="preserve">
+          <source>Collapse/Expand:</source>
+          <target state="new">Collapse/Expand:</target>
+        </trans-unit>
+        <trans-unit id="plVisibility.Help" translate="yes" xml:space="preserve">
+          <source>Choose the default visibility for this module.  I.e. whether the module is collapsed or expanded.</source>
+          <target state="new">Choose the default visibility for this module.  I.e. whether the module is collapsed or expanded.</target>
+        </trans-unit>
+        <trans-unit id="plTab.Text" translate="yes" xml:space="preserve">
+          <source>Move To Page:</source>
+          <target state="new">Move To Page:</target>
+        </trans-unit>
+        <trans-unit id="plTab.Help" translate="yes" xml:space="preserve">
+          <source>Select the page this module instance will be moved to.</source>
+          <target state="new">Select the page this module instance will be moved to.</target>
+        </trans-unit>
+        <trans-unit id="plHeader.Text" translate="yes" xml:space="preserve">
+          <source>Header:</source>
+          <target state="new">Header:</target>
+        </trans-unit>
+        <trans-unit id="plHeader.Help" translate="yes" xml:space="preserve">
+          <source>Enter header text that will appear above the content of this module.</source>
+          <target state="new">Enter header text that will appear above the content of this module.</target>
+        </trans-unit>
+        <trans-unit id="plFooter.Text" translate="yes" xml:space="preserve">
+          <source>Footer:</source>
+          <target state="new">Footer:</target>
+        </trans-unit>
+        <trans-unit id="plFooter.Help" translate="yes" xml:space="preserve">
+          <source>Enter footer text that will appear below the content of this module.</source>
+          <target state="new">Enter footer text that will appear below the content of this module.</target>
+        </trans-unit>
+        <trans-unit id="plIcon.Text" translate="yes" xml:space="preserve">
+          <source>Icon:</source>
+          <target state="new">Icon:</target>
+        </trans-unit>
+        <trans-unit id="plIcon.Help" translate="yes" xml:space="preserve">
+          <source>Select an icon to display in the title bar of this module.</source>
+          <target state="new">Select an icon to display in the title bar of this module.</target>
+        </trans-unit>
+        <trans-unit id="plAlign.Text" translate="yes" xml:space="preserve">
+          <source>Alignment:</source>
+          <target state="new">Alignment:</target>
+        </trans-unit>
+        <trans-unit id="plAlign.Help" translate="yes" xml:space="preserve">
+          <source>Select the default alignment of module content.</source>
+          <target state="new">Select the default alignment of module content.</target>
+        </trans-unit>
+        <trans-unit id="plColor.Text" translate="yes" xml:space="preserve">
+          <source>Color:</source>
+          <target state="new">Color:</target>
+        </trans-unit>
+        <trans-unit id="plColor.Help" translate="yes" xml:space="preserve">
+          <source>Enter a color name or hexadecimal value for the background of this module.</source>
+          <target state="new">Enter a color name or hexadecimal value for the background of this module.</target>
+        </trans-unit>
+        <trans-unit id="plBorder.Text" translate="yes" xml:space="preserve">
+          <source>Border:</source>
+          <target state="new">Border:</target>
+        </trans-unit>
+        <trans-unit id="plBorder.Help" translate="yes" xml:space="preserve">
+          <source>Enter a border width for the module.</source>
+          <target state="new">Enter a border width for the module.</target>
+        </trans-unit>
+        <trans-unit id="plModuleContainer.Text" translate="yes" xml:space="preserve">
+          <source>Module Container:</source>
+          <target state="new">Module Container:</target>
+        </trans-unit>
+        <trans-unit id="plModuleContainer.Help" translate="yes" xml:space="preserve">
+          <source>Select a container for the module.</source>
+          <target state="new">Select a container for the module.</target>
+        </trans-unit>
+        <trans-unit id="plPermissions.Text" translate="yes" xml:space="preserve">
+          <source>Permissions:</source>
+          <target state="new">Permissions:</target>
+        </trans-unit>
+        <trans-unit id="plPermissions.Help" translate="yes" xml:space="preserve">
+          <source>Select the View and Edit permissions by checking/unchecking the boxes in the grid.  Check the Inherit View Permissions box to use the page permission for the module.</source>
+          <target state="new">Select the View and Edit permissions by checking/unchecking the boxes in the grid.  Check the Inherit View Permissions box to use the page permission for the module.</target>
+        </trans-unit>
+        <trans-unit id="plCacheTime.Text" translate="yes" xml:space="preserve">
+          <source>Cache Time (secs):</source>
+          <target state="new">Cache Time (secs):</target>
+        </trans-unit>
+        <trans-unit id="plCacheTime.Help" translate="yes" xml:space="preserve">
+          <source>Enter the number of seconds the content of this module is cached.</source>
+          <target state="new">Enter the number of seconds the content of this module is cached.</target>
+        </trans-unit>
+        <trans-unit id="plStartDate.Text" translate="yes" xml:space="preserve">
+          <source>Start Date:</source>
+          <target state="new">Start Date:</target>
+        </trans-unit>
+        <trans-unit id="plStartDate.Help" translate="yes" xml:space="preserve">
+          <source>Select the start date for displaying this module.  The module will only be visible to users with Manage permissions prior to this date.</source>
+          <target state="new">Select the start date for displaying this module.  The module will only be visible to users with Manage permissions prior to this date.</target>
+        </trans-unit>
+        <trans-unit id="plEndDate.Text" translate="yes" xml:space="preserve">
+          <source>End Date:</source>
+          <target state="new">End Date:</target>
+        </trans-unit>
+        <trans-unit id="plEndDate.Help" translate="yes" xml:space="preserve">
+          <source>Select the lnd date for displaying this module.  The module will only be visible to users with Manage permissions after this date.</source>
+          <target state="new">Select the lnd date for displaying this module.  The module will only be visible to users with Manage permissions after this date.</target>
+        </trans-unit>
+        <trans-unit id="plMoniker.Text" translate="yes" xml:space="preserve">
+          <source>Module Moniker:</source>
+          <target state="new">Module Moniker:</target>
+        </trans-unit>
+        <trans-unit id="plMoniker.Help" translate="yes" xml:space="preserve">
+          <source>A unique identifier for this module on the page. This can be used by WEB API callers to set the context of the Tab and Module context.</source>
+          <target state="new">A unique identifier for this module on the page. This can be used by WEB API callers to set the context of the Tab and Module context.</target>
+        </trans-unit>
+        <trans-unit id="plDefault.Text" translate="yes" xml:space="preserve">
+          <source>Set as Default Settings</source>
+          <target state="new">Set as Default Settings</target>
+        </trans-unit>
+        <trans-unit id="plDefault.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to use the Page Settings of this module as the default settings when adding new modules.  Administrators only.</source>
+          <target state="new">Check this box to use the Page Settings of this module as the default settings when adding new modules.  Administrators only.</target>
+        </trans-unit>
+        <trans-unit id="plAllModules.Text" translate="yes" xml:space="preserve">
+          <source>Apply to All Modules</source>
+          <target state="new">Apply to All Modules</target>
+        </trans-unit>
+        <trans-unit id="plAllModules.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to apply the Page Settings of this module to all existing modules.  Administrators only.</source>
+          <target state="new">Check this box to apply the Page Settings of this module to all existing modules.  Administrators only.</target>
+        </trans-unit>
+        <trans-unit id="GeneralDetails.Text" translate="yes" xml:space="preserve">
+          <source>Basic Settings</source>
+          <target state="new">Basic Settings</target>
+        </trans-unit>
+        <trans-unit id="Appearance.Text" translate="yes" xml:space="preserve">
+          <source>Basic Settings</source>
+          <target state="new">Basic Settings</target>
+        </trans-unit>
+        <trans-unit id="OtherSettings.Text" translate="yes" xml:space="preserve">
+          <source>Advanced Settings</source>
+          <target state="new">Advanced Settings</target>
+        </trans-unit>
+        <trans-unit id="InheritPermissions.Text" translate="yes" xml:space="preserve">
+          <source>Inherit <bpt id="1">&lt;b&gt;</bpt>View<ept id="1">&lt;/b&gt;</ept> permissions from <bpt id="2">&lt;b&gt;</bpt>Page<ept id="2">&lt;/b&gt;</ept></source>
+          <target state="new">Inherit <bpt id="1">&lt;b&gt;</bpt>View<ept id="1">&lt;/b&gt;</ept> permissions from <bpt id="2">&lt;b&gt;</bpt>Page<ept id="2">&lt;/b&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_module.Text" translate="yes" xml:space="preserve">
+          <source>Module</source>
+          <target state="new">Module</target>
+        </trans-unit>
+        <trans-unit id="plDisplayTitle.Text" translate="yes" xml:space="preserve">
+          <source>Display Container</source>
+          <target state="new">Display Container</target>
+        </trans-unit>
+        <trans-unit id="plDisplayTitle.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to display the module container.</source>
+          <target state="new">Check this box to display the module container.</target>
+        </trans-unit>
+        <trans-unit id="plDisplaySyndicate.Text" translate="yes" xml:space="preserve">
+          <source>Allow Syndicate</source>
+          <target state="new">Allow Syndicate</target>
+        </trans-unit>
+        <trans-unit id="plDisplayPrint.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to enable printing on this module.</source>
+          <target state="new">Check this box to enable printing on this module.</target>
+        </trans-unit>
+        <trans-unit id="plDisplaySyndicate.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to enable RSS on this module.</source>
+          <target state="new">Check this box to enable RSS on this module.</target>
+        </trans-unit>
+        <trans-unit id="plDisplayPrint.Text" translate="yes" xml:space="preserve">
+          <source>Allow Print</source>
+          <target state="new">Allow Print</target>
+        </trans-unit>
+        <trans-unit id="valStartDate.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Invalid start date.</source>
+          <target state="new">Invalid start date.</target>
+        </trans-unit>
+        <trans-unit id="valEndDate.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Invalid end date.</source>
+          <target state="new">Invalid end date.</target>
+        </trans-unit>
+        <trans-unit id="valCacheTime.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Invalid cache time.</source>
+          <target state="new">Invalid cache time.</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;h1&gt;</bpt>Module Settings<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Manage the Module Settings for the current Page.  This allows you to specify characteristics of the module including content, permissions, and display properties.<ept id="2">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;h1&gt;</bpt>Module Settings<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Manage the Module Settings for the current Page.  This allows you to specify characteristics of the module including content, permissions, and display properties.<ept id="2">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="valBorder.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Invalid Border (must be a number between 0 and 9).</source>
+          <target state="new">Invalid Border (must be a number between 0 and 9).</target>
+        </trans-unit>
+        <trans-unit id="valEndDate2.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>End Date must be after Start Date.</source>
+          <target state="new">End Date must be after Start Date.</target>
+        </trans-unit>
+        <trans-unit id="plNewTabs.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to add the module to new pages only.  Administrators only.</source>
+          <target state="new">Check this box to add the module to new pages only.  Administrators only.</target>
+        </trans-unit>
+        <trans-unit id="plNewTabs.Text" translate="yes" xml:space="preserve">
+          <source>Add to New Pages Only</source>
+          <target state="new">Add to New Pages Only</target>
+        </trans-unit>
+        <trans-unit id="plWebSlice.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to make this module an IE8 Web Slice.</source>
+          <target state="new">Check this box to make this module an IE8 Web Slice.</target>
+        </trans-unit>
+        <trans-unit id="plWebSlice.Text" translate="yes" xml:space="preserve">
+          <source>Is a WebSlice</source>
+          <target state="new">Is a WebSlice</target>
+        </trans-unit>
+        <trans-unit id="plWebSliceExpiry.Help" translate="yes" xml:space="preserve">
+          <source>Enter a date when the Web Slice will expire or leave blank to use the module's end date.</source>
+          <target state="new">Enter a date when the Web Slice will expire or leave blank to use the module's end date.</target>
+        </trans-unit>
+        <trans-unit id="plWebSliceExpiry.Text" translate="yes" xml:space="preserve">
+          <source>Web Slice Expires:</source>
+          <target state="new">Web Slice Expires:</target>
+        </trans-unit>
+        <trans-unit id="plWebSliceTitle.Help" translate="yes" xml:space="preserve">
+          <source>Enter a title for the Web Slice or leave blank to use the module title.</source>
+          <target state="new">Enter a title for the Web Slice or leave blank to use the module title.</target>
+        </trans-unit>
+        <trans-unit id="plWebSliceTitle.Text" translate="yes" xml:space="preserve">
+          <source>Web Slice Title:</source>
+          <target state="new">Web Slice Title:</target>
+        </trans-unit>
+        <trans-unit id="plWebSliceTTL.Help" translate="yes" xml:space="preserve">
+          <source>Enter the Time to Live (TTL) for this Web Slice in minutes or leave blank to use the module's cache time (converted to minutes).</source>
+          <target state="new">Enter the Time to Live (TTL) for this Web Slice in minutes or leave blank to use the module's cache time (converted to minutes).</target>
+        </trans-unit>
+        <trans-unit id="plWebSliceTTL.Text" translate="yes" xml:space="preserve">
+          <source>Web Slice TTL:</source>
+          <target state="new">Web Slice TTL:</target>
+        </trans-unit>
+        <trans-unit id="valWebSliceExpiry.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Invalide Expiry Date</source>
+          <target state="new">Invalide Expiry Date</target>
+        </trans-unit>
+        <trans-unit id="valWebSliceTTL.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Invalid TTL - value must be an integer.</source>
+          <target state="new">Invalid TTL - value must be an integer.</target>
+        </trans-unit>
+        <trans-unit id="InstalledOn.Text" translate="yes" xml:space="preserve">
+          <source>This module has been added to the following pages:</source>
+          <target state="new">This module has been added to the following pages:</target>
+        </trans-unit>
+        <trans-unit id="ModuleInstalledOn.Text" translate="yes" xml:space="preserve">
+          <source>Added to Pages</source>
+          <target state="new">Added to Pages</target>
+        </trans-unit>
+        <trans-unit id="InstalledOn.Help" translate="yes" xml:space="preserve">
+          <source>This list displays the pages this module was added to using the Add Existing Module feature.  An existing module can be added to other pages by using the Add Existing Module feature.</source>
+          <target state="new">This list displays the pages this module was added to using the Add Existing Module feature.  An existing module can be added to other pages by using the Add Existing Module feature.</target>
+        </trans-unit>
+        <trans-unit id="MsgInstalledOnNone.Text" translate="yes" xml:space="preserve">
+          <source>This module instance has not been added to any additional pages.</source>
+          <target state="new">This module instance has not been added to any additional pages.</target>
+        </trans-unit>
+        <trans-unit id="MsgInstalledOnAll.Text" translate="yes" xml:space="preserve">
+          <source>This module instance is displayed on all pages.</source>
+          <target state="new">This module instance is displayed on all pages.</target>
+        </trans-unit>
+        <trans-unit id="CustomSettings.Text" translate="yes" xml:space="preserve">
+          <source>{0} Settings</source>
+          <target state="new">{0} Settings</target>
+        </trans-unit>
+        <trans-unit id="ModuleExists.Text" translate="yes" xml:space="preserve">
+          <source>This module already exists on the target page (it may be in the Recycle Bin) and only one instance of a module can exist on a page.</source>
+          <target state="new">This module already exists on the target page (it may be in the Recycle Bin) and only one instance of a module can exist on a page.</target>
+        </trans-unit>
+        <trans-unit id="CacheProvider.Help" translate="yes" xml:space="preserve">
+          <source>Select the provider to use for this page.</source>
+          <target state="new">Select the provider to use for this page.</target>
+        </trans-unit>
+        <trans-unit id="CacheDuration.Help" translate="yes" xml:space="preserve">
+          <source>Enter the duration (in seconds) to cache the page for.  This must be an integer.</source>
+          <target state="new">Enter the duration (in seconds) to cache the page for.  This must be an integer.</target>
+        </trans-unit>
+        <trans-unit id="CacheProvider.Text" translate="yes" xml:space="preserve">
+          <source>Output Cache Provider</source>
+          <target state="new">Output Cache Provider</target>
+        </trans-unit>
+        <trans-unit id="CacheDuration.Text" translate="yes" xml:space="preserve">
+          <source>Cache Duration (seconds)</source>
+          <target state="new">Cache Duration (seconds)</target>
+        </trans-unit>
+        <trans-unit id="cmdClearTabModuleCache.Text" translate="yes" xml:space="preserve">
+          <source>Clear Cache for This Tab Module</source>
+          <target state="new">Clear Cache for This Tab Module</target>
+        </trans-unit>
+        <trans-unit id="cmdClearAllTabModuleCache.Text" translate="yes" xml:space="preserve">
+          <source>Clear Cache for All Tab Modules</source>
+          <target state="new">Clear Cache for All Tab Modules</target>
+        </trans-unit>
+        <trans-unit id="lblCachedItemCount.Text" translate="yes" xml:space="preserve">
+          <source>Current Cache Count: {0} item for this tab module.</source>
+          <target state="new">Current Cache Count: {0} item for this tab module.</target>
+        </trans-unit>
+        <trans-unit id="CacheDurationWarning.Text" translate="yes" xml:space="preserve">
+          <source>This module has indicated a recommendation to disable caching (select NONE from the Output Cache Provider list above).  Enabling caching on this module is not recommended and may cause the module to display stale data.</source>
+          <target state="new">This module has indicated a recommendation to disable caching (select NONE from the Output Cache Provider list above).  Enabling caching on this module is not recommended and may cause the module to display stale data.</target>
+        </trans-unit>
+        <trans-unit id="CacheInherited.Text" translate="yes" xml:space="preserve">
+          <source>Inherited</source>
+          <target state="new">Inherited</target>
+        </trans-unit>
+        <trans-unit id="plTags.Help" translate="yes" xml:space="preserve">
+          <source>Select items from the drop-down to tag this module.</source>
+          <target state="new">Select items from the drop-down to tag this module.</target>
+        </trans-unit>
+        <trans-unit id="plTags.Text" translate="yes" xml:space="preserve">
+          <source>Tags:</source>
+          <target state="new">Tags:</target>
+        </trans-unit>
+        <trans-unit id="plAdminBorder.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to display a red border around the module to Administrators when they are logged into the site.</source>
+          <target state="new">Check this box to display a red border around the module to Administrators when they are logged into the site.</target>
+        </trans-unit>
+        <trans-unit id="plAdminBorder.Text" translate="yes" xml:space="preserve">
+          <source>Hide Admin Border</source>
+          <target state="new">Hide Admin Border</target>
+        </trans-unit>
+        <trans-unit id="cultureLabel.Help" translate="yes" xml:space="preserve">
+          <source>The culture for this module.</source>
+          <target state="new">The culture for this module.</target>
+        </trans-unit>
+        <trans-unit id="cultureLabel.Text" translate="yes" xml:space="preserve">
+          <source>Module Culture:</source>
+          <target state="new">Module Culture:</target>
+        </trans-unit>
+        <trans-unit id="defaultCultureLabel.Help" translate="yes" xml:space="preserve">
+          <source>Click this link to view the version of this module in the default culture.</source>
+          <target state="new">Click this link to view the version of this module in the default culture.</target>
+        </trans-unit>
+        <trans-unit id="defaultCultureLabel.Text" translate="yes" xml:space="preserve">
+          <source>Default Culture:</source>
+          <target state="new">Default Culture:</target>
+        </trans-unit>
+        <trans-unit id="Bind.Text" translate="yes" xml:space="preserve">
+          <source>Bind</source>
+          <target state="new">Bind</target>
+        </trans-unit>
+        <trans-unit id="edit.Text" translate="yes" xml:space="preserve">
+          <source>Edit</source>
+          <target state="new">Edit</target>
+        </trans-unit>
+        <trans-unit id="UnBind.Text" translate="yes" xml:space="preserve">
+          <source>UnBind</source>
+          <target state="new">UnBind</target>
+        </trans-unit>
+        <trans-unit id="LocalizedModules.Text" translate="yes" xml:space="preserve">
+          <source>Module Localization</source>
+          <target state="new">Module Localization</target>
+        </trans-unit>
+        <trans-unit id="Translated.Text" translate="yes" xml:space="preserve">
+          <source>Mark Translated</source>
+          <target state="new">Mark Translated</target>
+        </trans-unit>
+        <trans-unit id="UnTranslated.Text" translate="yes" xml:space="preserve">
+          <source>Mark UnTranslated</source>
+          <target state="new">Mark UnTranslated</target>
+        </trans-unit>
+        <trans-unit id="CreateBoundCopies.Text" translate="yes" xml:space="preserve">
+          <source>Create Bound Copies</source>
+          <target state="new">Create Bound Copies</target>
+        </trans-unit>
+        <trans-unit id="Permissions.Text" translate="yes" xml:space="preserve">
+          <source>Permissions</source>
+          <target state="new">Permissions</target>
+        </trans-unit>
+        <trans-unit id="CacheSettings.Text" translate="yes" xml:space="preserve">
+          <source>Cache Settings</source>
+          <target state="new">Cache Settings</target>
+        </trans-unit>
+        <trans-unit id="ContainerPreview.Text" translate="yes" xml:space="preserve">
+          <source>Preview</source>
+          <target state="new">Preview</target>
+        </trans-unit>
+        <trans-unit id="ExpandAll.Text" translate="yes" xml:space="preserve">
+          <source>Expand All</source>
+          <target state="new">Expand All</target>
+        </trans-unit>
+        <trans-unit id="PreviewNoSelectionMessage.Text" translate="yes" xml:space="preserve">
+          <source>Select a container to preview.</source>
+          <target state="new">Select a container to preview.</target>
+        </trans-unit>
+        <trans-unit id="lblNoRecords.Text" translate="yes" xml:space="preserve">
+          <source>This module has not been added to any other pages.</source>
+          <target state="new">This module has not been added to any other pages.</target>
+        </trans-unit>
+        <trans-unit id="Page.Header" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target state="new">Page</target>
+        </trans-unit>
+        <trans-unit id="Site.Header" translate="yes" xml:space="preserve">
+          <source>Site</source>
+          <target state="new">Site</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_settings.Text" translate="yes" xml:space="preserve">
+          <source>{0} Settings</source>
+          <target state="new">{0} Settings</target>
+        </trans-unit>
+        <trans-unit id="AllowIndexLabel.Help" translate="yes" xml:space="preserve">
+          <source>Check this box if the module should be indexed by search crawlers.</source>
+          <target state="new">Check this box if the module should be indexed by search crawlers.</target>
+        </trans-unit>
+        <trans-unit id="AllowIndexLabel.Text" translate="yes" xml:space="preserve">
+          <source>Allow Indexing</source>
+          <target state="new">Allow Indexing</target>
+        </trans-unit>
+        <trans-unit id="isShareableLabel.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to allow the module to be shared across sites.</source>
+          <target state="new">Check this box to allow the module to be shared across sites.</target>
+        </trans-unit>
+        <trans-unit id="isShareableLabel.Text" translate="yes" xml:space="preserve">
+          <source>Is Shareable</source>
+          <target state="new">Is Shareable</target>
+        </trans-unit>
+        <trans-unit id="isShareableViewOnlyLabel.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to restrict the module to be shared as View Only.</source>
+          <target state="new">Check this box to restrict the module to be shared as View Only.</target>
+        </trans-unit>
+        <trans-unit id="isShareableViewOnlyLabel.Text" translate="yes" xml:space="preserve">
+          <source>View Only</source>
+          <target state="new">View Only</target>
+        </trans-unit>
+        <trans-unit id="MonikerExists.Text" translate="yes" xml:space="preserve">
+          <source>The new value of the moniker already exists; it must be unique in the portal.</source>
+          <target state="new">The new value of the moniker already exists; it must be unique in the portal.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

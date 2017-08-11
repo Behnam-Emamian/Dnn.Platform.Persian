@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Settings.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ControlTitle_settings.Text" translate="yes" xml:space="preserve">
+          <source>Journal Settings</source>
+          <target state="new">Journal Settings</target>
+        </trans-unit>
+        <trans-unit id="AllowFiles.Text" translate="yes" xml:space="preserve">
+          <source>Enable File Attachments</source>
+          <target state="new">Enable File Attachments</target>
+        </trans-unit>
+        <trans-unit id="DefaultPageSize.Text" translate="yes" xml:space="preserve">
+          <source>Default Page Size</source>
+          <target state="new">Default Page Size</target>
+        </trans-unit>
+        <trans-unit id="AllowPhotos.Text" translate="yes" xml:space="preserve">
+          <source>Enable Photo Attachments</source>
+          <target state="new">Enable Photo Attachments</target>
+        </trans-unit>
+        <trans-unit id="AllowFiles.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to allow users to attach files to journal posts.</source>
+          <target state="new">Check this box to allow users to attach files to journal posts.</target>
+        </trans-unit>
+        <trans-unit id="AllowPhotos.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to allow users to attach photos to journal posts.</source>
+          <target state="new">Check this box to allow users to attach photos to journal posts.</target>
+        </trans-unit>
+        <trans-unit id="DefaultPageSize.Help" translate="yes" xml:space="preserve">
+          <source>Select the number of journal items displayed per page.</source>
+          <target state="new">Select the number of journal items displayed per page.</target>
+        </trans-unit>
+        <trans-unit id="MaxMessageLength.Help" translate="yes" xml:space="preserve">
+          <source>Select the maximum number of characters per journal entry.</source>
+          <target state="new">Select the maximum number of characters per journal entry.</target>
+        </trans-unit>
+        <trans-unit id="MaxMessageLength.Text" translate="yes" xml:space="preserve">
+          <source>Maximum Characters per Message</source>
+          <target state="new">Maximum Characters per Message</target>
+        </trans-unit>
+        <trans-unit id="JournalFilters.Help" translate="yes" xml:space="preserve">
+          <source>Select the type of items to be displayed in the journal.</source>
+          <target state="new">Select the type of items to be displayed in the journal.</target>
+        </trans-unit>
+        <trans-unit id="JournalFilters.Text" translate="yes" xml:space="preserve">
+          <source>Journal Types</source>
+          <target state="new">Journal Types</target>
+        </trans-unit>
+        <trans-unit id="EnableEditor.Help" translate="yes" xml:space="preserve">
+          <source>Use this option to enable or disable direct journal input using the journal editor.</source>
+          <target state="new">Use this option to enable or disable direct journal input using the journal editor.</target>
+        </trans-unit>
+        <trans-unit id="EnableEditor.Text" translate="yes" xml:space="preserve">
+          <source>Enable Journal Editor</source>
+          <target state="new">Enable Journal Editor</target>
+        </trans-unit>
+        <trans-unit id="MessageLength_Unlimited.Text" translate="yes" xml:space="preserve">
+          <source>Unlimited</source>
+          <target state="new">Unlimited</target>
+        </trans-unit>
+        <trans-unit id="AllowResize.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to resize photos that have least one size dimension bigger than 400px.</source>
+          <target state="new">Check this box to resize photos that have least one size dimension bigger than 400px.</target>
+        </trans-unit>
+        <trans-unit id="AllowResize.Text" translate="yes" xml:space="preserve">
+          <source>Re-Size Photos</source>
+          <target state="new">Re-Size Photos</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="EditUser.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="AccountInfo.Text" translate="yes" xml:space="preserve">
+          <source>Account Information</source>
+          <target state="new">Account Information</target>
+        </trans-unit>
+        <trans-unit id="AccountSettings.Text" translate="yes" xml:space="preserve">
+          <source>Account Settings</source>
+          <target state="new">Account Settings</target>
+        </trans-unit>
+        <trans-unit id="cmdDelete.Text" translate="yes" xml:space="preserve">
+          <source>UnRegister</source>
+          <target state="new">UnRegister</target>
+        </trans-unit>
+        <trans-unit id="cmdProfile.Text" translate="yes" xml:space="preserve">
+          <source>Manage Profile</source>
+          <target state="new">Manage Profile</target>
+        </trans-unit>
+        <trans-unit id="cmdServices.Text" translate="yes" xml:space="preserve">
+          <source>Manage Services</source>
+          <target state="new">Manage Services</target>
+        </trans-unit>
+        <trans-unit id="cmdUpdate.Text" translate="yes" xml:space="preserve">
+          <source>Update</source>
+          <target state="new">Update</target>
+        </trans-unit>
+        <trans-unit id="cmdUser.Text" translate="yes" xml:space="preserve">
+          <source>Manage Account</source>
+          <target state="new">Manage Account</target>
+        </trans-unit>
+        <trans-unit id="PasswordSettings.Text" translate="yes" xml:space="preserve">
+          <source>Manage Password</source>
+          <target state="new">Manage Password</target>
+        </trans-unit>
+        <trans-unit id="UserUpdated.Text" translate="yes" xml:space="preserve">
+          <source>Account update was successful.</source>
+          <target state="new">Account update was successful.</target>
+        </trans-unit>
+        <trans-unit id="UserUpdatedError.Text" translate="yes" xml:space="preserve">
+          <source>There was an unexpected error updating your account.</source>
+          <target state="new">There was an unexpected error updating your account.</target>
+        </trans-unit>
+        <trans-unit id="VanityUrlHeader.Text" translate="yes" xml:space="preserve">
+          <source>Note: You can only update your public Profile URL once.</source>
+          <target state="new">Note: You can only update your public Profile URL once.</target>
+        </trans-unit>
+        <trans-unit id="VanityUrlLabel.Help" translate="yes" xml:space="preserve">
+          <source>You can enter a custom URL to identify your profile which you can then share with other community members.</source>
+          <target state="new">You can enter a custom URL to identify your profile which you can then share with other community members.</target>
+        </trans-unit>
+        <trans-unit id="VanityUrlLabel.Text" translate="yes" xml:space="preserve">
+          <source>Profile URL:</source>
+          <target state="new">Profile URL:</target>
+        </trans-unit>
+        <trans-unit id="ErrorDialogTitle.Text" translate="yes" xml:space="preserve">
+          <source>Unexpected error.</source>
+          <target state="new">Unexpected error.</target>
+        </trans-unit>
+        <trans-unit id="SuccessMessage.Text" translate="yes" xml:space="preserve">
+          <source>Profile URL was updated successfully.</source>
+          <target state="new">Profile URL was updated successfully.</target>
+        </trans-unit>
+        <trans-unit id="UserSubscribed.Text" translate="yes" xml:space="preserve">
+          <source>You have successfully subscribed to the {0} role.</source>
+          <target state="new">You have successfully subscribed to the {0} role.</target>
+        </trans-unit>
+        <trans-unit id="UserUnSubscribed.Text" translate="yes" xml:space="preserve">
+          <source>You have successfully unsubscribed from the {0} role.</source>
+          <target state="new">You have successfully unsubscribed from the {0} role.</target>
+        </trans-unit>
+        <trans-unit id="cmdCommunications.Text" translate="yes" xml:space="preserve">
+          <source>Communications</source>
+          <target state="new">Communications</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_profile.Text" translate="yes" xml:space="preserve">
+          <source>Profile</source>
+          <target state="new">Profile</target>
+        </trans-unit>
+        <trans-unit id="DisplayNameNotUnique.Text" translate="yes" xml:space="preserve">
+          <source>The display name you have entered is already in use, please choose a different one.</source>
+          <target state="new">The display name you have entered is already in use, please choose a different one.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

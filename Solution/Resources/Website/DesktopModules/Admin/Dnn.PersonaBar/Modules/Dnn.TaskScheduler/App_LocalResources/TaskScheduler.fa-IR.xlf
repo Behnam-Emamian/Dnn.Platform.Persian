@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="TaskScheduler.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ContentOptions.Action" translate="yes" xml:space="preserve">
+          <source>View Schedule Status</source>
+          <target state="new">View Schedule Status</target>
+        </trans-unit>
+        <trans-unit id="ScheduleHistory.Action" translate="yes" xml:space="preserve">
+          <source>View Schedule History</source>
+          <target state="new">View Schedule History</target>
+        </trans-unit>
+        <trans-unit id="plType.Text" translate="yes" xml:space="preserve">
+          <source>Full Class Name and Assembly</source>
+          <target state="new">Full Class Name and Assembly</target>
+        </trans-unit>
+        <trans-unit id="plEnabled.Text" translate="yes" xml:space="preserve">
+          <source>Enable Schedule</source>
+          <target state="new">Enable Schedule</target>
+        </trans-unit>
+        <trans-unit id="plTimeLapse.Text" translate="yes" xml:space="preserve">
+          <source>Frequency</source>
+          <target state="new">Frequency</target>
+        </trans-unit>
+        <trans-unit id="plTimeLapse.Help" translate="yes" xml:space="preserve">
+          <source>Set the time period to determine how frequently this task will run.</source>
+          <target state="new">Set the time period to determine how frequently this task will run.</target>
+        </trans-unit>
+        <trans-unit id="Minutes.Text" translate="yes" xml:space="preserve">
+          <source>Minutes</source>
+          <target state="new">Minutes</target>
+        </trans-unit>
+        <trans-unit id="Days.Text" translate="yes" xml:space="preserve">
+          <source>Days</source>
+          <target state="new">Days</target>
+        </trans-unit>
+        <trans-unit id="Hours.Text" translate="yes" xml:space="preserve">
+          <source>Hours</source>
+          <target state="new">Hours</target>
+        </trans-unit>
+        <trans-unit id="Weeks.Text" translate="yes" xml:space="preserve">
+          <source>Weeks</source>
+          <target state="new">Weeks</target>
+        </trans-unit>
+        <trans-unit id="Months.Text" translate="yes" xml:space="preserve">
+          <source>Months</source>
+          <target state="new">Months</target>
+        </trans-unit>
+        <trans-unit id="Years.Text" translate="yes" xml:space="preserve">
+          <source>Years</source>
+          <target state="new">Years</target>
+        </trans-unit>
+        <trans-unit id="plRetryTimeLapse.Text" translate="yes" xml:space="preserve">
+          <source>Retry Time Lapse</source>
+          <target state="new">Retry Time Lapse</target>
+        </trans-unit>
+        <trans-unit id="plRetryTimeLapse.Help" translate="yes" xml:space="preserve">
+          <source>Set the time period to rerun this task after a failure.</source>
+          <target state="new">Set the time period to rerun this task after a failure.</target>
+        </trans-unit>
+        <trans-unit id="plRetainHistoryNum.Text" translate="yes" xml:space="preserve">
+          <source>Retain Schedule History</source>
+          <target state="new">Retain Schedule History</target>
+        </trans-unit>
+        <trans-unit id="plRetainHistoryNum.Help" translate="yes" xml:space="preserve">
+          <source>Select the number of items to be retained in the schedule history.</source>
+          <target state="new">Select the number of items to be retained in the schedule history.</target>
+        </trans-unit>
+        <trans-unit id="plAttachToEvent.Text" translate="yes" xml:space="preserve">
+          <source>Run on Event</source>
+          <target state="new">Run on Event</target>
+        </trans-unit>
+        <trans-unit id="plAttachToEvent.Help" translate="yes" xml:space="preserve">
+          <source>Select "Application Start" to run this event when the web app starts. Note that   events run on APPLICATION_END may not run reliably on some hosts.</source>
+          <target state="new">Select "Application Start" to run this event when the web app starts. Note that   events run on APPLICATION_END may not run reliably on some hosts.</target>
+        </trans-unit>
+        <trans-unit id="None.Text" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <target state="new">None</target>
+        </trans-unit>
+        <trans-unit id="All.Text" translate="yes" xml:space="preserve">
+          <source>All</source>
+          <target state="new">All</target>
+        </trans-unit>
+        <trans-unit id="APPLICATION_START.Text" translate="yes" xml:space="preserve">
+          <source>APPLICATION_START</source>
+          <target state="new">APPLICATION_START</target>
+        </trans-unit>
+        <trans-unit id="plCatchUpEnabled.Text" translate="yes" xml:space="preserve">
+          <source>Catch Up Tasks</source>
+          <target state="new">Catch Up Tasks</target>
+        </trans-unit>
+        <trans-unit id="plCatchUpEnabled.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to run this event once for each frequency that was missed during any server downtime.</source>
+          <target state="new">Check this box to run this event once for each frequency that was missed during any server downtime.</target>
+        </trans-unit>
+        <trans-unit id="plObjectDependencies.Text" translate="yes" xml:space="preserve">
+          <source>Object Dependencies</source>
+          <target state="new">Object Dependencies</target>
+        </trans-unit>
+        <trans-unit id="plObjectDependencies.Help" translate="yes" xml:space="preserve">
+          <source>Enter the tables or other objects that this event is dependent on.  E.g. "Users,UsersOnline"</source>
+          <target state="new">Enter the tables or other objects that this event is dependent on.  E.g. "Users,UsersOnline"</target>
+        </trans-unit>
+        <trans-unit id="UpdateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Your changes have been saved.</source>
+          <target state="new">Your changes have been saved.</target>
+        </trans-unit>
+        <trans-unit id="DeleteSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The schedule item has been deleted.</source>
+          <target state="new">The schedule item has been deleted.</target>
+        </trans-unit>
+        <trans-unit id="DeleteError.Text" translate="yes" xml:space="preserve">
+          <source>Could not delete the schedule item. Please try later.</source>
+          <target state="new">Could not delete the schedule item. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_edit.Text" translate="yes" xml:space="preserve">
+          <source>Edit Task</source>
+          <target state="new">Edit Task</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;h1&gt;</bpt>About Schedule<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Allows you to schedule tasks to be run at specified intervals.<ept id="2">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;h1&gt;</bpt>About Schedule<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Allows you to schedule tasks to be run at specified intervals.<ept id="2">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="plType.Help" translate="yes" xml:space="preserve">
+          <source>This is the full class name followed by the assembly name.  E.g. "DotNetNuke.Entities.Users.PurgeUsersOnline, DOTNETNUKE"</source>
+          <target state="new">This is the full class name followed by the assembly name.  E.g. "DotNetNuke.Entities.Users.PurgeUsersOnline, DOTNETNUKE"</target>
+        </trans-unit>
+        <trans-unit id="plServers.Text" translate="yes" xml:space="preserve">
+          <source>Server Name:</source>
+          <target state="new">Server Name:</target>
+        </trans-unit>
+        <trans-unit id="plServers.Help" translate="yes" xml:space="preserve">
+          <source>Filter scheduled tasks by a single server or choose All to view all tasks.</source>
+          <target state="new">Filter scheduled tasks by a single server or choose All to view all tasks.</target>
+        </trans-unit>
+        <trans-unit id="Seconds.Text" translate="yes" xml:space="preserve">
+          <source>Seconds</source>
+          <target state="new">Seconds</target>
+        </trans-unit>
+        <trans-unit id="plEnabled.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to enable the schedule for this job.</source>
+          <target state="new">Check this box to enable the schedule for this job.</target>
+        </trans-unit>
+        <trans-unit id="plFriendlyName.Help" translate="yes" xml:space="preserve">
+          <source>Enter a name for the scheduled job.</source>
+          <target state="new">Enter a name for the scheduled job.</target>
+        </trans-unit>
+        <trans-unit id="plFriendlyName.Text" translate="yes" xml:space="preserve">
+          <source>Friendly Name</source>
+          <target state="new">Friendly Name</target>
+        </trans-unit>
+        <trans-unit id="cmdRun.Text" translate="yes" xml:space="preserve">
+          <source>Run Now</source>
+          <target state="new">Run Now</target>
+        </trans-unit>
+        <trans-unit id="cmdDelete.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="RunNow.Text" translate="yes" xml:space="preserve">
+          <source>Item added to schedule for immediate execution.</source>
+          <target state="new">Item added to schedule for immediate execution.</target>
+        </trans-unit>
+        <trans-unit id="TypeRequired.Text" translate="yes" xml:space="preserve">
+          <source>The type of schedule item is required.</source>
+          <target state="new">The type of schedule item is required.</target>
+        </trans-unit>
+        <trans-unit id="TimeLapseValidator.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Frequency range is from 1 to 999999.</source>
+          <target state="new">Frequency range is from 1 to 999999.</target>
+        </trans-unit>
+        <trans-unit id="TimeLapseRequired.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>You must set Frequency value from 1 to 999999.</source>
+          <target state="new">You must set Frequency value from 1 to 999999.</target>
+        </trans-unit>
+        <trans-unit id="RetryTimeLapseValidator.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Retry Frequency range is from 1 to 999999.</source>
+          <target state="new">Retry Frequency range is from 1 to 999999.</target>
+        </trans-unit>
+        <trans-unit id="plScheduleStartDate.Text" translate="yes" xml:space="preserve">
+          <source>Schedule Start Date/Time</source>
+          <target state="new">Schedule Start Date/Time</target>
+        </trans-unit>
+        <trans-unit id="plScheduleStartDate.Help" translate="yes" xml:space="preserve">
+          <source>Enter the start date/time for scheduled job.  Note: If the server is down at the scheduled time or other jobs are already running, then the job will run as soon as the server comes back on online.</source>
+          <target state="new">Enter the start date/time for scheduled job.  Note: If the server is down at the scheduled time or other jobs are already running, then the job will run as soon as the server comes back on online.</target>
+        </trans-unit>
+        <trans-unit id="InvalidFrequencyAndRetry.Text" translate="yes" xml:space="preserve">
+          <source>The values for frequency and retry are invalid as the retry interval exceeds the frequency interval.</source>
+          <target state="new">The values for frequency and retry are invalid as the retry interval exceeds the frequency interval.</target>
+        </trans-unit>
+        <trans-unit id="AddContent.Action" translate="yes" xml:space="preserve">
+          <source>Add Item To Schedule</source>
+          <target state="new">Add Item To Schedule</target>
+        </trans-unit>
+        <trans-unit id="Type.Header" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="Enabled.Header" translate="yes" xml:space="preserve">
+          <source>ENABLED</source>
+          <target state="new">ENABLED</target>
+        </trans-unit>
+        <trans-unit id="Enabled.Label" translate="yes" xml:space="preserve">
+          <source>Enabled</source>
+          <target state="new">Enabled</target>
+        </trans-unit>
+        <trans-unit id="Frequency.Header" translate="yes" xml:space="preserve">
+          <source>FREQUENCY</source>
+          <target state="new">FREQUENCY</target>
+        </trans-unit>
+        <trans-unit id="RetryTimeLapse.Header" translate="yes" xml:space="preserve">
+          <source>RETRY TIME LAPSE</source>
+          <target state="new">RETRY TIME LAPSE</target>
+        </trans-unit>
+        <trans-unit id="NextStart.Header" translate="yes" xml:space="preserve">
+          <source>Next Start</source>
+          <target state="new">Next Start</target>
+        </trans-unit>
+        <trans-unit id="NextStart.Label" translate="yes" xml:space="preserve">
+          <source>Next Start</source>
+          <target state="new">Next Start</target>
+        </trans-unit>
+        <trans-unit id="lnkHistory.Text" translate="yes" xml:space="preserve">
+          <source>History</source>
+          <target state="new">History</target>
+        </trans-unit>
+        <trans-unit id="TimeLapsePrefix.Text" translate="yes" xml:space="preserve">
+          <source>Every</source>
+          <target state="new">Every</target>
+        </trans-unit>
+        <trans-unit id="Minute.Text" translate="yes" xml:space="preserve">
+          <source>Minute</source>
+          <target state="new">Minute</target>
+        </trans-unit>
+        <trans-unit id="Hour.Text" translate="yes" xml:space="preserve">
+          <source>Hour</source>
+          <target state="new">Hour</target>
+        </trans-unit>
+        <trans-unit id="Day.Text" translate="yes" xml:space="preserve">
+          <source>Day</source>
+          <target state="new">Day</target>
+        </trans-unit>
+        <trans-unit id="n/a.Text" translate="yes" xml:space="preserve">
+          <source>n/a</source>
+          <target state="new">n/a</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_.Text" translate="yes" xml:space="preserve">
+          <source>Schedule</source>
+          <target state="new">Schedule</target>
+        </trans-unit>
+        <trans-unit id="Name.Header" translate="yes" xml:space="preserve">
+          <source>Task Name</source>
+          <target state="new">Task Name</target>
+        </trans-unit>
+        <trans-unit id="History.Text" translate="yes" xml:space="preserve">
+          <source>View History</source>
+          <target state="new">View History</target>
+        </trans-unit>
+        <trans-unit id="Status.Text" translate="yes" xml:space="preserve">
+          <source>View Status</source>
+          <target state="new">View Status</target>
+        </trans-unit>
+        <trans-unit id="ViewLog.Header" translate="yes" xml:space="preserve">
+          <source>Log</source>
+          <target state="new">Log</target>
+        </trans-unit>
+        <trans-unit id="plSchedulerMode.Text" translate="yes" xml:space="preserve">
+          <source>Scheduler Mode:</source>
+          <target state="new">Scheduler Mode:</target>
+        </trans-unit>
+        <trans-unit id="plSchedulerMode.Help" translate="yes" xml:space="preserve">
+          <source>The Timer Method maintains a separate thread to execute scheduled tasks while the worker process is alive. Alternatively, the Request Method executes tasks when HTTP Requests are made.  You can also disable the scheduler by selecting Disabled.</source>
+          <target state="new">The Timer Method maintains a separate thread to execute scheduled tasks while the worker process is alive. Alternatively, the Request Method executes tasks when HTTP Requests are made.  You can also disable the scheduler by selecting Disabled.</target>
+        </trans-unit>
+        <trans-unit id="Disabled.Text" translate="yes" xml:space="preserve">
+          <source>Disabled</source>
+          <target state="new">Disabled</target>
+        </trans-unit>
+        <trans-unit id="TimerMethod.Text" translate="yes" xml:space="preserve">
+          <source>Timer Method</source>
+          <target state="new">Timer Method</target>
+        </trans-unit>
+        <trans-unit id="RequestMethod.Text" translate="yes" xml:space="preserve">
+          <source>Request Method</source>
+          <target state="new">Request Method</target>
+        </trans-unit>
+        <trans-unit id="Settings.Text" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="new">Settings</target>
+        </trans-unit>
+        <trans-unit id="plScheduleAppStartDelay.Text" translate="yes" xml:space="preserve">
+          <source>Schedule Delay:</source>
+          <target state="new">Schedule Delay:</target>
+        </trans-unit>
+        <trans-unit id="plScheduleAppStartDelay.Help" translate="yes" xml:space="preserve">
+          <source>Number of minutes the system should wait before it runs any scheduled jobs after a restart. Default is 1 min.</source>
+          <target state="new">Number of minutes the system should wait before it runs any scheduled jobs after a restart. Default is 1 min.</target>
+        </trans-unit>
+        <trans-unit id="ScheduleAppStartDelayValidation.Text" translate="yes" xml:space="preserve">
+          <source>Value should be in minutes.</source>
+          <target state="new">Value should be in minutes.</target>
+        </trans-unit>
+        <trans-unit id="Started.Header" translate="yes" xml:space="preserve">
+          <source>Started</source>
+          <target state="new">Started</target>
+        </trans-unit>
+        <trans-unit id="Ended.Header" translate="yes" xml:space="preserve">
+          <source>Ended</source>
+          <target state="new">Ended</target>
+        </trans-unit>
+        <trans-unit id="Duration.Header" translate="yes" xml:space="preserve">
+          <source>Duration (seconds)</source>
+          <target state="new">Duration (seconds)</target>
+        </trans-unit>
+        <trans-unit id="Succeeded.Header" translate="yes" xml:space="preserve">
+          <source>Succeeded</source>
+          <target state="new">Succeeded</target>
+        </trans-unit>
+        <trans-unit id="Start/End/Next Start.Header" translate="yes" xml:space="preserve">
+          <source>Start/End/Next Start</source>
+          <target state="new">Start/End/Next Start</target>
+        </trans-unit>
+        <trans-unit id="Notes.Header" translate="yes" xml:space="preserve">
+          <source>Notes</source>
+          <target state="new">Notes</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_history.Text" translate="yes" xml:space="preserve">
+          <source>Task History</source>
+          <target state="new">Task History</target>
+        </trans-unit>
+        <trans-unit id="Description.Header" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+        <trans-unit id="Start.Header" translate="yes" xml:space="preserve">
+          <source>Start/End/Next</source>
+          <target state="new">Start/End/Next</target>
+        </trans-unit>
+        <trans-unit id="Server.Header" translate="yes" xml:space="preserve">
+          <source>Ran On Server</source>
+          <target state="new">Ran On Server</target>
+        </trans-unit>
+        <trans-unit id="lblStatusLabel.Text" translate="yes" xml:space="preserve">
+          <source>Status:</source>
+          <target state="new">Status:</target>
+        </trans-unit>
+        <trans-unit id="lblMaxThreadsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Max Threads:</source>
+          <target state="new">Max Threads:</target>
+        </trans-unit>
+        <trans-unit id="lblActiveThreadsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Active Threads:</source>
+          <target state="new">Active Threads:</target>
+        </trans-unit>
+        <trans-unit id="lblFreeThreadsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Free Threads:</source>
+          <target state="new">Free Threads:</target>
+        </trans-unit>
+        <trans-unit id="lblCommand.Text" translate="yes" xml:space="preserve">
+          <source>Command:</source>
+          <target state="new">Command:</target>
+        </trans-unit>
+        <trans-unit id="lblProcessing.Text" translate="yes" xml:space="preserve">
+          <source>Items Processing</source>
+          <target state="new">Items Processing</target>
+        </trans-unit>
+        <trans-unit id="ScheduleID.Header" translate="yes" xml:space="preserve">
+          <source>ID: </source>
+          <target state="new">ID: </target>
+        </trans-unit>
+        <trans-unit id="ObjectDependencies.Header" translate="yes" xml:space="preserve">
+          <source>Object Dependencies: </source>
+          <target state="new">Object Dependencies: </target>
+        </trans-unit>
+        <trans-unit id="TriggeredBy.Header" translate="yes" xml:space="preserve">
+          <source>Triggered By: </source>
+          <target state="new">Triggered By: </target>
+        </trans-unit>
+        <trans-unit id="Thread.Header" translate="yes" xml:space="preserve">
+          <source>Thread: </source>
+          <target state="new">Thread: </target>
+        </trans-unit>
+        <trans-unit id="Servers.Header" translate="yes" xml:space="preserve">
+          <source>Servers: </source>
+          <target state="new">Servers: </target>
+        </trans-unit>
+        <trans-unit id="lblQueue.Text" translate="yes" xml:space="preserve">
+          <source>Items in Queue</source>
+          <target state="new">Items in Queue</target>
+        </trans-unit>
+        <trans-unit id="Overdue.Header" translate="yes" xml:space="preserve">
+          <source>Overdue (seconds): </source>
+          <target state="new">Overdue (seconds): </target>
+        </trans-unit>
+        <trans-unit id="TimeRemaining.Header" translate="yes" xml:space="preserve">
+          <source>Time Remaining: </source>
+          <target state="new">Time Remaining: </target>
+        </trans-unit>
+        <trans-unit id="NoTasks.Text" translate="yes" xml:space="preserve">
+          <source>There are no tasks in the queue</source>
+          <target state="new">There are no tasks in the queue</target>
+        </trans-unit>
+        <trans-unit id="NoTasksMessage.Text" translate="yes" xml:space="preserve">
+          <source>Whenever you have tasks in queue or processing, they will appear here.</source>
+          <target state="new">Whenever you have tasks in queue or processing, they will appear here.</target>
+        </trans-unit>
+        <trans-unit id="DisabledMessage.Text" translate="yes" xml:space="preserve">
+          <source>Scheduler is currently disabled.</source>
+          <target state="new">Scheduler is currently disabled.</target>
+        </trans-unit>
+        <trans-unit id="ManuallyStopped.Text" translate="yes" xml:space="preserve">
+          <source>Manually stopped from scheduler status page</source>
+          <target state="new">Manually stopped from scheduler status page</target>
+        </trans-unit>
+        <trans-unit id="cmdStart.Text" translate="yes" xml:space="preserve">
+          <source>Start</source>
+          <target state="new">Start</target>
+        </trans-unit>
+        <trans-unit id="cmdStop.Text" translate="yes" xml:space="preserve">
+          <source>Stop</source>
+          <target state="new">Stop</target>
+        </trans-unit>
+        <trans-unit id="cmdSave.Text" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_status.Text" translate="yes" xml:space="preserve">
+          <source>Schedule Status</source>
+          <target state="new">Schedule Status</target>
+        </trans-unit>
+        <trans-unit id="Stop.Header" translate="yes" xml:space="preserve">
+          <source>Stop</source>
+          <target state="new">Stop</target>
+        </trans-unit>
+        <trans-unit id="TabTaskQueue.Text" translate="yes" xml:space="preserve">
+          <source>TASK QUEUE</source>
+          <target state="new">TASK QUEUE</target>
+        </trans-unit>
+        <trans-unit id="TabScheduler.Text" translate="yes" xml:space="preserve">
+          <source>SCHEDULER</source>
+          <target state="new">SCHEDULER</target>
+        </trans-unit>
+        <trans-unit id="TabHistory.Text" translate="yes" xml:space="preserve">
+          <source>HISTORY</source>
+          <target state="new">HISTORY</target>
+        </trans-unit>
+        <trans-unit id="TabHistoryTitle.Text" translate="yes" xml:space="preserve">
+          <source>Schedule History</source>
+          <target state="new">Schedule History</target>
+        </trans-unit>
+        <trans-unit id="HistoryModalTitle.Text" translate="yes" xml:space="preserve">
+          <source>Task History: </source>
+          <target state="new">Task History: </target>
+        </trans-unit>
+        <trans-unit id="Cancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="Update.Text" translate="yes" xml:space="preserve">
+          <source>Update</source>
+          <target state="new">Update</target>
+        </trans-unit>
+        <trans-unit id="NOT_SET.Text" translate="yes" xml:space="preserve">
+          <source>NOT SET</source>
+          <target state="new">NOT SET</target>
+        </trans-unit>
+        <trans-unit id="WAITING_FOR_OPEN_THREAD.Text" translate="yes" xml:space="preserve">
+          <source>WAITING FOR OPEN THREAD</source>
+          <target state="new">WAITING FOR OPEN THREAD</target>
+        </trans-unit>
+        <trans-unit id="RUNNING_EVENT_SCHEDULE.Text" translate="yes" xml:space="preserve">
+          <source>RUNNING EVENT SCHEDULE</source>
+          <target state="new">RUNNING EVENT SCHEDULE</target>
+        </trans-unit>
+        <trans-unit id="RUNNING_TIMER_SCHEDULE.Text" translate="yes" xml:space="preserve">
+          <source>RUNNING TIMER SCHEDULE</source>
+          <target state="new">RUNNING TIMER SCHEDULE</target>
+        </trans-unit>
+        <trans-unit id="RUNNING_REQUEST_SCHEDULE.Text" translate="yes" xml:space="preserve">
+          <source>RUNNING REQUEST SCHEDULE</source>
+          <target state="new">RUNNING REQUEST SCHEDULE</target>
+        </trans-unit>
+        <trans-unit id="WAITING_FOR_REQUEST.Text" translate="yes" xml:space="preserve">
+          <source>WAITING FOR REQUEST</source>
+          <target state="new">WAITING FOR REQUEST</target>
+        </trans-unit>
+        <trans-unit id="SHUTTING_DOWN.Text" translate="yes" xml:space="preserve">
+          <source>SHUTTING DOWN</source>
+          <target state="new">SHUTTING DOWN</target>
+        </trans-unit>
+        <trans-unit id="STOPPED.Text" translate="yes" xml:space="preserve">
+          <source>STOPPED</source>
+          <target state="new">STOPPED</target>
+        </trans-unit>
+        <trans-unit id="SchedulerUpdateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Scheduler settings updated successfully.</source>
+          <target state="new">Scheduler settings updated successfully.</target>
+        </trans-unit>
+        <trans-unit id="SchedulerUpdateError.Text" translate="yes" xml:space="preserve">
+          <source>Could not update schedule settings. Please try later.</source>
+          <target state="new">Could not update schedule settings. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="SchedulerStartSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Scheduler started successfully.</source>
+          <target state="new">Scheduler started successfully.</target>
+        </trans-unit>
+        <trans-unit id="SchedulerStartError.Text" translate="yes" xml:space="preserve">
+          <source>Could not start scheduler. Please try later.</source>
+          <target state="new">Could not start scheduler. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="SchedulerStopSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Scheduler stopped successfully.</source>
+          <target state="new">Scheduler stopped successfully.</target>
+        </trans-unit>
+        <trans-unit id="SchedulerStopError.Text" translate="yes" xml:space="preserve">
+          <source>Could not stop scheduler. Please try later.</source>
+          <target state="new">Could not stop scheduler. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="StartSchedule.Text" translate="yes" xml:space="preserve">
+          <source>Start Schedule</source>
+          <target state="new">Start Schedule</target>
+        </trans-unit>
+        <trans-unit id="StopSchedule.Text" translate="yes" xml:space="preserve">
+          <source>Stop Schedule</source>
+          <target state="new">Stop Schedule</target>
+        </trans-unit>
+        <trans-unit id="lblStartDelay.Text" translate="yes" xml:space="preserve">
+          <source>Schedule Start Delay (mins):</source>
+          <target state="new">Schedule Start Delay (mins):</target>
+        </trans-unit>
+        <trans-unit id="processing.Text" translate="yes" xml:space="preserve">
+          <source>Processing ...</source>
+          <target state="new">Processing ...</target>
+        </trans-unit>
+        <trans-unit id="RunNowError.Text" translate="yes" xml:space="preserve">
+          <source>Could not add this item to schedule. Please try later.</source>
+          <target state="new">Could not add this item to schedule. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="DescriptionColumn.Text" translate="yes" xml:space="preserve">
+          <source>DESCRIPTION</source>
+          <target state="new">DESCRIPTION</target>
+        </trans-unit>
+        <trans-unit id="RanOnServerColumn.Text" translate="yes" xml:space="preserve">
+          <source>RAN ON SERVER</source>
+          <target state="new">RAN ON SERVER</target>
+        </trans-unit>
+        <trans-unit id="DurationColumn.Text" translate="yes" xml:space="preserve">
+          <source>DURATION (SECS)</source>
+          <target state="new">DURATION (SECS)</target>
+        </trans-unit>
+        <trans-unit id="SucceededColumn.Text" translate="yes" xml:space="preserve">
+          <source>SUCCEEDED</source>
+          <target state="new">SUCCEEDED</target>
+        </trans-unit>
+        <trans-unit id="StartEndColumn.Text" translate="yes" xml:space="preserve">
+          <source>START/END</source>
+          <target state="new">START/END</target>
+        </trans-unit>
+        <trans-unit id="nav_TaskScheduler.Text" translate="yes" xml:space="preserve">
+          <source>Scheduler</source>
+          <target state="new">Scheduler</target>
+        </trans-unit>
+        <trans-unit id="ScheduleItemUpdateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Schedule item updated successfully.</source>
+          <target state="new">Schedule item updated successfully.</target>
+        </trans-unit>
+        <trans-unit id="ScheduleItemUpdateError.Text" translate="yes" xml:space="preserve">
+          <source>Could not update the schedule item. Please try later.</source>
+          <target state="new">Could not update the schedule item. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="ScheduleItemCreateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Schedule item created successfully.</source>
+          <target state="new">Schedule item created successfully.</target>
+        </trans-unit>
+        <trans-unit id="ScheduleItemCreateError.Text" translate="yes" xml:space="preserve">
+          <source>Could not create the schedule item. Please try later.</source>
+          <target state="new">Could not create the schedule item. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="ScheduleItemDeletedWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete this schedule item?</source>
+          <target state="new">Are you sure you want to delete this schedule item?</target>
+        </trans-unit>
+        <trans-unit id="Yes.Text" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="No.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="SettingsRestoreWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to cancel your changes?</source>
+          <target state="new">Are you sure you want to cancel your changes?</target>
+        </trans-unit>
+        <trans-unit id="ServerTime.Text" translate="yes" xml:space="preserve">
+          <source>Server Time:</source>
+          <target state="new">Server Time:</target>
+        </trans-unit>
+        <trans-unit id="cmdAddTask.Text" translate="yes" xml:space="preserve">
+          <source>Add Task</source>
+          <target state="new">Add Task</target>
+        </trans-unit>
+        <trans-unit id="pageSizeOption.Text" translate="yes" xml:space="preserve">
+          <source>{0} results per page</source>
+          <target state="new">{0} results per page</target>
+        </trans-unit>
+        <trans-unit id="pagerSummary.Text" translate="yes" xml:space="preserve">
+          <source>Showing {0}-{1} of {2} results</source>
+          <target state="new">Showing {0}-{1} of {2} results</target>
+        </trans-unit>
+        <trans-unit id="Servers.Text" translate="yes" xml:space="preserve">
+          <source>Servers</source>
+          <target state="new">Servers</target>
+        </trans-unit>
+        <trans-unit id="LessThanMinute.Text" translate="yes" xml:space="preserve">
+          <source>less than a minute</source>
+          <target state="new">less than a minute</target>
+        </trans-unit>
+        <trans-unit id="MinuteSingular.Text" translate="yes" xml:space="preserve">
+          <source>minute</source>
+          <target state="new">minute</target>
+        </trans-unit>
+        <trans-unit id="MinutePlural.Text" translate="yes" xml:space="preserve">
+          <source>minutes</source>
+          <target state="new">minutes</target>
+        </trans-unit>
+        <trans-unit id="HourSingular.Text" translate="yes" xml:space="preserve">
+          <source>hour</source>
+          <target state="new">hour</target>
+        </trans-unit>
+        <trans-unit id="HourPlural.Text" translate="yes" xml:space="preserve">
+          <source>hours</source>
+          <target state="new">hours</target>
+        </trans-unit>
+        <trans-unit id="DaySingular.Text" translate="yes" xml:space="preserve">
+          <source>day</source>
+          <target state="new">day</target>
+        </trans-unit>
+        <trans-unit id="DayPlural.Text" translate="yes" xml:space="preserve">
+          <source>days</source>
+          <target state="new">days</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

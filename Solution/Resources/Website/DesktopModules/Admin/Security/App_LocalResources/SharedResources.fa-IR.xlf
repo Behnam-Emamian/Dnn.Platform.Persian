@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="SharedResources.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Username.Text" translate="yes" xml:space="preserve">
+          <source>User Name:</source>
+          <target state="new">User Name:</target>
+        </trans-unit>
+        <trans-unit id="Username.Help" translate="yes" xml:space="preserve">
+          <source>Enter a user name.  It must be at least five characters long and is must be an alphanumeric value.</source>
+          <target state="new">Enter a user name.  It must be at least five characters long and is must be an alphanumeric value.</target>
+        </trans-unit>
+        <trans-unit id="FirstName.Text" translate="yes" xml:space="preserve">
+          <source>First Name:</source>
+          <target state="new">First Name:</target>
+        </trans-unit>
+        <trans-unit id="FirstName.Help" translate="yes" xml:space="preserve">
+          <source>Enter a first name.</source>
+          <target state="new">Enter a first name.</target>
+        </trans-unit>
+        <trans-unit id="LastName.Text" translate="yes" xml:space="preserve">
+          <source>Last Name:</source>
+          <target state="new">Last Name:</target>
+        </trans-unit>
+        <trans-unit id="LastName.Help" translate="yes" xml:space="preserve">
+          <source>Enter a last name.</source>
+          <target state="new">Enter a last name.</target>
+        </trans-unit>
+        <trans-unit id="Email.Text" translate="yes" xml:space="preserve">
+          <source>Email Address:</source>
+          <target state="new">Email Address:</target>
+        </trans-unit>
+        <trans-unit id="Email.Help" translate="yes" xml:space="preserve">
+          <source>Enter a valid email address.</source>
+          <target state="new">Enter a valid email address.</target>
+        </trans-unit>
+        <trans-unit id="DisplayName.Text" translate="yes" xml:space="preserve">
+          <source>Display Name:</source>
+          <target state="new">Display Name:</target>
+        </trans-unit>
+        <trans-unit id="DisplayName.Help" translate="yes" xml:space="preserve">
+          <source>Enter a display name.</source>
+          <target state="new">Enter a display name.</target>
+        </trans-unit>
+        <trans-unit id="Username.Required" translate="yes" xml:space="preserve">
+          <source>User name is required.</source>
+          <target state="new">User name is required.</target>
+        </trans-unit>
+        <trans-unit id="FirstName.Required" translate="yes" xml:space="preserve">
+          <source>First name is required.</source>
+          <target state="new">First name is required.</target>
+        </trans-unit>
+        <trans-unit id="LastName.Required" translate="yes" xml:space="preserve">
+          <source>Last name is required.</source>
+          <target state="new">Last name is required.</target>
+        </trans-unit>
+        <trans-unit id="Email.Required" translate="yes" xml:space="preserve">
+          <source>Email is required.</source>
+          <target state="new">Email is required.</target>
+        </trans-unit>
+        <trans-unit id="Email.RegExError" translate="yes" xml:space="preserve">
+          <source>You must enter a valid email address.</source>
+          <target state="new">You must enter a valid email address.</target>
+        </trans-unit>
+        <trans-unit id="DisplayName.Required" translate="yes" xml:space="preserve">
+          <source>Display name is required.</source>
+          <target state="new">Display name is required.</target>
+        </trans-unit>
+        <trans-unit id="FirstName.RegExError" translate="yes" xml:space="preserve">
+          <source>First name is invalid.</source>
+          <target state="new">First name is invalid.</target>
+        </trans-unit>
+        <trans-unit id="LastName.RegExError" translate="yes" xml:space="preserve">
+          <source>Last name is invalid.</source>
+          <target state="new">Last name is invalid.</target>
+        </trans-unit>
+        <trans-unit id="Username.RegExError" translate="yes" xml:space="preserve">
+          <source>The user name entered is invalid.</source>
+          <target state="new">The user name entered is invalid.</target>
+        </trans-unit>
+        <trans-unit id="PasswordAnswer.Help" translate="yes" xml:space="preserve">
+          <source>Enter an answer to the password question.</source>
+          <target state="new">Enter an answer to the password question.</target>
+        </trans-unit>
+        <trans-unit id="PasswordAnswer.Text" translate="yes" xml:space="preserve">
+          <source>Password Answer:</source>
+          <target state="new">Password Answer:</target>
+        </trans-unit>
+        <trans-unit id="PasswordConfirm.Help" translate="yes" xml:space="preserve">
+          <source>Re-enter the password to confirm.</source>
+          <target state="new">Re-enter the password to confirm.</target>
+        </trans-unit>
+        <trans-unit id="PasswordConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Confirm Password:</source>
+          <target state="new">Confirm Password:</target>
+        </trans-unit>
+        <trans-unit id="PasswordQuestion.Help" translate="yes" xml:space="preserve">
+          <source>Enter a password question to be used when retrieving the password.</source>
+          <target state="new">Enter a password question to be used when retrieving the password.</target>
+        </trans-unit>
+        <trans-unit id="PasswordQuestion.Text" translate="yes" xml:space="preserve">
+          <source>Password Question:</source>
+          <target state="new">Password Question:</target>
+        </trans-unit>
+        <trans-unit id="City.Help" translate="yes" xml:space="preserve">
+          <source>Enter a city or location.</source>
+          <target state="new">Enter a city or location.</target>
+        </trans-unit>
+        <trans-unit id="City.Text" translate="yes" xml:space="preserve">
+          <source>City:</source>
+          <target state="new">City:</target>
+        </trans-unit>
+        <trans-unit id="Password.Required" translate="yes" xml:space="preserve">
+          <source>You must provide a password.</source>
+          <target state="new">You must provide a password.</target>
+        </trans-unit>
+        <trans-unit id="PasswordConfirm.Required" translate="yes" xml:space="preserve">
+          <source>You must provide a password confirmation.</source>
+          <target state="new">You must provide a password confirmation.</target>
+        </trans-unit>
+        <trans-unit id="InvalidAnswer.Text" translate="yes" xml:space="preserve">
+          <source>Invalid Answer</source>
+          <target state="new">Invalid Answer</target>
+        </trans-unit>
+        <trans-unit id="InvalidAnswer_Detail.Text" translate="yes" xml:space="preserve">
+          <source>The answer provided was invalid.</source>
+          <target state="new">The answer provided was invalid.</target>
+        </trans-unit>
+        <trans-unit id="InvalidPassword.Text" translate="yes" xml:space="preserve">
+          <source>Invalid Password</source>
+          <target state="new">Invalid Password</target>
+        </trans-unit>
+        <trans-unit id="InvalidPassword_Detail.Text" translate="yes" xml:space="preserve">
+          <source>The password did not meet the minimum complexity requirements for the site.</source>
+          <target state="new">The password did not meet the minimum complexity requirements for the site.</target>
+        </trans-unit>
+        <trans-unit id="InvalidQuestion.Text" translate="yes" xml:space="preserve">
+          <source>Invalid Question</source>
+          <target state="new">Invalid Question</target>
+        </trans-unit>
+        <trans-unit id="InvalidQuestion_Detail.Text" translate="yes" xml:space="preserve">
+          <source>The question provided was invalid.</source>
+          <target state="new">The question provided was invalid.</target>
+        </trans-unit>
+        <trans-unit id="PasswordMismatch.Text" translate="yes" xml:space="preserve">
+          <source>The new password and confirmation password do not match.  The password has not been changed.</source>
+          <target state="new">The new password and confirmation password do not match.  The password has not been changed.</target>
+        </trans-unit>
+        <trans-unit id="PasswordMismatch_Detail.Text" translate="yes" xml:space="preserve">
+          <source>The password and password confirmation did not match.</source>
+          <target state="new">The password and password confirmation did not match.</target>
+        </trans-unit>
+        <trans-unit id="DisplayName.RegExError" translate="yes" xml:space="preserve">
+          <source>The display name is invalid.</source>
+          <target state="new">The display name is invalid.</target>
+        </trans-unit>
+        <trans-unit id="Password.Help" translate="yes" xml:space="preserve">
+          <source>Enter your password.</source>
+          <target state="new">Enter your password.</target>
+        </trans-unit>
+        <trans-unit id="VanityUrl.Help" translate="yes" xml:space="preserve">
+          <source>You can optionally choose a custom URL for your user profile.</source>
+          <target state="new">You can optionally choose a custom URL for your user profile.</target>
+        </trans-unit>
+        <trans-unit id="VanityUrl.Text" translate="yes" xml:space="preserve">
+          <source>Profile URL:</source>
+          <target state="new">Profile URL:</target>
+        </trans-unit>
+        <trans-unit id="PasswordReset.Text" translate="yes" xml:space="preserve">
+          <source>The password has been reset.</source>
+          <target state="new">The password has been reset.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

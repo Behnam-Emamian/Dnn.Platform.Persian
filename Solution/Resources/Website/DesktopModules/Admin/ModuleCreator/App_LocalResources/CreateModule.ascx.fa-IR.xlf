@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="CreateModule.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Add.Title" translate="yes" xml:space="preserve">
+          <source>Module Builder</source>
+          <target state="new">Module Builder</target>
+        </trans-unit>
+        <trans-unit id="plOwner.Text" translate="yes" xml:space="preserve">
+          <source>Owner Name:</source>
+          <target state="new">Owner Name:</target>
+        </trans-unit>
+        <trans-unit id="plOwner.Help" translate="yes" xml:space="preserve">
+          <source>Developers are encouraged to use a unique namespace for their modules to avoid potential clashes with other developers.  Specify the name of your organization or company and it will be used as a prefix.</source>
+          <target state="new">Developers are encouraged to use a unique namespace for their modules to avoid potential clashes with other developers.  Specify the name of your organization or company and it will be used as a prefix.</target>
+        </trans-unit>
+        <trans-unit id="plModule.Text" translate="yes" xml:space="preserve">
+          <source>Module Name:</source>
+          <target state="new">Module Name:</target>
+        </trans-unit>
+        <trans-unit id="plModule.Help" translate="yes" xml:space="preserve">
+          <source>A unique name for the module.</source>
+          <target state="new">A unique name for the module.</target>
+        </trans-unit>
+        <trans-unit id="plDescription.Text" translate="yes" xml:space="preserve">
+          <source>Description:</source>
+          <target state="new">Description:</target>
+        </trans-unit>
+        <trans-unit id="plDescription.Help" translate="yes" xml:space="preserve">
+          <source>Optionally provide a description for the module.</source>
+          <target state="new">Optionally provide a description for the module.</target>
+        </trans-unit>
+        <trans-unit id="plLanguage.Text" translate="yes" xml:space="preserve">
+          <source>Language:</source>
+          <target state="new">Language:</target>
+        </trans-unit>
+        <trans-unit id="plLanguage.Help" translate="yes" xml:space="preserve">
+          <source>Select your preferred language for developing the module.</source>
+          <target state="new">Select your preferred language for developing the module.</target>
+        </trans-unit>
+        <trans-unit id="C#.Text" translate="yes" xml:space="preserve">
+          <source>C#</source>
+          <target state="new">C#</target>
+        </trans-unit>
+        <trans-unit id="VB.Text" translate="yes" xml:space="preserve">
+          <source>Visual Basic</source>
+          <target state="new">Visual Basic</target>
+        </trans-unit>
+        <trans-unit id="plTemplate.Text" translate="yes" xml:space="preserve">
+          <source>Template:</source>
+          <target state="new">Template:</target>
+        </trans-unit>
+        <trans-unit id="plTemplate.Help" translate="yes" xml:space="preserve">
+          <source>Select your preferred module development template.  Module development templates are stored in the Modules subfolder within the Host Root folder.</source>
+          <target state="new">Select your preferred module development template.  Module development templates are stored in the Modules subfolder within the Host Root folder.</target>
+        </trans-unit>
+        <trans-unit id="plControl.Text" translate="yes" xml:space="preserve">
+          <source>Control Name:</source>
+          <target state="new">Control Name:</target>
+        </trans-unit>
+        <trans-unit id="plControl.Help" translate="yes" xml:space="preserve">
+          <source>Enter a unique name for the module control.</source>
+          <target state="new">Enter a unique name for the module control.</target>
+        </trans-unit>
+        <trans-unit id="cmdCreate.Text" translate="yes" xml:space="preserve">
+          <source>Create Module</source>
+          <target state="new">Create Module</target>
+        </trans-unit>
+        <trans-unit id="InputValidation.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>You must provide the Owner Name and Module Name and select a Module Template.</source>
+          <target state="new">You must provide the Owner Name and Module Name and select a Module Template.</target>
+        </trans-unit>
+        <trans-unit id="SuperUser.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>You must be a Super User to create new modules.</source>
+          <target state="new">You must be a Super User to create new modules.</target>
+        </trans-unit>
+        <trans-unit id="AlreadyExists.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>A module already exists with the name specified.</source>
+          <target state="new">A module already exists with the name specified.</target>
+        </trans-unit>
+        <trans-unit id="TemplateProblem.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>An error occurred when reading the selected module template files.</source>
+          <target state="new">An error occurred when reading the selected module template files.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

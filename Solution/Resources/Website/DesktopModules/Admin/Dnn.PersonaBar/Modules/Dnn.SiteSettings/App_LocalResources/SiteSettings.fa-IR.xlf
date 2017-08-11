@@ -1,0 +1,1536 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="SiteSettings.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="nav_SiteSettings.Text" translate="yes" xml:space="preserve">
+          <source>Site Settings</source>
+          <target state="new">Site Settings</target>
+        </trans-unit>
+        <trans-unit id="TabSiteInfo.Text" translate="yes" xml:space="preserve">
+          <source>Site Info</source>
+          <target state="new">Site Info</target>
+        </trans-unit>
+        <trans-unit id="TabSiteBehavior.Text" translate="yes" xml:space="preserve">
+          <source>Site Behavior</source>
+          <target state="new">Site Behavior</target>
+        </trans-unit>
+        <trans-unit id="TabLanguage.Text" translate="yes" xml:space="preserve">
+          <source>Languages</source>
+          <target state="new">Languages</target>
+        </trans-unit>
+        <trans-unit id="TabSearch.Text" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="TabDefaultPages.Text" translate="yes" xml:space="preserve">
+          <source>Default Pages</source>
+          <target state="new">Default Pages</target>
+        </trans-unit>
+        <trans-unit id="TabMessaging.Text" translate="yes" xml:space="preserve">
+          <source>Messaging</source>
+          <target state="new">Messaging</target>
+        </trans-unit>
+        <trans-unit id="TabUserProfiles.Text" translate="yes" xml:space="preserve">
+          <source>User Profiles</source>
+          <target state="new">User Profiles</target>
+        </trans-unit>
+        <trans-unit id="TabSiteAliases.Text" translate="yes" xml:space="preserve">
+          <source>Site Aliases</source>
+          <target state="new">Site Aliases</target>
+        </trans-unit>
+        <trans-unit id="TabMore.Text" translate="yes" xml:space="preserve">
+          <source>More</source>
+          <target state="new">More</target>
+        </trans-unit>
+        <trans-unit id="TabBasicSettings.Text" translate="yes" xml:space="preserve">
+          <source>Basic Settings</source>
+          <target state="new">Basic Settings</target>
+        </trans-unit>
+        <trans-unit id="TabSynonyms.Text" translate="yes" xml:space="preserve">
+          <source>Synonyms</source>
+          <target state="new">Synonyms</target>
+        </trans-unit>
+        <trans-unit id="TabIgnoreWords.Text" translate="yes" xml:space="preserve">
+          <source>Ignore Words</source>
+          <target state="new">Ignore Words</target>
+        </trans-unit>
+        <trans-unit id="TabCrawling.Text" translate="yes" xml:space="preserve">
+          <source>Crawling</source>
+          <target state="new">Crawling</target>
+        </trans-unit>
+        <trans-unit id="TabFileExtensions.Text" translate="yes" xml:space="preserve">
+          <source>File Extensions</source>
+          <target state="new">File Extensions</target>
+        </trans-unit>
+        <trans-unit id="plPortalName.Text" translate="yes" xml:space="preserve">
+          <source>Site Title</source>
+          <target state="new">Site Title</target>
+        </trans-unit>
+        <trans-unit id="plPortalName.Help" translate="yes" xml:space="preserve">
+          <source>Enter a site title. This title will show up in the Web browser Title Bar and will be a tooltip on the site Logo.</source>
+          <target state="new">Enter a site title. This title will show up in the Web browser Title Bar and will be a tooltip on the site Logo.</target>
+        </trans-unit>
+        <trans-unit id="plDescription.Text" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+        <trans-unit id="plDescription.Help" translate="yes" xml:space="preserve">
+          <source>Enter a description for the site here.</source>
+          <target state="new">Enter a description for the site here.</target>
+        </trans-unit>
+        <trans-unit id="plKeyWords.Text" translate="yes" xml:space="preserve">
+          <source>Keywords</source>
+          <target state="new">Keywords</target>
+        </trans-unit>
+        <trans-unit id="plKeyWords.Help" translate="yes" xml:space="preserve">
+          <source>Enter some keywords for your site (separated by commas).  These keywords are used by search engines to help index the site.</source>
+          <target state="new">Enter some keywords for your site (separated by commas).  These keywords are used by search engines to help index the site.</target>
+        </trans-unit>
+        <trans-unit id="plTimeZone.Text" translate="yes" xml:space="preserve">
+          <source>Site Time Zone</source>
+          <target state="new">Site Time Zone</target>
+        </trans-unit>
+        <trans-unit id="plTimeZone.Help" translate="yes" xml:space="preserve">
+          <source>The TimeZone for the location of the site.</source>
+          <target state="new">The TimeZone for the location of the site.</target>
+        </trans-unit>
+        <trans-unit id="plGUID.Text" translate="yes" xml:space="preserve">
+          <source>GUID</source>
+          <target state="new">GUID</target>
+        </trans-unit>
+        <trans-unit id="plGUID.Help" translate="yes" xml:space="preserve">
+          <source>The globally unique identifier which can be used to identify this site.</source>
+          <target state="new">The globally unique identifier which can be used to identify this site.</target>
+        </trans-unit>
+        <trans-unit id="plFooterText.Text" translate="yes" xml:space="preserve">
+          <source>Copyright</source>
+          <target state="new">Copyright</target>
+        </trans-unit>
+        <trans-unit id="plFooterText.Help" translate="yes" xml:space="preserve">
+          <source>If supported by the theme this Copyright text is displayed on your site.</source>
+          <target state="new">If supported by the theme this Copyright text is displayed on your site.</target>
+        </trans-unit>
+        <trans-unit id="plHomeDirectory.Text" translate="yes" xml:space="preserve">
+          <source>Home Directory</source>
+          <target state="new">Home Directory</target>
+        </trans-unit>
+        <trans-unit id="plHomeDirectory.Help" translate="yes" xml:space="preserve">
+          <source>The location used for the storage of files in this site.</source>
+          <target state="new">The location used for the storage of files in this site.</target>
+        </trans-unit>
+        <trans-unit id="plLogoIcon.Text" translate="yes" xml:space="preserve">
+          <source>LOGO AND ICONS</source>
+          <target state="new">LOGO AND ICONS</target>
+        </trans-unit>
+        <trans-unit id="plLogo.Text" translate="yes" xml:space="preserve">
+          <source>Site Logo</source>
+          <target state="new">Site Logo</target>
+        </trans-unit>
+        <trans-unit id="plLogo.Help" translate="yes" xml:space="preserve">
+          <source>Depending on the theme chosen, this image will typically appear in the top left corner of the page.</source>
+          <target state="new">Depending on the theme chosen, this image will typically appear in the top left corner of the page.</target>
+        </trans-unit>
+        <trans-unit id="plFavIcon.Text" translate="yes" xml:space="preserve">
+          <source>Favicon</source>
+          <target state="new">Favicon</target>
+        </trans-unit>
+        <trans-unit id="plFavIcon.Help" translate="yes" xml:space="preserve">
+          <source>The selected favicon will be applied to all pages in the site.</source>
+          <target state="new">The selected favicon will be applied to all pages in the site.</target>
+        </trans-unit>
+        <trans-unit id="plIconSet.Text" translate="yes" xml:space="preserve">
+          <source>Icon Set</source>
+          <target state="new">Icon Set</target>
+        </trans-unit>
+        <trans-unit id="plIconSet.Help" translate="yes" xml:space="preserve">
+          <source>The selected iconset will be applied to all icons on the site.</source>
+          <target state="new">The selected iconset will be applied to all icons on the site.</target>
+        </trans-unit>
+        <trans-unit id="Save.Text" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="Cancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="Yes.Text" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="No.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="SettingsUpdateSuccess" translate="yes" xml:space="preserve">
+          <source>Settings have been updated.</source>
+          <target state="new">Settings have been updated.</target>
+        </trans-unit>
+        <trans-unit id="SettingsError" translate="yes" xml:space="preserve">
+          <source>Could not update settings. Please try later.</source>
+          <target state="new">Could not update settings. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="SettingsRestoreWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to cancel your changes?</source>
+          <target state="new">Are you sure you want to cancel your changes?</target>
+        </trans-unit>
+        <trans-unit id="valPortalName.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>You must provide a title for your site.</source>
+          <target state="new">You must provide a title for your site.</target>
+        </trans-unit>
+        <trans-unit id="PageOutputSettings.Text" translate="yes" xml:space="preserve">
+          <source>PAGE OUTPUT SETTINGS</source>
+          <target state="new">PAGE OUTPUT SETTINGS</target>
+        </trans-unit>
+        <trans-unit id="plPageHeadText.Help" translate="yes" xml:space="preserve">
+          <source>Enter any tags (i.e. META tags) that should be rendered in the "HEAD" tag of the HTML for this page.</source>
+          <target state="new">Enter any tags (i.e. META tags) that should be rendered in the "HEAD" tag of the HTML for this page.</target>
+        </trans-unit>
+        <trans-unit id="plPageHeadText.Text" translate="yes" xml:space="preserve">
+          <source>HTML Page Header Tags</source>
+          <target state="new">HTML Page Header Tags</target>
+        </trans-unit>
+        <trans-unit id="plSplashTabId.Text" translate="yes" xml:space="preserve">
+          <source>Splash Page</source>
+          <target state="new">Splash Page</target>
+        </trans-unit>
+        <trans-unit id="plSplashTabId.Help" translate="yes" xml:space="preserve">
+          <source>The Splash Page for your site.</source>
+          <target state="new">The Splash Page for your site.</target>
+        </trans-unit>
+        <trans-unit id="plHomeTabId.Text" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <target state="new">Home Page</target>
+        </trans-unit>
+        <trans-unit id="plHomeTabId.Help" translate="yes" xml:space="preserve">
+          <source>The Home Page for your site.</source>
+          <target state="new">The Home Page for your site.</target>
+        </trans-unit>
+        <trans-unit id="plLoginTabId.Text" translate="yes" xml:space="preserve">
+          <source>Login Page</source>
+          <target state="new">Login Page</target>
+        </trans-unit>
+        <trans-unit id="plLoginTabId.Help" translate="yes" xml:space="preserve">
+          <source>The Login Page for your site. Only pages with the Account Login module are listed.</source>
+          <target state="new">The Login Page for your site. Only pages with the Account Login module are listed.</target>
+        </trans-unit>
+        <trans-unit id="plUserTabId.Text" translate="yes" xml:space="preserve">
+          <source>User Profile Page</source>
+          <target state="new">User Profile Page</target>
+        </trans-unit>
+        <trans-unit id="plUserTabId.Help" translate="yes" xml:space="preserve">
+          <source>The User Profile Page for your site.</source>
+          <target state="new">The User Profile Page for your site.</target>
+        </trans-unit>
+        <trans-unit id="plRegisterTabId.Help" translate="yes" xml:space="preserve">
+          <source>The user registration page for your site.</source>
+          <target state="new">The user registration page for your site.</target>
+        </trans-unit>
+        <trans-unit id="plRegisterTabId.Text" translate="yes" xml:space="preserve">
+          <source>Registration Page</source>
+          <target state="new">Registration Page</target>
+        </trans-unit>
+        <trans-unit id="plSearchTabId.Help" translate="yes" xml:space="preserve">
+          <source>The search results page for your site.</source>
+          <target state="new">The search results page for your site.</target>
+        </trans-unit>
+        <trans-unit id="plSearchTabId.Text" translate="yes" xml:space="preserve">
+          <source>Search Results Page</source>
+          <target state="new">Search Results Page</target>
+        </trans-unit>
+        <trans-unit id="pl404TabId.Help" translate="yes" xml:space="preserve">
+          <source>The 404 Error Page for your site.  Users will be redirected to this page if the URL they are navigating to results in a "Page Not Found" error.</source>
+          <target state="new">The 404 Error Page for your site.  Users will be redirected to this page if the URL they are navigating to results in a "Page Not Found" error.</target>
+        </trans-unit>
+        <trans-unit id="pl404TabId.Text" translate="yes" xml:space="preserve">
+          <source>404 Error Page</source>
+          <target state="new">404 Error Page</target>
+        </trans-unit>
+        <trans-unit id="pl500TabId.Help" translate="yes" xml:space="preserve">
+          <source>The 500 Error Page for your site.  Users will be redirected to this page if the URL they are navigating to results in an unexpected error.</source>
+          <target state="new">The 500 Error Page for your site.  Users will be redirected to this page if the URL they are navigating to results in an unexpected error.</target>
+        </trans-unit>
+        <trans-unit id="pl500TabId.Text" translate="yes" xml:space="preserve">
+          <source>500 Error Page</source>
+          <target state="new">500 Error Page</target>
+        </trans-unit>
+        <trans-unit id="NoneSpecified.Text" translate="yes" xml:space="preserve">
+          <source>None Specified</source>
+          <target state="new">None Specified</target>
+        </trans-unit>
+        <trans-unit id="plDisablePrivateMessage.Help" translate="yes" xml:space="preserve">
+          <source>Select to prevent users from sending messages to specific users or groups. This restriction doesn't apply to Administrators or Super Users.</source>
+          <target state="new">Select to prevent users from sending messages to specific users or groups. This restriction doesn't apply to Administrators or Super Users.</target>
+        </trans-unit>
+        <trans-unit id="plDisablePrivateMessage.Text" translate="yes" xml:space="preserve">
+          <source>Disable Private Message</source>
+          <target state="new">Disable Private Message</target>
+        </trans-unit>
+        <trans-unit id="plMsgThrottlingInterval.Text" translate="yes" xml:space="preserve">
+          <source>Throttling Interval in Minutes</source>
+          <target state="new">Throttling Interval in Minutes</target>
+        </trans-unit>
+        <trans-unit id="plMsgThrottlingInterval.Help" translate="yes" xml:space="preserve">
+          <source>Enter the number of minutes after which a user can send the next message. Zero indicates no restrictions. This restriction doesn't apply to Administrators or Super Users.</source>
+          <target state="new">Enter the number of minutes after which a user can send the next message. Zero indicates no restrictions. This restriction doesn't apply to Administrators or Super Users.</target>
+        </trans-unit>
+        <trans-unit id="plMsgRecipientLimit.Text" translate="yes" xml:space="preserve">
+          <source>Recipient Limit</source>
+          <target state="new">Recipient Limit</target>
+        </trans-unit>
+        <trans-unit id="plMsgRecipientLimit.Help" translate="yes" xml:space="preserve">
+          <source>Maximum number of recipients allowed in To field. A message sent to a Role is considered as a single recipient.</source>
+          <target state="new">Maximum number of recipients allowed in To field. A message sent to a Role is considered as a single recipient.</target>
+        </trans-unit>
+        <trans-unit id="plMsgProfanityFilters.Text" translate="yes" xml:space="preserve">
+          <source>Enable Profanity Filters</source>
+          <target state="new">Enable Profanity Filters</target>
+        </trans-unit>
+        <trans-unit id="plMsgProfanityFilters.Help" translate="yes" xml:space="preserve">
+          <source>Enable to automatically convert profane (inappropriate) words and phrases into something equivalent. The list is managed on the  Host-&gt;List-&gt;ProfanityFilters and the Admin-&gt;List-&gt;ProfanityFilters pages.</source>
+          <target state="new">Enable to automatically convert profane (inappropriate) words and phrases into something equivalent. The list is managed on the  Host-&gt;List-&gt;ProfanityFilters and the Admin-&gt;List-&gt;ProfanityFilters pages.</target>
+        </trans-unit>
+        <trans-unit id="plMsgAllowAttachments.Text" translate="yes" xml:space="preserve">
+          <source>Allow Attachments</source>
+          <target state="new">Allow Attachments</target>
+        </trans-unit>
+        <trans-unit id="plMsgAllowAttachments.Help" translate="yes" xml:space="preserve">
+          <source>Choose whether attachments can be attached to messages.</source>
+          <target state="new">Choose whether attachments can be attached to messages.</target>
+        </trans-unit>
+        <trans-unit id="plIncludeAttachments.Text" translate="yes" xml:space="preserve">
+          <source>Include Attachments</source>
+          <target state="new">Include Attachments</target>
+        </trans-unit>
+        <trans-unit id="plIncludeAttachments.Help" translate="yes" xml:space="preserve">
+          <source>Choose whether attachments are to be included with outgoing email.</source>
+          <target state="new">Choose whether attachments are to be included with outgoing email.</target>
+        </trans-unit>
+        <trans-unit id="plMsgSendEmail.Text" translate="yes" xml:space="preserve">
+          <source>Send Emails</source>
+          <target state="new">Send Emails</target>
+        </trans-unit>
+        <trans-unit id="plMsgSendEmail.Help" translate="yes" xml:space="preserve">
+          <source>Select if emails are to be sent to recipients for every message and notification.</source>
+          <target state="new">Select if emails are to be sent to recipients for every message and notification.</target>
+        </trans-unit>
+        <trans-unit id="UserProfileSettings.Text" translate="yes" xml:space="preserve">
+          <source>USER PROFILE SETTINGS</source>
+          <target state="new">USER PROFILE SETTINGS</target>
+        </trans-unit>
+        <trans-unit id="UserProfileFields.Text" translate="yes" xml:space="preserve">
+          <source>USER PROFILE FIELDS</source>
+          <target state="new">USER PROFILE FIELDS</target>
+        </trans-unit>
+        <trans-unit id="Profile_DefaultVisibility.Help" translate="yes" xml:space="preserve">
+          <source>Select default profile visibility mode for user profile.</source>
+          <target state="new">Select default profile visibility mode for user profile.</target>
+        </trans-unit>
+        <trans-unit id="Profile_DefaultVisibility.Text" translate="yes" xml:space="preserve">
+          <source>Default Profile Visibility Mode</source>
+          <target state="new">Default Profile Visibility Mode</target>
+        </trans-unit>
+        <trans-unit id="Profile_DisplayVisibility.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to display the profile visibility control on the User Profile page.</source>
+          <target state="new">Check this box to display the profile visibility control on the User Profile page.</target>
+        </trans-unit>
+        <trans-unit id="Profile_DisplayVisibility.Text" translate="yes" xml:space="preserve">
+          <source>Display Profile Visibility</source>
+          <target state="new">Display Profile Visibility</target>
+        </trans-unit>
+        <trans-unit id="redirectOldProfileUrlsLabel.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to force old style profile URLs to be redirected to custom URLs.</source>
+          <target state="new">Check this box to force old style profile URLs to be redirected to custom URLs.</target>
+        </trans-unit>
+        <trans-unit id="redirectOldProfileUrlsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Redirect Old Profile URLs</source>
+          <target state="new">Redirect Old Profile URLs</target>
+        </trans-unit>
+        <trans-unit id="vanilyUrlPrefixLabel.Help" translate="yes" xml:space="preserve">
+          <source>Enter a string to use to prefix vanity URLs.</source>
+          <target state="new">Enter a string to use to prefix vanity URLs.</target>
+        </trans-unit>
+        <trans-unit id="vanilyUrlPrefixLabel.Text" translate="yes" xml:space="preserve">
+          <source>Vanity URL Prefix</source>
+          <target state="new">Vanity URL Prefix</target>
+        </trans-unit>
+        <trans-unit id="AllUsers.Text" translate="yes" xml:space="preserve">
+          <source>All Users</source>
+          <target state="new">All Users</target>
+        </trans-unit>
+        <trans-unit id="MembersOnly.Text" translate="yes" xml:space="preserve">
+          <source>Members Only</source>
+          <target state="new">Members Only</target>
+        </trans-unit>
+        <trans-unit id="AdminOnly.Text" translate="yes" xml:space="preserve">
+          <source>Admin Only</source>
+          <target state="new">Admin Only</target>
+        </trans-unit>
+        <trans-unit id="FriendsAndGroups.Text" translate="yes" xml:space="preserve">
+          <source>Friends and Groups</source>
+          <target state="new">Friends and Groups</target>
+        </trans-unit>
+        <trans-unit id="VanityUrlExample.Text" translate="yes" xml:space="preserve">
+          <source>myVanityURL</source>
+          <target state="new">myVanityURL</target>
+        </trans-unit>
+        <trans-unit id="Name.Header" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="DataType.Header" translate="yes" xml:space="preserve">
+          <source>Data Type</source>
+          <target state="new">Data Type</target>
+        </trans-unit>
+        <trans-unit id="DefaultVisibility.Header" translate="yes" xml:space="preserve">
+          <source>Default Visibility</source>
+          <target state="new">Default Visibility</target>
+        </trans-unit>
+        <trans-unit id="Required.Header" translate="yes" xml:space="preserve">
+          <source>Required</source>
+          <target state="new">Required</target>
+        </trans-unit>
+        <trans-unit id="Visible.Header" translate="yes" xml:space="preserve">
+          <source>Visible</source>
+          <target state="new">Visible</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_PropertyName.Text" translate="yes" xml:space="preserve">
+          <source>Field Name</source>
+          <target state="new">Field Name</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_PropertyName.Help" translate="yes" xml:space="preserve">
+          <source>Enter a name for the property.</source>
+          <target state="new">Enter a name for the property.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_DataType.Text" translate="yes" xml:space="preserve">
+          <source>Data Type</source>
+          <target state="new">Data Type</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_DataType.Help" translate="yes" xml:space="preserve">
+          <source>Select the data type for this field.</source>
+          <target state="new">Select the data type for this field.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_PropertyCategory.Text" translate="yes" xml:space="preserve">
+          <source>Property Category</source>
+          <target state="new">Property Category</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_PropertyCategory.Help" translate="yes" xml:space="preserve">
+          <source>Enter the category for this property.  This will allow the related properties to be grouped when dislayed to the user.</source>
+          <target state="new">Enter the category for this property.  This will allow the related properties to be grouped when dislayed to the user.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_Length.Text" translate="yes" xml:space="preserve">
+          <source>Length</source>
+          <target state="new">Length</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_Length.Help" translate="yes" xml:space="preserve">
+          <source>Enter the maximum length for this property.  This will only be applicable for specific data types.</source>
+          <target state="new">Enter the maximum length for this property.  This will only be applicable for specific data types.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_DefaultValue.Text" translate="yes" xml:space="preserve">
+          <source>Default Value</source>
+          <target state="new">Default Value</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_DefaultValue.Help" translate="yes" xml:space="preserve">
+          <source>Optionally provide a default value for this property.</source>
+          <target state="new">Optionally provide a default value for this property.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_ValidationExpression.Text" translate="yes" xml:space="preserve">
+          <source>Validation Expression</source>
+          <target state="new">Validation Expression</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_ValidationExpression.Help" translate="yes" xml:space="preserve">
+          <source>You can provide a regular expression to validate the data entered for this property.</source>
+          <target state="new">You can provide a regular expression to validate the data entered for this property.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_Required.Text" translate="yes" xml:space="preserve">
+          <source>Required</source>
+          <target state="new">Required</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_Required.Help" translate="yes" xml:space="preserve">
+          <source>Set whether this property is required.</source>
+          <target state="new">Set whether this property is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_ReadOnly.Help" translate="yes" xml:space="preserve">
+          <source>Read only profile properties can be edited by the Administrator but are read-only to the user.</source>
+          <target state="new">Read only profile properties can be edited by the Administrator but are read-only to the user.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_ReadOnly.Text" translate="yes" xml:space="preserve">
+          <source>Read Only</source>
+          <target state="new">Read Only</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_Visible.Text" translate="yes" xml:space="preserve">
+          <source>Visible</source>
+          <target state="new">Visible</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_Visible.Help" translate="yes" xml:space="preserve">
+          <source>Check this box if this property can be viewed and edited by the user or leave it unchecked if it is visible to Administrators only.</source>
+          <target state="new">Check this box if this property can be viewed and edited by the user or leave it unchecked if it is visible to Administrators only.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_ViewOrder.Text" translate="yes" xml:space="preserve">
+          <source>View Order</source>
+          <target state="new">View Order</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_ViewOrder.Help" translate="yes" xml:space="preserve">
+          <source>Enter a number to determine the view order for this property or leave blank to add.</source>
+          <target state="new">Enter a number to determine the view order for this property or leave blank to add.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_DefaultVisibility.Help" translate="yes" xml:space="preserve">
+          <source>You can set the default visibility of the profile property.  This is the initial value of the visibility and applies if the user does not modify it, when editing their profile.</source>
+          <target state="new">You can set the default visibility of the profile property.  This is the initial value of the visibility and applies if the user does not modify it, when editing their profile.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_DefaultVisibility.Text" translate="yes" xml:space="preserve">
+          <source>Default Visibility</source>
+          <target state="new">Default Visibility</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_PropertyCategory.Required" translate="yes" xml:space="preserve">
+          <source>The category is required.</source>
+          <target state="new">The category is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_PropertyName.Required" translate="yes" xml:space="preserve">
+          <source>The field name is required.</source>
+          <target state="new">The field name is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_DataType.Required" translate="yes" xml:space="preserve">
+          <source>The data type is required.</source>
+          <target state="new">The data type is required.</target>
+        </trans-unit>
+        <trans-unit id="Next.Text" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="new">Next</target>
+        </trans-unit>
+        <trans-unit id="Localization.Help" translate="yes" xml:space="preserve">
+          <source>LOCALIZATION: The next step is to manage the localization of this property.  Select the language you want to update, add new text or modify the existing text and then click Update.</source>
+          <target state="new">LOCALIZATION: The next step is to manage the localization of this property.  Select the language you want to update, add new text or modify the existing text and then click Update.</target>
+        </trans-unit>
+        <trans-unit id="plLocales.Help" translate="yes" xml:space="preserve">
+          <source>Select the language.</source>
+          <target state="new">Select the language.</target>
+        </trans-unit>
+        <trans-unit id="plLocales.Text" translate="yes" xml:space="preserve">
+          <source>Choose Language</source>
+          <target state="new">Choose Language</target>
+        </trans-unit>
+        <trans-unit id="plPropertyHelp.Help" translate="yes" xml:space="preserve">
+          <source>Enter the Help for this property in the selected language.</source>
+          <target state="new">Enter the Help for this property in the selected language.</target>
+        </trans-unit>
+        <trans-unit id="plPropertyHelp.Text" translate="yes" xml:space="preserve">
+          <source>Field Help</source>
+          <target state="new">Field Help</target>
+        </trans-unit>
+        <trans-unit id="plPropertyName.Help" translate="yes" xml:space="preserve">
+          <source>Enter the text for the property's name in the selected language.</source>
+          <target state="new">Enter the text for the property's name in the selected language.</target>
+        </trans-unit>
+        <trans-unit id="plPropertyName.Text" translate="yes" xml:space="preserve">
+          <source>Field Name</source>
+          <target state="new">Field Name</target>
+        </trans-unit>
+        <trans-unit id="plCategoryName.Help" translate="yes" xml:space="preserve">
+          <source>Enter the text for the category's name in the selected language.</source>
+          <target state="new">Enter the text for the category's name in the selected language.</target>
+        </trans-unit>
+        <trans-unit id="plCategoryName.Text" translate="yes" xml:space="preserve">
+          <source>Category Name</source>
+          <target state="new">Category Name</target>
+        </trans-unit>
+        <trans-unit id="plPropertyRequired.Help" translate="yes" xml:space="preserve">
+          <source>Enter the error message to display for this field when the property is Required but not present.</source>
+          <target state="new">Enter the error message to display for this field when the property is Required but not present.</target>
+        </trans-unit>
+        <trans-unit id="plPropertyRequired.Text" translate="yes" xml:space="preserve">
+          <source>Required Error Message</source>
+          <target state="new">Required Error Message</target>
+        </trans-unit>
+        <trans-unit id="plPropertyValidation.Help" translate="yes" xml:space="preserve">
+          <source>Enter the error message to display for this field when the property fails the Regular Expression Validation.</source>
+          <target state="new">Enter the error message to display for this field when the property fails the Regular Expression Validation.</target>
+        </trans-unit>
+        <trans-unit id="plPropertyValidation.Text" translate="yes" xml:space="preserve">
+          <source>Validation Error Message</source>
+          <target state="new">Validation Error Message</target>
+        </trans-unit>
+        <trans-unit id="valPropertyName.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>You need enter a name for this property.</source>
+          <target state="new">You need enter a name for this property.</target>
+        </trans-unit>
+        <trans-unit id="PropertyDefinitionDeletedWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete this profile field?</source>
+          <target state="new">Are you sure you want to delete this profile field?</target>
+        </trans-unit>
+        <trans-unit id="DeleteSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The profile field has been deleted.</source>
+          <target state="new">The profile field has been deleted.</target>
+        </trans-unit>
+        <trans-unit id="DeleteError.Text" translate="yes" xml:space="preserve">
+          <source>Could not delete the profile field. Please try later.</source>
+          <target state="new">Could not delete the profile field. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="DuplicateName.Text" translate="yes" xml:space="preserve">
+          <source>This property already exists.  Property names must be unique.  Please select a different name for this property.</source>
+          <target state="new">This property already exists.  Property names must be unique.  Please select a different name for this property.</target>
+        </trans-unit>
+        <trans-unit id="RequiredTextBox.Text" translate="yes" xml:space="preserve">
+          <source>The required length must be an integer greater than or equal to 0. If you use a TextBox field, the required length must be greater than 0.</source>
+          <target state="new">The required length must be an integer greater than or equal to 0. If you use a TextBox field, the required length must be greater than 0.</target>
+        </trans-unit>
+        <trans-unit id="portalAliasModeButtonListLabel.Help" translate="yes" xml:space="preserve">
+          <source>This setting determines how the site responds to URLs which are defined as alias, but are not the default alias.  Canonical (the alias URL is handled as a Canonical URL), Redirect (redirects to default alias) or None (no additional action is taken).</source>
+          <target state="new">This setting determines how the site responds to URLs which are defined as alias, but are not the default alias.  Canonical (the alias URL is handled as a Canonical URL), Redirect (redirects to default alias) or None (no additional action is taken).</target>
+        </trans-unit>
+        <trans-unit id="portalAliasModeButtonListLabel.Text" translate="yes" xml:space="preserve">
+          <source>Site Alias Mapping Mode</source>
+          <target state="new">Site Alias Mapping Mode</target>
+        </trans-unit>
+        <trans-unit id="plAutoAddPortalAlias.Help" translate="yes" xml:space="preserve">
+          <source>This setting determines how the site responds to URLs which are mapped to the site but are not currently in the list of aliases.  This setting is effective in single-site configuration only.  Select this option to automatically map new URL.</source>
+          <target state="new">This setting determines how the site responds to URLs which are mapped to the site but are not currently in the list of aliases.  This setting is effective in single-site configuration only.  Select this option to automatically map new URL.</target>
+        </trans-unit>
+        <trans-unit id="plAutoAddPortalAlias.Text" translate="yes" xml:space="preserve">
+          <source>Auto Add Site Alias</source>
+          <target state="new">Auto Add Site Alias</target>
+        </trans-unit>
+        <trans-unit id="InvalidAlias.Text" translate="yes" xml:space="preserve">
+          <source>The site alias is invalid. Please choose a different Site Alias.</source>
+          <target state="new">The site alias is invalid. Please choose a different Site Alias.</target>
+        </trans-unit>
+        <trans-unit id="DuplicateAlias.Text" translate="yes" xml:space="preserve">
+          <source>The Site Alias you specified already exists. Please choose a different Site Alias.</source>
+          <target state="new">The Site Alias you specified already exists. Please choose a different Site Alias.</target>
+        </trans-unit>
+        <trans-unit id="SetPrimary.Text" translate="yes" xml:space="preserve">
+          <source>Set Primary</source>
+          <target state="new">Set Primary</target>
+        </trans-unit>
+        <trans-unit id="UnassignPrimary.Text" translate="yes" xml:space="preserve">
+          <source>Unassign Primary</source>
+          <target state="new">Unassign Primary</target>
+        </trans-unit>
+        <trans-unit id="UrlMappingSettings.Text" translate="yes" xml:space="preserve">
+          <source>URL MAPPING</source>
+          <target state="new">URL MAPPING</target>
+        </trans-unit>
+        <trans-unit id="Alias.Header" translate="yes" xml:space="preserve">
+          <source>ALIAS</source>
+          <target state="new">ALIAS</target>
+        </trans-unit>
+        <trans-unit id="Browser.Header" translate="yes" xml:space="preserve">
+          <source>BROWSER</source>
+          <target state="new">BROWSER</target>
+        </trans-unit>
+        <trans-unit id="Theme.Header" translate="yes" xml:space="preserve">
+          <source>THEME</source>
+          <target state="new">THEME</target>
+        </trans-unit>
+        <trans-unit id="Language.Header" translate="yes" xml:space="preserve">
+          <source>LANGUAGE</source>
+          <target state="new">LANGUAGE</target>
+        </trans-unit>
+        <trans-unit id="Primary.Header" translate="yes" xml:space="preserve">
+          <source>PRIMARY</source>
+          <target state="new">PRIMARY</target>
+        </trans-unit>
+        <trans-unit id="Canonical.Text" translate="yes" xml:space="preserve">
+          <source>Canonical</source>
+          <target state="new">Canonical</target>
+        </trans-unit>
+        <trans-unit id="Redirect.Text" translate="yes" xml:space="preserve">
+          <source>Redirect</source>
+          <target state="new">Redirect</target>
+        </trans-unit>
+        <trans-unit id="None.Text" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <target state="new">None</target>
+        </trans-unit>
+        <trans-unit id="SiteAliases.Text" translate="yes" xml:space="preserve">
+          <source>SITE ALIASES</source>
+          <target state="new">SITE ALIASES</target>
+        </trans-unit>
+        <trans-unit id="SiteAlias.Text" translate="yes" xml:space="preserve">
+          <source>Site Alias</source>
+          <target state="new">Site Alias</target>
+        </trans-unit>
+        <trans-unit id="Language.Text" translate="yes" xml:space="preserve">
+          <source>Language</source>
+          <target state="new">Language</target>
+        </trans-unit>
+        <trans-unit id="Browser.Text" translate="yes" xml:space="preserve">
+          <source>Browser</source>
+          <target state="new">Browser</target>
+        </trans-unit>
+        <trans-unit id="Theme.Text" translate="yes" xml:space="preserve">
+          <source>Theme</source>
+          <target state="new">Theme</target>
+        </trans-unit>
+        <trans-unit id="SiteAliasUpdateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The site alias has been updated.</source>
+          <target state="new">The site alias has been updated.</target>
+        </trans-unit>
+        <trans-unit id="SiteAliasCreateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The site alias has been added.</source>
+          <target state="new">The site alias has been added.</target>
+        </trans-unit>
+        <trans-unit id="SiteAliasDeletedWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete this site alias?</source>
+          <target state="new">Are you sure you want to delete this site alias?</target>
+        </trans-unit>
+        <trans-unit id="SiteAliasDeleteSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The site alias has been deleted.</source>
+          <target state="new">The site alias has been deleted.</target>
+        </trans-unit>
+        <trans-unit id="SiteAliasDeleteError.Text" translate="yes" xml:space="preserve">
+          <source>Could not delete the site alias. Please try later.</source>
+          <target state="new">Could not delete the site alias. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="lblIndexWordMaxLength.Help" translate="yes" xml:space="preserve">
+          <source>Enter the maximum word size to be included in the Index.</source>
+          <target state="new">Enter the maximum word size to be included in the Index.</target>
+        </trans-unit>
+        <trans-unit id="lblIndexWordMaxLength.Text" translate="yes" xml:space="preserve">
+          <source>Maximum Word Length</source>
+          <target state="new">Maximum Word Length</target>
+        </trans-unit>
+        <trans-unit id="lblIndexWordMinLength.Help" translate="yes" xml:space="preserve">
+          <source>Enter the minimum word size to be included in the Index.</source>
+          <target state="new">Enter the minimum word size to be included in the Index.</target>
+        </trans-unit>
+        <trans-unit id="lblIndexWordMinLength.Text" translate="yes" xml:space="preserve">
+          <source>Minimum Word Length</source>
+          <target state="new">Minimum Word Length</target>
+        </trans-unit>
+        <trans-unit id="valIndexWordMaxLengthRequired.Error" translate="yes" xml:space="preserve">
+          <source>Maximum length of index word is required. Integer must be greater than the minimum length.</source>
+          <target state="new">Maximum length of index word is required. Integer must be greater than the minimum length.</target>
+        </trans-unit>
+        <trans-unit id="valIndexWordMinLengthRequired.Error" translate="yes" xml:space="preserve">
+          <source>Minimum length of index word is required. Integer must be greater than 0.</source>
+          <target state="new">Minimum length of index word is required. Integer must be greater than 0.</target>
+        </trans-unit>
+        <trans-unit id="lblCustomAnalyzer.Help" translate="yes" xml:space="preserve">
+          <source>If this is empty, system will use standard analyzer to index content. if you want to use custom analyzer, please type the full name of analyzer class in this field.  Note: If you want existing content to index with the new analyzer, you must visit the Admin &gt; Search Admin page of each site that you want re-index and click the "Re-Index Content" button.</source>
+          <target state="new">If this is empty, system will use standard analyzer to index content. if you want to use custom analyzer, please type the full name of analyzer class in this field.  Note: If you want existing content to index with the new analyzer, you must visit the Admin &gt; Search Admin page of each site that you want re-index and click the "Re-Index Content" button.</target>
+        </trans-unit>
+        <trans-unit id="lblCustomAnalyzer.Text" translate="yes" xml:space="preserve">
+          <source>Custom Analyzer Type</source>
+          <target state="new">Custom Analyzer Type</target>
+        </trans-unit>
+        <trans-unit id="lblAllowLeadingWildcard.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to return search criteria that occurs within a word rather than only at the beginning of the word. Warning: Enabling wildcard searching may cause performance issues.</source>
+          <target state="new">Check this box to return search criteria that occurs within a word rather than only at the beginning of the word. Warning: Enabling wildcard searching may cause performance issues.</target>
+        </trans-unit>
+        <trans-unit id="lblAllowLeadingWildcard.Text" translate="yes" xml:space="preserve">
+          <source>Enable Partial-Word Search (Slow)</source>
+          <target state="new">Enable Partial-Word Search (Slow)</target>
+        </trans-unit>
+        <trans-unit id="SearchPriorities.Text" translate="yes" xml:space="preserve">
+          <source>SEARCH PRIORITIES</source>
+          <target state="new">SEARCH PRIORITIES</target>
+        </trans-unit>
+        <trans-unit id="SearchIndex.Text" translate="yes" xml:space="preserve">
+          <source>SEARCH INDEX</source>
+          <target state="new">SEARCH INDEX</target>
+        </trans-unit>
+        <trans-unit id="lblAuthorBoost.Help" translate="yes" xml:space="preserve">
+          <source>Author boost value is associated with the author as it is indexed. The higher the value, the more relevant the field will be for determining the order of the results.</source>
+          <target state="new">Author boost value is associated with the author as it is indexed. The higher the value, the more relevant the field will be for determining the order of the results.</target>
+        </trans-unit>
+        <trans-unit id="lblAuthorBoost.Text" translate="yes" xml:space="preserve">
+          <source>Author Boost</source>
+          <target state="new">Author Boost</target>
+        </trans-unit>
+        <trans-unit id="lblContentBoost.Help" translate="yes" xml:space="preserve">
+          <source>Content boost value is associated with the content as it is indexed.  The higher the value, the more relevant the field will be for determining the order of the results.</source>
+          <target state="new">Content boost value is associated with the content as it is indexed.  The higher the value, the more relevant the field will be for determining the order of the results.</target>
+        </trans-unit>
+        <trans-unit id="lblContentBoost.Text" translate="yes" xml:space="preserve">
+          <source>Content Boost</source>
+          <target state="new">Content Boost</target>
+        </trans-unit>
+        <trans-unit id="lblDescriptionBoost.Help" translate="yes" xml:space="preserve">
+          <source>Description boost value is associated with the description as it is indexed.  The higher the value, the more relevant the field will be for determining the order of the results.</source>
+          <target state="new">Description boost value is associated with the description as it is indexed.  The higher the value, the more relevant the field will be for determining the order of the results.</target>
+        </trans-unit>
+        <trans-unit id="lblDescriptionBoost.Text" translate="yes" xml:space="preserve">
+          <source>Description Boost</source>
+          <target state="new">Description Boost</target>
+        </trans-unit>
+        <trans-unit id="lblTagBoost.Help" translate="yes" xml:space="preserve">
+          <source>Tag boost value is associated with the tag as it is indexed.  The higher the value, the more relevant the field will be for determining the order of the results.</source>
+          <target state="new">Tag boost value is associated with the tag as it is indexed.  The higher the value, the more relevant the field will be for determining the order of the results.</target>
+        </trans-unit>
+        <trans-unit id="lblTagBoost.Text" translate="yes" xml:space="preserve">
+          <source>Tag Boost</source>
+          <target state="new">Tag Boost</target>
+        </trans-unit>
+        <trans-unit id="lblTitleBoost.Help" translate="yes" xml:space="preserve">
+          <source>Title boost value is associated with the title as it is indexed.  The higher the value, the more relevant the field will be for determining the order of the results.</source>
+          <target state="new">Title boost value is associated with the title as it is indexed.  The higher the value, the more relevant the field will be for determining the order of the results.</target>
+        </trans-unit>
+        <trans-unit id="lblTitleBoost.Text" translate="yes" xml:space="preserve">
+          <source>Title Boost</source>
+          <target state="new">Title Boost</target>
+        </trans-unit>
+        <trans-unit id="lblSearchIndexPath.Help" translate="yes" xml:space="preserve">
+          <source>Location where Search Index is stored.  This location can be manually changed by creating a Host Setting "Search_IndexFolder" in database.  It is advised to stop the App Pool prior to making this change.  Content from the old folder must be manually copied to new location or a manual re-index must be triggered. </source>
+          <target state="new">Location where Search Index is stored.  This location can be manually changed by creating a Host Setting "Search_IndexFolder" in database.  It is advised to stop the App Pool prior to making this change.  Content from the old folder must be manually copied to new location or a manual re-index must be triggered. </target>
+        </trans-unit>
+        <trans-unit id="lblSearchIndexPath.Text" translate="yes" xml:space="preserve">
+          <source>Search Index Path</source>
+          <target state="new">Search Index Path</target>
+        </trans-unit>
+        <trans-unit id="lblSearchIndexDbSize.Help" translate="yes" xml:space="preserve">
+          <source>The total size of search index database files.</source>
+          <target state="new">The total size of search index database files.</target>
+        </trans-unit>
+        <trans-unit id="lblSearchIndexDbSize.Text" translate="yes" xml:space="preserve">
+          <source>Search Index Size</source>
+          <target state="new">Search Index Size</target>
+        </trans-unit>
+        <trans-unit id="lblSearchIndexActiveDocuments.Help" translate="yes" xml:space="preserve">
+          <source>The number of active documents in search index files</source>
+          <target state="new">The number of active documents in search index files</target>
+        </trans-unit>
+        <trans-unit id="lblSearchIndexActiveDocuments.Text" translate="yes" xml:space="preserve">
+          <source>Active Documents</source>
+          <target state="new">Active Documents</target>
+        </trans-unit>
+        <trans-unit id="lblSearchIndexDeletedDocuments.Help" translate="yes" xml:space="preserve">
+          <source>The number of deleted documents in search index files</source>
+          <target state="new">The number of deleted documents in search index files</target>
+        </trans-unit>
+        <trans-unit id="lblSearchIndexDeletedDocuments.Text" translate="yes" xml:space="preserve">
+          <source>Deleted Documents</source>
+          <target state="new">Deleted Documents</target>
+        </trans-unit>
+        <trans-unit id="lblSearchIndexLastModifiedOn.Help" translate="yes" xml:space="preserve">
+          <source>Last modified time of search index files.</source>
+          <target state="new">Last modified time of search index files.</target>
+        </trans-unit>
+        <trans-unit id="lblSearchIndexLastModifiedOn.Text" translate="yes" xml:space="preserve">
+          <source>Last Modified On</source>
+          <target state="new">Last Modified On</target>
+        </trans-unit>
+        <trans-unit id="MessageIndexWarning.Text" translate="yes" xml:space="preserve">
+          <source>Warning: Compacting or Re-Indexing should be done during non-peak hours as the process can be CPU intensive.</source>
+          <target state="new">Warning: Compacting or Re-Indexing should be done during non-peak hours as the process can be CPU intensive.</target>
+        </trans-unit>
+        <trans-unit id="CompactIndex.Text" translate="yes" xml:space="preserve">
+          <source>Compact Index</source>
+          <target state="new">Compact Index</target>
+        </trans-unit>
+        <trans-unit id="ReindexContent.Text" translate="yes" xml:space="preserve">
+          <source>Re-index Content</source>
+          <target state="new">Re-index Content</target>
+        </trans-unit>
+        <trans-unit id="ReindexHostContent.Text" translate="yes" xml:space="preserve">
+          <source>Re-index Host Content</source>
+          <target state="new">Re-index Host Content</target>
+        </trans-unit>
+        <trans-unit id="ReIndexConfirmationMessage.Text" translate="yes" xml:space="preserve">
+          <source>Re-Index will cause existing content in the Index Store to be deleted. Re-index is done by search crawler(s) and depends on their scheduling frequency. Are you sure you want to continue?</source>
+          <target state="new">Re-Index will cause existing content in the Index Store to be deleted. Re-index is done by search crawler(s) and depends on their scheduling frequency. Are you sure you want to continue?</target>
+        </trans-unit>
+        <trans-unit id="CompactIndexConfirmationMessage.Text" translate="yes" xml:space="preserve">
+          <source>Compacting Index can be CPU consuming and may require twice the space of the current Index Store for processing. Compacting is done by site search crawler and depends on its scheduling frequency. Are you sure you want to continue?</source>
+          <target state="new">Compacting Index can be CPU consuming and may require twice the space of the current Index Store for processing. Compacting is done by site search crawler and depends on its scheduling frequency. Are you sure you want to continue?</target>
+        </trans-unit>
+        <trans-unit id="SynonymsTagDuplicated.Text" translate="yes" xml:space="preserve">
+          <source>is already being used in another synonyms group.</source>
+          <target state="new">is already being used in another synonyms group.</target>
+        </trans-unit>
+        <trans-unit id="Synonyms.Text" translate="yes" xml:space="preserve">
+          <source>Synonyms</source>
+          <target state="new">Synonyms</target>
+        </trans-unit>
+        <trans-unit id="SynonymsGroup.Header" translate="yes" xml:space="preserve">
+          <source>Synonyms Group</source>
+          <target state="new">Synonyms Group</target>
+        </trans-unit>
+        <trans-unit id="SynonymsGroupUpdateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The synonyms group has been updated.</source>
+          <target state="new">The synonyms group has been updated.</target>
+        </trans-unit>
+        <trans-unit id="SynonymsGroupCreateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The synonyms group has been added.</source>
+          <target state="new">The synonyms group has been added.</target>
+        </trans-unit>
+        <trans-unit id="SynonymsGroupDeletedWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete this synonyms group?</source>
+          <target state="new">Are you sure you want to delete this synonyms group?</target>
+        </trans-unit>
+        <trans-unit id="SynonymsGroupDeleteSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The synonyms group has been deleted.</source>
+          <target state="new">The synonyms group has been deleted.</target>
+        </trans-unit>
+        <trans-unit id="SynonymsGroupDeleteError.Text" translate="yes" xml:space="preserve">
+          <source>Could not delete the synonyms group. Please try later.</source>
+          <target state="new">Could not delete the synonyms group. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="IgnoreWords.Text" translate="yes" xml:space="preserve">
+          <source>Ignore Words</source>
+          <target state="new">Ignore Words</target>
+        </trans-unit>
+        <trans-unit id="IgnoreWordsUpdateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The ignore words has been updated.</source>
+          <target state="new">The ignore words has been updated.</target>
+        </trans-unit>
+        <trans-unit id="IgnoreWordsCreateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The ignore words has been added.</source>
+          <target state="new">The ignore words has been added.</target>
+        </trans-unit>
+        <trans-unit id="IgnoreWordsDeletedWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete the ignore words?</source>
+          <target state="new">Are you sure you want to delete the ignore words?</target>
+        </trans-unit>
+        <trans-unit id="IgnoreWordsDeleteSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The ignore words has been deleted.</source>
+          <target state="new">The ignore words has been deleted.</target>
+        </trans-unit>
+        <trans-unit id="IgnoreWordsDeleteError.Text" translate="yes" xml:space="preserve">
+          <source>Could not delete the ignore words. Please try later.</source>
+          <target state="new">Could not delete the ignore words. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="HtmlEditor.Text" translate="yes" xml:space="preserve">
+          <source>Html Editor Manager</source>
+          <target state="new">Html Editor Manager</target>
+        </trans-unit>
+        <trans-unit id="OpenHtmlEditor.Text" translate="yes" xml:space="preserve">
+          <source>Open HTML Editor Manager</source>
+          <target state="new">Open HTML Editor Manager</target>
+        </trans-unit>
+        <trans-unit id="HtmlEditorWarning.Text" translate="yes" xml:space="preserve">
+          <source>The HTML Editor Manager allows you to easily change your site's HTML editor or configure settings.</source>
+          <target state="new">The HTML Editor Manager allows you to easily change your site's HTML editor or configure settings.</target>
+        </trans-unit>
+        <trans-unit id="BackToSiteBehavior.Text" translate="yes" xml:space="preserve">
+          <source>BACK TO SITE BEHAVIOR</source>
+          <target state="new">BACK TO SITE BEHAVIOR</target>
+        </trans-unit>
+        <trans-unit id="BackToLanguages.Text" translate="yes" xml:space="preserve">
+          <source>BACK TO LANGUAGES</source>
+          <target state="new">BACK TO LANGUAGES</target>
+        </trans-unit>
+        <trans-unit id="NativeName.Text" translate="yes" xml:space="preserve">
+          <source>Native Name</source>
+          <target state="new">Native Name</target>
+        </trans-unit>
+        <trans-unit id="EnglishName.Text" translate="yes" xml:space="preserve">
+          <source>English Name</source>
+          <target state="new">English Name</target>
+        </trans-unit>
+        <trans-unit id="LanguageSettings.Text" translate="yes" xml:space="preserve">
+          <source>SETTINGS</source>
+          <target state="new">SETTINGS</target>
+        </trans-unit>
+        <trans-unit id="Languages.Text" translate="yes" xml:space="preserve">
+          <source>LANGUAGES</source>
+          <target state="new">LANGUAGES</target>
+        </trans-unit>
+        <trans-unit id="systemDefaultLabel.Help" translate="yes" xml:space="preserve">
+          <source>The SystemDefault Language is the language that the application uses if no other language is available.  It is the ultimate fallback.</source>
+          <target state="new">The SystemDefault Language is the language that the application uses if no other language is available.  It is the ultimate fallback.</target>
+        </trans-unit>
+        <trans-unit id="systemDefaultLabel.Text" translate="yes" xml:space="preserve">
+          <source>System Default</source>
+          <target state="new">System Default</target>
+        </trans-unit>
+        <trans-unit id="siteDefaultLabel.Help" translate="yes" xml:space="preserve">
+          <source>Select the default language for the site here.  If the language is not enabled yet, it will be enabled automatically.  The default language cannot be changed once Content Localization is enabled.</source>
+          <target state="new">Select the default language for the site here.  If the language is not enabled yet, it will be enabled automatically.  The default language cannot be changed once Content Localization is enabled.</target>
+        </trans-unit>
+        <trans-unit id="siteDefaultLabel.Text" translate="yes" xml:space="preserve">
+          <source>Site Default</source>
+          <target state="new">Site Default</target>
+        </trans-unit>
+        <trans-unit id="plUrl.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to enable the Language Parameter in the URL.</source>
+          <target state="new">Check this box to enable the Language Parameter in the URL.</target>
+        </trans-unit>
+        <trans-unit id="plUrl.Text" translate="yes" xml:space="preserve">
+          <source>Enable Language Parameter in URLs</source>
+          <target state="new">Enable Language Parameter in URLs</target>
+        </trans-unit>
+        <trans-unit id="detectBrowserLable.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to detect the language selected on the user's browser and switch the site to that language.</source>
+          <target state="new">Check this box to detect the language selected on the user's browser and switch the site to that language.</target>
+        </trans-unit>
+        <trans-unit id="detectBrowserLable.Text" translate="yes" xml:space="preserve">
+          <source>Enable Browser Language Detection</source>
+          <target state="new">Enable Browser Language Detection</target>
+        </trans-unit>
+        <trans-unit id="allowUserCulture.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to allow site users to select a different language for the interface than the one used for content.</source>
+          <target state="new">Check this box to allow site users to select a different language for the interface than the one used for content.</target>
+        </trans-unit>
+        <trans-unit id="allowUserCulture.Text" translate="yes" xml:space="preserve">
+          <source>Users May Choose Interface Language</source>
+          <target state="new">Users May Choose Interface Language</target>
+        </trans-unit>
+        <trans-unit id="NeutralCulture.Text" translate="yes" xml:space="preserve">
+          <source>Neutral Culture</source>
+          <target state="new">Neutral Culture</target>
+        </trans-unit>
+        <trans-unit id="Culture.Header" translate="yes" xml:space="preserve">
+          <source>CULTURE</source>
+          <target state="new">CULTURE</target>
+        </trans-unit>
+        <trans-unit id="Enabled.Header.Text" translate="yes" xml:space="preserve">
+          <source>ENABLED</source>
+          <target state="new">ENABLED</target>
+        </trans-unit>
+        <trans-unit id="fallBackLabel.Help" translate="yes" xml:space="preserve">
+          <source>Select the fallback language to be used if the selected language is not available.</source>
+          <target state="new">Select the fallback language to be used if the selected language is not available.</target>
+        </trans-unit>
+        <trans-unit id="fallBackLabel.Text" translate="yes" xml:space="preserve">
+          <source>Fallback Language</source>
+          <target state="new">Fallback Language</target>
+        </trans-unit>
+        <trans-unit id="enableLanguageLabel.Text" translate="yes" xml:space="preserve">
+          <source>Enable Language</source>
+          <target state="new">Enable Language</target>
+        </trans-unit>
+        <trans-unit id="languageLabel.Help" translate="yes" xml:space="preserve">
+          <source>Select the language.</source>
+          <target state="new">Select the language.</target>
+        </trans-unit>
+        <trans-unit id="languageLabel.Text" translate="yes" xml:space="preserve">
+          <source>Language</source>
+          <target state="new">Language</target>
+        </trans-unit>
+        <trans-unit id="LanguageUpdateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The language has been updated.</source>
+          <target state="new">The language has been updated.</target>
+        </trans-unit>
+        <trans-unit id="LanguageCreateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The language has been added.</source>
+          <target state="new">The language has been added.</target>
+        </trans-unit>
+        <trans-unit id="DefaultLanguage.Text" translate="yes" xml:space="preserve">
+          <source>*NOTE: This Language is the System Default</source>
+          <target state="new">*NOTE: This Language is the System Default</target>
+        </trans-unit>
+        <trans-unit id="plEnableContentLocalization.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to allow Administrators to enable content localization for their site.</source>
+          <target state="new">Check this box to allow Administrators to enable content localization for their site.</target>
+        </trans-unit>
+        <trans-unit id="plEnableContentLocalization.Text" translate="yes" xml:space="preserve">
+          <source>Allow Content Localization</source>
+          <target state="new">Allow Content Localization</target>
+        </trans-unit>
+        <trans-unit id="GlobalSetting.Text" translate="yes" xml:space="preserve">
+          <source>This is a global setting. Changes to this setting will affect all of your sites.</source>
+          <target state="new">This is a global setting. Changes to this setting will affect all of your sites.</target>
+        </trans-unit>
+        <trans-unit id="CreateLanguagePack.Text" translate="yes" xml:space="preserve">
+          <source>Create Language Pack</source>
+          <target state="new">Create Language Pack</target>
+        </trans-unit>
+        <trans-unit id="ResourceFileVerifier.Text" translate="yes" xml:space="preserve">
+          <source>Resource File Verifier</source>
+          <target state="new">Resource File Verifier</target>
+        </trans-unit>
+        <trans-unit id="VerifyLanguageResources.Text" translate="yes" xml:space="preserve">
+          <source>Verify Language Resource Files</source>
+          <target state="new">Verify Language Resource Files</target>
+        </trans-unit>
+        <trans-unit id="MissingFiles.Text" translate="yes" xml:space="preserve">
+          <source>Missing Resource files: </source>
+          <target state="new">Missing Resource files: </target>
+        </trans-unit>
+        <trans-unit id="MissingEntries.Text" translate="yes" xml:space="preserve">
+          <source>Files With Missing Entries: </source>
+          <target state="new">Files With Missing Entries: </target>
+        </trans-unit>
+        <trans-unit id="ObsoleteEntries.Text" translate="yes" xml:space="preserve">
+          <source>Files With Obsolete Entries: </source>
+          <target state="new">Files With Obsolete Entries: </target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_verify.Text" translate="yes" xml:space="preserve">
+          <source>Resource File Verifier</source>
+          <target state="new">Resource File Verifier</target>
+        </trans-unit>
+        <trans-unit id="OldFiles.Text" translate="yes" xml:space="preserve">
+          <source>Files Older Than System Default: </source>
+          <target state="new">Files Older Than System Default: </target>
+        </trans-unit>
+        <trans-unit id="DuplicateEntries.Text" translate="yes" xml:space="preserve">
+          <source>Files With Duplicate Entries: </source>
+          <target state="new">Files With Duplicate Entries: </target>
+        </trans-unit>
+        <trans-unit id="ErrorFiles.Text" translate="yes" xml:space="preserve">
+          <source>Malformed Resource Files: </source>
+          <target state="new">Malformed Resource Files: </target>
+        </trans-unit>
+        <trans-unit id="LanguagePackCreateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The Language Pack(s) were created and can be found in the {0}/Install/Language folder.</source>
+          <target state="new">The Language Pack(s) were created and can be found in the {0}/Install/Language folder.</target>
+        </trans-unit>
+        <trans-unit id="LanguagePackCreateFailure.Text" translate="yes" xml:space="preserve">
+          <source>You must create resource files before you can create a language pack.</source>
+          <target state="new">You must create resource files before you can create a language pack.</target>
+        </trans-unit>
+        <trans-unit id="lbLocale.Text" translate="yes" xml:space="preserve">
+          <source>Resource Locale</source>
+          <target state="new">Resource Locale</target>
+        </trans-unit>
+        <trans-unit id="lbLocale.Help" translate="yes" xml:space="preserve">
+          <source>Select the locale for which you want to generate the language pack</source>
+          <target state="new">Select the locale for which you want to generate the language pack</target>
+        </trans-unit>
+        <trans-unit id="lblType.Text" translate="yes" xml:space="preserve">
+          <source>Resource Pack Type</source>
+          <target state="new">Resource Pack Type</target>
+        </trans-unit>
+        <trans-unit id="lblType.Help" translate="yes" xml:space="preserve">
+          <source>Select the type of resource pack to generate.</source>
+          <target state="new">Select the type of resource pack to generate.</target>
+        </trans-unit>
+        <trans-unit id="lblName.Text" translate="yes" xml:space="preserve">
+          <source>Resource Pack Name</source>
+          <target state="new">Resource Pack Name</target>
+        </trans-unit>
+        <trans-unit id="lblName.Help" translate="yes" xml:space="preserve">
+          <source>The name of the generated resource pack can be modified.  Notice that part of the name is fixed.</source>
+          <target state="new">The name of the generated resource pack can be modified.  Notice that part of the name is fixed.</target>
+        </trans-unit>
+        <trans-unit id="valName.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>The resource pack name is required.</source>
+          <target state="new">The resource pack name is required.</target>
+        </trans-unit>
+        <trans-unit id="SelectModules.Text" translate="yes" xml:space="preserve">
+          <source>Include module(s) in resource pack</source>
+          <target state="new">Include module(s) in resource pack</target>
+        </trans-unit>
+        <trans-unit id="Core.LangPackType" translate="yes" xml:space="preserve">
+          <source>Core</source>
+          <target state="new">Core</target>
+        </trans-unit>
+        <trans-unit id="Module.LangPackType" translate="yes" xml:space="preserve">
+          <source>Module</source>
+          <target state="new">Module</target>
+        </trans-unit>
+        <trans-unit id="Provider.LangPackType" translate="yes" xml:space="preserve">
+          <source>Provider</source>
+          <target state="new">Provider</target>
+        </trans-unit>
+        <trans-unit id="Full.LangPackType" translate="yes" xml:space="preserve">
+          <source>Full</source>
+          <target state="new">Full</target>
+        </trans-unit>
+        <trans-unit id="AuthSystem.LangPackType" translate="yes" xml:space="preserve">
+          <source>Auth System</source>
+          <target state="new">Auth System</target>
+        </trans-unit>
+        <trans-unit id="ModuleRequired.Error" translate="yes" xml:space="preserve">
+          <source>Please select at least one module from the list.</source>
+          <target state="new">Please select at least one module from the list.</target>
+        </trans-unit>
+        <trans-unit id="BackToSiteSettings.Text" translate="yes" xml:space="preserve">
+          <source>BACK TO SITE SETTINGS</source>
+          <target state="new">BACK TO SITE SETTINGS</target>
+        </trans-unit>
+        <trans-unit id="DefaultValue.Text" translate="yes" xml:space="preserve">
+          <source>Default Value</source>
+          <target state="new">Default Value</target>
+        </trans-unit>
+        <trans-unit id="Global.Text" translate="yes" xml:space="preserve">
+          <source>Global</source>
+          <target state="new">Global</target>
+        </trans-unit>
+        <trans-unit id="HighlightPendingTranslations.Text" translate="yes" xml:space="preserve">
+          <source>Highlight Pending Translations</source>
+          <target state="new">Highlight Pending Translations</target>
+        </trans-unit>
+        <trans-unit id="LanguageEditor.Header" translate="yes" xml:space="preserve">
+          <source>Translate Resource Files</source>
+          <target state="new">Translate Resource Files</target>
+        </trans-unit>
+        <trans-unit id="LocalizedValue.Text" translate="yes" xml:space="preserve">
+          <source>Localized Value</source>
+          <target state="new">Localized Value</target>
+        </trans-unit>
+        <trans-unit id="ResourceFile.Text" translate="yes" xml:space="preserve">
+          <source>Resource File</source>
+          <target state="new">Resource File</target>
+        </trans-unit>
+        <trans-unit id="ResourceFolder.Text" translate="yes" xml:space="preserve">
+          <source>Resource Folder</source>
+          <target state="new">Resource Folder</target>
+        </trans-unit>
+        <trans-unit id="ResourceName.Text" translate="yes" xml:space="preserve">
+          <source>Resource Name</source>
+          <target state="new">Resource Name</target>
+        </trans-unit>
+        <trans-unit id="SaveTranslationsToFile.Text" translate="yes" xml:space="preserve">
+          <source>Save Translations To File</source>
+          <target state="new">Save Translations To File</target>
+        </trans-unit>
+        <trans-unit id="GlobalRoles.Text" translate="yes" xml:space="preserve">
+          <source>Global Roles</source>
+          <target state="new">Global Roles</target>
+        </trans-unit>
+        <trans-unit id="AllRoles.Text" translate="yes" xml:space="preserve">
+          <source>All Roles</source>
+          <target state="new">All Roles</target>
+        </trans-unit>
+        <trans-unit id="RoleName.Header" translate="yes" xml:space="preserve">
+          <source>ROLE</source>
+          <target state="new">ROLE</target>
+        </trans-unit>
+        <trans-unit id="Select.Header" translate="yes" xml:space="preserve">
+          <source>SELECT</source>
+          <target state="new">SELECT</target>
+        </trans-unit>
+        <trans-unit id="Translators.Text" translate="yes" xml:space="preserve">
+          <source>TRANSLATORS</source>
+          <target state="new">TRANSLATORS</target>
+        </trans-unit>
+        <trans-unit id="translatorsLabel.Help" translate="yes" xml:space="preserve">
+          <source>The selected roles will be granted explicit Edit Rights to all new pages and localized modules for this language.</source>
+          <target state="new">The selected roles will be granted explicit Edit Rights to all new pages and localized modules for this language.</target>
+        </trans-unit>
+        <trans-unit id="GlobalResources.Text" translate="yes" xml:space="preserve">
+          <source>Global Resources</source>
+          <target state="new">Global Resources</target>
+        </trans-unit>
+        <trans-unit id="LocalResources.Text" translate="yes" xml:space="preserve">
+          <source>Local Resources</source>
+          <target state="new">Local Resources</target>
+        </trans-unit>
+        <trans-unit id="SiteTemplates.Text" translate="yes" xml:space="preserve">
+          <source>Site Templates</source>
+          <target state="new">Site Templates</target>
+        </trans-unit>
+        <trans-unit id="Exceptions.Text" translate="yes" xml:space="preserve">
+          <source>Exceptions</source>
+          <target state="new">Exceptions</target>
+        </trans-unit>
+        <trans-unit id="HostSkins.Text" translate="yes" xml:space="preserve">
+          <source>Host Themes</source>
+          <target state="new">Host Themes</target>
+        </trans-unit>
+        <trans-unit id="PortalSkins.Text" translate="yes" xml:space="preserve">
+          <source>Site Themes</source>
+          <target state="new">Site Themes</target>
+        </trans-unit>
+        <trans-unit id="Template.Text" translate="yes" xml:space="preserve">
+          <source>Template</source>
+          <target state="new">Template</target>
+        </trans-unit>
+        <trans-unit id="Updated.Text" translate="yes" xml:space="preserve">
+          <source>File {0} has been saved.</source>
+          <target state="new">File {0} has been saved.</target>
+        </trans-unit>
+        <trans-unit id="ResourceUpdated.Text" translate="yes" xml:space="preserve">
+          <source>Resource file has been updated.</source>
+          <target state="new">Resource file has been updated.</target>
+        </trans-unit>
+        <trans-unit id="InvalidLocale.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Current site does not support this locale ({0}).</source>
+          <target state="new">Current site does not support this locale ({0}).</target>
+        </trans-unit>
+        <trans-unit id="MicroServices.Text" translate="yes" xml:space="preserve">
+          <source>MicroServices</source>
+          <target state="new">MicroServices</target>
+        </trans-unit>
+        <trans-unit id="MicroServicesDescription.Text" translate="yes" xml:space="preserve">
+          <source>Warning: once you enable a microservice, you will need contact support yo disable it.</source>
+          <target state="new">Warning: once you enable a microservice, you will need contact support yo disable it.</target>
+        </trans-unit>
+        <trans-unit id="SaveConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to save the changes?</source>
+          <target state="new">Are you sure you want to save the changes?</target>
+        </trans-unit>
+        <trans-unit id="MessageReIndexWarning.Text" translate="yes" xml:space="preserve">
+          <source>Re-Index deletes existing content from the Index Store and then re-indexes everything. Re-Indexing is done as part of search crawler(s) scheduled task. To re-index immediately, the Search Crawler should be run manually from the scheduler.</source>
+          <target state="new">Re-Index deletes existing content from the Index Store and then re-indexes everything. Re-Indexing is done as part of search crawler(s) scheduled task. To re-index immediately, the Search Crawler should be run manually from the scheduler.</target>
+        </trans-unit>
+        <trans-unit id="CurrentSiteDefault.Text" translate="yes" xml:space="preserve">
+          <source>Current Site Default:</source>
+          <target state="new">Current Site Default:</target>
+        </trans-unit>
+        <trans-unit id="CurrentSiteDefault.Help" translate="yes" xml:space="preserve">
+          <source>Once localized content is enabled, the default site culture will be permanently set and cannot be changed. Click Cancel now if you want to change the current site default.</source>
+          <target state="new">Once localized content is enabled, the default site culture will be permanently set and cannot be changed. Click Cancel now if you want to change the current site default.</target>
+        </trans-unit>
+        <trans-unit id="AllPagesTranslatable.Text" translate="yes" xml:space="preserve">
+          <source>Make All Pages Translatable: </source>
+          <target state="new">Make All Pages Translatable: </target>
+        </trans-unit>
+        <trans-unit id="AllPagesTranslatable.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to make all pages within the default language translatable and created a copy of all translatable pages for each enabled language.</source>
+          <target state="new">Check this box to make all pages within the default language translatable and created a copy of all translatable pages for each enabled language.</target>
+        </trans-unit>
+        <trans-unit id="EnableLocalizedContent.Text" translate="yes" xml:space="preserve">
+          <source>Enable Localized Content</source>
+          <target state="new">Enable Localized Content</target>
+        </trans-unit>
+        <trans-unit id="EnableLocalizedContentHelpText.Text" translate="yes" xml:space="preserve">
+          <source>Enabling localized content allows you to provide translated module content in addition to displaying translated static text. Once localized contetnt is enabled the default site culture will be permanently set and cannot be changed.</source>
+          <target state="new">Enabling localized content allows you to provide translated module content in addition to displaying translated static text. Once localized contetnt is enabled the default site culture will be permanently set and cannot be changed.</target>
+        </trans-unit>
+        <trans-unit id="EnableLocalizedContentClickCancel.Text" translate="yes" xml:space="preserve">
+          <source>Click Cancel now if you want to change the current site default.</source>
+          <target state="new">Click Cancel now if you want to change the current site default.</target>
+        </trans-unit>
+        <trans-unit id="TranslationProgressBarText.Text" translate="yes" xml:space="preserve">
+          <source>[number] new pages are beign created for each language. Please wait as you localized pages are generated...</source>
+          <target state="new">[number] new pages are beign created for each language. Please wait as you localized pages are generated...</target>
+        </trans-unit>
+        <trans-unit id="TotalProgress.Text" translate="yes" xml:space="preserve">
+          <source>Total Progress [number]%</source>
+          <target state="new">Total Progress [number]%</target>
+        </trans-unit>
+        <trans-unit id="TotalLanguages.Text" translate="yes" xml:space="preserve">
+          <source>Total Languages [number]</source>
+          <target state="new">Total Languages [number]</target>
+        </trans-unit>
+        <trans-unit id="Progress.Text" translate="yes" xml:space="preserve">
+          <source>Progress [number]%</source>
+          <target state="new">Progress [number]%</target>
+        </trans-unit>
+        <trans-unit id="ElapsedTime.Text" translate="yes" xml:space="preserve">
+          <source>Elapsed Time: </source>
+          <target state="new">Elapsed Time: </target>
+        </trans-unit>
+        <trans-unit id="ProcessingPage.Text" translate="yes" xml:space="preserve">
+          <source>{0}: Page {1} of {2} - {3}</source>
+          <target state="new">{0}: Page {1} of {2} - {3}</target>
+        </trans-unit>
+        <trans-unit id="MessageCompactIndexWarning.Text" translate="yes" xml:space="preserve">
+          <source>Compacting of Index reclaims space from deleted items in the Index Store. Compacting is recommended only when there are many 'Deleted Documents' in Index Store. Compacting may require twice the size of current Index Store during processing.</source>
+          <target state="new">Compacting of Index reclaims space from deleted items in the Index Store. Compacting is recommended only when there are many 'Deleted Documents' in Index Store. Compacting may require twice the size of current Index Store during processing.</target>
+        </trans-unit>
+        <trans-unit id="cmdCreateLanguage.Text" translate="yes" xml:space="preserve">
+          <source>Add New Language</source>
+          <target state="new">Add New Language</target>
+        </trans-unit>
+        <trans-unit id="cmdAddWord.Text" translate="yes" xml:space="preserve">
+          <source>Add Word</source>
+          <target state="new">Add Word</target>
+        </trans-unit>
+        <trans-unit id="cmdAddField.Text" translate="yes" xml:space="preserve">
+          <source>Add Field</source>
+          <target state="new">Add Field</target>
+        </trans-unit>
+        <trans-unit id="cmdAddAlias.Text" translate="yes" xml:space="preserve">
+          <source>Add Alias</source>
+          <target state="new">Add Alias</target>
+        </trans-unit>
+        <trans-unit id="cmdAddGroup.Text" translate="yes" xml:space="preserve">
+          <source>Add Group</source>
+          <target state="new">Add Group</target>
+        </trans-unit>
+        <trans-unit id="DisableLocalizedContent.Text" translate="yes" xml:space="preserve">
+          <source>Disable Localized Content</source>
+          <target state="new">Disable Localized Content</target>
+        </trans-unit>
+        <trans-unit id="TranslatePageContent.Text" translate="yes" xml:space="preserve">
+          <source>Translate Page Content</source>
+          <target state="new">Translate Page Content</target>
+        </trans-unit>
+        <trans-unit id="AddAllUnlocalizedPages.Text" translate="yes" xml:space="preserve">
+          <source>Add All Unlocalized Pages</source>
+          <target state="new">Add All Unlocalized Pages</target>
+        </trans-unit>
+        <trans-unit id="ViewPage.Text" translate="yes" xml:space="preserve">
+          <source>[ View Page ]</source>
+          <target state="new">[ View Page ]</target>
+        </trans-unit>
+        <trans-unit id="EditPageSettings.Text" translate="yes" xml:space="preserve">
+          <source>[ Edit Page Settings ]</source>
+          <target state="new">[ Edit Page Settings ]</target>
+        </trans-unit>
+        <trans-unit id="ActivatePages.Text" translate="yes" xml:space="preserve">
+          <source>Activate Pages in This Language: </source>
+          <target state="new">Activate Pages in This Language: </target>
+        </trans-unit>
+        <trans-unit id="ActivatePages.Help" translate="yes" xml:space="preserve">
+          <source>A language must be enabled before it can be activated and it must be deactivated before it can be disabled.</source>
+          <target state="new">A language must be enabled before it can be activated and it must be deactivated before it can be disabled.</target>
+        </trans-unit>
+        <trans-unit id="MarkAllPagesAsTranslated.Text" translate="yes" xml:space="preserve">
+          <source>Mark All Pages As Translated</source>
+          <target state="new">Mark All Pages As Translated</target>
+        </trans-unit>
+        <trans-unit id="EraseAllLocalizedPages.Text" translate="yes" xml:space="preserve">
+          <source>Erase All Localized Pages</source>
+          <target state="new">Erase All Localized Pages</target>
+        </trans-unit>
+        <trans-unit id="PublishTranslatedPages.Text" translate="yes" xml:space="preserve">
+          <source>Publish All Pages</source>
+          <target state="new">Publish All Pages</target>
+        </trans-unit>
+        <trans-unit id="UnpublishTranslatedPages.Text" translate="yes" xml:space="preserve">
+          <source>Unpublish All Pages</source>
+          <target state="new">Unpublish All Pages</target>
+        </trans-unit>
+        <trans-unit id="PagesToTranslate.Text" translate="yes" xml:space="preserve">
+          <source>Pages To Translate:</source>
+          <target state="new">Pages To Translate:</target>
+        </trans-unit>
+        <trans-unit id="plImprovementProgram.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to participate in the DNN Improvement Program. <bpt id="1">&lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;</bpt>Learn More<ept id="1">&lt;/a&gt;</ept>.</source>
+          <target state="new">Check this box to participate in the DNN Improvement Program. <bpt id="1">&lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;</bpt>Learn More<ept id="1">&lt;/a&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="plImprovementProgram.Text" translate="yes" xml:space="preserve">
+          <source>Participate in DNN Improvement Program:</source>
+          <target state="new">Participate in DNN Improvement Program:</target>
+        </trans-unit>
+        <trans-unit id="plUpgrade.Text" translate="yes" xml:space="preserve">
+          <source>Check for Software Upgrades</source>
+          <target state="new">Check for Software Upgrades</target>
+        </trans-unit>
+        <trans-unit id="plUpgrade.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to have the application check if there are upgrades available.</source>
+          <target state="new">Check this box to have the application check if there are upgrades available.</target>
+        </trans-unit>
+        <trans-unit id="Pages.Header" translate="yes" xml:space="preserve">
+          <source>PAGES</source>
+          <target state="new">PAGES</target>
+        </trans-unit>
+        <trans-unit id="Translated.Header" translate="yes" xml:space="preserve">
+          <source>TRANSLATED</source>
+          <target state="new">TRANSLATED</target>
+        </trans-unit>
+        <trans-unit id="Active.Header" translate="yes" xml:space="preserve">
+          <source>ACTIVE</source>
+          <target state="new">ACTIVE</target>
+        </trans-unit>
+        <trans-unit id="PropertyDefinitionUpdateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Property Definitions have been updated.</source>
+          <target state="new">Property Definitions have been updated.</target>
+        </trans-unit>
+        <trans-unit id="ViewOrderUpdateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>View orders have been updated.</source>
+          <target state="new">View orders have been updated.</target>
+        </trans-unit>
+        <trans-unit id="SaveOrCancelWarning.Text" translate="yes" xml:space="preserve">
+          <source>You have unsaved changes. Please save or cancel your changes first.</source>
+          <target state="new">You have unsaved changes. Please save or cancel your changes first.</target>
+        </trans-unit>
+        <trans-unit id="DeactivateLanguageWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to deactivate {0}?</source>
+          <target state="new">Are you sure you want to deactivate {0}?</target>
+        </trans-unit>
+        <trans-unit id="DeletedAllLocalizedPages.Text" translate="yes" xml:space="preserve">
+          <source>Localized pages deleted successfully.</source>
+          <target state="new">Localized pages deleted successfully.</target>
+        </trans-unit>
+        <trans-unit id="EraseTranslatedPagesWarning.Text" translate="yes" xml:space="preserve">
+          <source>You are about to permanently remove all translations for the '{0}' language. Are you sure you want to continue?</source>
+          <target state="new">You are about to permanently remove all translations for the '{0}' language. Are you sure you want to continue?</target>
+        </trans-unit>
+        <trans-unit id="Mode.HelpText" translate="yes" xml:space="preserve">
+          <source>Select System to edit the base file for a given language; Host will create a custom version of the localized file for this installation.</source>
+          <target state="new">Select System to edit the base file for a given language; Host will create a custom version of the localized file for this installation.</target>
+        </trans-unit>
+        <trans-unit id="Mode.Label" translate="yes" xml:space="preserve">
+          <source>Mode</source>
+          <target state="new">Mode</target>
+        </trans-unit>
+        <trans-unit id="PagesSuccessfullyLocalized.Text" translate="yes" xml:space="preserve">
+          <source>Pages successfully localized.</source>
+          <target state="new">Pages successfully localized.</target>
+        </trans-unit>
+        <trans-unit id="PublishedAllTranslatedPages.Text" translate="yes" xml:space="preserve">
+          <source>Pages published successfully.</source>
+          <target state="new">Pages published successfully.</target>
+        </trans-unit>
+        <trans-unit id="UnPublishedAllTranslatedPages.Text" translate="yes" xml:space="preserve">
+          <source>Pages successfully unpublished.</source>
+          <target state="new">Pages successfully unpublished.</target>
+        </trans-unit>
+        <trans-unit id="SelectResourcePlaceholder.Text" translate="yes" xml:space="preserve">
+          <source>-- Select --</source>
+          <target state="new">-- Select --</target>
+        </trans-unit>
+        <trans-unit id="PagesSuccessfullyTranslated.Text" translate="yes" xml:space="preserve">
+          <source>Pages successfully translated.</source>
+          <target state="new">Pages successfully translated.</target>
+        </trans-unit>
+        <trans-unit id="DisableLanguageWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to disable the language {0}</source>
+          <target state="new">Are you sure you want to disable the language {0}</target>
+        </trans-unit>
+        <trans-unit id="MakeNeutralWarning.Text" translate="yes" xml:space="preserve">
+          <source>This will delete all translated version of the page. Only the default culture version of the page will remain. Are you sure you want to do this?</source>
+          <target state="new">This will delete all translated version of the page. Only the default culture version of the page will remain. Are you sure you want to do this?</target>
+        </trans-unit>
+        <trans-unit id="SiteSelectionLabel.Text" translate="yes" xml:space="preserve">
+          <source>EDITING SITE</source>
+          <target state="new">EDITING SITE</target>
+        </trans-unit>
+        <trans-unit id="LanguageSelectionLabel.Text" translate="yes" xml:space="preserve">
+          <source>LANGUAGE</source>
+          <target state="new">LANGUAGE</target>
+        </trans-unit>
+        <trans-unit id="ListEntryText.Text" translate="yes" xml:space="preserve">
+          <source>Text</source>
+          <target state="new">Text</target>
+        </trans-unit>
+        <trans-unit id="ListEntryValue.Text" translate="yes" xml:space="preserve">
+          <source>Value</source>
+          <target state="new">Value</target>
+        </trans-unit>
+        <trans-unit id="NoData.Text" translate="yes" xml:space="preserve">
+          <source>No records to display</source>
+          <target state="new">No records to display</target>
+        </trans-unit>
+        <trans-unit id="cmdAddEntry.Text" translate="yes" xml:space="preserve">
+          <source>Add Entry</source>
+          <target state="new">Add Entry</target>
+        </trans-unit>
+        <trans-unit id="ListEntries.Text" translate="yes" xml:space="preserve">
+          <source>List Entries</source>
+          <target state="new">List Entries</target>
+        </trans-unit>
+        <trans-unit id="ListEntries.Help" translate="yes" xml:space="preserve">
+          <source>MANAGE LIST ENTRIES: The property details have been updated. This property is a List type property. The next step is to define the list entries.</source>
+          <target state="new">MANAGE LIST ENTRIES: The property details have been updated. This property is a List type property. The next step is to define the list entries.</target>
+        </trans-unit>
+        <trans-unit id="ListEntryCreateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The list entry has been created.</source>
+          <target state="new">The list entry has been created.</target>
+        </trans-unit>
+        <trans-unit id="ListEntryUpdateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The list entry has been updated.</source>
+          <target state="new">The list entry has been updated.</target>
+        </trans-unit>
+        <trans-unit id="ListEntryDeleteSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The list entry has been deleted.</source>
+          <target state="new">The list entry has been deleted.</target>
+        </trans-unit>
+        <trans-unit id="ListEntryDeleteError.Text" translate="yes" xml:space="preserve">
+          <source>Could not delete the list entry. Please try later.</source>
+          <target state="new">Could not delete the list entry. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="ListEntryDeletedWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete the list entry?</source>
+          <target state="new">Are you sure you want to delete the list entry?</target>
+        </trans-unit>
+        <trans-unit id="InvalidEntryText.Text" translate="yes" xml:space="preserve">
+          <source>Text is required</source>
+          <target state="new">Text is required</target>
+        </trans-unit>
+        <trans-unit id="InvalidEntryValue.Text" translate="yes" xml:space="preserve">
+          <source>Value is required</source>
+          <target state="new">Value is required</target>
+        </trans-unit>
+        <trans-unit id="EnableSortOrder.Text" translate="yes" xml:space="preserve">
+          <source>Enable Sort Order</source>
+          <target state="new">Enable Sort Order</target>
+        </trans-unit>
+        <trans-unit id="EnableSortOrder.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to enable custom sorting of entries in this list.</source>
+          <target state="new">Check this box to enable custom sorting of entries in this list.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

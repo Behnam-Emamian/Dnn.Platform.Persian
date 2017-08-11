@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Settings.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ControlTitle_settings.Text" translate="yes" xml:space="preserve">
+          <source>Console Settings</source>
+          <target state="new">Console Settings</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>The console module displays child pages as icons and links, or categories to assist in navigation.  The console module has 4 different display modes:
+<bpt id="2">&lt;ul&gt;</bpt><bpt id="3">&lt;li&gt;</bpt>small icons with details as tooltip (Small Icons, Simple View)<ept id="3">&lt;/li&gt;</ept>
+<bpt id="4">&lt;li&gt;</bpt>large icons details as tooltips (Large Icons, Simple View)<ept id="4">&lt;/li&gt;</ept>
+<bpt id="5">&lt;li&gt;</bpt>small icons list with details (Small Icons, Detailed View)<ept id="5">&lt;/li&gt;</ept>
+<bpt id="6">&lt;li&gt;</bpt>large icon list with details (Large Icons, Detailed View)<ept id="6">&lt;/li&gt;</ept>
+<ept id="2">&lt;/ul&gt;</ept>
+<ept id="1">&lt;/p&gt;</ept>
+<bpt id="7">&lt;h3&gt;</bpt>Page Settings the console module depends on:<ept id="7">&lt;/h3&gt;</ept>
+<bpt id="8">&lt;table cellpadding="4" border="1" style="border:solid 1px #dcdcdc;border-collapse:collapse;"&gt;</bpt>
+<bpt id="9">&lt;tr&gt;</bpt><bpt id="10">&lt;td nowrap="nowrap"&gt;</bpt>Page Name<ept id="10">&lt;/td&gt;</ept><bpt id="11">&lt;td&gt;</bpt>The Page Name is shown as the link title.<ept id="11">&lt;/td&gt;</ept><ept id="9">&lt;/tr&gt;</ept>
+<bpt id="12">&lt;tr&gt;</bpt><bpt id="13">&lt;td nowrap="nowrap"&gt;</bpt>Page Description<ept id="13">&lt;/td&gt;</ept><bpt id="14">&lt;td&gt;</bpt>The Page Description is shown as the tooltip or detail.<ept id="14">&lt;/td&gt;</ept><ept id="12">&lt;/tr&gt;</ept>
+<bpt id="15">&lt;tr&gt;</bpt><bpt id="16">&lt;td nowrap="nowrap"&gt;</bpt>Disabled<ept id="16">&lt;/td&gt;</ept><bpt id="17">&lt;td&gt;</bpt>Category titles are shown if the page has 'Disabled' checked. Child pages of the disabled page will be shown under the title.<ept id="17">&lt;/td&gt;</ept><ept id="15">&lt;/tr&gt;</ept>
+<bpt id="18">&lt;tr&gt;</bpt><bpt id="19">&lt;td nowrap="nowrap"&gt;</bpt>Icon File<ept id="19">&lt;/td&gt;</ept><bpt id="20">&lt;td&gt;</bpt>This icon is used in small icon views.<ept id="20">&lt;/td&gt;</ept><ept id="18">&lt;/tr&gt;</ept>
+<bpt id="21">&lt;tr&gt;</bpt><bpt id="22">&lt;td nowrap="nowrap"&gt;</bpt>Large Icon File<ept id="22">&lt;/td&gt;</ept><bpt id="23">&lt;td&gt;</bpt>This icon is used in large icon views.<ept id="23">&lt;/td&gt;</ept><ept id="21">&lt;/tr&gt;</ept>
+<ept id="8">&lt;/table&gt;</ept>
+<bpt id="24">&lt;i&gt;</bpt>Tip: 'Include in menu' setting will hide pages from the menu but not the console.<ept id="24">&lt;/i&gt;</ept>
+<bpt id="25">&lt;br &gt;</bpt><ept id="25">&lt;/br&gt;</ept><bpt id="26">&lt;br &gt;</bpt><ept id="26">&lt;/br&gt;</ept>
+<bpt id="27">&lt;h3&gt;</bpt>Console Module Settings<ept id="27">&lt;/h3&gt;</ept>
+<bpt id="28">&lt;table cellpadding="4" border="1" style="border:solid 1px #dcdcdc;border-collapse:collapse;"&gt;</bpt>
+<bpt id="29">&lt;tr&gt;</bpt><bpt id="30">&lt;td nowrap="nowrap"&gt;</bpt>Show children of<ept id="30">&lt;/td&gt;</ept><bpt id="31">&lt;td&gt;</bpt>Selecting a page will display all child pages of that page. Leave this field blank to display all child pages for the current page.<ept id="31">&lt;/td&gt;</ept><ept id="29">&lt;/tr&gt;</ept>
+<bpt id="32">&lt;tr&gt;</bpt><bpt id="33">&lt;td nowrap="nowrap"&gt;</bpt>Default icon size<ept id="33">&lt;/td&gt;</ept><bpt id="34">&lt;td&gt;</bpt>Determines the icon size.<ept id="34">&lt;/td&gt;</ept><ept id="32">&lt;/tr&gt;</ept>
+<bpt id="35">&lt;tr&gt;</bpt><bpt id="36">&lt;td nowrap="nowrap"&gt;</bpt>Allow icon resize<ept id="36">&lt;/td&gt;</ept><bpt id="37">&lt;td&gt;</bpt>Allow the user to resize the icons.<ept id="37">&lt;/td&gt;</ept><ept id="35">&lt;/tr&gt;</ept>
+<bpt id="38">&lt;tr&gt;</bpt><bpt id="39">&lt;td nowrap="nowrap"&gt;</bpt>Default view<ept id="39">&lt;/td&gt;</ept><bpt id="40">&lt;td&gt;</bpt>Determines the default view. Simple view will show icons with page descriptions as tooltips. Detailed view will show a list with descriptions for each item.<ept id="40">&lt;/td&gt;</ept><ept id="38">&lt;/tr&gt;</ept>
+<bpt id="41">&lt;tr&gt;</bpt><bpt id="42">&lt;td nowrap="nowrap"&gt;</bpt>Allow view change<ept id="42">&lt;/td&gt;</ept><bpt id="43">&lt;td&gt;</bpt>Allow the user to switch between detailed and simple views.<ept id="43">&lt;/td&gt;</ept><ept id="41">&lt;/tr&gt;</ept>
+<bpt id="44">&lt;tr&gt;</bpt><bpt id="45">&lt;td nowrap="nowrap"&gt;</bpt>Show tooltip<ept id="45">&lt;/td&gt;</ept><bpt id="46">&lt;td&gt;</bpt>Show a tooltip with detailed description when hovering over icons in Simple View.<ept id="46">&lt;/td&gt;</ept><ept id="44">&lt;/tr&gt;</ept>
+<bpt id="47">&lt;tr&gt;</bpt><bpt id="48">&lt;td nowrap="nowrap"&gt;</bpt>Width<ept id="48">&lt;/td&gt;</ept><bpt id="49">&lt;td&gt;</bpt>Leave this field empty to allow the icons to expand horizontally or enter a pixel value to minimize the console width.  E.g. Set this value to 400 for 2 columns of icons.<ept id="49">&lt;/td&gt;</ept><ept id="47">&lt;/tr&gt;</ept>
+<ept id="28">&lt;/table&gt;</ept>
+<bpt id="50">&lt;i&gt;</bpt>Tip: You can prevent users from changing the layout of the page by unchecking 'Allow Icon Resize' and 'Allow View Change'.<ept id="50">&lt;/i&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>The console module displays child pages as icons and links, or categories to assist in navigation.  The console module has 4 different display modes:
+<bpt id="2">&lt;ul&gt;</bpt><bpt id="3">&lt;li&gt;</bpt>small icons with details as tooltip (Small Icons, Simple View)<ept id="3">&lt;/li&gt;</ept>
+<bpt id="4">&lt;li&gt;</bpt>large icons details as tooltips (Large Icons, Simple View)<ept id="4">&lt;/li&gt;</ept>
+<bpt id="5">&lt;li&gt;</bpt>small icons list with details (Small Icons, Detailed View)<ept id="5">&lt;/li&gt;</ept>
+<bpt id="6">&lt;li&gt;</bpt>large icon list with details (Large Icons, Detailed View)<ept id="6">&lt;/li&gt;</ept>
+<ept id="2">&lt;/ul&gt;</ept>
+<ept id="1">&lt;/p&gt;</ept>
+<bpt id="7">&lt;h3&gt;</bpt>Page Settings the console module depends on:<ept id="7">&lt;/h3&gt;</ept>
+<bpt id="8">&lt;table cellpadding="4" border="1" style="border:solid 1px #dcdcdc;border-collapse:collapse;"&gt;</bpt>
+<bpt id="9">&lt;tr&gt;</bpt><bpt id="10">&lt;td nowrap="nowrap"&gt;</bpt>Page Name<ept id="10">&lt;/td&gt;</ept><bpt id="11">&lt;td&gt;</bpt>The Page Name is shown as the link title.<ept id="11">&lt;/td&gt;</ept><ept id="9">&lt;/tr&gt;</ept>
+<bpt id="12">&lt;tr&gt;</bpt><bpt id="13">&lt;td nowrap="nowrap"&gt;</bpt>Page Description<ept id="13">&lt;/td&gt;</ept><bpt id="14">&lt;td&gt;</bpt>The Page Description is shown as the tooltip or detail.<ept id="14">&lt;/td&gt;</ept><ept id="12">&lt;/tr&gt;</ept>
+<bpt id="15">&lt;tr&gt;</bpt><bpt id="16">&lt;td nowrap="nowrap"&gt;</bpt>Disabled<ept id="16">&lt;/td&gt;</ept><bpt id="17">&lt;td&gt;</bpt>Category titles are shown if the page has 'Disabled' checked. Child pages of the disabled page will be shown under the title.<ept id="17">&lt;/td&gt;</ept><ept id="15">&lt;/tr&gt;</ept>
+<bpt id="18">&lt;tr&gt;</bpt><bpt id="19">&lt;td nowrap="nowrap"&gt;</bpt>Icon File<ept id="19">&lt;/td&gt;</ept><bpt id="20">&lt;td&gt;</bpt>This icon is used in small icon views.<ept id="20">&lt;/td&gt;</ept><ept id="18">&lt;/tr&gt;</ept>
+<bpt id="21">&lt;tr&gt;</bpt><bpt id="22">&lt;td nowrap="nowrap"&gt;</bpt>Large Icon File<ept id="22">&lt;/td&gt;</ept><bpt id="23">&lt;td&gt;</bpt>This icon is used in large icon views.<ept id="23">&lt;/td&gt;</ept><ept id="21">&lt;/tr&gt;</ept>
+<ept id="8">&lt;/table&gt;</ept>
+<bpt id="24">&lt;i&gt;</bpt>Tip: 'Include in menu' setting will hide pages from the menu but not the console.<ept id="24">&lt;/i&gt;</ept>
+<bpt id="25">&lt;br &gt;</bpt><ept id="25">&lt;/br&gt;</ept><bpt id="26">&lt;br &gt;</bpt><ept id="26">&lt;/br&gt;</ept>
+<bpt id="27">&lt;h3&gt;</bpt>Console Module Settings<ept id="27">&lt;/h3&gt;</ept>
+<bpt id="28">&lt;table cellpadding="4" border="1" style="border:solid 1px #dcdcdc;border-collapse:collapse;"&gt;</bpt>
+<bpt id="29">&lt;tr&gt;</bpt><bpt id="30">&lt;td nowrap="nowrap"&gt;</bpt>Show children of<ept id="30">&lt;/td&gt;</ept><bpt id="31">&lt;td&gt;</bpt>Selecting a page will display all child pages of that page. Leave this field blank to display all child pages for the current page.<ept id="31">&lt;/td&gt;</ept><ept id="29">&lt;/tr&gt;</ept>
+<bpt id="32">&lt;tr&gt;</bpt><bpt id="33">&lt;td nowrap="nowrap"&gt;</bpt>Default icon size<ept id="33">&lt;/td&gt;</ept><bpt id="34">&lt;td&gt;</bpt>Determines the icon size.<ept id="34">&lt;/td&gt;</ept><ept id="32">&lt;/tr&gt;</ept>
+<bpt id="35">&lt;tr&gt;</bpt><bpt id="36">&lt;td nowrap="nowrap"&gt;</bpt>Allow icon resize<ept id="36">&lt;/td&gt;</ept><bpt id="37">&lt;td&gt;</bpt>Allow the user to resize the icons.<ept id="37">&lt;/td&gt;</ept><ept id="35">&lt;/tr&gt;</ept>
+<bpt id="38">&lt;tr&gt;</bpt><bpt id="39">&lt;td nowrap="nowrap"&gt;</bpt>Default view<ept id="39">&lt;/td&gt;</ept><bpt id="40">&lt;td&gt;</bpt>Determines the default view. Simple view will show icons with page descriptions as tooltips. Detailed view will show a list with descriptions for each item.<ept id="40">&lt;/td&gt;</ept><ept id="38">&lt;/tr&gt;</ept>
+<bpt id="41">&lt;tr&gt;</bpt><bpt id="42">&lt;td nowrap="nowrap"&gt;</bpt>Allow view change<ept id="42">&lt;/td&gt;</ept><bpt id="43">&lt;td&gt;</bpt>Allow the user to switch between detailed and simple views.<ept id="43">&lt;/td&gt;</ept><ept id="41">&lt;/tr&gt;</ept>
+<bpt id="44">&lt;tr&gt;</bpt><bpt id="45">&lt;td nowrap="nowrap"&gt;</bpt>Show tooltip<ept id="45">&lt;/td&gt;</ept><bpt id="46">&lt;td&gt;</bpt>Show a tooltip with detailed description when hovering over icons in Simple View.<ept id="46">&lt;/td&gt;</ept><ept id="44">&lt;/tr&gt;</ept>
+<bpt id="47">&lt;tr&gt;</bpt><bpt id="48">&lt;td nowrap="nowrap"&gt;</bpt>Width<ept id="48">&lt;/td&gt;</ept><bpt id="49">&lt;td&gt;</bpt>Leave this field empty to allow the icons to expand horizontally or enter a pixel value to minimize the console width.  E.g. Set this value to 400 for 2 columns of icons.<ept id="49">&lt;/td&gt;</ept><ept id="47">&lt;/tr&gt;</ept>
+<ept id="28">&lt;/table&gt;</ept>
+<bpt id="50">&lt;i&gt;</bpt>Tip: You can prevent users from changing the layout of the page by unchecking 'Allow Icon Resize' and 'Allow View Change'.<ept id="50">&lt;/i&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="AllowResize.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to allow users to resize the icons.</source>
+          <target state="new">Check this box to allow users to resize the icons.</target>
+        </trans-unit>
+        <trans-unit id="AllowResize.Text" translate="yes" xml:space="preserve">
+          <source>Allow Icon Resize</source>
+          <target state="new">Allow Icon Resize</target>
+        </trans-unit>
+        <trans-unit id="AllowViewChange.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to allow users to switching between detailed and simple views.</source>
+          <target state="new">Check this box to allow users to switching between detailed and simple views.</target>
+        </trans-unit>
+        <trans-unit id="AllowViewChange.Text" translate="yes" xml:space="preserve">
+          <source>Allow View Change</source>
+          <target state="new">Allow View Change</target>
+        </trans-unit>
+        <trans-unit id="DefaultSize.Help" translate="yes" xml:space="preserve">
+          <source>Determines the icon size.</source>
+          <target state="new">Determines the icon size.</target>
+        </trans-unit>
+        <trans-unit id="DefaultSize.Text" translate="yes" xml:space="preserve">
+          <source>Default Icon Size</source>
+          <target state="new">Default Icon Size</target>
+        </trans-unit>
+        <trans-unit id="DefaultView.Help" translate="yes" xml:space="preserve">
+          <source>Determines the default view. Simple view will show icons with page descriptions as tooltips. Detailed view will show a list with descriptions for each item.</source>
+          <target state="new">Determines the default view. Simple view will show icons with page descriptions as tooltips. Detailed view will show a list with descriptions for each item.</target>
+        </trans-unit>
+        <trans-unit id="DefaultView.Text" translate="yes" xml:space="preserve">
+          <source>Default View</source>
+          <target state="new">Default View</target>
+        </trans-unit>
+        <trans-unit id="ParentTab.Help" translate="yes" xml:space="preserve">
+          <source>Selecting a page will display all child pages for that page. Leave this field blank to display all child pages for the current page.</source>
+          <target state="new">Selecting a page will display all child pages for that page. Leave this field blank to display all child pages for the current page.</target>
+        </trans-unit>
+        <trans-unit id="ParentTab.Text" translate="yes" xml:space="preserve">
+          <source>Show Children of</source>
+          <target state="new">Show Children of</target>
+        </trans-unit>
+        <trans-unit id="Hide.Text" translate="yes" xml:space="preserve">
+          <source>Simple View</source>
+          <target state="new">Simple View</target>
+        </trans-unit>
+        <trans-unit id="IconFile.Text" translate="yes" xml:space="preserve">
+          <source>Small Icons (16px)</source>
+          <target state="new">Small Icons (16px)</target>
+        </trans-unit>
+        <trans-unit id="IconFileLarge.Text" translate="yes" xml:space="preserve">
+          <source>Large Icons (32px)</source>
+          <target state="new">Large Icons (32px)</target>
+        </trans-unit>
+        <trans-unit id="Show.Text" translate="yes" xml:space="preserve">
+          <source>Detailed View</source>
+          <target state="new">Detailed View</target>
+        </trans-unit>
+        <trans-unit id="ShowTooltip.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to display a detailed description when hovering over icons in Simple View.</source>
+          <target state="new">Check this box to display a detailed description when hovering over icons in Simple View.</target>
+        </trans-unit>
+        <trans-unit id="ShowTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Show Tooltip</source>
+          <target state="new">Show Tooltip</target>
+        </trans-unit>
+        <trans-unit id="ConsoleWidth.Help" translate="yes" xml:space="preserve">
+          <source>Leave blank to allow the icons to expand horizontally or enter a pixel value to minimize the width of the console.  E.g. Enter set this value to 400 for 2 columns of icons.</source>
+          <target state="new">Leave blank to allow the icons to expand horizontally or enter a pixel value to minimize the width of the console.  E.g. Enter set this value to 400 for 2 columns of icons.</target>
+        </trans-unit>
+        <trans-unit id="ConsoleWidth.Text" translate="yes" xml:space="preserve">
+          <source>Width</source>
+          <target state="new">Width</target>
+        </trans-unit>
+        <trans-unit id="IncludeParent.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to include the parent page.</source>
+          <target state="new">Check this box to include the parent page.</target>
+        </trans-unit>
+        <trans-unit id="IncludeParent.Text" translate="yes" xml:space="preserve">
+          <source>Include Parent</source>
+          <target state="new">Include Parent</target>
+        </trans-unit>
+        <trans-unit id="Group.Text" translate="yes" xml:space="preserve">
+          <source>Group</source>
+          <target state="new">Group</target>
+        </trans-unit>
+        <trans-unit id="Normal.Text" translate="yes" xml:space="preserve">
+          <source>Normal</source>
+          <target state="new">Normal</target>
+        </trans-unit>
+        <trans-unit id="Profile.Text" translate="yes" xml:space="preserve">
+          <source>Profile</source>
+          <target state="new">Profile</target>
+        </trans-unit>
+        <trans-unit id="Mode.Help" translate="yes" xml:space="preserve">
+          <source>Select the mode of the module.</source>
+          <target state="new">Select the mode of the module.</target>
+        </trans-unit>
+        <trans-unit id="Mode.Text" translate="yes" xml:space="preserve">
+          <source>Mode</source>
+          <target state="new">Mode</target>
+        </trans-unit>
+        <trans-unit id="tabsLabel.Help" translate="yes" xml:space="preserve">
+          <source>You can manage the visibility of individual pages.</source>
+          <target state="new">You can manage the visibility of individual pages.</target>
+        </trans-unit>
+        <trans-unit id="tabsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Page Visibility Settings:</source>
+          <target state="new">Page Visibility Settings:</target>
+        </trans-unit>
+        <trans-unit id="Friends.Text" translate="yes" xml:space="preserve">
+          <source>Friends</source>
+          <target state="new">Friends</target>
+        </trans-unit>
+        <trans-unit id="User.Text" translate="yes" xml:space="preserve">
+          <source>User</source>
+          <target state="new">User</target>
+        </trans-unit>
+        <trans-unit id="IconNone.Text" translate="yes" xml:space="preserve">
+          <source>No Icons</source>
+          <target state="new">No Icons</target>
+        </trans-unit>
+        <trans-unit id="Members.Text" translate="yes" xml:space="preserve">
+          <source>Members</source>
+          <target state="new">Members</target>
+        </trans-unit>
+        <trans-unit id="Owner.Text" translate="yes" xml:space="preserve">
+          <source>Owner</source>
+          <target state="new">Owner</target>
+        </trans-unit>
+        <trans-unit id="OrderTabsByHierarchy.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to reorder the page list to display parent pages and their child pages at the end of list.  This allows parent and child pages to display in same area of the Console.  Alternatively, uncheck this box to display all pages in alphabetical order.</source>
+          <target state="new">Check this box to reorder the page list to display parent pages and their child pages at the end of list.  This allows parent and child pages to display in same area of the Console.  Alternatively, uncheck this box to display all pages in alphabetical order.</target>
+        </trans-unit>
+        <trans-unit id="OrderTabsByHierarchy.Text" translate="yes" xml:space="preserve">
+          <source>Order Items by Hierarchy</source>
+          <target state="new">Order Items by Hierarchy</target>
+        </trans-unit>
+        <trans-unit id="IncludeHiddenPages.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to include pages which are hidden in the menu.</source>
+          <target state="new">Check this box to include pages which are hidden in the menu.</target>
+        </trans-unit>
+        <trans-unit id="IncludeHiddenPages.Text" translate="yes" xml:space="preserve">
+          <source>Include Hidden Pages</source>
+          <target state="new">Include Hidden Pages</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

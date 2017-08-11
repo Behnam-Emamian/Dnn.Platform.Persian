@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="ViewConsole.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Click on an item to navigate to that page.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Click on an item to navigate to that page.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="Hide.Text" translate="yes" xml:space="preserve">
+          <source>Simple View</source>
+          <target state="new">Simple View</target>
+        </trans-unit>
+        <trans-unit id="IconFile.Text" translate="yes" xml:space="preserve">
+          <source>Small Icons</source>
+          <target state="new">Small Icons</target>
+        </trans-unit>
+        <trans-unit id="IconFileLarge.Text" translate="yes" xml:space="preserve">
+          <source>Large Icons</source>
+          <target state="new">Large Icons</target>
+        </trans-unit>
+        <trans-unit id="Show.Text" translate="yes" xml:space="preserve">
+          <source>Detailed View</source>
+          <target state="new">Detailed View</target>
+        </trans-unit>
+        <trans-unit id="IconNone.Text" translate="yes" xml:space="preserve">
+          <source>No Icons</source>
+          <target state="new">No Icons</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_.Text" translate="yes" xml:space="preserve">
+          <source>Basic Features</source>
+          <target state="new">Basic Features</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

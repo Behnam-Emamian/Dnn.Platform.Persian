@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="SharedResources.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="DefaultTemplate.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div id="UserProfile"&gt;</bpt>
+	<bpt id="2">&lt;img alt="Profile Avatar" class="ProfilePhoto" width="120" height="120" src="[PROFILE:PHOTO]"&gt;</bpt><ept id="2">&lt;/img&gt;</ept>
+	<bpt id="3">&lt;div class="ProfileAddress"&gt;</bpt>
+		<bpt id="4">&lt;div class="ProfileName"&gt;</bpt>[USER:DISPLAYNAME]<ept id="4">&lt;/div&gt;</ept>
+		<bpt id="5">&lt;div&gt;</bpt>[PROFILE:STREET]<ept id="5">&lt;/div&gt;</ept>
+		<bpt id="6">&lt;div&gt;</bpt>[PROFILE:CITY], [PROFILE:REGION]  [PROFILE:POSTALCODE]<ept id="6">&lt;/div&gt;</ept>
+		<bpt id="7">&lt;div&gt;</bpt>[PROFILE:COUNTRY]<ept id="7">&lt;/div&gt;</ept>
+	<ept id="3">&lt;/div&gt;</ept>
+	<bpt id="8">&lt;div class="ProfileContact"&gt;</bpt>[PROFILE:TELEPHONE] [PROFILE:WEBSITE] [PROFILE:IM]<ept id="8">&lt;/div&gt;</ept><bpt id="9">&lt;div style="clear:both;"&gt;</bpt><ept id="9">&lt;/div&gt;</ept>
+	<bpt id="10">&lt;div class="ProfileBio"&gt;</bpt>[PROFILE:BIOGRAPHY]<ept id="10">&lt;/div&gt;</ept>
+<ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div id="UserProfile"&gt;</bpt>
+	<bpt id="2">&lt;img alt="Profile Avatar" class="ProfilePhoto" width="120" height="120" src="[PROFILE:PHOTO]"&gt;</bpt><ept id="2">&lt;/img&gt;</ept>
+	<bpt id="3">&lt;div class="ProfileAddress"&gt;</bpt>
+		<bpt id="4">&lt;div class="ProfileName"&gt;</bpt>[USER:DISPLAYNAME]<ept id="4">&lt;/div&gt;</ept>
+		<bpt id="5">&lt;div&gt;</bpt>[PROFILE:STREET]<ept id="5">&lt;/div&gt;</ept>
+		<bpt id="6">&lt;div&gt;</bpt>[PROFILE:CITY], [PROFILE:REGION]  [PROFILE:POSTALCODE]<ept id="6">&lt;/div&gt;</ept>
+		<bpt id="7">&lt;div&gt;</bpt>[PROFILE:COUNTRY]<ept id="7">&lt;/div&gt;</ept>
+	<ept id="3">&lt;/div&gt;</ept>
+	<bpt id="8">&lt;div class="ProfileContact"&gt;</bpt>[PROFILE:TELEPHONE] [PROFILE:WEBSITE] [PROFILE:IM]<ept id="8">&lt;/div&gt;</ept><bpt id="9">&lt;div style="clear:both;"&gt;</bpt><ept id="9">&lt;/div&gt;</ept>
+	<bpt id="10">&lt;div class="ProfileBio"&gt;</bpt>[PROFILE:BIOGRAPHY]<ept id="10">&lt;/div&gt;</ept>
+<ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

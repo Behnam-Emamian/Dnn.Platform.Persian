@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="TextEditor.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="BasicTextBox.Text" translate="yes" xml:space="preserve">
+          <source>Basic Text Box</source>
+          <target state="new">Basic Text Box</target>
+        </trans-unit>
+        <trans-unit id="RichTextBox.Text" translate="yes" xml:space="preserve">
+          <source>Rich Text Editor</source>
+          <target state="new">Rich Text Editor</target>
+        </trans-unit>
+        <trans-unit id="Text.Text" translate="yes" xml:space="preserve">
+          <source>Text</source>
+          <target state="new">Text</target>
+        </trans-unit>
+        <trans-unit id="Html.Text" translate="yes" xml:space="preserve">
+          <source>HTML</source>
+          <target state="new">HTML</target>
+        </trans-unit>
+        <trans-unit id="Raw.Text" translate="yes" xml:space="preserve">
+          <source>Raw</source>
+          <target state="new">Raw</target>
+        </trans-unit>
+        <trans-unit id="plView.Help" translate="yes" xml:space="preserve">
+          <source>Select the editor to use.</source>
+          <target state="new">Select the editor to use.</target>
+        </trans-unit>
+        <trans-unit id="plView.Text" translate="yes" xml:space="preserve">
+          <source>Editor:</source>
+          <target state="new">Editor:</target>
+        </trans-unit>
+        <trans-unit id="plRender.Help" translate="yes" xml:space="preserve">
+          <source>Select the mode to use to render the HTML.</source>
+          <target state="new">Select the mode to use to render the HTML.</target>
+        </trans-unit>
+        <trans-unit id="plRender.Text" translate="yes" xml:space="preserve">
+          <source>Render Mode:</source>
+          <target state="new">Render Mode:</target>
+        </trans-unit>
+        <trans-unit id="CompareListDefaultOption.Text" translate="yes" xml:space="preserve">
+          <source>Compare</source>
+          <target state="new">Compare</target>
+        </trans-unit>
+        <trans-unit id="EditorTitleLabel.Text" translate="yes" xml:space="preserve">
+          <source>{0} Editor</source>
+          <target state="new">{0} Editor</target>
+        </trans-unit>
+        <trans-unit id="VersionLabel.Text" translate="yes" xml:space="preserve">
+          <source>Version {0}</source>
+          <target state="new">Version {0}</target>
+        </trans-unit>
+        <trans-unit id="VersionListDefaultOption.Text" translate="yes" xml:space="preserve">
+          <source>Version</source>
+          <target state="new">Version</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

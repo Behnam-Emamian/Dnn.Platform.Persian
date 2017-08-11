@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="CreateSettings.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="DefaultRoleGroup.Help" translate="yes" xml:space="preserve">
+          <source>Specify the role group where you would like new groups to be created.  This should be the same role group you have select for your main groups list.</source>
+          <target state="new">Specify the role group where you would like new groups to be created.  This should be the same role group you have select for your main groups list.</target>
+        </trans-unit>
+        <trans-unit id="GroupListPage.Help" translate="yes" xml:space="preserve">
+          <source>Select the page where users will view the list of groups.</source>
+          <target state="new">Select the page where users will view the list of groups.</target>
+        </trans-unit>
+        <trans-unit id="GroupModeration.Help" translate="yes" xml:space="preserve">
+          <source>Check this box if groups require Administrator approval before they are visible.</source>
+          <target state="new">Check this box if groups require Administrator approval before they are visible.</target>
+        </trans-unit>
+        <trans-unit id="GroupModeration.Text" translate="yes" xml:space="preserve">
+          <source>Groups Require Approval</source>
+          <target state="new">Groups Require Approval</target>
+        </trans-unit>
+        <trans-unit id="GroupViewPage.Help" translate="yes" xml:space="preserve">
+          <source>Select the page where users will go to view a particular group.  </source>
+          <target state="new">Select the page where users will go to view a particular group.  </target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

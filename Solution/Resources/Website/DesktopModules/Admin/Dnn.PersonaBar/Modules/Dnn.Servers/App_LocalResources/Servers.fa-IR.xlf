@@ -1,0 +1,686 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Servers.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="nav_Servers.Text" translate="yes" xml:space="preserve">
+          <source>Servers</source>
+          <target state="new">Servers</target>
+        </trans-unit>
+        <trans-unit id="Servers.Text" translate="yes" xml:space="preserve">
+          <source>Servers</source>
+          <target state="new">Servers</target>
+        </trans-unit>
+        <trans-unit id="tabApplicationTitle.Text" translate="yes" xml:space="preserve">
+          <source>Application</source>
+          <target state="new">Application</target>
+        </trans-unit>
+        <trans-unit id="tabDatabaseTitle.Text" translate="yes" xml:space="preserve">
+          <source>Database</source>
+          <target state="new">Database</target>
+        </trans-unit>
+        <trans-unit id="tabLogsTitle.Text" translate="yes" xml:space="preserve">
+          <source>Logs</source>
+          <target state="new">Logs</target>
+        </trans-unit>
+        <trans-unit id="tabPerformanceTitle.Text" translate="yes" xml:space="preserve">
+          <source>Performance</source>
+          <target state="new">Performance</target>
+        </trans-unit>
+        <trans-unit id="tabServerSettingsTitle.Text" translate="yes" xml:space="preserve">
+          <source>Server Settings</source>
+          <target state="new">Server Settings</target>
+        </trans-unit>
+        <trans-unit id="tabSmtpServerTitle.Text" translate="yes" xml:space="preserve">
+          <source>Smtp Server</source>
+          <target state="new">Smtp Server</target>
+        </trans-unit>
+        <trans-unit id="tabSystemInfoTitle.Text" translate="yes" xml:space="preserve">
+          <source>System Info</source>
+          <target state="new">System Info</target>
+        </trans-unit>
+        <trans-unit id="tabWebTitle.Text" translate="yes" xml:space="preserve">
+          <source>Web</source>
+          <target state="new">Web</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_Framework.Help" translate="yes" xml:space="preserve">
+          <source>The version of .NET.</source>
+          <target state="new">The version of .NET.</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_Framework.Text" translate="yes" xml:space="preserve">
+          <source>.NET Framework Version:</source>
+          <target state="new">.NET Framework Version:</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_HostName.Help" translate="yes" xml:space="preserve">
+          <source>The name of the Host computer.</source>
+          <target state="new">The name of the Host computer.</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_HostName.Text" translate="yes" xml:space="preserve">
+          <source>Host Name:</source>
+          <target state="new">Host Name:</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_Identity.Help" translate="yes" xml:space="preserve">
+          <source>The Windows user account under which the application is running.  This is the account which needs to be granted folder permissions on the server.</source>
+          <target state="new">The Windows user account under which the application is running.  This is the account which needs to be granted folder permissions on the server.</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_Identity.Text" translate="yes" xml:space="preserve">
+          <source>ASP.NET Identity:</source>
+          <target state="new">ASP.NET Identity:</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_IISVersion.Help" translate="yes" xml:space="preserve">
+          <source>The version of Internet Information Server (IIS).</source>
+          <target state="new">The version of Internet Information Server (IIS).</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_IISVersion.Text" translate="yes" xml:space="preserve">
+          <source>Web Server Version:</source>
+          <target state="new">Web Server Version:</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_OSVersion.Help" translate="yes" xml:space="preserve">
+          <source>The version of Windows on the server.</source>
+          <target state="new">The version of Windows on the server.</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_OSVersion.Text" translate="yes" xml:space="preserve">
+          <source>OS Version:</source>
+          <target state="new">OS Version:</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_PhysicalPath.Help" translate="yes" xml:space="preserve">
+          <source>The physical location of the site root on the server.</source>
+          <target state="new">The physical location of the site root on the server.</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_PhysicalPath.Text" translate="yes" xml:space="preserve">
+          <source>Physical Path:</source>
+          <target state="new">Physical Path:</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_RelativePath.Help" translate="yes" xml:space="preserve">
+          <source>The relative location of the application in relation to the root of the site.</source>
+          <target state="new">The relative location of the application in relation to the root of the site.</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_RelativePath.Text" translate="yes" xml:space="preserve">
+          <source>Relative Path:</source>
+          <target state="new">Relative Path:</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_ServerTime.Help" translate="yes" xml:space="preserve">
+          <source>The current date and time for the web server.</source>
+          <target state="new">The current date and time for the web server.</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_ServerTime.Text" translate="yes" xml:space="preserve">
+          <source>Server Time:</source>
+          <target state="new">Server Time:</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_Url.Help" translate="yes" xml:space="preserve">
+          <source>The principal URL for this site.</source>
+          <target state="new">The principal URL for this site.</target>
+        </trans-unit>
+        <trans-unit id="ServerInfo_Url.Text" translate="yes" xml:space="preserve">
+          <source>Site URL:</source>
+          <target state="new">Site URL:</target>
+        </trans-unit>
+        <trans-unit id="errorMessageLoadingWebTab.Text" translate="yes" xml:space="preserve">
+          <source>Error loading Web tab</source>
+          <target state="new">Error loading Web tab</target>
+        </trans-unit>
+        <trans-unit id="clearCacheButtonLabel.Text" translate="yes" xml:space="preserve">
+          <source>Clear Cache</source>
+          <target state="new">Clear Cache</target>
+        </trans-unit>
+        <trans-unit id="errorMessageClearingCache.Text" translate="yes" xml:space="preserve">
+          <source>Error trying to Clear Cache</source>
+          <target state="new">Error trying to Clear Cache</target>
+        </trans-unit>
+        <trans-unit id="errorMessageLoadingApplicationTab.Text" translate="yes" xml:space="preserve">
+          <source>Error loading Application tab</source>
+          <target state="new">Error loading Application tab</target>
+        </trans-unit>
+        <trans-unit id="errorMessageRestartingApplication.Text" translate="yes" xml:space="preserve">
+          <source>Error trying to Restart Application</source>
+          <target state="new">Error trying to Restart Application</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_CachingProvider.Help" translate="yes" xml:space="preserve">
+          <source>The default caching provider for the site.</source>
+          <target state="new">The default caching provider for the site.</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_CachingProvider.Text" translate="yes" xml:space="preserve">
+          <source>Caching Provider:</source>
+          <target state="new">Caching Provider:</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_FriendlyUrlEnabled.Help" translate="yes" xml:space="preserve">
+          <source>Displays whether Friendly URLs are enabled for the site.</source>
+          <target state="new">Displays whether Friendly URLs are enabled for the site.</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_FriendlyUrlEnabled.Text" translate="yes" xml:space="preserve">
+          <source>Friendly URLs Enabled:</source>
+          <target state="new">Friendly URLs Enabled:</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_FriendlyUrlProvider.Help" translate="yes" xml:space="preserve">
+          <source>The default Friendly URL provider for the site.</source>
+          <target state="new">The default Friendly URL provider for the site.</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_FriendlyUrlProvider.Text" translate="yes" xml:space="preserve">
+          <source>Friendly URL Provider:</source>
+          <target state="new">Friendly URL Provider:</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_FriendlyUrlType.Help" translate="yes" xml:space="preserve">
+          <source>Displays the type of Friendly URLs used for the site.</source>
+          <target state="new">Displays the type of Friendly URLs used for the site.</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_FriendlyUrlType.Text" translate="yes" xml:space="preserve">
+          <source>Friendly URL Type:</source>
+          <target state="new">Friendly URL Type:</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_HtmlEditorProvider.Help" translate="yes" xml:space="preserve">
+          <source>The default HTML Editor provider for the site.</source>
+          <target state="new">The default HTML Editor provider for the site.</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_HtmlEditorProvider.Text" translate="yes" xml:space="preserve">
+          <source>HTML Editor Provider:</source>
+          <target state="new">HTML Editor Provider:</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_LoggingProvider.Help" translate="yes" xml:space="preserve">
+          <source>The default logging provider for the site.</source>
+          <target state="new">The default logging provider for the site.</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_LoggingProvider.Text" translate="yes" xml:space="preserve">
+          <source>Logging Provider:</source>
+          <target state="new">Logging Provider:</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_Permissions.Help" translate="yes" xml:space="preserve">
+          <source>The Code Access Security (CAS) Permissions available for this site.</source>
+          <target state="new">The Code Access Security (CAS) Permissions available for this site.</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_Permissions.Text" translate="yes" xml:space="preserve">
+          <source>CAS Permissions:</source>
+          <target state="new">CAS Permissions:</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_SchedulerMode.Help" translate="yes" xml:space="preserve">
+          <source>The mode set for the Schedule. The Timer Method maintains a separate thread to execute scheduled tasks while the worker process is alive.  Alternatively, the Request Method executes tasks when HTTP Requests are made.  The scheduler can also be disabled.</source>
+          <target state="new">The mode set for the Schedule. The Timer Method maintains a separate thread to execute scheduled tasks while the worker process is alive.  Alternatively, the Request Method executes tasks when HTTP Requests are made.  The scheduler can also be disabled.</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_SchedulerMode.Text" translate="yes" xml:space="preserve">
+          <source>Scheduler Mode:</source>
+          <target state="new">Scheduler Mode:</target>
+        </trans-unit>
+        <trans-unit id="HostInfo_WebFarmEnabled.Help" translate="yes" xml:space="preserve">
+          <source>Indicates whether the site operates in Web Farm mode. </source>
+          <target state="new">Indicates whether the site operates in Web Farm mode. </target>
+        </trans-unit>
+        <trans-unit id="HostInfo_WebFarmEnabled.Text" translate="yes" xml:space="preserve">
+          <source>Web Farm Enabled:</source>
+          <target state="new">Web Farm Enabled:</target>
+        </trans-unit>
+        <trans-unit id="infoMessageClearingCache.Text" translate="yes" xml:space="preserve">
+          <source>Clearing Cache</source>
+          <target state="new">Clearing Cache</target>
+        </trans-unit>
+        <trans-unit id="infoMessageRestartingApplication.Text" translate="yes" xml:space="preserve">
+          <source>Restarting Application</source>
+          <target state="new">Restarting Application</target>
+        </trans-unit>
+        <trans-unit id="plDataProvider.Help" translate="yes" xml:space="preserve">
+          <source>The default data provider for this application.</source>
+          <target state="new">The default data provider for this application.</target>
+        </trans-unit>
+        <trans-unit id="plDataProvider.Text" translate="yes" xml:space="preserve">
+          <source>Data Provider:</source>
+          <target state="new">Data Provider:</target>
+        </trans-unit>
+        <trans-unit id="plGUID.Help" translate="yes" xml:space="preserve">
+          <source>The globally unique identifier which can be used to identify this application.</source>
+          <target state="new">The globally unique identifier which can be used to identify this application.</target>
+        </trans-unit>
+        <trans-unit id="plGUID.Text" translate="yes" xml:space="preserve">
+          <source>Host GUID:</source>
+          <target state="new">Host GUID:</target>
+        </trans-unit>
+        <trans-unit id="plProduct.Help" translate="yes" xml:space="preserve">
+          <source>The application you are running</source>
+          <target state="new">The application you are running</target>
+        </trans-unit>
+        <trans-unit id="plProduct.Text" translate="yes" xml:space="preserve">
+          <source>Product:</source>
+          <target state="new">Product:</target>
+        </trans-unit>
+        <trans-unit id="plVersion.Help" translate="yes" xml:space="preserve">
+          <source>The version of this application.</source>
+          <target state="new">The version of this application.</target>
+        </trans-unit>
+        <trans-unit id="plVersion.Text" translate="yes" xml:space="preserve">
+          <source>Version:</source>
+          <target state="new">Version:</target>
+        </trans-unit>
+        <trans-unit id="restartApplicationButtonLabel.Text" translate="yes" xml:space="preserve">
+          <source>Restart Application</source>
+          <target state="new">Restart Application</target>
+        </trans-unit>
+        <trans-unit id="UserRestart.Text" translate="yes" xml:space="preserve">
+          <source>User triggered an Application Restart</source>
+          <target state="new">User triggered an Application Restart</target>
+        </trans-unit>
+        <trans-unit id="DbInfo_ProductEdition.Help" translate="yes" xml:space="preserve">
+          <source>The edition of SQL Server installed.</source>
+          <target state="new">The edition of SQL Server installed.</target>
+        </trans-unit>
+        <trans-unit id="DbInfo_ProductEdition.Text" translate="yes" xml:space="preserve">
+          <source>Product Edition:</source>
+          <target state="new">Product Edition:</target>
+        </trans-unit>
+        <trans-unit id="DbInfo_ProductVersion.Help" translate="yes" xml:space="preserve">
+          <source>The version of SQL Server</source>
+          <target state="new">The version of SQL Server</target>
+        </trans-unit>
+        <trans-unit id="DbInfo_ProductVersion.Text" translate="yes" xml:space="preserve">
+          <source>Database Version:</source>
+          <target state="new">Database Version:</target>
+        </trans-unit>
+        <trans-unit id="DbInfo_ServicePack.Help" translate="yes" xml:space="preserve">
+          <source>Installed service pack(s).</source>
+          <target state="new">Installed service pack(s).</target>
+        </trans-unit>
+        <trans-unit id="DbInfo_ServicePack.Text" translate="yes" xml:space="preserve">
+          <source>Service Pack:</source>
+          <target state="new">Service Pack:</target>
+        </trans-unit>
+        <trans-unit id="DbInfo_SoftwarePlatform.Help" translate="yes" xml:space="preserve">
+          <source>The full description of the SQL Server Software Platform installed.</source>
+          <target state="new">The full description of the SQL Server Software Platform installed.</target>
+        </trans-unit>
+        <trans-unit id="DbInfo_SoftwarePlatform.Text" translate="yes" xml:space="preserve">
+          <source>Software Platform:</source>
+          <target state="new">Software Platform:</target>
+        </trans-unit>
+        <trans-unit id="errorMessageLoadingDatabaseTab.Text" translate="yes" xml:space="preserve">
+          <source>Error loading Database tab</source>
+          <target state="new">Error loading Database tab</target>
+        </trans-unit>
+        <trans-unit id="BackupFinished.Text" translate="yes" xml:space="preserve">
+          <source>Finished</source>
+          <target state="new">Finished</target>
+        </trans-unit>
+        <trans-unit id="BackupName.Text" translate="yes" xml:space="preserve">
+          <source> Backup Name</source>
+          <target state="new"> Backup Name</target>
+        </trans-unit>
+        <trans-unit id="BackupSize.Text" translate="yes" xml:space="preserve">
+          <source>Size (Kb)</source>
+          <target state="new">Size (Kb)</target>
+        </trans-unit>
+        <trans-unit id="BackupStarted.Text" translate="yes" xml:space="preserve">
+          <source>Started</source>
+          <target state="new">Started</target>
+        </trans-unit>
+        <trans-unit id="BackupType.Text" translate="yes" xml:space="preserve">
+          <source>Backup Type</source>
+          <target state="new">Backup Type</target>
+        </trans-unit>
+        <trans-unit id="FileName.Text" translate="yes" xml:space="preserve">
+          <source>File Name</source>
+          <target state="new">File Name</target>
+        </trans-unit>
+        <trans-unit id="FileType.Text" translate="yes" xml:space="preserve">
+          <source>File Type</source>
+          <target state="new">File Type</target>
+        </trans-unit>
+        <trans-unit id="Name.Text" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="NoBackups.Text" translate="yes" xml:space="preserve">
+          <source>This database has not been backed up.</source>
+          <target state="new">This database has not been backed up.</target>
+        </trans-unit>
+        <trans-unit id="plBackups.Text" translate="yes" xml:space="preserve">
+          <source>Database Backup History:</source>
+          <target state="new">Database Backup History:</target>
+        </trans-unit>
+        <trans-unit id="plFiles.Text" translate="yes" xml:space="preserve">
+          <source>Database Files:</source>
+          <target state="new">Database Files:</target>
+        </trans-unit>
+        <trans-unit id="Size.Text" translate="yes" xml:space="preserve">
+          <source>Size</source>
+          <target state="new">Size</target>
+        </trans-unit>
+        <trans-unit id="EmailTest.Text" translate="yes" xml:space="preserve">
+          <source>Test SMTP Settings</source>
+          <target state="new">Test SMTP Settings</target>
+        </trans-unit>
+        <trans-unit id="errorMessageLoadingSmtpServerTab.Text" translate="yes" xml:space="preserve">
+          <source>Error loading Smtp Server tab</source>
+          <target state="new">Error loading Smtp Server tab</target>
+        </trans-unit>
+        <trans-unit id="GlobalSettings.Text" translate="yes" xml:space="preserve">
+          <source>These are global settings. Changes to the settings will affect all of your sites.</source>
+          <target state="new">These are global settings. Changes to the settings will affect all of your sites.</target>
+        </trans-unit>
+        <trans-unit id="GlobalSmtpHostSetting.Text" translate="yes" xml:space="preserve">
+          <source>Global</source>
+          <target state="new">Global</target>
+        </trans-unit>
+        <trans-unit id="plBatch.Help" translate="yes" xml:space="preserve">
+          <source>The number of messages sent by the messaging scheduler in each batch.</source>
+          <target state="new">The number of messages sent by the messaging scheduler in each batch.</target>
+        </trans-unit>
+        <trans-unit id="plBatch.Text" translate="yes" xml:space="preserve">
+          <source>Number of messages sent in each batch:</source>
+          <target state="new">Number of messages sent in each batch:</target>
+        </trans-unit>
+        <trans-unit id="plConnectionLimit.Help" translate="yes" xml:space="preserve">
+          <source>The maximum number of connections allowed on this ServicePoint object. Max value is 2147483647. Default is 1.</source>
+          <target state="new">The maximum number of connections allowed on this ServicePoint object. Max value is 2147483647. Default is 1.</target>
+        </trans-unit>
+        <trans-unit id="plConnectionLimit.Text" translate="yes" xml:space="preserve">
+          <source>Connection Limit:</source>
+          <target state="new">Connection Limit:</target>
+        </trans-unit>
+        <trans-unit id="plMaxIdleTime.Help" translate="yes" xml:space="preserve">
+          <source>The length of time, in milliseconds, that a connection associated with the ServicePoint object can remain idle before it is closed and reused for another connection. Max value is 2147483647. Default is 0.</source>
+          <target state="new">The length of time, in milliseconds, that a connection associated with the ServicePoint object can remain idle before it is closed and reused for another connection. Max value is 2147483647. Default is 0.</target>
+        </trans-unit>
+        <trans-unit id="plMaxIdleTime.Text" translate="yes" xml:space="preserve">
+          <source>Max Idle Time:</source>
+          <target state="new">Max Idle Time:</target>
+        </trans-unit>
+        <trans-unit id="plSMTPAuthentication.Help" translate="yes" xml:space="preserve">
+          <source>Enter the SMTP server authentication method. Default is Anonymous.</source>
+          <target state="new">Enter the SMTP server authentication method. Default is Anonymous.</target>
+        </trans-unit>
+        <trans-unit id="plSMTPAuthentication.Text" translate="yes" xml:space="preserve">
+          <source>SMTP Authentication:</source>
+          <target state="new">SMTP Authentication:</target>
+        </trans-unit>
+        <trans-unit id="plSMTPEnableSSL.Help" translate="yes" xml:space="preserve">
+          <source>Used for SMTP services that require secure connection. This setting is typically not required.</source>
+          <target state="new">Used for SMTP services that require secure connection. This setting is typically not required.</target>
+        </trans-unit>
+        <trans-unit id="plSMTPEnableSSL.Text" translate="yes" xml:space="preserve">
+          <source>SMTP Enable SSL:</source>
+          <target state="new">SMTP Enable SSL:</target>
+        </trans-unit>
+        <trans-unit id="plSMTPMode.Help" translate="yes" xml:space="preserve">
+          <source>Host mode utilizes all SMTP settings set at the application level. Site level allows you to select your own SMTP server, port and authentication method.</source>
+          <target state="new">Host mode utilizes all SMTP settings set at the application level. Site level allows you to select your own SMTP server, port and authentication method.</target>
+        </trans-unit>
+        <trans-unit id="plSMTPMode.Text" translate="yes" xml:space="preserve">
+          <source>SMTP Server Mode:</source>
+          <target state="new">SMTP Server Mode:</target>
+        </trans-unit>
+        <trans-unit id="plSMTPPassword.Help" translate="yes" xml:space="preserve">
+          <source>Enter the password for the SMTP server.</source>
+          <target state="new">Enter the password for the SMTP server.</target>
+        </trans-unit>
+        <trans-unit id="plSMTPPassword.Text" translate="yes" xml:space="preserve">
+          <source>SMTP Password:</source>
+          <target state="new">SMTP Password:</target>
+        </trans-unit>
+        <trans-unit id="plSMTPServer.Help" translate="yes" xml:space="preserve">
+          <source>Please enter the name (address) and port of the SMTP server to be used for sending mails from this site.</source>
+          <target state="new">Please enter the name (address) and port of the SMTP server to be used for sending mails from this site.</target>
+        </trans-unit>
+        <trans-unit id="plSMTPServer.Text" translate="yes" xml:space="preserve">
+          <source>SMTP Server and port:</source>
+          <target state="new">SMTP Server and port:</target>
+        </trans-unit>
+        <trans-unit id="plSMTPUsername.Help" translate="yes" xml:space="preserve">
+          <source>Enter the user name for the SMTP server.</source>
+          <target state="new">Enter the user name for the SMTP server.</target>
+        </trans-unit>
+        <trans-unit id="plSMTPUsername.Text" translate="yes" xml:space="preserve">
+          <source>SMTP Username:</source>
+          <target state="new">SMTP Username:</target>
+        </trans-unit>
+        <trans-unit id="SaveButtonText.Text" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="SiteSmtpHostSetting.Text" translate="yes" xml:space="preserve">
+          <source>{0}</source>
+          <target state="new">{0}</target>
+        </trans-unit>
+        <trans-unit id="SMTPAnonymous.Text" translate="yes" xml:space="preserve">
+          <source>Anonymous</source>
+          <target state="new">Anonymous</target>
+        </trans-unit>
+        <trans-unit id="SMTPBasic.Text" translate="yes" xml:space="preserve">
+          <source>Basic</source>
+          <target state="new">Basic</target>
+        </trans-unit>
+        <trans-unit id="SMTPNTLM.Text" translate="yes" xml:space="preserve">
+          <source>NTLM</source>
+          <target state="new">NTLM</target>
+        </trans-unit>
+        <trans-unit id="errorMessageLoadingLog.Text" translate="yes" xml:space="preserve">
+          <source>Error loading log.</source>
+          <target state="new">Error loading log.</target>
+        </trans-unit>
+        <trans-unit id="errorMessageLoadingLogsTab.Text" translate="yes" xml:space="preserve">
+          <source>Error loading Logs Tab</source>
+          <target state="new">Error loading Logs Tab</target>
+        </trans-unit>
+        <trans-unit id="Logs_LogFiles.Text" translate="yes" xml:space="preserve">
+          <source>Log Files:</source>
+          <target state="new">Log Files:</target>
+        </trans-unit>
+        <trans-unit id="Logs_LogFilesDefaultOption.Text" translate="yes" xml:space="preserve">
+          <source>Please select a log file to view</source>
+          <target state="new">Please select a log file to view</target>
+        </trans-unit>
+        <trans-unit id="Logs_LogFilesTooltip.Text" translate="yes" xml:space="preserve">
+          <source>List of log files available to view.</source>
+          <target state="new">List of log files available to view.</target>
+        </trans-unit>
+        <trans-unit id="errorMessageUpdatingSmtpServerTab.Text" translate="yes" xml:space="preserve">
+          <source>Error updating Smtp Server settings</source>
+          <target state="new">Error updating Smtp Server settings</target>
+        </trans-unit>
+        <trans-unit id="errorMessageLoadingPerformanceTab.Text" translate="yes" xml:space="preserve">
+          <source>Error loading Performance Tab</source>
+          <target state="new">Error loading Performance Tab</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_CacheSetting.Help" translate="yes" xml:space="preserve">
+          <source>Select how to optimize performance.</source>
+          <target state="new">Select how to optimize performance.</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_CacheSetting.Text" translate="yes" xml:space="preserve">
+          <source>Cache Setting</source>
+          <target state="new">Cache Setting</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_Heavy.Text" translate="yes" xml:space="preserve">
+          <source>Heavy</source>
+          <target state="new">Heavy</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_Light.Text" translate="yes" xml:space="preserve">
+          <source>Light</source>
+          <target state="new">Light</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_Memory.Text" translate="yes" xml:space="preserve">
+          <source>Memory</source>
+          <target state="new">Memory</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_Moderate.Text" translate="yes" xml:space="preserve">
+          <source>Moderate</source>
+          <target state="new">Moderate</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_None.Text" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <target state="new">None</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_Page.Text" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target state="new">Page</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_PageStatePersistenceMode.Help" translate="yes" xml:space="preserve">
+          <source>Select the mode to use to persist a page's state. This can either be a hidden field on the Page (Default) or in Memory (Cache).</source>
+          <target state="new">Select the mode to use to persist a page's state. This can either be a hidden field on the Page (Default) or in Memory (Cache).</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_PageStatePersistenceMode.Text" translate="yes" xml:space="preserve">
+          <source>Page State Persistence:</source>
+          <target state="new">Page State Persistence:</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_AuthCacheability.Help" translate="yes" xml:space="preserve">
+          <source>Sets the Cache-Control HTTP header value for authenticated users.</source>
+          <target state="new">Sets the Cache-Control HTTP header value for authenticated users.</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_AuthCacheability.Text" translate="yes" xml:space="preserve">
+          <source>Authenticated Cacheability</source>
+          <target state="new">Authenticated Cacheability</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_CachingProvider.Help" translate="yes" xml:space="preserve">
+          <source>Caching Provider</source>
+          <target state="new">Caching Provider</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_CachingProvider.Text" translate="yes" xml:space="preserve">
+          <source>Caching Provider</source>
+          <target state="new">Caching Provider</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_ClientResourceManagementInfo.Text" translate="yes" xml:space="preserve">
+          <source>The Super User dictates the default Client Resource Management behavior, but if you choose to do so, you may configure your site to behave differently. The host-level settings are currently set as follows:</source>
+          <target state="new">The Super User dictates the default Client Resource Management behavior, but if you choose to do so, you may configure your site to behave differently. The host-level settings are currently set as follows:</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_ClientResourceManagementTitle.Text" translate="yes" xml:space="preserve">
+          <source>Client Resource Management</source>
+          <target state="new">Client Resource Management</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_ClientResourcesManagementMode.Help" translate="yes" xml:space="preserve">
+          <source>Host mode utilizes all Client Resources Management settings set at the application level. Site level allows you to select your own Client Resources Management settings.</source>
+          <target state="new">Host mode utilizes all Client Resources Management settings set at the application level. Site level allows you to select your own Client Resources Management settings.</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_ClientResourcesManagementMode.Text" translate="yes" xml:space="preserve">
+          <source>Client Resources Management Mode</source>
+          <target state="new">Client Resources Management Mode</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_CurrentHostVersion.Text" translate="yes" xml:space="preserve">
+          <source>Current Host Version:</source>
+          <target state="new">Current Host Version:</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_EnableCompositeFiles.Help" translate="yes" xml:space="preserve">
+          <source>Composite files are combinations of resources (JavaScript and CSS) created to reduce the number of file requests by the browser. This will significantly increase the page loading speed.</source>
+          <target state="new">Composite files are combinations of resources (JavaScript and CSS) created to reduce the number of file requests by the browser. This will significantly increase the page loading speed.</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_EnableCompositeFiles.Text" translate="yes" xml:space="preserve">
+          <source>Enable Composite Files</source>
+          <target state="new">Enable Composite Files</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_GlobalClientResourcesManagementMode.Text" translate="yes" xml:space="preserve">
+          <source>Global</source>
+          <target state="new">Global</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_IncrementVersion.Text" translate="yes" xml:space="preserve">
+          <source>Increment Version</source>
+          <target state="new">Increment Version</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_MinifyCss.Help" translate="yes" xml:space="preserve">
+          <source>CSS minification will reduce the size of the CSS code by using regular expressions to remove comments, whitespace and "dead CSS". It is only available when composite files are enabled.</source>
+          <target state="new">CSS minification will reduce the size of the CSS code by using regular expressions to remove comments, whitespace and "dead CSS". It is only available when composite files are enabled.</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_MinifyCss.Text" translate="yes" xml:space="preserve">
+          <source>Minify CSS</source>
+          <target state="new">Minify CSS</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_MinifyJs.Help" translate="yes" xml:space="preserve">
+          <source>JS minification will reduce the size of the JavaScript code using JSMin. It is only available when composite files are enabled.</source>
+          <target state="new">JS minification will reduce the size of the JavaScript code using JSMin. It is only available when composite files are enabled.</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_MinifyJs.Text" translate="yes" xml:space="preserve">
+          <source>Minify JS</source>
+          <target state="new">Minify JS</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_ModuleCacheProviders.Help" translate="yes" xml:space="preserve">
+          <source>Select the default module caching provider. This setting can be overridden by each individual module.</source>
+          <target state="new">Select the default module caching provider. This setting can be overridden by each individual module.</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_ModuleCacheProviders.Text" translate="yes" xml:space="preserve">
+          <source>Module Cache Provider</source>
+          <target state="new">Module Cache Provider</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_PageCacheProviders.Help" translate="yes" xml:space="preserve">
+          <source>Select the default Page Caching Provider. The caching provider must be enabled by setting the cache timeout on each page.</source>
+          <target state="new">Select the default Page Caching Provider. The caching provider must be enabled by setting the cache timeout on each page.</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_PageCacheProviders.Text" translate="yes" xml:space="preserve">
+          <source>Page Output Cache Provider</source>
+          <target state="new">Page Output Cache Provider</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_SiteClientResourcesManagementMode.Text" translate="yes" xml:space="preserve">
+          <source>My Website {0}</source>
+          <target state="new">My Website {0}</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_SslForCacheSyncrhonization.Help" translate="yes" xml:space="preserve">
+          <source>By default, cache synchronization will happen over http. To use SSL for cache synchronization messages, please check this.</source>
+          <target state="new">By default, cache synchronization will happen over http. To use SSL for cache synchronization messages, please check this.</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_SslForCacheSyncrhonization.Text" translate="yes" xml:space="preserve">
+          <source>SSL for Cache Synchronization</source>
+          <target state="new">SSL for Cache Synchronization</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_UnauthCacheability.Help" translate="yes" xml:space="preserve">
+          <source>Sets the Cache-Control HTTP header value for unauthenticated users.</source>
+          <target state="new">Sets the Cache-Control HTTP header value for unauthenticated users.</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_UnauthCacheability.Text" translate="yes" xml:space="preserve">
+          <source>Unauthenticated Cacheability</source>
+          <target state="new">Unauthenticated Cacheability</target>
+        </trans-unit>
+        <trans-unit id="EmailSentMessage.Text" translate="yes" xml:space="preserve">
+          <source>Email sent successfully from {0} to {1}</source>
+          <target state="new">Email sent successfully from {0} to {1}</target>
+        </trans-unit>
+        <trans-unit id="errorMessageSendingTestEmail.Text" translate="yes" xml:space="preserve">
+          <source>There has been an error trying to send the test email</source>
+          <target state="new">There has been an error trying to send the test email</target>
+        </trans-unit>
+        <trans-unit id="NoIntegerValueError.Text" translate="yes" xml:space="preserve">
+          <source>Must be a positive integer value.</source>
+          <target state="new">Must be a positive integer value.</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_CurrentPortalVersion.Text" translate="yes" xml:space="preserve">
+          <source>Site Version:</source>
+          <target state="new">Site Version:</target>
+        </trans-unit>
+        <trans-unit id="errorMessageIncrementingVersion.Text" translate="yes" xml:space="preserve">
+          <source>Error incrementing the version number.</source>
+          <target state="new">Error incrementing the version number.</target>
+        </trans-unit>
+        <trans-unit id="errorMessageSavingPerformanceSettingsTab.Text" translate="yes" xml:space="preserve">
+          <source>Error saving performance settings</source>
+          <target state="new">Error saving performance settings</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_AjaxWarning.Text" translate="yes" xml:space="preserve">
+          <source>Warning: Memory page state persistence can cause Ajax issues.</source>
+          <target state="new">Warning: Memory page state persistence can cause Ajax issues.</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_MinifactionWarning.Text" translate="yes" xml:space="preserve">
+          <source>Important note regarding minification settings.&lt;br/&gt;
+If minification settings are changed when composite files are enabled, you must first save the minification settings by clicking Save and then increment the version number. This will issue new composite files using the new minification settings.</source>
+          <target state="new">Important note regarding minification settings.&lt;br/&gt;
+If minification settings are changed when composite files are enabled, you must first save the minification settings by clicking Save and then increment the version number. This will issue new composite files using the new minification settings.</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_PortalVersionConfirmMessage.Text" translate="yes" xml:space="preserve">
+          <source>This action will force all site visitors to download new versions of CSS and JavaScript files. You should only do this if you are certain that the files have changed and you want those changes to be reflected on the client's browser.
+
+Are you sure you want to increment the version number for your site?</source>
+          <target state="new">This action will force all site visitors to download new versions of CSS and JavaScript files. You should only do this if you are certain that the files have changed and you want those changes to be reflected on the client's browser.
+
+Are you sure you want to increment the version number for your site?</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_PortalVersionConfirmNo.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="PerformanceTab_PortalVersionConfirmYes.Text" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="SaveConfirmationMessage.Text" translate="yes" xml:space="preserve">
+          <source>Saved successfully</source>
+          <target state="new">Saved successfully</target>
+        </trans-unit>
+        <trans-unit id="VersionIncrementedConfirmation.Text" translate="yes" xml:space="preserve">
+          <source>Version incremented successfully</source>
+          <target state="new">Version incremented successfully</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

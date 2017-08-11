@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Address.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="plState.Text" translate="yes" xml:space="preserve">
+          <source>State:</source>
+          <target state="new">State:</target>
+        </trans-unit>
+        <trans-unit id="plProvince.Text" translate="yes" xml:space="preserve">
+          <source>Province:</source>
+          <target state="new">Province:</target>
+        </trans-unit>
+        <trans-unit id="plStreet.Text" translate="yes" xml:space="preserve">
+          <source>Street:</source>
+          <target state="new">Street:</target>
+        </trans-unit>
+        <trans-unit id="plStreet.Help" translate="yes" xml:space="preserve">
+          <source>Enter the street part of your address. E.g. 1 Main Street.</source>
+          <target state="new">Enter the street part of your address. E.g. 1 Main Street.</target>
+        </trans-unit>
+        <trans-unit id="plUnit.Text" translate="yes" xml:space="preserve">
+          <source>Unit #:</source>
+          <target state="new">Unit #:</target>
+        </trans-unit>
+        <trans-unit id="plUnit.Help" translate="yes" xml:space="preserve">
+          <source>Enter the unit or apartment number.</source>
+          <target state="new">Enter the unit or apartment number.</target>
+        </trans-unit>
+        <trans-unit id="plCity.Text" translate="yes" xml:space="preserve">
+          <source>City:</source>
+          <target state="new">City:</target>
+        </trans-unit>
+        <trans-unit id="plCity.Help" translate="yes" xml:space="preserve">
+          <source>Enter the city.</source>
+          <target state="new">Enter the city.</target>
+        </trans-unit>
+        <trans-unit id="plCountry.Text" translate="yes" xml:space="preserve">
+          <source>Country:</source>
+          <target state="new">Country:</target>
+        </trans-unit>
+        <trans-unit id="plCountry.Help" translate="yes" xml:space="preserve">
+          <source>Enter the country.</source>
+          <target state="new">Enter the country.</target>
+        </trans-unit>
+        <trans-unit id="StreetRequired.Text" translate="yes" xml:space="preserve">
+          <source>Street is required.</source>
+          <target state="new">Street is required.</target>
+        </trans-unit>
+        <trans-unit id="CityRequired.Text" translate="yes" xml:space="preserve">
+          <source>City is required.</source>
+          <target state="new">City is required.</target>
+        </trans-unit>
+        <trans-unit id="CountryRequired.Text" translate="yes" xml:space="preserve">
+          <source>Country is required.</source>
+          <target state="new">Country is required.</target>
+        </trans-unit>
+        <trans-unit id="plState.Help" translate="yes" xml:space="preserve">
+          <source>Select the state from the list.</source>
+          <target state="new">Select the state from the list.</target>
+        </trans-unit>
+        <trans-unit id="plProvince.Help" translate="yes" xml:space="preserve">
+          <source>Select the province from the list.</source>
+          <target state="new">Select the province from the list.</target>
+        </trans-unit>
+        <trans-unit id="StateRequired.Text" translate="yes" xml:space="preserve">
+          <source>State is required.</source>
+          <target state="new">State is required.</target>
+        </trans-unit>
+        <trans-unit id="ProvinceRequired.Text" translate="yes" xml:space="preserve">
+          <source>Province is required.</source>
+          <target state="new">Province is required.</target>
+        </trans-unit>
+        <trans-unit id="RegionRequired.Text" translate="yes" xml:space="preserve">
+          <source>Region is required.</source>
+          <target state="new">Region is required.</target>
+        </trans-unit>
+        <trans-unit id="plRegion.Text" translate="yes" xml:space="preserve">
+          <source>Region:</source>
+          <target state="new">Region:</target>
+        </trans-unit>
+        <trans-unit id="plRegion.Help" translate="yes" xml:space="preserve">
+          <source>Enter the region.</source>
+          <target state="new">Enter the region.</target>
+        </trans-unit>
+        <trans-unit id="plPostal.Text" translate="yes" xml:space="preserve">
+          <source>Postal Code:</source>
+          <target state="new">Postal Code:</target>
+        </trans-unit>
+        <trans-unit id="plPostal.Help" translate="yes" xml:space="preserve">
+          <source>Enter the postal code.</source>
+          <target state="new">Enter the postal code.</target>
+        </trans-unit>
+        <trans-unit id="plZip.Text" translate="yes" xml:space="preserve">
+          <source>ZIP Code:</source>
+          <target state="new">ZIP Code:</target>
+        </trans-unit>
+        <trans-unit id="plZip.Help" translate="yes" xml:space="preserve">
+          <source>Enter the ZIP code.</source>
+          <target state="new">Enter the ZIP code.</target>
+        </trans-unit>
+        <trans-unit id="PostalRequired.Text" translate="yes" xml:space="preserve">
+          <source>Postal code is required.</source>
+          <target state="new">Postal code is required.</target>
+        </trans-unit>
+        <trans-unit id="plTelephone.Text" translate="yes" xml:space="preserve">
+          <source>Telephone:</source>
+          <target state="new">Telephone:</target>
+        </trans-unit>
+        <trans-unit id="plTelephone.Help" translate="yes" xml:space="preserve">
+          <source>Enter the telephone number.</source>
+          <target state="new">Enter the telephone number.</target>
+        </trans-unit>
+        <trans-unit id="TelephoneRequired.Text" translate="yes" xml:space="preserve">
+          <source>Telephone number is required.</source>
+          <target state="new">Telephone number is required.</target>
+        </trans-unit>
+        <trans-unit id="plCell.Text" translate="yes" xml:space="preserve">
+          <source>Cell:</source>
+          <target state="new">Cell:</target>
+        </trans-unit>
+        <trans-unit id="plCell.Help" translate="yes" xml:space="preserve">
+          <source>Enter the cell phone number.</source>
+          <target state="new">Enter the cell phone number.</target>
+        </trans-unit>
+        <trans-unit id="CellRequired.Text" translate="yes" xml:space="preserve">
+          <source>Cell phone number is required.</source>
+          <target state="new">Cell phone number is required.</target>
+        </trans-unit>
+        <trans-unit id="plFax.Text" translate="yes" xml:space="preserve">
+          <source>Fax:</source>
+          <target state="new">Fax:</target>
+        </trans-unit>
+        <trans-unit id="plFax.Help" translate="yes" xml:space="preserve">
+          <source>Enter the fax number.</source>
+          <target state="new">Enter the fax number.</target>
+        </trans-unit>
+        <trans-unit id="FaxRequired.Text" translate="yes" xml:space="preserve">
+          <source>Fax number is required.</source>
+          <target state="new">Fax number is required.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

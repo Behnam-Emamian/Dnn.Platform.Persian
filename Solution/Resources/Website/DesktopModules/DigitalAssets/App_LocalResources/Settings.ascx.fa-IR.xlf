@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Settings.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="BasicSettings.Text" translate="yes" xml:space="preserve">
+          <source>Basic settings</source>
+          <target state="new">Basic settings</target>
+        </trans-unit>
+        <trans-unit id="DefaultFolderType.Help" translate="yes" xml:space="preserve">
+          <source>Sets the default folder type to use when creating a new folder under the root folder.</source>
+          <target state="new">Sets the default folder type to use when creating a new folder under the root folder.</target>
+        </trans-unit>
+        <trans-unit id="DefaultFolderType.Text" translate="yes" xml:space="preserve">
+          <source>Default folder type</source>
+          <target state="new">Default folder type</target>
+        </trans-unit>
+        <trans-unit id="ExcludeSubfolders.Text" translate="yes" xml:space="preserve">
+          <source>Exclude subfolders</source>
+          <target state="new">Exclude subfolders</target>
+        </trans-unit>
+        <trans-unit id="ExcludeSubfoldersLabel.Help" translate="yes" xml:space="preserve">
+          <source>Check the box to only show the files and files under subfolders but it will not show subfolders</source>
+          <target state="new">Check the box to only show the files and files under subfolders but it will not show subfolders</target>
+        </trans-unit>
+        <trans-unit id="ExcludeSubfoldersLabel.Text" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="FilterByFolder.Text" translate="yes" xml:space="preserve">
+          <source>Filter by Folder</source>
+          <target state="new">Filter by Folder</target>
+        </trans-unit>
+        <trans-unit id="FolderMustBeSelected.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>A folder must be selected when the "Filter by Folder" box is checked.</source>
+          <target state="new">A folder must be selected when the "Filter by Folder" box is checked.</target>
+        </trans-unit>
+        <trans-unit id="Group.Text" translate="yes" xml:space="preserve">
+          <source>Group</source>
+          <target state="new">Group</target>
+        </trans-unit>
+        <trans-unit id="IncludeSubfoldersFilesOnly.Text" translate="yes" xml:space="preserve">
+          <source>Include Subfolders (Files Only)</source>
+          <target state="new">Include Subfolders (Files Only)</target>
+        </trans-unit>
+        <trans-unit id="IncludeSubfoldersFolderStructure.Text" translate="yes" xml:space="preserve">
+          <source>Include Subfolders (Show folder structure)</source>
+          <target state="new">Include Subfolders (Show folder structure)</target>
+        </trans-unit>
+        <trans-unit id="Mode.Help" translate="yes" xml:space="preserve">
+          <source>The mode the module should operate in.</source>
+          <target state="new">The mode the module should operate in.</target>
+        </trans-unit>
+        <trans-unit id="Mode.Text" translate="yes" xml:space="preserve">
+          <source>Mode</source>
+          <target state="new">Mode</target>
+        </trans-unit>
+        <trans-unit id="Normal.Text" translate="yes" xml:space="preserve">
+          <source>Normal</source>
+          <target state="new">Normal</target>
+        </trans-unit>
+        <trans-unit id="NoSet.Text" translate="yes" xml:space="preserve">
+          <source>No Set</source>
+          <target state="new">No Set</target>
+        </trans-unit>
+        <trans-unit id="User.Text" translate="yes" xml:space="preserve">
+          <source>User</source>
+          <target state="new">User</target>
+        </trans-unit>
+        <trans-unit id="ViewCondition.Help" translate="yes" xml:space="preserve">
+          <source>Select the filter options to be applied in the grid.</source>
+          <target state="new">Select the filter options to be applied in the grid.</target>
+        </trans-unit>
+        <trans-unit id="ViewCondition.Text" translate="yes" xml:space="preserve">
+          <source>Set View Condition</source>
+          <target state="new">Set View Condition</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

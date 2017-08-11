@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Settings.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="plReplaceTokens.Text" translate="yes" xml:space="preserve">
+          <source>Replace Tokens:</source>
+          <target state="new">Replace Tokens:</target>
+        </trans-unit>
+        <trans-unit id="plReplaceTokens.Help" translate="yes" xml:space="preserve">
+          <source>Enable <bpt id="1">&lt;strong&gt;</bpt>Enhanced Replace<ept id="1">&lt;/strong&gt;</ept> to replace tokens like "[object:property|format]" for objects Tab, Module, PortalSettings or User with the appropriate environment values.<bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>
+        Note: inline editing and module caching will be disabled, if Token replacement is used.</source>
+          <target state="new">Enable <bpt id="1">&lt;strong&gt;</bpt>Enhanced Replace<ept id="1">&lt;/strong&gt;</ept> to replace tokens like "[object:property|format]" for objects Tab, Module, PortalSettings or User with the appropriate environment values.<bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>
+        Note: inline editing and module caching will be disabled, if Token replacement is used.</target>
+        </trans-unit>
+        <trans-unit id="cmdWorkflow.Text" translate="yes" xml:space="preserve">
+          <source>Manage Workflows</source>
+          <target state="new">Manage Workflows</target>
+        </trans-unit>
+        <trans-unit id="plWorkflow.Text" translate="yes" xml:space="preserve">
+          <source>Workflow</source>
+          <target state="new">Workflow</target>
+        </trans-unit>
+        <trans-unit id="plWorkflow.Help" translate="yes" xml:space="preserve">
+          <source>Select a content publishing workflow</source>
+          <target state="new">Select a content publishing workflow</target>
+        </trans-unit>
+        <trans-unit id="chkReplace.Text" translate="yes" xml:space="preserve">
+          <source>Replace Existing Settings?</source>
+          <target state="new">Replace Existing Settings?</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source>Settings Help</source>
+          <target state="new">Settings Help</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_settings.Text" translate="yes" xml:space="preserve">
+          <source>HTML Module Settings</source>
+          <target state="new">HTML Module Settings</target>
+        </trans-unit>
+        <trans-unit id="Module.Text" translate="yes" xml:space="preserve">
+          <source>Module</source>
+          <target state="new">Module</target>
+        </trans-unit>
+        <trans-unit id="Page.Text" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target state="new">Page</target>
+        </trans-unit>
+        <trans-unit id="plApplyTo.Help" translate="yes" xml:space="preserve">
+          <source>Select which object this workflow applies to.</source>
+          <target state="new">Select which object this workflow applies to.</target>
+        </trans-unit>
+        <trans-unit id="plApplyTo.Text" translate="yes" xml:space="preserve">
+          <source>Apply Workflow To:</source>
+          <target state="new">Apply Workflow To:</target>
+        </trans-unit>
+        <trans-unit id="Site.Text" translate="yes" xml:space="preserve">
+          <source>Site</source>
+          <target state="new">Site</target>
+        </trans-unit>
+        <trans-unit id="plDecorate.Help" translate="yes" xml:space="preserve">
+          <source>Whether decorate the html controls in content to keep same view in the whole site.</source>
+          <target state="new">Whether decorate the html controls in content to keep same view in the whole site.</target>
+        </trans-unit>
+        <trans-unit id="plDecorate.Text" translate="yes" xml:space="preserve">
+          <source>Use Form Decoration:</source>
+          <target state="new">Use Form Decoration:</target>
+        </trans-unit>
+        <trans-unit id="plSearchDescLength.Help" translate="yes" xml:space="preserve">
+          <source>Define the max length  of Description used in core search.</source>
+          <target state="new">Define the max length  of Description used in core search.</target>
+        </trans-unit>
+        <trans-unit id="plSearchDescLength.Text" translate="yes" xml:space="preserve">
+          <source>Max length of Description in search:</source>
+          <target state="new">Max length of Description in search:</target>
+        </trans-unit>
+        <trans-unit id="valSearchDescLength.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>You need input a number of max description length.</source>
+          <target state="new">You need input a number of max description length.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Register.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="cmdRegister.Text" translate="yes" xml:space="preserve">
+          <source>Register</source>
+          <target state="new">Register</target>
+        </trans-unit>
+        <trans-unit id="RegisterWarning.Text" translate="yes" xml:space="preserve">
+          <source> <bpt id="1">&lt;em&gt;</bpt>(<bpt id="2">&lt;strong&gt;</bpt>Note:<ept id="2">&lt;/strong&gt;</ept> - Registration may take several seconds.  Once you click the Register button please wait until the system responds.)<ept id="1">&lt;/em&gt;</ept></source>
+          <target state="new"> <bpt id="1">&lt;em&gt;</bpt>(<bpt id="2">&lt;strong&gt;</bpt>Note:<ept id="2">&lt;/strong&gt;</ept> - Registration may take several seconds.  Once you click the Register button please wait until the system responds.)<ept id="1">&lt;/em&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_register.Text" translate="yes" xml:space="preserve">
+          <source>Register</source>
+          <target state="new">Register</target>
+        </trans-unit>
+        <trans-unit id="captchaLabel.Help" translate="yes" xml:space="preserve">
+          <source>Enter the security code.</source>
+          <target state="new">Enter the security code.</target>
+        </trans-unit>
+        <trans-unit id="captchaLabel.Text" translate="yes" xml:space="preserve">
+          <source>Security Code:</source>
+          <target state="new">Security Code:</target>
+        </trans-unit>
+        <trans-unit id="NoEmail.Text" translate="yes" xml:space="preserve">
+          <source>The Authentication provider used to register did not provide an email address.  Please enter a valid email address and click the Register button to complete your registration.</source>
+          <target state="new">The Authentication provider used to register did not provide an email address.  Please enter a valid email address and click the Register button to complete your registration.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

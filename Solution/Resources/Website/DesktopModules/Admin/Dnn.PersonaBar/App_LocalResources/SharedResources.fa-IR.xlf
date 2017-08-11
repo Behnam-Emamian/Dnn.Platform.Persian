@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="SharedResources.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ErrMissPermissions.Text" translate="yes" xml:space="preserve">
+          <source>You don't have permission to upload file.</source>
+          <target state="new">You don't have permission to upload file.</target>
+        </trans-unit>
+        <trans-unit id="ErrUploadFile.Text" translate="yes" xml:space="preserve">
+          <source>Error: File couldn't be uploaded.</source>
+          <target state="new">Error: File couldn't be uploaded.</target>
+        </trans-unit>
+        <trans-unit id="ErrUploadStream.Text" translate="yes" xml:space="preserve">
+          <source>Sorry, the image could not be saved.</source>
+          <target state="new">Sorry, the image could not be saved.</target>
+        </trans-unit>
+        <trans-unit id="Root.Text" translate="yes" xml:space="preserve">
+          <source>Home</source>
+          <target state="new">Home</target>
+        </trans-unit>
+        <trans-unit id="JustNow.Text" translate="yes" xml:space="preserve">
+          <source>moments ago</source>
+          <target state="new">moments ago</target>
+        </trans-unit>
+        <trans-unit id="Day.Text" translate="yes" xml:space="preserve">
+          <source>day</source>
+          <target state="new">day</target>
+        </trans-unit>
+        <trans-unit id="DayAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} day ago</source>
+          <target state="new">{0} day ago</target>
+        </trans-unit>
+        <trans-unit id="Days.Text" translate="yes" xml:space="preserve">
+          <source>days</source>
+          <target state="new">days</target>
+        </trans-unit>
+        <trans-unit id="DaysAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} days ago</source>
+          <target state="new">{0} days ago</target>
+        </trans-unit>
+        <trans-unit id="Hour.Text" translate="yes" xml:space="preserve">
+          <source>hour</source>
+          <target state="new">hour</target>
+        </trans-unit>
+        <trans-unit id="HourAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} hour ago</source>
+          <target state="new">{0} hour ago</target>
+        </trans-unit>
+        <trans-unit id="Hours.Text" translate="yes" xml:space="preserve">
+          <source>hours</source>
+          <target state="new">hours</target>
+        </trans-unit>
+        <trans-unit id="HoursAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} hours ago</source>
+          <target state="new">{0} hours ago</target>
+        </trans-unit>
+        <trans-unit id="Minute.Text" translate="yes" xml:space="preserve">
+          <source>minute</source>
+          <target state="new">minute</target>
+        </trans-unit>
+        <trans-unit id="MinuteAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} minute ago</source>
+          <target state="new">{0} minute ago</target>
+        </trans-unit>
+        <trans-unit id="Minutes.Text" translate="yes" xml:space="preserve">
+          <source>minutes</source>
+          <target state="new">minutes</target>
+        </trans-unit>
+        <trans-unit id="MinutesAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} minutes ago</source>
+          <target state="new">{0} minutes ago</target>
+        </trans-unit>
+        <trans-unit id="Month.Text" translate="yes" xml:space="preserve">
+          <source>month</source>
+          <target state="new">month</target>
+        </trans-unit>
+        <trans-unit id="MonthAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} month ago</source>
+          <target state="new">{0} month ago</target>
+        </trans-unit>
+        <trans-unit id="Months.Text" translate="yes" xml:space="preserve">
+          <source>months</source>
+          <target state="new">months</target>
+        </trans-unit>
+        <trans-unit id="MonthsAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} months ago</source>
+          <target state="new">{0} months ago</target>
+        </trans-unit>
+        <trans-unit id="LongTimeAgo.Text" translate="yes" xml:space="preserve">
+          <source>long time ago</source>
+          <target state="new">long time ago</target>
+        </trans-unit>
+        <trans-unit id="Never.Text" translate="yes" xml:space="preserve">
+          <source>Never</source>
+          <target state="new">Never</target>
+        </trans-unit>
+        <trans-unit id="Second.Text" translate="yes" xml:space="preserve">
+          <source>second</source>
+          <target state="new">second</target>
+        </trans-unit>
+        <trans-unit id="SecondAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} second ago</source>
+          <target state="new">{0} second ago</target>
+        </trans-unit>
+        <trans-unit id="Seconds.Text" translate="yes" xml:space="preserve">
+          <source>seconds</source>
+          <target state="new">seconds</target>
+        </trans-unit>
+        <trans-unit id="SecondsAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} seconds ago</source>
+          <target state="new">{0} seconds ago</target>
+        </trans-unit>
+        <trans-unit id="WeekAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} week ago</source>
+          <target state="new">{0} week ago</target>
+        </trans-unit>
+        <trans-unit id="WeeksAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} weeks ago</source>
+          <target state="new">{0} weeks ago</target>
+        </trans-unit>
+        <trans-unit id="Year.Text" translate="yes" xml:space="preserve">
+          <source>year</source>
+          <target state="new">year</target>
+        </trans-unit>
+        <trans-unit id="YearAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} year ago</source>
+          <target state="new">{0} year ago</target>
+        </trans-unit>
+        <trans-unit id="Years.Text" translate="yes" xml:space="preserve">
+          <source>years</source>
+          <target state="new">years</target>
+        </trans-unit>
+        <trans-unit id="YearsAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} years ago</source>
+          <target state="new">{0} years ago</target>
+        </trans-unit>
+        <trans-unit id="UserHasNoPermissionToReadFile.Error" translate="yes" xml:space="preserve">
+          <source>The user has no permission to read this file</source>
+          <target state="new">The user has no permission to read this file</target>
+        </trans-unit>
+        <trans-unit id="UserHasNoPermissionToReadFolder.Error" translate="yes" xml:space="preserve">
+          <source>The user has no permission to read this folder</source>
+          <target state="new">The user has no permission to read this folder</target>
+        </trans-unit>
+        <trans-unit id="Anonymous.Text" translate="yes" xml:space="preserve">
+          <source>Anonymous</source>
+          <target state="new">Anonymous</target>
+        </trans-unit>
+        <trans-unit id="RegisterationFailed.Text" translate="yes" xml:space="preserve">
+          <source>{0}</source>
+          <target state="new">{0}</target>
+        </trans-unit>
+        <trans-unit id="RegistrationUsernameAlreadyPresent.Text" translate="yes" xml:space="preserve">
+          <source>The username is already in use.</source>
+          <target state="new">The username is already in use.</target>
+        </trans-unit>
+        <trans-unit id="FolderDoesNotExist.Error" translate="yes" xml:space="preserve">
+          <source>The folder does not exist</source>
+          <target state="new">The folder does not exist</target>
+        </trans-unit>
+        <trans-unit id="VisibleOnPage.Header" translate="yes" xml:space="preserve">
+          <source>Visible on Page</source>
+          <target state="new">Visible on Page</target>
+        </trans-unit>
+        <trans-unit id="btnCancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="btnSave.Text" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="UnauthorizedRequest.Text" translate="yes" xml:space="preserve">
+          <source>Authorization has been denied for this request.</source>
+          <target state="new">Authorization has been denied for this request.</target>
+        </trans-unit>
+        <trans-unit id="GenericErrorMessage.Error" translate="yes" xml:space="preserve">
+          <source>An unknown error has occured. Please check the admin logs for more information.</source>
+          <target state="new">An unknown error has occured. Please check the admin logs for more information.</target>
+        </trans-unit>
+        <trans-unit id="All.Text" translate="yes" xml:space="preserve">
+          <source>All</source>
+          <target state="new">All</target>
+        </trans-unit>
+        <trans-unit id="AllSites.Text" translate="yes" xml:space="preserve">
+          <source>All Sites</source>
+          <target state="new">All Sites</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Settings.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="alternateItemTemplateLabel.Help" translate="yes" xml:space="preserve">
+          <source>The alternate item template is used to render the details for each alternate (even) member.  </source>
+          <target state="new">The alternate item template is used to render the details for each alternate (even) member.  </target>
+        </trans-unit>
+        <trans-unit id="alternateItemTemplateLabel.Text" translate="yes" xml:space="preserve">
+          <source>Alternate Item Template</source>
+          <target state="new">Alternate Item Template</target>
+        </trans-unit>
+        <trans-unit id="itemTemplateLabel.Help" translate="yes" xml:space="preserve">
+          <source>The item template is used to render the details about the each alternate (odd) member.</source>
+          <target state="new">The item template is used to render the details about the each alternate (odd) member.</target>
+        </trans-unit>
+        <trans-unit id="itemTemplateLabel.Text" translate="yes" xml:space="preserve">
+          <source>Item Template:</source>
+          <target state="new">Item Template:</target>
+        </trans-unit>
+        <trans-unit id="Templates.Text" translate="yes" xml:space="preserve">
+          <source>Templates</source>
+          <target state="new">Templates</target>
+        </trans-unit>
+        <trans-unit id="popUpTemplateLabel.Help" translate="yes" xml:space="preserve">
+          <source>The popup template is used to render an individual member's details inside a popup window.</source>
+          <target state="new">The popup template is used to render an individual member's details inside a popup window.</target>
+        </trans-unit>
+        <trans-unit id="popUpTemplateLabel.Text" translate="yes" xml:space="preserve">
+          <source>PopUp Template:</source>
+          <target state="new">PopUp Template:</target>
+        </trans-unit>
+        <trans-unit id="filterBySelectorLabel.Help" translate="yes" xml:space="preserve">
+          <source>Optionally filter the list of members displayed by selecting the type of filter and then choosing a role, relationship or profile property.</source>
+          <target state="new">Optionally filter the list of members displayed by selecting the type of filter and then choosing a role, relationship or profile property.</target>
+        </trans-unit>
+        <trans-unit id="filterBySelectorLabel.Text" translate="yes" xml:space="preserve">
+          <source>Filter By:</source>
+          <target state="new">Filter By:</target>
+        </trans-unit>
+        <trans-unit id="Filters.Text" translate="yes" xml:space="preserve">
+          <source>Filters and Sorting</source>
+          <target state="new">Filters and Sorting</target>
+        </trans-unit>
+        <trans-unit id="None.Text" translate="yes" xml:space="preserve">
+          <source>No Filter</source>
+          <target state="new">No Filter</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperty.Text" translate="yes" xml:space="preserve">
+          <source>Profile Property</source>
+          <target state="new">Profile Property</target>
+        </trans-unit>
+        <trans-unit id="Relationship.Text" translate="yes" xml:space="preserve">
+          <source>Relationship</source>
+          <target state="new">Relationship</target>
+        </trans-unit>
+        <trans-unit id="Group.Text" translate="yes" xml:space="preserve">
+          <source>Group</source>
+          <target state="new">Group</target>
+        </trans-unit>
+        <trans-unit id="Search.Text" translate="yes" xml:space="preserve">
+          <source>Search Settings</source>
+          <target state="new">Search Settings</target>
+        </trans-unit>
+        <trans-unit id="searchField1Label.Help" translate="yes" xml:space="preserve">
+          <source>Select the first field to display in the advanced search.</source>
+          <target state="new">Select the first field to display in the advanced search.</target>
+        </trans-unit>
+        <trans-unit id="searchField1Label.Text" translate="yes" xml:space="preserve">
+          <source>Search Field 1:</source>
+          <target state="new">Search Field 1:</target>
+        </trans-unit>
+        <trans-unit id="searchField2Label.Help" translate="yes" xml:space="preserve">
+          <source>Select the second field to display in the advanced search.</source>
+          <target state="new">Select the second field to display in the advanced search.</target>
+        </trans-unit>
+        <trans-unit id="searchField2Label.Text" translate="yes" xml:space="preserve">
+          <source>Search Field 2:</source>
+          <target state="new">Search Field 2:</target>
+        </trans-unit>
+        <trans-unit id="searchField3Label.Help" translate="yes" xml:space="preserve">
+          <source>Select the third field to display in the advanced search.</source>
+          <target state="new">Select the third field to display in the advanced search.</target>
+        </trans-unit>
+        <trans-unit id="searchField3Label.Text" translate="yes" xml:space="preserve">
+          <source>Search Field 3:</source>
+          <target state="new">Search Field 3:</target>
+        </trans-unit>
+        <trans-unit id="searchField4Label.Help" translate="yes" xml:space="preserve">
+          <source>Select the fourth field to display in the advanced search.</source>
+          <target state="new">Select the fourth field to display in the advanced search.</target>
+        </trans-unit>
+        <trans-unit id="searchField4Label.Text" translate="yes" xml:space="preserve">
+          <source>Search Field 4:</source>
+          <target state="new">Search Field 4:</target>
+        </trans-unit>
+        <trans-unit id="displaySearchLabel.Help" translate="yes" xml:space="preserve">
+          <source>Choose "Simple" to only display the simple search option; "Simple and Advanced Search" to display both search options; or "None" to remove searching.</source>
+          <target state="new">Choose "Simple" to only display the simple search option; "Simple and Advanced Search" to display both search options; or "None" to remove searching.</target>
+        </trans-unit>
+        <trans-unit id="displaySearchLabel.Text" translate="yes" xml:space="preserve">
+          <source>Display Search:</source>
+          <target state="new">Display Search:</target>
+        </trans-unit>
+        <trans-unit id="User.Text" translate="yes" xml:space="preserve">
+          <source>User</source>
+          <target state="new">User</target>
+        </trans-unit>
+        <trans-unit id="enablePopUpLabel.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to enable the popup template.</source>
+          <target state="new">Check this box to enable the popup template.</target>
+        </trans-unit>
+        <trans-unit id="enablePopUpLabel.Text" translate="yes" xml:space="preserve">
+          <source>Enable PopUp:</source>
+          <target state="new">Enable PopUp:</target>
+        </trans-unit>
+        <trans-unit id="sortFieldListLabel.Help" translate="yes" xml:space="preserve">
+          <source>Select the field to sort member records by.</source>
+          <target state="new">Select the field to sort member records by.</target>
+        </trans-unit>
+        <trans-unit id="sortFieldListLabel.Text" translate="yes" xml:space="preserve">
+          <source>Sort Field:</source>
+          <target state="new">Sort Field:</target>
+        </trans-unit>
+        <trans-unit id="sortOrderListLabel.Help" translate="yes" xml:space="preserve">
+          <source>Select the sort direction of member records.</source>
+          <target state="new">Select the sort direction of member records.</target>
+        </trans-unit>
+        <trans-unit id="sortOrderListLabel.Text" translate="yes" xml:space="preserve">
+          <source>Sort Order:</source>
+          <target state="new">Sort Order:</target>
+        </trans-unit>
+        <trans-unit id="Ascending.Text" translate="yes" xml:space="preserve">
+          <source>Ascending</source>
+          <target state="new">Ascending</target>
+        </trans-unit>
+        <trans-unit id="Descending.Text" translate="yes" xml:space="preserve">
+          <source>Descending</source>
+          <target state="new">Descending</target>
+        </trans-unit>
+        <trans-unit id="DisplayName.Text" translate="yes" xml:space="preserve">
+          <source>Display Name</source>
+          <target state="new">Display Name</target>
+        </trans-unit>
+        <trans-unit id="Email.Text" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <target state="new">Email</target>
+        </trans-unit>
+        <trans-unit id="Username.Text" translate="yes" xml:space="preserve">
+          <source>Username</source>
+          <target state="new">Username</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_settings.Text" translate="yes" xml:space="preserve">
+          <source>Member Directory Settings</source>
+          <target state="new">Member Directory Settings</target>
+        </trans-unit>
+        <trans-unit id="DateCreated.Text" translate="yes" xml:space="preserve">
+          <source>Date Created</source>
+          <target state="new">Date Created</target>
+        </trans-unit>
+        <trans-unit id="UserId.Text" translate="yes" xml:space="preserve">
+          <source>User Id</source>
+          <target state="new">User Id</target>
+        </trans-unit>
+        <trans-unit id="Paging.Text" translate="yes" xml:space="preserve">
+          <source>Paging Options</source>
+          <target state="new">Paging Options</target>
+        </trans-unit>
+        <trans-unit id="disablePagerLabel.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to disable the "Load More" button.  Only the first page of results will be displayed.</source>
+          <target state="new">Check this box to disable the "Load More" button.  Only the first page of results will be displayed.</target>
+        </trans-unit>
+        <trans-unit id="disablePagerLabel.Text" translate="yes" xml:space="preserve">
+          <source>Disable Paging:</source>
+          <target state="new">Disable Paging:</target>
+        </trans-unit>
+        <trans-unit id="pageSize.Error" translate="yes" xml:space="preserve">
+          <source>The page size must be between 1 and 100.</source>
+          <target state="new">The page size must be between 1 and 100.</target>
+        </trans-unit>
+        <trans-unit id="pageSizeLabel.Help" translate="yes" xml:space="preserve">
+          <source>Set the size of each page by entering a number between 1 and 100.</source>
+          <target state="new">Set the size of each page by entering a number between 1 and 100.</target>
+        </trans-unit>
+        <trans-unit id="pageSizeLabel.Text" translate="yes" xml:space="preserve">
+          <source>Page Size:</source>
+          <target state="new">Page Size:</target>
+        </trans-unit>
+        <trans-unit id="DisplaySearch_Both.Text" translate="yes" xml:space="preserve">
+          <source>Simple and Advanced Search</source>
+          <target state="new">Simple and Advanced Search</target>
+        </trans-unit>
+        <trans-unit id="DisplaySearch_None.Text" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <target state="new">None</target>
+        </trans-unit>
+        <trans-unit id="DisplaySearch_Simple.Text" translate="yes" xml:space="preserve">
+          <source>Simple Search</source>
+          <target state="new">Simple Search</target>
+        </trans-unit>
+        <trans-unit id="ExcludeHostUsersLabel.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to exclude Super Users from search results.</source>
+          <target state="new">Check this box to exclude Super Users from search results.</target>
+        </trans-unit>
+        <trans-unit id="ExcludeHostUsersLabel.Text" translate="yes" xml:space="preserve">
+          <source>Exclude Host Users:</source>
+          <target state="new">Exclude Host Users:</target>
+        </trans-unit>
+        <trans-unit id="Prefix.Text" translate="yes" xml:space="preserve">
+          <source>Prefix</source>
+          <target state="new">Prefix</target>
+        </trans-unit>
+        <trans-unit id="FirstName.Text" translate="yes" xml:space="preserve">
+          <source>First Name</source>
+          <target state="new">First Name</target>
+        </trans-unit>
+        <trans-unit id="LastName.Text" translate="yes" xml:space="preserve">
+          <source>Last Name</source>
+          <target state="new">Last Name</target>
+        </trans-unit>
+        <trans-unit id="MiddleName.Text" translate="yes" xml:space="preserve">
+          <source>Middle Name</source>
+          <target state="new">Middle Name</target>
+        </trans-unit>
+        <trans-unit id="Suffix.Text" translate="yes" xml:space="preserve">
+          <source>Suffix</source>
+          <target state="new">Suffix</target>
+        </trans-unit>
+        <trans-unit id="Unit.Text" translate="yes" xml:space="preserve">
+          <source>Unit</source>
+          <target state="new">Unit</target>
+        </trans-unit>
+        <trans-unit id="Street.Text" translate="yes" xml:space="preserve">
+          <source>Street</source>
+          <target state="new">Street</target>
+        </trans-unit>
+        <trans-unit id="City.Text" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <target state="new">City</target>
+        </trans-unit>
+        <trans-unit id="Region.Text" translate="yes" xml:space="preserve">
+          <source>Region</source>
+          <target state="new">Region</target>
+        </trans-unit>
+        <trans-unit id="Country.Text" translate="yes" xml:space="preserve">
+          <source>Country</source>
+          <target state="new">Country</target>
+        </trans-unit>
+        <trans-unit id="PostalCode.Text" translate="yes" xml:space="preserve">
+          <source>Postal Code</source>
+          <target state="new">Postal Code</target>
+        </trans-unit>
+        <trans-unit id="Telephone.Text" translate="yes" xml:space="preserve">
+          <source>Telephone</source>
+          <target state="new">Telephone</target>
+        </trans-unit>
+        <trans-unit id="Cell.Text" translate="yes" xml:space="preserve">
+          <source>Cell</source>
+          <target state="new">Cell</target>
+        </trans-unit>
+        <trans-unit id="Fax.Text" translate="yes" xml:space="preserve">
+          <source>Fax</source>
+          <target state="new">Fax</target>
+        </trans-unit>
+        <trans-unit id="IM.Text" translate="yes" xml:space="preserve">
+          <source>IM</source>
+          <target state="new">IM</target>
+        </trans-unit>
+        <trans-unit id="Website.Text" translate="yes" xml:space="preserve">
+          <source>Website</source>
+          <target state="new">Website</target>
+        </trans-unit>
+        <trans-unit id="Biography.Text" translate="yes" xml:space="preserve">
+          <source>Biography</source>
+          <target state="new">Biography</target>
+        </trans-unit>
+        <trans-unit id="TimeZone.Text" translate="yes" xml:space="preserve">
+          <source>Time Zone</source>
+          <target state="new">Time Zone</target>
+        </trans-unit>
+        <trans-unit id="PreferredLocale.Text" translate="yes" xml:space="preserve">
+          <source>Preferred Locale</source>
+          <target state="new">Preferred Locale</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

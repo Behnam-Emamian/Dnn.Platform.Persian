@@ -1,0 +1,2458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="SharedResources.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="DeleteItem.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete this item?</source>
+          <target state="new">Are you sure you want to delete this item?</target>
+        </trans-unit>
+        <trans-unit id="DeletetUser.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete this user?</source>
+          <target state="new">Are you sure you want to delete this user?</target>
+        </trans-unit>
+        <trans-unit id="UnregisterUser.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to unregister? This will delete your user account.</source>
+          <target state="new">Are you sure you want to unregister? This will delete your user account.</target>
+        </trans-unit>
+        <trans-unit id="RemoveItem.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to remove this item?</source>
+          <target state="new">Are you sure you want to remove this item?</target>
+        </trans-unit>
+        <trans-unit id="Calendar.Text" translate="yes" xml:space="preserve">
+          <source>Calendar</source>
+          <target state="new">Calendar</target>
+        </trans-unit>
+        <trans-unit id="Yes.Text" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="No.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="Not_Specified.Text" translate="yes" xml:space="preserve">
+          <source>Not Specified</source>
+          <target state="new">Not Specified</target>
+        </trans-unit>
+        <trans-unit id="None_Specified.Text" translate="yes" xml:space="preserve">
+          <source>None Specified</source>
+          <target state="new">None Specified</target>
+        </trans-unit>
+        <trans-unit id="cmdCancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="cmdDelete.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="cmdDisplay.Text" translate="yes" xml:space="preserve">
+          <source>Display</source>
+          <target state="new">Display</target>
+        </trans-unit>
+        <trans-unit id="cmdGo.Text" translate="yes" xml:space="preserve">
+          <source>Go</source>
+          <target state="new">Go</target>
+        </trans-unit>
+        <trans-unit id="cmdUpdate.Text" translate="yes" xml:space="preserve">
+          <source>Update</source>
+          <target state="new">Update</target>
+        </trans-unit>
+        <trans-unit id="cmdUpload.Text" translate="yes" xml:space="preserve">
+          <source>Upload New File</source>
+          <target state="new">Upload New File</target>
+        </trans-unit>
+        <trans-unit id="Select.Text" translate="yes" xml:space="preserve">
+          <source>Select</source>
+          <target state="new">Select</target>
+        </trans-unit>
+        <trans-unit id="Upload.Text" translate="yes" xml:space="preserve">
+          <source>Upload</source>
+          <target state="new">Upload</target>
+        </trans-unit>
+        <trans-unit id="Add.Text" translate="yes" xml:space="preserve">
+          <source>Add</source>
+          <target state="new">Add</target>
+        </trans-unit>
+        <trans-unit id="All.Text" translate="yes" xml:space="preserve">
+          <source>All</source>
+          <target state="new">All</target>
+        </trans-unit>
+        <trans-unit id="Unauthorized.Text" translate="yes" xml:space="preserve">
+          <source>Unauthorized</source>
+          <target state="new">Unauthorized</target>
+        </trans-unit>
+        <trans-unit id="Today.Text" translate="yes" xml:space="preserve">
+          <source>Today</source>
+          <target state="new">Today</target>
+        </trans-unit>
+        <trans-unit id="Close.Text" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <target state="new">Close</target>
+        </trans-unit>
+        <trans-unit id="cmdReturn.Text" translate="yes" xml:space="preserve">
+          <source>Return</source>
+          <target state="new">Return</target>
+        </trans-unit>
+        <trans-unit id="cmdStop.Text" translate="yes" xml:space="preserve">
+          <source>Stop</source>
+          <target state="new">Stop</target>
+        </trans-unit>
+        <trans-unit id="cmdDownLoad.Text" translate="yes" xml:space="preserve">
+          <source>Download</source>
+          <target state="new">Download</target>
+        </trans-unit>
+        <trans-unit id="Seconds.Text" translate="yes" xml:space="preserve">
+          <source>Seconds</source>
+          <target state="new">Seconds</target>
+        </trans-unit>
+        <trans-unit id="Second.Text" translate="yes" xml:space="preserve">
+          <source>Second</source>
+          <target state="new">Second</target>
+        </trans-unit>
+        <trans-unit id="Minutes.Text" translate="yes" xml:space="preserve">
+          <source>Minutes</source>
+          <target state="new">Minutes</target>
+        </trans-unit>
+        <trans-unit id="Minute.Text" translate="yes" xml:space="preserve">
+          <source>Minute</source>
+          <target state="new">Minute</target>
+        </trans-unit>
+        <trans-unit id="Hours.Text" translate="yes" xml:space="preserve">
+          <source>Hours</source>
+          <target state="new">Hours</target>
+        </trans-unit>
+        <trans-unit id="Hour.Text" translate="yes" xml:space="preserve">
+          <source>Hour</source>
+          <target state="new">Hour</target>
+        </trans-unit>
+        <trans-unit id="Days.Text" translate="yes" xml:space="preserve">
+          <source>Days</source>
+          <target state="new">Days</target>
+        </trans-unit>
+        <trans-unit id="Day.Text" translate="yes" xml:space="preserve">
+          <source>Day</source>
+          <target state="new">Day</target>
+        </trans-unit>
+        <trans-unit id="DeleteItems.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete these items?</source>
+          <target state="new">Are you sure you want to delete these items?</target>
+        </trans-unit>
+        <trans-unit id="cmdEdit.Text" translate="yes" xml:space="preserve">
+          <source>Edit</source>
+          <target state="new">Edit</target>
+        </trans-unit>
+        <trans-unit id="Edit.Text" translate="yes" xml:space="preserve">
+          <source>Edit</source>
+          <target state="new">Edit</target>
+        </trans-unit>
+        <trans-unit id="Unknown.Text" translate="yes" xml:space="preserve">
+          <source>Unknown</source>
+          <target state="new">Unknown</target>
+        </trans-unit>
+        <trans-unit id="Weeks.Text" translate="yes" xml:space="preserve">
+          <source>Weeks</source>
+          <target state="new">Weeks</target>
+        </trans-unit>
+        <trans-unit id="Week.Text" translate="yes" xml:space="preserve">
+          <source>Week</source>
+          <target state="new">Week</target>
+        </trans-unit>
+        <trans-unit id="Months.Text" translate="yes" xml:space="preserve">
+          <source>Months</source>
+          <target state="new">Months</target>
+        </trans-unit>
+        <trans-unit id="Month.Text" translate="yes" xml:space="preserve">
+          <source>Month</source>
+          <target state="new">Month</target>
+        </trans-unit>
+        <trans-unit id="Years.Text" translate="yes" xml:space="preserve">
+          <source>Years</source>
+          <target state="new">Years</target>
+        </trans-unit>
+        <trans-unit id="Year.Text" translate="yes" xml:space="preserve">
+          <source>Year</source>
+          <target state="new">Year</target>
+        </trans-unit>
+        <trans-unit id="New.Text" translate="yes" xml:space="preserve">
+          <source>New</source>
+          <target state="new">New</target>
+        </trans-unit>
+        <trans-unit id="DeleteModule.Confirm" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete this module?</source>
+          <target state="new">Are you sure you want to delete this module?</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION.Log" translate="yes" xml:space="preserve">
+          <source>EXCEPTION: {0}</source>
+          <target state="new">EXCEPTION: {0}</target>
+        </trans-unit>
+        <trans-unit id="PURGE.Log" translate="yes" xml:space="preserve">
+          <source>Purged Site Log Successfully</source>
+          <target state="new">Purged Site Log Successfully</target>
+        </trans-unit>
+        <trans-unit id="SkinObjects.Text" translate="yes" xml:space="preserve">
+          <source>[Skin Objects]</source>
+          <target state="new">[Skin Objects]</target>
+        </trans-unit>
+        <trans-unit id="SkinObjectsDescription.Text" translate="yes" xml:space="preserve">
+          <source>Skin Objects are User Controls which can be used to provide custom functionality to your Theme files.</source>
+          <target state="new">Skin Objects are User Controls which can be used to provide custom functionality to your Theme files.</target>
+        </trans-unit>
+        <trans-unit id="ReadError.Text" translate="yes" xml:space="preserve">
+          <source>Could not read all the data: {0}/{1}</source>
+          <target state="new">Could not read all the data: {0}/{1}</target>
+        </trans-unit>
+        <trans-unit id="Help.Text" translate="yes" xml:space="preserve">
+          <source>Help</source>
+          <target state="new">Help</target>
+        </trans-unit>
+        <trans-unit id="PURGEUSERS.Log" translate="yes" xml:space="preserve">
+          <source>Purged Users Online Successfully</source>
+          <target state="new">Purged Users Online Successfully</target>
+        </trans-unit>
+        <trans-unit id="ErrorOccurred.Text" translate="yes" xml:space="preserve">
+          <source>An error has occurred.</source>
+          <target state="new">An error has occurred.</target>
+        </trans-unit>
+        <trans-unit id="ModuleUnavailable.Text" translate="yes" xml:space="preserve">
+          <source>Error: {0} is currently unavailable.</source>
+          <target state="new">Error: {0} is currently unavailable.</target>
+        </trans-unit>
+        <trans-unit id="PURGEDSCHEDULE.Log" translate="yes" xml:space="preserve">
+          <source>Purged Schedule History</source>
+          <target state="new">Purged Schedule History</target>
+        </trans-unit>
+        <trans-unit id="TESTCOMPLETE.Log" translate="yes" xml:space="preserve">
+          <source>Test done.  Waited {0} milliseconds.</source>
+          <target state="new">Test done.  Waited {0} milliseconds.</target>
+        </trans-unit>
+        <trans-unit id="UserEmailExists.Text" translate="yes" xml:space="preserve">
+          <source>A user is already using this email address.  Please register under a different email address or obtain a password reminder using your existing email address.</source>
+          <target state="new">A user is already using this email address.  Please register under a different email address or obtain a password reminder using your existing email address.</target>
+        </trans-unit>
+        <trans-unit id="InvalidAnswer.Text" translate="yes" xml:space="preserve">
+          <source>The answer specified is invalid.  Please specify a valid answer to the question.</source>
+          <target state="new">The answer specified is invalid.  Please specify a valid answer to the question.</target>
+        </trans-unit>
+        <trans-unit id="InvalidEmail.Text" translate="yes" xml:space="preserve">
+          <source>The email address specified is invalid.  Please specify a valid email address.</source>
+          <target state="new">The email address specified is invalid.  Please specify a valid email address.</target>
+        </trans-unit>
+        <trans-unit id="InvalidPassword.Text" translate="yes" xml:space="preserve">
+          <source>The password specified is invalid.  Please specify a valid password.  Passwords must be at least [PasswordLength] characters in length and contain at least [NoneAlphabet] non-alphanumeric characters, and must not match the username.</source>
+          <target state="new">The password specified is invalid.  Please specify a valid password.  Passwords must be at least [PasswordLength] characters in length and contain at least [NoneAlphabet] non-alphanumeric characters, and must not match the username.</target>
+        </trans-unit>
+        <trans-unit id="BannedPasswordUsed.Text" translate="yes" xml:space="preserve">
+          <source>The requested password is invalid as it is either the same as the username or uses a term that is on the banned list of passwords.</source>
+          <target state="new">The requested password is invalid as it is either the same as the username or uses a term that is on the banned list of passwords.</target>
+        </trans-unit>
+        <trans-unit id="InvalidQuestion.Text" translate="yes" xml:space="preserve">
+          <source>The question specified is invalid.  Please specify a valid question.</source>
+          <target state="new">The question specified is invalid.  Please specify a valid question.</target>
+        </trans-unit>
+        <trans-unit id="InvalidUserName.Text" translate="yes" xml:space="preserve">
+          <source>The username specified is invalid.  Please specify a valid username.</source>
+          <target state="new">The username specified is invalid.  Please specify a valid username.</target>
+        </trans-unit>
+        <trans-unit id="UserRejected.Text" translate="yes" xml:space="preserve">
+          <source>This user registration has been rejected.  Please contact an Administrator for more information.</source>
+          <target state="new">This user registration has been rejected.  Please contact an Administrator for more information.</target>
+        </trans-unit>
+        <trans-unit id="UserNameExists.Text" translate="yes" xml:space="preserve">
+          <source>A user already exists for the user name specified.  Please register again using a different user name.</source>
+          <target state="new">A user already exists for the user name specified.  Please register again using a different user name.</target>
+        </trans-unit>
+        <trans-unit id="RegError.Text" translate="yes" xml:space="preserve">
+          <source>An unexpected error occurred during registration.  Please contact the Administrator for futher information.</source>
+          <target state="new">An unexpected error occurred during registration.  Please contact the Administrator for futher information.</target>
+        </trans-unit>
+        <trans-unit id="PaneNotFound.Error" translate="yes" xml:space="preserve">
+          <source>Cannot locate ContentPane for Theme</source>
+          <target state="new">Cannot locate ContentPane for Theme</target>
+        </trans-unit>
+        <trans-unit id="ContractExpired.Error" translate="yes" xml:space="preserve">
+          <source>The hosting contract for {0} expired on {1}. Please contact <bpt id="1">&lt;a href="mailto:{2}"&gt;</bpt>{2}<ept id="1">&lt;/a&gt;</ept> for further information.</source>
+          <target state="new">The hosting contract for {0} expired on {1}. Please contact <bpt id="1">&lt;a href="mailto:{2}"&gt;</bpt>{2}<ept id="1">&lt;/a&gt;</ept> for further information.</target>
+        </trans-unit>
+        <trans-unit id="TabAccess.Error" translate="yes" xml:space="preserve">
+          <source>You do not have access to view this page within the site.</source>
+          <target state="new">You do not have access to view this page within the site.</target>
+        </trans-unit>
+        <trans-unit id="ModuleAccess.Error" translate="yes" xml:space="preserve">
+          <source>You do not have access to view this module within the site.</source>
+          <target state="new">You do not have access to view this module within the site.</target>
+        </trans-unit>
+        <trans-unit id="CriticalError.Error" translate="yes" xml:space="preserve">
+          <source>A critical error has occurred. Please check the Event Viewer for further details.</source>
+          <target state="new">A critical error has occurred. Please check the Event Viewer for further details.</target>
+        </trans-unit>
+        <trans-unit id="ModuleLoad.Error" translate="yes" xml:space="preserve">
+          <source>Unhandled error loading module.</source>
+          <target state="new">Unhandled error loading module.</target>
+        </trans-unit>
+        <trans-unit id="ModuleAdd.Error" translate="yes" xml:space="preserve">
+          <source>Unhandled Error Adding Module to {0}.</source>
+          <target state="new">Unhandled Error Adding Module to {0}.</target>
+        </trans-unit>
+        <trans-unit id="ContainerLoad.Error" translate="yes" xml:space="preserve">
+          <source>Could Not Load Container: {0}</source>
+          <target state="new">Could Not Load Container: {0}</target>
+        </trans-unit>
+        <trans-unit id="BeginZip.Text" translate="yes" xml:space="preserve">
+          <source>Begin processing zip file.</source>
+          <target state="new">Begin processing zip file.</target>
+        </trans-unit>
+        <trans-unit id="CreateDir.Text" translate="yes" xml:space="preserve">
+          <source>Creating directory</source>
+          <target state="new">Creating directory</target>
+        </trans-unit>
+        <trans-unit id="WriteFile.Text" translate="yes" xml:space="preserve">
+          <source>Writing file</source>
+          <target state="new">Writing file</target>
+        </trans-unit>
+        <trans-unit id="FileError.Text" translate="yes" xml:space="preserve">
+          <source>Error processing file</source>
+          <target state="new">Error processing file</target>
+        </trans-unit>
+        <trans-unit id="FileAccess.Error" translate="yes" xml:space="preserve">
+          <source>You do not have sufficient permissions to access this file.</source>
+          <target state="new">You do not have sufficient permissions to access this file.</target>
+        </trans-unit>
+        <trans-unit id="EndZip.Text" translate="yes" xml:space="preserve">
+          <source>End processing zip file</source>
+          <target state="new">End processing zip file</target>
+        </trans-unit>
+        <trans-unit id="FileRestricted.Text" translate="yes" xml:space="preserve">
+          <source>{0} is a restricted file type.  Valid file types include ( *.{1}).  Please contact your hosting provider to upload a file type which is not supported.</source>
+          <target state="new">{0} is a restricted file type.  Valid file types include ( *.{1}).  Please contact your hosting provider to upload a file type which is not supported.</target>
+        </trans-unit>
+        <trans-unit id="Skins.Text" translate="yes" xml:space="preserve">
+          <source>Themes</source>
+          <target state="new">Themes</target>
+        </trans-unit>
+        <trans-unit id="Containers.Text" translate="yes" xml:space="preserve">
+          <source>Containers</source>
+          <target state="new">Containers</target>
+        </trans-unit>
+        <trans-unit id="StartProcessor.Text" translate="yes" xml:space="preserve">
+          <source>Initialize processor for theme/container files</source>
+          <target state="new">Initialize processor for theme/container files</target>
+        </trans-unit>
+        <trans-unit id="PackageLoad.Text" translate="yes" xml:space="preserve">
+          <source>Loaded package level attribute file</source>
+          <target state="new">Loaded package level attribute file</target>
+        </trans-unit>
+        <trans-unit id="PackageLoad.Error" translate="yes" xml:space="preserve">
+          <source>Error loading package level attribute file: ({0})</source>
+          <target state="new">Error loading package level attribute file: ({0})</target>
+        </trans-unit>
+        <trans-unit id="DuplicateSkinObject.Error" translate="yes" xml:space="preserve">
+          <source>Discarding duplicate skin object for token {0}</source>
+          <target state="new">Discarding duplicate skin object for token {0}</target>
+        </trans-unit>
+        <trans-unit id="DuplicateSkinObject.Detail" translate="yes" xml:space="preserve">
+          <source>Any theme that references this token will utilize the theme control registered first {0} rather than the one specified by the duplicate ({1}).  The theme may render incorrectly.</source>
+          <target state="new">Any theme that references this token will utilize the theme control registered first {0} rather than the one specified by the duplicate ({1}).  The theme may render incorrectly.</target>
+        </trans-unit>
+        <trans-unit id="LoadingSkinToken.Text" translate="yes" xml:space="preserve">
+          <source>Loading skin object for token {0}</source>
+          <target state="new">Loading skin object for token {0}</target>
+        </trans-unit>
+        <trans-unit id="BeginSkinFile.Text" translate="yes" xml:space="preserve">
+          <source>Begin processing file</source>
+          <target state="new">Begin processing file</target>
+        </trans-unit>
+        <trans-unit id="EndSkinFile.Text" translate="yes" xml:space="preserve">
+          <source>End processing file</source>
+          <target state="new">End processing file</target>
+        </trans-unit>
+        <trans-unit id="EndSkinFiles.Text" translate="yes" xml:space="preserve">
+          <source>End processing theme/container files</source>
+          <target state="new">End processing theme/container files</target>
+        </trans-unit>
+        <trans-unit id="FileFormat.Error" translate="yes" xml:space="preserve">
+          <source>File formatting error</source>
+          <target state="new">File formatting error</target>
+        </trans-unit>
+        <trans-unit id="FileFormat.Detail" translate="yes" xml:space="preserve">
+          <source>{0} does not contain a ContentPane.</source>
+          <target state="new">{0} does not contain a ContentPane.</target>
+        </trans-unit>
+        <trans-unit id="SkinFileLoad.Text" translate="yes" xml:space="preserve">
+          <source>Loading attribute file</source>
+          <target state="new">Loading attribute file</target>
+        </trans-unit>
+        <trans-unit id="SkinFileLoad.Error" translate="yes" xml:space="preserve">
+          <source>Error loading attribute file</source>
+          <target state="new">Error loading attribute file</target>
+        </trans-unit>
+        <trans-unit id="FileWrite.Text" translate="yes" xml:space="preserve">
+          <source>Writing file</source>
+          <target state="new">Writing file</target>
+        </trans-unit>
+        <trans-unit id="ControlDirective.Text" translate="yes" xml:space="preserve">
+          <source>Formatting control directive</source>
+          <target state="new">Formatting control directive</target>
+        </trans-unit>
+        <trans-unit id="ControlRegister.Text" translate="yes" xml:space="preserve">
+          <source>Formatting registration directive</source>
+          <target state="new">Formatting registration directive</target>
+        </trans-unit>
+        <trans-unit id="Substituting.Text" translate="yes" xml:space="preserve">
+          <source>Substituting</source>
+          <target state="new">Substituting</target>
+        </trans-unit>
+        <trans-unit id="Substituting.Detail" translate="yes" xml:space="preserve">
+          <source>{0}<it id="1" pos="open">&lt;br&gt;</it>With: {1}</source>
+          <target state="new">{0}<it id="1" pos="open">&lt;br&gt;</it>With: {1}</target>
+        </trans-unit>
+        <trans-unit id="ProcessToken.Text" translate="yes" xml:space="preserve">
+          <source>Processing token</source>
+          <target state="new">Processing token</target>
+        </trans-unit>
+        <trans-unit id="SkinToken.Text" translate="yes" xml:space="preserve">
+          <source>Token is skin object</source>
+          <target state="new">Token is skin object</target>
+        </trans-unit>
+        <trans-unit id="PaneToken.Text" translate="yes" xml:space="preserve">
+          <source>Token is content pane</source>
+          <target state="new">Token is content pane</target>
+        </trans-unit>
+        <trans-unit id="TokenFound.Text" translate="yes" xml:space="preserve">
+          <source>Token found in attributes file</source>
+          <target state="new">Token found in attributes file</target>
+        </trans-unit>
+        <trans-unit id="TokenFormat.Text" translate="yes" xml:space="preserve">
+          <source>Formatting token attribute</source>
+          <target state="new">Formatting token attribute</target>
+        </trans-unit>
+        <trans-unit id="TokenNotFoundInFile.Text" translate="yes" xml:space="preserve">
+          <source>Token NOT found in attributes file</source>
+          <target state="new">Token NOT found in attributes file</target>
+        </trans-unit>
+        <trans-unit id="ControlFormat.Text" translate="yes" xml:space="preserve">
+          <source>Formatting control statement</source>
+          <target state="new">Formatting control statement</target>
+        </trans-unit>
+        <trans-unit id="TokenNotFound.Text" translate="yes" xml:space="preserve">
+          <source>Token not found</source>
+          <target state="new">Token not found</target>
+        </trans-unit>
+        <trans-unit id="ProcessObject.Text" translate="yes" xml:space="preserve">
+          <source>Processing embedded object</source>
+          <target state="new">Processing embedded object</target>
+        </trans-unit>
+        <trans-unit id="SkinObject.Text" translate="yes" xml:space="preserve">
+          <source>Embedded object is skin object</source>
+          <target state="new">Embedded object is skin object</target>
+        </trans-unit>
+        <trans-unit id="PaneObject.Text" translate="yes" xml:space="preserve">
+          <source>Embedded object is content pane</source>
+          <target state="new">Embedded object is content pane</target>
+        </trans-unit>
+        <trans-unit id="ObjectNotFound.Text" translate="yes" xml:space="preserve">
+          <source>Embedded object not found</source>
+          <target state="new">Embedded object not found</target>
+        </trans-unit>
+        <trans-unit id="cmdNext.Text" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="new">Next</target>
+        </trans-unit>
+        <trans-unit id="cmdBack.Text" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <target state="new">Back</target>
+        </trans-unit>
+        <trans-unit id="cmdFinish.Text" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <target state="new">Finish</target>
+        </trans-unit>
+        <trans-unit id="cmdBack.Help" translate="yes" xml:space="preserve">
+          <source>Click to move to the previous page.</source>
+          <target state="new">Click to move to the previous page.</target>
+        </trans-unit>
+        <trans-unit id="cmdNext.Help" translate="yes" xml:space="preserve">
+          <source>Click to move to the next page.</source>
+          <target state="new">Click to move to the next page.</target>
+        </trans-unit>
+        <trans-unit id="Left.Text" translate="yes" xml:space="preserve">
+          <source>Left</source>
+          <target state="new">Left</target>
+        </trans-unit>
+        <trans-unit id="Right.Text" translate="yes" xml:space="preserve">
+          <source>Right</source>
+          <target state="new">Right</target>
+        </trans-unit>
+        <trans-unit id="Center.Text" translate="yes" xml:space="preserve">
+          <source>Center</source>
+          <target state="new">Center</target>
+        </trans-unit>
+        <trans-unit id="Maximized.Text" translate="yes" xml:space="preserve">
+          <source>Maximized</source>
+          <target state="new">Maximized</target>
+        </trans-unit>
+        <trans-unit id="Minimized.Text" translate="yes" xml:space="preserve">
+          <source>Minimized</source>
+          <target state="new">Minimized</target>
+        </trans-unit>
+        <trans-unit id="None.Text" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <target state="new">None</target>
+        </trans-unit>
+        <trans-unit id="Pages.Text" translate="yes" xml:space="preserve">
+          <source>Page {0} of {1}</source>
+          <target state="new">Page {0} of {1}</target>
+        </trans-unit>
+        <trans-unit id="cmdHelp.Text" translate="yes" xml:space="preserve">
+          <source>Help</source>
+          <target state="new">Help</target>
+        </trans-unit>
+        <trans-unit id="cmdHelp.Help" translate="yes" xml:space="preserve">
+          <source>Click to display Help for this page.</source>
+          <target state="new">Click to display Help for this page.</target>
+        </trans-unit>
+        <trans-unit id="DNN_Reading.Text" translate="yes" xml:space="preserve">
+          <source>Reading Installation Manifest file</source>
+          <target state="new">Reading Installation Manifest file</target>
+        </trans-unit>
+        <trans-unit id="DNN_Success.Text" translate="yes" xml:space="preserve">
+          <source>Manifest file finished successfully.</source>
+          <target state="new">Manifest file finished successfully.</target>
+        </trans-unit>
+        <trans-unit id="DNN_Valid.Text" translate="yes" xml:space="preserve">
+          <source>DNN file is in valid {0} format.</source>
+          <target state="new">DNN file is in valid {0} format.</target>
+        </trans-unit>
+        <trans-unit id="DNN_ValidSkinObject.Text" translate="yes" xml:space="preserve">
+          <source>DNN file is in valid 2.0 ThemeObject format.</source>
+          <target state="new">DNN file is in valid 2.0 ThemeObject format.</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION.Text" translate="yes" xml:space="preserve">
+          <source>Exception</source>
+          <target state="new">Exception</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_DesktopSrc.Text" translate="yes" xml:space="preserve">
+          <source>A module control must have a Desktopsrc value, aborting</source>
+          <target state="new">A module control must have a Desktopsrc value, aborting</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_FileLoad.Text" translate="yes" xml:space="preserve">
+          <source>File load failed, aborting</source>
+          <target state="new">File load failed, aborting</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_FileName.Text" translate="yes" xml:space="preserve">
+          <source>A file must have a name value, aborting</source>
+          <target state="new">A file must have a name value, aborting</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_FileRead.Text" translate="yes" xml:space="preserve">
+          <source>Could not read all the data: </source>
+          <target state="new">Could not read all the data: </target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_FolderDesc.Text" translate="yes" xml:space="preserve">
+          <source>A folder must have a description, aborting</source>
+          <target state="new">A folder must have a description, aborting</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_FolderName.Text" translate="yes" xml:space="preserve">
+          <source>A folder must have a name value, aborting</source>
+          <target state="new">A folder must have a name value, aborting</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_FolderProvider.Text" translate="yes" xml:space="preserve">
+          <source>A folder must have a provider type value, aborting</source>
+          <target state="new">A folder must have a provider type value, aborting</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_FolderVersion.Text" translate="yes" xml:space="preserve">
+          <source>A folder must have a version value, aborting</source>
+          <target state="new">A folder must have a version value, aborting</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_Format.Text" translate="yes" xml:space="preserve">
+          <source>Invalid Dnn format, aborting</source>
+          <target state="new">Invalid Dnn format, aborting</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_LoadFailed.Text" translate="yes" xml:space="preserve">
+          <source>Dnn load failed, aborting</source>
+          <target state="new">Dnn load failed, aborting</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_MissingDnn.Text" translate="yes" xml:space="preserve">
+          <source>Did not find any .dnn file ???</source>
+          <target state="new">Did not find any .dnn file ???</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_MissingResource.Text" translate="yes" xml:space="preserve">
+          <source>ResourceFile specified in the dnn could not be found in the zip file: </source>
+          <target state="new">ResourceFile specified in the dnn could not be found in the zip file: </target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_MultipleDnn.Text" translate="yes" xml:space="preserve">
+          <source>Found multiple .dnn files in the zip file: </source>
+          <target state="new">Found multiple .dnn files in the zip file: </target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_Src.Text" translate="yes" xml:space="preserve">
+          <source>A module control must have a src value, aborting</source>
+          <target state="new">A module control must have a src value, aborting</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_Type.Text" translate="yes" xml:space="preserve">
+          <source>A module control must have a type value, aborting</source>
+          <target state="new">A module control must have a type value, aborting</target>
+        </trans-unit>
+        <trans-unit id="FILE_Created.Text" translate="yes" xml:space="preserve">
+          <source>Created - {0}</source>
+          <target state="new">Created - {0}</target>
+        </trans-unit>
+        <trans-unit id="FILE_Found.Text" translate="yes" xml:space="preserve">
+          <source>Found valid path ({0}) for {1}.</source>
+          <target state="new">Found valid path ({0}) for {1}.</target>
+        </trans-unit>
+        <trans-unit id="FILE_Loading.Text" translate="yes" xml:space="preserve">
+          <source>Loading </source>
+          <target state="new">Loading </target>
+        </trans-unit>
+        <trans-unit id="FILE_NotFound.Text" translate="yes" xml:space="preserve">
+          <source>File specified in the dnn could not be found in the zip file: </source>
+          <target state="new">File specified in the dnn could not be found in the zip file: </target>
+        </trans-unit>
+        <trans-unit id="FILE_ReadSuccess.Text" translate="yes" xml:space="preserve">
+          <source>File {0} read successfully</source>
+          <target state="new">File {0} read successfully</target>
+        </trans-unit>
+        <trans-unit id="FILES_Created.Text" translate="yes" xml:space="preserve">
+          <source>Files created</source>
+          <target state="new">Files created</target>
+        </trans-unit>
+        <trans-unit id="FILES_CreatedResources.Text" translate="yes" xml:space="preserve">
+          <source>Resource Files created</source>
+          <target state="new">Resource Files created</target>
+        </trans-unit>
+        <trans-unit id="FILES_Creating.Text" translate="yes" xml:space="preserve">
+          <source>Creating files</source>
+          <target state="new">Creating files</target>
+        </trans-unit>
+        <trans-unit id="FILES_Expanding.Text" translate="yes" xml:space="preserve">
+          <source>Expanding Resource file</source>
+          <target state="new">Expanding Resource file</target>
+        </trans-unit>
+        <trans-unit id="FILES_Loading.Text" translate="yes" xml:space="preserve">
+          <source>Loading files info</source>
+          <target state="new">Loading files info</target>
+        </trans-unit>
+        <trans-unit id="FILES_Reading.Text" translate="yes" xml:space="preserve">
+          <source>Reading files</source>
+          <target state="new">Reading files</target>
+        </trans-unit>
+        <trans-unit id="FILES_ReadingEnd.Text" translate="yes" xml:space="preserve">
+          <source>Reading files done.</source>
+          <target state="new">Reading files done.</target>
+        </trans-unit>
+        <trans-unit id="INSTALL_Start.Text" translate="yes" xml:space="preserve">
+          <source>Starting Installation</source>
+          <target state="new">Starting Installation</target>
+        </trans-unit>
+        <trans-unit id="INSTALL_Success.Text" translate="yes" xml:space="preserve">
+          <source>Installation successful.</source>
+          <target state="new">Installation successful.</target>
+        </trans-unit>
+        <trans-unit id="REGISTER_Controls.Text" translate="yes" xml:space="preserve">
+          <source>Registering Controls</source>
+          <target state="new">Registering Controls</target>
+        </trans-unit>
+        <trans-unit id="REGISTER_Definition.Text" translate="yes" xml:space="preserve">
+          <source>Registering Definitions</source>
+          <target state="new">Registering Definitions</target>
+        </trans-unit>
+        <trans-unit id="REGISTER_End.Text" translate="yes" xml:space="preserve">
+          <source>Registering finished</source>
+          <target state="new">Registering finished</target>
+        </trans-unit>
+        <trans-unit id="REGISTER_Module.Text" translate="yes" xml:space="preserve">
+          <source>Registering DesktopModule</source>
+          <target state="new">Registering DesktopModule</target>
+        </trans-unit>
+        <trans-unit id="SQL_Begin.Text" translate="yes" xml:space="preserve">
+          <source>Begin Sql execution</source>
+          <target state="new">Begin Sql execution</target>
+        </trans-unit>
+        <trans-unit id="SQL_BeginFile.Text" translate="yes" xml:space="preserve">
+          <source>Start Sql execution: {0} file</source>
+          <target state="new">Start Sql execution: {0} file</target>
+        </trans-unit>
+        <trans-unit id="SQL_End.Text" translate="yes" xml:space="preserve">
+          <source>Finished Sql execution</source>
+          <target state="new">Finished Sql execution</target>
+        </trans-unit>
+        <trans-unit id="SQL_EndFile.Text" translate="yes" xml:space="preserve">
+          <source>End Sql execution: {0} file</source>
+          <target state="new">End Sql execution: {0} file</target>
+        </trans-unit>
+        <trans-unit id="SQL_Exceptions.Text" translate="yes" xml:space="preserve">
+          <source>SQL Execution resulted in following Exceptions: {0}{1}</source>
+          <target state="new">SQL Execution resulted in following Exceptions: {0}{1}</target>
+        </trans-unit>
+        <trans-unit id="SQL_Executing.Text" translate="yes" xml:space="preserve">
+          <source>Executing </source>
+          <target state="new">Executing </target>
+        </trans-unit>
+        <trans-unit id="SQL_UnknownFile.Text" translate="yes" xml:space="preserve">
+          <source>Unknown file encoding for {0}, aborting</source>
+          <target state="new">Unknown file encoding for {0}, aborting</target>
+        </trans-unit>
+        <trans-unit id="XML_Loaded.Text" translate="yes" xml:space="preserve">
+          <source>xml loaded.</source>
+          <target state="new">xml loaded.</target>
+        </trans-unit>
+        <trans-unit id="Folders.Text" translate="yes" xml:space="preserve">
+          <source>Folders:</source>
+          <target state="new">Folders:</target>
+        </trans-unit>
+        <trans-unit id="Files.Text" translate="yes" xml:space="preserve">
+          <source>Files:</source>
+          <target state="new">Files:</target>
+        </trans-unit>
+        <trans-unit id="Page.Text" translate="yes" xml:space="preserve">
+          <source>Page:</source>
+          <target state="new">Page:</target>
+        </trans-unit>
+        <trans-unit id="URL.Text" translate="yes" xml:space="preserve">
+          <source>URL:</source>
+          <target state="new">URL:</target>
+        </trans-unit>
+        <trans-unit id="Home.Text" translate="yes" xml:space="preserve">
+          <source>Home</source>
+          <target state="new">Home</target>
+        </trans-unit>
+        <trans-unit id="Maximize.Text" translate="yes" xml:space="preserve">
+          <source>Maximize</source>
+          <target state="new">Maximize</target>
+        </trans-unit>
+        <trans-unit id="Minimize.Text" translate="yes" xml:space="preserve">
+          <source>Minimize</source>
+          <target state="new">Minimize</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_DirectoryExists.Text" translate="yes" xml:space="preserve">
+          <source>Directory already exists</source>
+          <target state="new">Directory already exists</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION.DuplicateLocale.Text" translate="yes" xml:space="preserve">
+          <source>This locale is lready Defined</source>
+          <target state="new">This locale is lready Defined</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION.SaveLocale.Text" translate="yes" xml:space="preserve">
+          <source>A file operation failed. Please check resource file permissions so files can be edited.</source>
+          <target state="new">A file operation failed. Please check resource file permissions so files can be edited.</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.LoadFiles" translate="yes" xml:space="preserve">
+          <source>Load {0} resource files.</source>
+          <target state="new">Load {0} resource files.</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.Global" translate="yes" xml:space="preserve">
+          <source>global</source>
+          <target state="new">global</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.Control" translate="yes" xml:space="preserve">
+          <source>control</source>
+          <target state="new">control</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.Module" translate="yes" xml:space="preserve">
+          <source>module</source>
+          <target state="new">module</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.Admin" translate="yes" xml:space="preserve">
+          <source>admin</source>
+          <target state="new">admin</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.ArchiveFiles" translate="yes" xml:space="preserve">
+          <source>Create resource pack archive file.</source>
+          <target state="new">Create resource pack archive file.</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.LoadFromFolder" translate="yes" xml:space="preserve">
+          <source>Loading resource files from folder: {0}</source>
+          <target state="new">Loading resource files from folder: {0}</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.LoadFileName" translate="yes" xml:space="preserve">
+          <source>Loading resource file: {0}</source>
+          <target state="new">Loading resource file: {0}</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.SerializeManifest" translate="yes" xml:space="preserve">
+          <source>Manifest file successfully created.</source>
+          <target state="new">Manifest file successfully created.</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.SavedFile" translate="yes" xml:space="preserve">
+          <source>Resource File {0} saved to resource pack.</source>
+          <target state="new">Resource File {0} saved to resource pack.</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.CreateArchive" translate="yes" xml:space="preserve">
+          <source>Adding files to the resource pack: {0}</source>
+          <target state="new">Adding files to the resource pack: {0}</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.ERROR.SavingFile" translate="yes" xml:space="preserve">
+          <source>There was an error saving a file to the resource pack: {0}</source>
+          <target state="new">There was an error saving a file to the resource pack: {0}</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.ERROR.CreatingFile" translate="yes" xml:space="preserve">
+          <source>There was an error creating the resource pack file: {0}</source>
+          <target state="new">There was an error creating the resource pack file: {0}</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.ERROR.ManifestFile" translate="yes" xml:space="preserve">
+          <source>There was an error creating the manifest file: {0}</source>
+          <target state="new">There was an error creating the manifest file: {0}</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION.LangPack.ManifestZip" translate="yes" xml:space="preserve">
+          <source>There was an error reading the Language Pack manifest from the zip file. Error: {0}</source>
+          <target state="new">There was an error reading the Language Pack manifest from the zip file. Error: {0}</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION.LangPack.ManifestLoad" translate="yes" xml:space="preserve">
+          <source>There was an error loading the Language Pack manifest. Error: {0}</source>
+          <target state="new">There was an error loading the Language Pack manifest. Error: {0}</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION.LangPack.FileMissing" translate="yes" xml:space="preserve">
+          <source>File {0} missing in Language Pack manifest.</source>
+          <target state="new">File {0} missing in Language Pack manifest.</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION.LangPack.Install" translate="yes" xml:space="preserve">
+          <source>There was an error loading a Language Pack resource file. Error: {0}</source>
+          <target state="new">There was an error loading a Language Pack resource file. Error: {0}</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.Job.LoadManifest" translate="yes" xml:space="preserve">
+          <source>Load manifest file.</source>
+          <target state="new">Load manifest file.</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.Job.DeserializeManifest" translate="yes" xml:space="preserve">
+          <source>Deserializing manifest file.</source>
+          <target state="new">Deserializing manifest file.</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.Job.LoadFiles" translate="yes" xml:space="preserve">
+          <source>Unzipping language files</source>
+          <target state="new">Unzipping language files</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.Job.SaveFiles" translate="yes" xml:space="preserve">
+          <source>Importing language files</source>
+          <target state="new">Importing language files</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.Job.CreateLocale" translate="yes" xml:space="preserve">
+          <source>Creating/Updating the Locale</source>
+          <target state="new">Creating/Updating the Locale</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPackReader.LoadFiles" translate="yes" xml:space="preserve">
+          <source>Unzipping language file: {0}</source>
+          <target state="new">Unzipping language file: {0}</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPackReader.UnzipFiles" translate="yes" xml:space="preserve">
+          <source>Import file: {0}</source>
+          <target state="new">Import file: {0}</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPackReader.CreateLocale" translate="yes" xml:space="preserve">
+          <source>Creating Locale: {0}</source>
+          <target state="new">Creating Locale: {0}</target>
+        </trans-unit>
+        <trans-unit id="Wizard.Success.SuccessTitle" translate="yes" xml:space="preserve">
+          <source>Congratulations:</source>
+          <target state="new">Congratulations:</target>
+        </trans-unit>
+        <trans-unit id="Wizard.Success.SuccessDetail" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Congratulations.  The Wizard completed successfully.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Congratulations.  The Wizard completed successfully.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="Wizard.Success.FailureTitle" translate="yes" xml:space="preserve">
+          <source>Wizard Failed:</source>
+          <target state="new">Wizard Failed:</target>
+        </trans-unit>
+        <trans-unit id="Wizard.Success.FailureDetail" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Unfortunately there was an error with this Wizard.  Please review the message below, and check with your Provider.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Unfortunately there was an error with this Wizard.  Please review the message below, and check with your Provider.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="LOG.PAWriter.CreateManifest" translate="yes" xml:space="preserve">
+          <source>Create manifest file. {0}</source>
+          <target state="new">Create manifest file. {0}</target>
+        </trans-unit>
+        <trans-unit id="LOG.PAWriter.CreateArchive" translate="yes" xml:space="preserve">
+          <source>Adding files to the Module Package: {0}</source>
+          <target state="new">Adding files to the Module Package: {0}</target>
+        </trans-unit>
+        <trans-unit id="LOG.PAWriter.SavedFile" translate="yes" xml:space="preserve">
+          <source>File {0} saved to Module Package.</source>
+          <target state="new">File {0} saved to Module Package.</target>
+        </trans-unit>
+        <trans-unit id="LOG.PAWriter.ERROR.SavingFile" translate="yes" xml:space="preserve">
+          <source>There was an error saving a file to the Module Package: {0}</source>
+          <target state="new">There was an error saving a file to the Module Package: {0}</target>
+        </trans-unit>
+        <trans-unit id="LOG.PAWriter.CreateZipFile" translate="yes" xml:space="preserve">
+          <source>Creating Module Package: {0}</source>
+          <target state="new">Creating Module Package: {0}</target>
+        </trans-unit>
+        <trans-unit id="ModuleExpired.Text" translate="yes" xml:space="preserve">
+          <source>Module Expired - {0}</source>
+          <target state="new">Module Expired - {0}</target>
+        </trans-unit>
+        <trans-unit id="LOG.PALogger.Info" translate="yes" xml:space="preserve">
+          <source>Info</source>
+          <target state="new">Info</target>
+        </trans-unit>
+        <trans-unit id="LOG.PALogger.Warning" translate="yes" xml:space="preserve">
+          <source>Warning</source>
+          <target state="new">Warning</target>
+        </trans-unit>
+        <trans-unit id="LOG.PALogger.Failure" translate="yes" xml:space="preserve">
+          <source>Failure</source>
+          <target state="new">Failure</target>
+        </trans-unit>
+        <trans-unit id="LOG.PALogger.StartJob" translate="yes" xml:space="preserve">
+          <source>StartJob</source>
+          <target state="new">StartJob</target>
+        </trans-unit>
+        <trans-unit id="LOG.PALogger.EndJob" translate="yes" xml:space="preserve">
+          <source>EndJob</source>
+          <target state="new">EndJob</target>
+        </trans-unit>
+        <trans-unit id="AllUsers.Text" translate="yes" xml:space="preserve">
+          <source>All Users</source>
+          <target state="new">All Users</target>
+        </trans-unit>
+        <trans-unit id="Superuser.Text" translate="yes" xml:space="preserve">
+          <source>SuperUser</source>
+          <target state="new">SuperUser</target>
+        </trans-unit>
+        <trans-unit id="UnauthenticatedUsers.Text" translate="yes" xml:space="preserve">
+          <source>Unauthenticated Users</source>
+          <target state="new">Unauthenticated Users</target>
+        </trans-unit>
+        <trans-unit id="RestrictedFileType.Text" translate="yes" xml:space="preserve">
+          <source>The file {0} is a restricted file type. Valid file types include ( {1} ). Contact your hosting provider to upload a file type which is not supported.</source>
+          <target state="new">The file {0} is a restricted file type. Valid file types include ( {1} ). Contact your hosting provider to upload a file type which is not supported.</target>
+        </trans-unit>
+        <trans-unit id="SaveFileError.Text" translate="yes" xml:space="preserve">
+          <source>An error occurred when attempting to save the file {0}. Contact your hosting provider to ensure the appropriate security settings have been enabled on the server.</source>
+          <target state="new">An error occurred when attempting to save the file {0}. Contact your hosting provider to ensure the appropriate security settings have been enabled on the server.</target>
+        </trans-unit>
+        <trans-unit id="DiskSpaceExceeded.Text" translate="yes" xml:space="preserve">
+          <source>The file {0} exceeds the amount of disk space available. Contact your hosting provider to inquire about increasing your site disk space.</source>
+          <target state="new">The file {0} exceeds the amount of disk space available. Contact your hosting provider to inquire about increasing your site disk space.</target>
+        </trans-unit>
+        <trans-unit id="WordCleanButton.Text" translate="yes" xml:space="preserve">
+          <source>Clean MS Word HTML</source>
+          <target state="new">Clean MS Word HTML</target>
+        </trans-unit>
+        <trans-unit id="INSTALL_OlderVersion.Text" translate="yes" xml:space="preserve">
+          <source>Install aborted - The module being installed is older than the version which is already installed in your host application.</source>
+          <target state="new">Install aborted - The module being installed is older than the version which is already installed in your host application.</target>
+        </trans-unit>
+        <trans-unit id="INSTALL_Compatibility.Text" translate="yes" xml:space="preserve">
+          <source>Install aborted - The module being installed is not compatible with this version of DNN. An upgrade to version {0} is required.</source>
+          <target state="new">Install aborted - The module being installed is not compatible with this version of DNN. An upgrade to version {0} is required.</target>
+        </trans-unit>
+        <trans-unit id="INSTALL_Dependencies.Text" translate="yes" xml:space="preserve">
+          <source>Install aborted - The module being installed requires additional components which are not available in your environment.</source>
+          <target state="new">Install aborted - The module being installed requires additional components which are not available in your environment.</target>
+        </trans-unit>
+        <trans-unit id="INSTALL_Permissions.Text" translate="yes" xml:space="preserve">
+          <source>Install aborted - The package being installed requires more permissions than are currently available in your environment.  Permission required.</source>
+          <target state="new">Install aborted - The package being installed requires more permissions than are currently available in your environment.  Permission required.</target>
+        </trans-unit>
+        <trans-unit id="First.Text" translate="yes" xml:space="preserve">
+          <source>First</source>
+          <target state="new">First</target>
+        </trans-unit>
+        <trans-unit id="Next.Text" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="new">Next</target>
+        </trans-unit>
+        <trans-unit id="Previous.Text" translate="yes" xml:space="preserve">
+          <source>Previous</source>
+          <target state="new">Previous</target>
+        </trans-unit>
+        <trans-unit id="Last.Text" translate="yes" xml:space="preserve">
+          <source>Last</source>
+          <target state="new">Last</target>
+        </trans-unit>
+        <trans-unit id="Recordsperpage.Text" translate="yes" xml:space="preserve">
+          <source>Records per page</source>
+          <target state="new">Records per page</target>
+        </trans-unit>
+        <trans-unit id="Recordsperpage.Help" translate="yes" xml:space="preserve">
+          <source>Select the maximum number of records to display on a page.</source>
+          <target state="new">Select the maximum number of records to display on a page.</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPack.Provider" translate="yes" xml:space="preserve">
+          <source>provider</source>
+          <target state="new">provider</target>
+        </trans-unit>
+        <trans-unit id="InvalidFileName.Text" translate="yes" xml:space="preserve">
+          <source>Invalid File Name - Filename cannot contain  '</source>
+          <target state="new">Invalid File Name - Filename cannot contain  '</target>
+        </trans-unit>
+        <trans-unit id="AllRoles.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt; All Roles &gt;</it></source>
+          <target state="new"><it id="1" pos="open">&lt; All Roles &gt;</it></target>
+        </trans-unit>
+        <trans-unit id="GlobalRoles.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt; Global Roles &gt;</it></source>
+          <target state="new"><it id="1" pos="open">&lt; Global Roles &gt;</it></target>
+        </trans-unit>
+        <trans-unit id="Cancel.Action" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="InsertSmileyButton.Text" translate="yes" xml:space="preserve">
+          <source>Insert Smiley</source>
+          <target state="new">Insert Smiley</target>
+        </trans-unit>
+        <trans-unit id="RoleGroupFilter.Text" translate="yes" xml:space="preserve">
+          <source>Filter By Group:</source>
+          <target state="new">Filter By Group:</target>
+        </trans-unit>
+        <trans-unit id="DeleteItems.Confirm" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete these items?</source>
+          <target state="new">Are you sure you want to delete these items?</target>
+        </trans-unit>
+        <trans-unit id="RemoveItems.Confirm" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete these items?</source>
+          <target state="new">Are you sure you want to delete these items?</target>
+        </trans-unit>
+        <trans-unit id="PasswordMismatch.Text" translate="yes" xml:space="preserve">
+          <source>The passwords do not match.</source>
+          <target state="new">The passwords do not match.</target>
+        </trans-unit>
+        <trans-unit id="OnLine.Text" translate="yes" xml:space="preserve">
+          <source>Online</source>
+          <target state="new">Online</target>
+        </trans-unit>
+        <trans-unit id="Deleted.Text" translate="yes" xml:space="preserve">
+          <source>Deleted</source>
+          <target state="new">Deleted</target>
+        </trans-unit>
+        <trans-unit id="LOG.LangPackReader.ModuleWarning" translate="yes" xml:space="preserve">
+          <source>Resource file {0} was not saved because the module {1} is not installed.</source>
+          <target state="new">Resource file {0} was not saved because the module {1} is not installed.</target>
+        </trans-unit>
+        <trans-unit id="AdminOnly.Text" translate="yes" xml:space="preserve">
+          <source>Admin Only</source>
+          <target state="new">Admin Only</target>
+        </trans-unit>
+        <trans-unit id="MembersOnly.Text" translate="yes" xml:space="preserve">
+          <source>Members Only</source>
+          <target state="new">Members Only</target>
+        </trans-unit>
+        <trans-unit id="Public.Text" translate="yes" xml:space="preserve">
+          <source>Public</source>
+          <target state="new">Public</target>
+        </trans-unit>
+        <trans-unit id="Visibility.Text" translate="yes" xml:space="preserve">
+          <source>Visibility:</source>
+          <target state="new">Visibility:</target>
+        </trans-unit>
+        <trans-unit id="CreateProfileDefinitions.Error" translate="yes" xml:space="preserve">
+          <source>Error creating Profile Definitions.</source>
+          <target state="new">Error creating Profile Definitions.</target>
+        </trans-unit>
+        <trans-unit id="CreatePortal.Error" translate="yes" xml:space="preserve">
+          <source>Error creating site.</source>
+          <target state="new">Error creating site.</target>
+        </trans-unit>
+        <trans-unit id="CreateAdminUser.Error" translate="yes" xml:space="preserve">
+          <source>Error creating Administrator user account.</source>
+          <target state="new">Error creating Administrator user account.</target>
+        </trans-unit>
+        <trans-unit id="DeleteUploadFolder.Error" translate="yes" xml:space="preserve">
+          <source>Error deleting previous upload folder.</source>
+          <target state="new">Error deleting previous upload folder.</target>
+        </trans-unit>
+        <trans-unit id="ChildPortal.Error" translate="yes" xml:space="preserve">
+          <source>Error configuring child site.</source>
+          <target state="new">Error configuring child site.</target>
+        </trans-unit>
+        <trans-unit id="PortalTemplate.Error" translate="yes" xml:space="preserve">
+          <source>Error parsing site template.</source>
+          <target state="new">Error parsing site template.</target>
+        </trans-unit>
+        <trans-unit id="AdminTemplate.Error" translate="yes" xml:space="preserve">
+          <source>Error parsing admin template.</source>
+          <target state="new">Error parsing admin template.</target>
+        </trans-unit>
+        <trans-unit id="FilePermission.Error" translate="yes" xml:space="preserve">
+          <source>You do not have permissions to view the requested file.</source>
+          <target state="new">You do not have permissions to view the requested file.</target>
+        </trans-unit>
+        <trans-unit id="ModuleLoadWarning.Error" translate="yes" xml:space="preserve">
+          <source>Module Load Warning</source>
+          <target state="new">Module Load Warning</target>
+        </trans-unit>
+        <trans-unit id="ModuleLoadWarning.Text" translate="yes" xml:space="preserve">
+          <source>One or more of the modules on this page did not load.  This may be temporary.  Please refresh the page (click F5 in most browsers).  If the problem persists, please let the <bpt id="1">&lt;a href="mailto:{0}"&gt;</bpt>Site Administrator<ept id="1">&lt;/a&gt;</ept> know.</source>
+          <target state="new">One or more of the modules on this page did not load.  This may be temporary.  Please refresh the page (click F5 in most browsers).  If the problem persists, please let the <bpt id="1">&lt;a href="mailto:{0}"&gt;</bpt>Site Administrator<ept id="1">&lt;/a&gt;</ept> know.</target>
+        </trans-unit>
+        <trans-unit id="FTB_FolderCreated.Text" translate="yes" xml:space="preserve">
+          <source>Folder {0} created successfully.</source>
+          <target state="new">Folder {0} created successfully.</target>
+        </trans-unit>
+        <trans-unit id="FTB_FolderCreate.Error" translate="yes" xml:space="preserve">
+          <source>Unknown error creating folder.</source>
+          <target state="new">Unknown error creating folder.</target>
+        </trans-unit>
+        <trans-unit id="FTB_FolderCreate.Permission" translate="yes" xml:space="preserve">
+          <source>You do not have permission to create folders.</source>
+          <target state="new">You do not have permission to create folders.</target>
+        </trans-unit>
+        <trans-unit id="FTB_FolderDeleted.Text" translate="yes" xml:space="preserve">
+          <source>Folder {0} deleted successfully.</source>
+          <target state="new">Folder {0} deleted successfully.</target>
+        </trans-unit>
+        <trans-unit id="FTB_FolderDelete.Error" translate="yes" xml:space="preserve">
+          <source>Unknown error deleting folder.</source>
+          <target state="new">Unknown error deleting folder.</target>
+        </trans-unit>
+        <trans-unit id="FTB_FolderDelete.Permission" translate="yes" xml:space="preserve">
+          <source>You do not have permission to delete folders.</source>
+          <target state="new">You do not have permission to delete folders.</target>
+        </trans-unit>
+        <trans-unit id="FTB_ImageDeleted.Text" translate="yes" xml:space="preserve">
+          <source>Image {0} deleted successfully.</source>
+          <target state="new">Image {0} deleted successfully.</target>
+        </trans-unit>
+        <trans-unit id="FTB_ImageDelete.Error" translate="yes" xml:space="preserve">
+          <source>Unknown error deleting image.</source>
+          <target state="new">Unknown error deleting image.</target>
+        </trans-unit>
+        <trans-unit id="FTB_ImageDelete.Permission" translate="yes" xml:space="preserve">
+          <source>You do not have permission to delete images.</source>
+          <target state="new">You do not have permission to delete images.</target>
+        </trans-unit>
+        <trans-unit id="FTB_ImageUploaded.Text" translate="yes" xml:space="preserve">
+          <source>Image {0} uploaded successfully.</source>
+          <target state="new">Image {0} uploaded successfully.</target>
+        </trans-unit>
+        <trans-unit id="FTB_ImageUpload.Error" translate="yes" xml:space="preserve">
+          <source>Unknown error uploading image.</source>
+          <target state="new">Unknown error uploading image.</target>
+        </trans-unit>
+        <trans-unit id="FTB_ImageUploadNoFile.Text" translate="yes" xml:space="preserve">
+          <source>No file uploaded.</source>
+          <target state="new">No file uploaded.</target>
+        </trans-unit>
+        <trans-unit id="FTB_ImageUpload.Permission" translate="yes" xml:space="preserve">
+          <source>You do not have permission to upload images.</source>
+          <target state="new">You do not have permission to upload images.</target>
+        </trans-unit>
+        <trans-unit id="LastPortal.Text" translate="yes" xml:space="preserve">
+          <source>You cannot delete the last site in your database.</source>
+          <target state="new">You cannot delete the last site in your database.</target>
+        </trans-unit>
+        <trans-unit id="User.Text" translate="yes" xml:space="preserve">
+          <source>Username:</source>
+          <target state="new">Username:</target>
+        </trans-unit>
+        <trans-unit id="DisplayName.Text" translate="yes" xml:space="preserve">
+          <source>Display Name:</source>
+          <target state="new">Display Name:</target>
+        </trans-unit>
+        <trans-unit id="PageDisabled.Header" translate="yes" xml:space="preserve">
+          <source>Page Disabled</source>
+          <target state="new">Page Disabled</target>
+        </trans-unit>
+        <trans-unit id="PageDisabled.Text" translate="yes" xml:space="preserve">
+          <source>This page has been disabled and is only visible by users with Edit Permission for the page.</source>
+          <target state="new">This page has been disabled and is only visible by users with Edit Permission for the page.</target>
+        </trans-unit>
+        <trans-unit id="InvalidPasswordAnswer.Text" translate="yes" xml:space="preserve">
+          <source>Password Answer must be provided.</source>
+          <target state="new">Password Answer must be provided.</target>
+        </trans-unit>
+        <trans-unit id="InvalidPasswordQuestion.Text" translate="yes" xml:space="preserve">
+          <source>Password Question must be provided.</source>
+          <target state="new">Password Question must be provided.</target>
+        </trans-unit>
+        <trans-unit id="PasswordChanged.Text" translate="yes" xml:space="preserve">
+          <source>The password has been changed.</source>
+          <target state="new">The password has been changed.</target>
+        </trans-unit>
+        <trans-unit id="PasswordInvalid.Text" translate="yes" xml:space="preserve">
+          <source>You must enter a valid password.  Please check with the Site Administrator if you do not know the password requirements.</source>
+          <target state="new">You must enter a valid password.  Please check with the Site Administrator if you do not know the password requirements.</target>
+        </trans-unit>
+        <trans-unit id="PasswordMailError.Text" translate="yes" xml:space="preserve">
+          <source>The password has been reset, but there was an error sending the email reminder message.</source>
+          <target state="new">The password has been reset, but there was an error sending the email reminder message.</target>
+        </trans-unit>
+        <trans-unit id="PasswordMissing.Text" translate="yes" xml:space="preserve">
+          <source>You must provide your current password in order to change the password.</source>
+          <target state="new">You must provide your current password in order to change the password.</target>
+        </trans-unit>
+        <trans-unit id="PasswordNotDifferent.Text" translate="yes" xml:space="preserve">
+          <source>The new password is the same as the old password.  Please enter a different password.</source>
+          <target state="new">The new password is the same as the old password.  Please enter a different password.</target>
+        </trans-unit>
+        <trans-unit id="PasswordResetFailed.Text" translate="yes" xml:space="preserve">
+          <source>Your new password was not accepted for security reasons.  Please enter a password that you haven't used before and is long and complex enough to meet the site's password complexity requirements.</source>
+          <target state="new">Your new password was not accepted for security reasons.  Please enter a password that you haven't used before and is long and complex enough to meet the site's password complexity requirements.</target>
+        </trans-unit>
+        <trans-unit id="PasswordInadequate.Text" translate="yes" xml:space="preserve">
+          <source>Your new password was not accepted for security reasons. Please enter a password that is long and complex enough to meet the site's password complexity requirements.</source>
+          <target state="new">Your new password was not accepted for security reasons. Please enter a password that is long and complex enough to meet the site's password complexity requirements.</target>
+        </trans-unit>
+        <trans-unit id="PasswordBanned.Text" translate="yes" xml:space="preserve">
+          <source>Your new password was not accepted as it was banned or it was the same as your user name.</source>
+          <target state="new">Your new password was not accepted as it was banned or it was the same as your user name.</target>
+        </trans-unit>
+        <trans-unit id="PasswordResetFailed_UserUndefined.Text" translate="yes" xml:space="preserve">
+          <source>Your new password was not accepted for security reasons. Please choose a password which does not match a previously used password and ensure the user name is correct.</source>
+          <target state="new">Your new password was not accepted for security reasons. Please choose a password which does not match a previously used password and ensure the user name is correct.</target>
+        </trans-unit>
+        <trans-unit id="PasswordResetFailed_ResetLinkExpired.Text" translate="yes" xml:space="preserve">
+          <source>Your new password was not accepted for security reasons. The password reset link has expired and is no longer valid.</source>
+          <target state="new">Your new password was not accepted for security reasons. The password reset link has expired and is no longer valid.</target>
+        </trans-unit>
+        <trans-unit id="PasswordResetFailed_PasswordInHistory.Text" translate="yes" xml:space="preserve">
+          <source>Your new password was not accepted for security reasons. Please choose a password that hasn't been used before.</source>
+          <target state="new">Your new password was not accepted for security reasons. Please choose a password that hasn't been used before.</target>
+        </trans-unit>
+        <trans-unit id="PasswordResetFailed_WrongAnswer.Text" translate="yes" xml:space="preserve">
+          <source>Your new password was not accepted for security reasons. Please ensure the correct user name and answer were entered.</source>
+          <target state="new">Your new password was not accepted for security reasons. Please ensure the correct user name and answer were entered.</target>
+        </trans-unit>
+        <trans-unit id="InsecureAdmin.Text" translate="yes" xml:space="preserve">
+          <source>Your admin account is still using a known default password. Please go to the Admin-&gt;User Accounts menu and update the password. In addition, please ensure a valid email address is entered.</source>
+          <target state="new">Your admin account is still using a known default password. Please go to the Admin-&gt;User Accounts menu and update the password. In addition, please ensure a valid email address is entered.</target>
+        </trans-unit>
+        <trans-unit id="InsecureHost.Text" translate="yes" xml:space="preserve">
+          <source>Your host (Super User) account is still using a known default password. Please go to the Host-&gt;Super User Accounts menu and update the password.</source>
+          <target state="new">Your host (Super User) account is still using a known default password. Please go to the Host-&gt;Super User Accounts menu and update the password.</target>
+        </trans-unit>
+        <trans-unit id="InsecureDefaults.Text" translate="yes" xml:space="preserve">
+          <source>Both the default accounts (host and admin) are using known default passwords. Please go to the appropriate menu items (Host-&gt;Super User accounts and Admin-&gt;User accounts) and update the passwords. In addition, please ensure valid email addresses are entered.</source>
+          <target state="new">Both the default accounts (host and admin) are using known default passwords. Please go to the appropriate menu items (Host-&gt;Super User accounts and Admin-&gt;User accounts) and update the passwords. In addition, please ensure valid email addresses are entered.</target>
+        </trans-unit>
+        <trans-unit id="InsecureDefaults.Title" translate="yes" xml:space="preserve">
+          <source>Insecure account details</source>
+          <target state="new">Insecure account details</target>
+        </trans-unit>
+        <trans-unit id="PrivateMembership.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;strong&gt;</bpt>*Note:<ept id="1">&lt;/strong&gt;</ept> Membership to this site is private. Once your account information has been submitted, the Site Administrator will be notified and your application will be subjected to a screening procedure. If your application is authorized, you will receive notification that you can access the site.</source>
+          <target state="new"><bpt id="1">&lt;strong&gt;</bpt>*Note:<ept id="1">&lt;/strong&gt;</ept> Membership to this site is private. Once your account information has been submitted, the Site Administrator will be notified and your application will be subjected to a screening procedure. If your application is authorized, you will receive notification that you can access the site.</target>
+        </trans-unit>
+        <trans-unit id="PublicMembership.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;strong&gt;</bpt>*Note:<ept id="1">&lt;/strong&gt;</ept> Membership to this site is public. Once your account information has been submitted, you will be granted immediate access to the site.</source>
+          <target state="new"><bpt id="1">&lt;strong&gt;</bpt>*Note:<ept id="1">&lt;/strong&gt;</ept> Membership to this site is public. Once your account information has been submitted, you will be granted immediate access to the site.</target>
+        </trans-unit>
+        <trans-unit id="Register.Text" translate="yes" xml:space="preserve">
+          <source>User Registration</source>
+          <target state="new">User Registration</target>
+        </trans-unit>
+        <trans-unit id="Required.Text" translate="yes" xml:space="preserve">
+          <source> All fields marked with a red asterisk are required.</source>
+          <target state="new"> All fields marked with a red asterisk are required.</target>
+        </trans-unit>
+        <trans-unit id="VerifiedMembership.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;strong&gt;</bpt>*Note:<ept id="1">&lt;/strong&gt;</ept> Membership to this website is verified. Once your account information has been submitted, you will receive an email containing a link that you can use to verify your account.</source>
+          <target state="new"><bpt id="1">&lt;strong&gt;</bpt>*Note:<ept id="1">&lt;/strong&gt;</ept> Membership to this website is verified. Once your account information has been submitted, you will receive an email containing a link that you can use to verify your account.</target>
+        </trans-unit>
+        <trans-unit id="Captcha.Help" translate="yes" xml:space="preserve">
+          <source>Enter the security code.</source>
+          <target state="new">Enter the security code.</target>
+        </trans-unit>
+        <trans-unit id="Captcha.Text" translate="yes" xml:space="preserve">
+          <source>Security Code</source>
+          <target state="new">Security Code</target>
+        </trans-unit>
+        <trans-unit id="Password.Text" translate="yes" xml:space="preserve">
+          <source>Password:</source>
+          <target state="new">Password:</target>
+        </trans-unit>
+        <trans-unit id="Username.Text" translate="yes" xml:space="preserve">
+          <source>Username:</source>
+          <target state="new">Username:</target>
+        </trans-unit>
+        <trans-unit id="CaptchaText.Text" translate="yes" xml:space="preserve">
+          <source>Enter the code shown above in the box below.</source>
+          <target state="new">Enter the code shown above in the box below.</target>
+        </trans-unit>
+        <trans-unit id="InvalidCaptcha.Text" translate="yes" xml:space="preserve">
+          <source>Incorrect Security Code</source>
+          <target state="new">Incorrect Security Code</target>
+        </trans-unit>
+        <trans-unit id="CaptchaAlt.Text" translate="yes" xml:space="preserve">
+          <source>CAPTCHA image</source>
+          <target state="new">CAPTCHA image</target>
+        </trans-unit>
+        <trans-unit id="PrivateConfirmationMessage.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;strong&gt;</bpt>An email with your details has been sent to the Site Administrator for verification. You will be notified by email when your registration has been approved. In the meantime you can continue to browse this site.<ept id="1">&lt;/strong&gt;</ept>  </source>
+          <target state="new"><bpt id="1">&lt;strong&gt;</bpt>An email with your details has been sent to the Site Administrator for verification. You will be notified by email when your registration has been approved. In the meantime you can continue to browse this site.<ept id="1">&lt;/strong&gt;</ept>  </target>
+        </trans-unit>
+        <trans-unit id="DNN_ReadingComponent.Text" translate="yes" xml:space="preserve">
+          <source>Reading Component Manifest</source>
+          <target state="new">Reading Component Manifest</target>
+        </trans-unit>
+        <trans-unit id="DNN_ReadingPackage.Text" translate="yes" xml:space="preserve">
+          <source>Reading Package Manifest</source>
+          <target state="new">Reading Package Manifest</target>
+        </trans-unit>
+        <trans-unit id="AUTHENTICATION_LoginSrcMissing.Text" translate="yes" xml:space="preserve">
+          <source>Required field LoginControlSrc is missing from Manifest</source>
+          <target state="new">Required field LoginControlSrc is missing from Manifest</target>
+        </trans-unit>
+        <trans-unit id="AUTHENTICATION_ReadSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Parsed Authentication Manifest Successfully</source>
+          <target state="new">Parsed Authentication Manifest Successfully</target>
+        </trans-unit>
+        <trans-unit id="AUTHENTICATION_SettingsSrcMissing.Text" translate="yes" xml:space="preserve">
+          <source>Required field SettingsControlSrc is missing from Manifest</source>
+          <target state="new">Required field SettingsControlSrc is missing from Manifest</target>
+        </trans-unit>
+        <trans-unit id="AUTHENTICATION_TypeMissing.Text" translate="yes" xml:space="preserve">
+          <source>Required field Type is missing from Manifest</source>
+          <target state="new">Required field Type is missing from Manifest</target>
+        </trans-unit>
+        <trans-unit id="UNINSTALL_Start.Text" translate="yes" xml:space="preserve">
+          <source>Starting Package Uninstall</source>
+          <target state="new">Starting Package Uninstall</target>
+        </trans-unit>
+        <trans-unit id="UNINSTALL_Success.Text" translate="yes" xml:space="preserve">
+          <source>Package Uninstall Successful</source>
+          <target state="new">Package Uninstall Successful</target>
+        </trans-unit>
+        <trans-unit id="AUTHENTICATION_Registered.Text" translate="yes" xml:space="preserve">
+          <source>Authentication registered successfully - {0}</source>
+          <target state="new">Authentication registered successfully - {0}</target>
+        </trans-unit>
+        <trans-unit id="FILE_Deleted.Text" translate="yes" xml:space="preserve">
+          <source>Deleted - {0}</source>
+          <target state="new">Deleted - {0}</target>
+        </trans-unit>
+        <trans-unit id="UNINSTALL_StartComp.Text" translate="yes" xml:space="preserve">
+          <source>Starting Component Uninstall</source>
+          <target state="new">Starting Component Uninstall</target>
+        </trans-unit>
+        <trans-unit id="UNINSTALL_SuccessComp.Text" translate="yes" xml:space="preserve">
+          <source>Component Uninstall Successful</source>
+          <target state="new">Component Uninstall Successful</target>
+        </trans-unit>
+        <trans-unit id="COMPONENT_RollingBack.Text" translate="yes" xml:space="preserve">
+          <source>Rolling back component install</source>
+          <target state="new">Rolling back component install</target>
+        </trans-unit>
+        <trans-unit id="AUTHENTICATION_UnRegistered.Text" translate="yes" xml:space="preserve">
+          <source>Authentication unregistered successfully - {0}</source>
+          <target state="new">Authentication unregistered successfully - {0}</target>
+        </trans-unit>
+        <trans-unit id="COMPONENT_Installed.Text" translate="yes" xml:space="preserve">
+          <source>Component installed successfully</source>
+          <target state="new">Component installed successfully</target>
+        </trans-unit>
+        <trans-unit id="COMPONENT_RolledBack.Text" translate="yes" xml:space="preserve">
+          <source>Component rolled back successfully</source>
+          <target state="new">Component rolled back successfully</target>
+        </trans-unit>
+        <trans-unit id="INSTALL_Committed.Text" translate="yes" xml:space="preserve">
+          <source>Installation committed</source>
+          <target state="new">Installation committed</target>
+        </trans-unit>
+        <trans-unit id="COMPONENT_UnInstalled.Text" translate="yes" xml:space="preserve">
+          <source>Component uninstalled successfully</source>
+          <target state="new">Component uninstalled successfully</target>
+        </trans-unit>
+        <trans-unit id="ASSEMBLY_Registered.Text" translate="yes" xml:space="preserve">
+          <source>Assembly already registered</source>
+          <target state="new">Assembly already registered</target>
+        </trans-unit>
+        <trans-unit id="ASSEMBLY_UnRegistered.Text" translate="yes" xml:space="preserve">
+          <source>Assembly unregistered</source>
+          <target state="new">Assembly unregistered</target>
+        </trans-unit>
+        <trans-unit id="INSTALL_Failed.Text" translate="yes" xml:space="preserve">
+          <source>Installation Failed</source>
+          <target state="new">Installation Failed</target>
+        </trans-unit>
+        <trans-unit id="FILE_CreateBackup.Text" translate="yes" xml:space="preserve">
+          <source>Creating backup of previous version - {0}</source>
+          <target state="new">Creating backup of previous version - {0}</target>
+        </trans-unit>
+        <trans-unit id="FILE_RestoreBackup.Text" translate="yes" xml:space="preserve">
+          <source>Restored backup of previous version - {0}</source>
+          <target state="new">Restored backup of previous version - {0}</target>
+        </trans-unit>
+        <trans-unit id="ASSEMBLY_Added.Text" translate="yes" xml:space="preserve">
+          <source>Assembly registered</source>
+          <target state="new">Assembly registered</target>
+        </trans-unit>
+        <trans-unit id="ASSEMBLY_AddedBindingRedirect.Text" translate="yes" xml:space="preserve">
+          <source>Binding redirect added for assembly</source>
+          <target state="new">Binding redirect added for assembly</target>
+        </trans-unit>
+        <trans-unit id="ASSEMBLY_RemovedBindingRedirect.Text" translate="yes" xml:space="preserve">
+          <source>Binding redirect removed for assembly</source>
+          <target state="new">Binding redirect removed for assembly</target>
+        </trans-unit>
+        <trans-unit id="ASSEMBLY_Updated.Text" translate="yes" xml:space="preserve">
+          <source>Assembly updated</source>
+          <target state="new">Assembly updated</target>
+        </trans-unit>
+        <trans-unit id="FOLDER_DeletedBackup.Text" translate="yes" xml:space="preserve">
+          <source>Deleted temporary install folder</source>
+          <target state="new">Deleted temporary install folder</target>
+        </trans-unit>
+        <trans-unit id="ASSEMBLY_InUse.Text" translate="yes" xml:space="preserve">
+          <source>Assembly in use by another package</source>
+          <target state="new">Assembly in use by another package</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_NameMissing.Text" translate="yes" xml:space="preserve">
+          <source>The name element is required</source>
+          <target state="new">The name element is required</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_TypeMissing.Text" translate="yes" xml:space="preserve">
+          <source>The type element is required</source>
+          <target state="new">The type element is required</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_VersionMissing.Text" translate="yes" xml:space="preserve">
+          <source>The version element is required</source>
+          <target state="new">The version element is required</target>
+        </trans-unit>
+        <trans-unit id="INSTALL_Aborted.Text" translate="yes" xml:space="preserve">
+          <source>Package Installation aborted</source>
+          <target state="new">Package Installation aborted</target>
+        </trans-unit>
+        <trans-unit id="INSTALL_Package.Text" translate="yes" xml:space="preserve">
+          <source>A dependent package is not installed</source>
+          <target state="new">A dependent package is not installed</target>
+        </trans-unit>
+        <trans-unit id="INSTALL_Version.Text" translate="yes" xml:space="preserve">
+          <source>A newer version of this package is already installed</source>
+          <target state="new">A newer version of this package is already installed</target>
+        </trans-unit>
+        <trans-unit id="INSTALL_Namespace.Text" translate="yes" xml:space="preserve">
+          <source>A dependent component is not installed</source>
+          <target state="new">A dependent component is not installed</target>
+        </trans-unit>
+        <trans-unit id="XMLMERGE_Upgrade.Text" translate="yes" xml:space="preserve">
+          <source>Upgraded by {1} version {2} - Date: {3}</source>
+          <target state="new">Upgraded by {1} version {2} - Date: {3}</target>
+        </trans-unit>
+        <trans-unit id="CONFIG_Committed.Text" translate="yes" xml:space="preserve">
+          <source>Config file changes committed</source>
+          <target state="new">Config file changes committed</target>
+        </trans-unit>
+        <trans-unit id="CONFIG_RolledBack.Text" translate="yes" xml:space="preserve">
+          <source>Config file changes rolled back</source>
+          <target state="new">Config file changes rolled back</target>
+        </trans-unit>
+        <trans-unit id="CONFIG_Updated.Text" translate="yes" xml:space="preserve">
+          <source>Config file updated</source>
+          <target state="new">Config file updated</target>
+        </trans-unit>
+        <trans-unit id="SQL_Committed.Text" translate="yes" xml:space="preserve">
+          <source>SQL script changes committed</source>
+          <target state="new">SQL script changes committed</target>
+        </trans-unit>
+        <trans-unit id="SQL_RolledBack.Text" translate="yes" xml:space="preserve">
+          <source>SQL script changes rolled back</source>
+          <target state="new">SQL script changes rolled back</target>
+        </trans-unit>
+        <trans-unit id="SQL_BeginUnInstall.Text" translate="yes" xml:space="preserve">
+          <source>Begin Sql UnInstall</source>
+          <target state="new">Begin Sql UnInstall</target>
+        </trans-unit>
+        <trans-unit id="SQL_EndUnInstall.Text" translate="yes" xml:space="preserve">
+          <source>End Sql UnInstall</source>
+          <target state="new">End Sql UnInstall</target>
+        </trans-unit>
+        <trans-unit id="FOLDER_Created.Text" translate="yes" xml:space="preserve">
+          <source>Folder Created - {0}</source>
+          <target state="new">Folder Created - {0}</target>
+        </trans-unit>
+        <trans-unit id="SECURITY_Installer.Text" translate="yes" xml:space="preserve">
+          <source>You do not have access to install this component.</source>
+          <target state="new">You do not have access to install this component.</target>
+        </trans-unit>
+        <trans-unit id="SECURITY_NotRegistered.Text" translate="yes" xml:space="preserve">
+          <source>This package type is not registered.</source>
+          <target state="new">This package type is not registered.</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_InstallerCreate.Text" translate="yes" xml:space="preserve">
+          <source>Error creating component installer.</source>
+          <target state="new">Error creating component installer.</target>
+        </trans-unit>
+        <trans-unit id="TokenReplaceUnknownProperty.Text" translate="yes" xml:space="preserve">
+          <source>Unknown Property</source>
+          <target state="new">Unknown Property</target>
+        </trans-unit>
+        <trans-unit id="UserDeleteError.Text" translate="yes" xml:space="preserve">
+          <source>Error deleting user</source>
+          <target state="new">Error deleting user</target>
+        </trans-unit>
+        <trans-unit id="SKIN_BeginProcessing.Text" translate="yes" xml:space="preserve">
+          <source>Begin processing of theme files.</source>
+          <target state="new">Begin processing of theme files.</target>
+        </trans-unit>
+        <trans-unit id="SKIN_EndProcessing.Text" translate="yes" xml:space="preserve">
+          <source>End processing of theme files.</source>
+          <target state="new">End processing of theme files.</target>
+        </trans-unit>
+        <trans-unit id="MODULE_ControlKeyMissing.Text" translate="yes" xml:space="preserve">
+          <source>Module Control Key Missing</source>
+          <target state="new">Module Control Key Missing</target>
+        </trans-unit>
+        <trans-unit id="MODULE_ControlTypeMissing.Text" translate="yes" xml:space="preserve">
+          <source>Module Control Type Missing</source>
+          <target state="new">Module Control Type Missing</target>
+        </trans-unit>
+        <trans-unit id="MODULE_FriendlyNameMissing.Text" translate="yes" xml:space="preserve">
+          <source>Module FriendlyName Missing</source>
+          <target state="new">Module FriendlyName Missing</target>
+        </trans-unit>
+        <trans-unit id="MODULE_ReadSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Module Manifest read successfully</source>
+          <target state="new">Module Manifest read successfully</target>
+        </trans-unit>
+        <trans-unit id="MODULE_Registered.Text" translate="yes" xml:space="preserve">
+          <source>Module registered successfully - {0}</source>
+          <target state="new">Module registered successfully - {0}</target>
+        </trans-unit>
+        <trans-unit id="MODULE_UnRegistered.Text" translate="yes" xml:space="preserve">
+          <source>Module un-registered successfully - {0}</source>
+          <target state="new">Module un-registered successfully - {0}</target>
+        </trans-unit>
+        <trans-unit id="MODULE_AdminPagemoduleAdded.Text" translate="yes" xml:space="preserve">
+          <source>Module added to Admin page {0} on portal {1}.</source>
+          <target state="new">Module added to Admin page {0} on portal {1}.</target>
+        </trans-unit>
+        <trans-unit id="MODULE_AdminPagemoduleRemoved.Text" translate="yes" xml:space="preserve">
+          <source>Module removed from Admin page {0} on portal {1}.</source>
+          <target state="new">Module removed from Admin page {0} on portal {1}.</target>
+        </trans-unit>
+        <trans-unit id="MODULE_AdminPageRemoved.Text" translate="yes" xml:space="preserve">
+          <source>Admin page {0} removed from portal {1}.</source>
+          <target state="new">Admin page {0} removed from portal {1}.</target>
+        </trans-unit>
+        <trans-unit id="MODULE_AdminPageAdded.Text" translate="yes" xml:space="preserve">
+          <source>Admin page {0} added to portal {1}.</source>
+          <target state="new">Admin page {0} added to portal {1}.</target>
+        </trans-unit>
+        <trans-unit id="MODULE_HostAdded.Text" translate="yes" xml:space="preserve">
+          <source>Module added Host page {0}.</source>
+          <target state="new">Module added Host page {0}.</target>
+        </trans-unit>
+        <trans-unit id="MODULE_HostPageAdded.Text" translate="yes" xml:space="preserve">
+          <source>Host page {0} added.</source>
+          <target state="new">Host page {0} added.</target>
+        </trans-unit>
+        <trans-unit id="MODULE_HostPagemoduleAdded.Text" translate="yes" xml:space="preserve">
+          <source>Module added to Host page {0}.</source>
+          <target state="new">Module added to Host page {0}.</target>
+        </trans-unit>
+        <trans-unit id="MODULE_HostPageRemoved.Text" translate="yes" xml:space="preserve">
+          <source>Host page {0} removed.</source>
+          <target state="new">Host page {0} removed.</target>
+        </trans-unit>
+        <trans-unit id="MODULE_HostPagemoduleRemoved.Text" translate="yes" xml:space="preserve">
+          <source>Module removed from Host page {0}.</source>
+          <target state="new">Module removed from Host page {0}.</target>
+        </trans-unit>
+        <trans-unit id="PACKAGE_NoLicense.Text" translate="yes" xml:space="preserve">
+          <source>The license for this package is not currently included within the installation file, please check with the vendor for full license details.</source>
+          <target state="new">The license for this package is not currently included within the installation file, please check with the vendor for full license details.</target>
+        </trans-unit>
+        <trans-unit id="PACKAGE_NoReleaseNotes.Text" translate="yes" xml:space="preserve">
+          <source>This package has no Release Notes</source>
+          <target state="new">This package has no Release Notes</target>
+        </trans-unit>
+        <trans-unit id="FOLDER_Deleted.Text" translate="yes" xml:space="preserve">
+          <source>Folder Deleted - {0}</source>
+          <target state="new">Folder Deleted - {0}</target>
+        </trans-unit>
+        <trans-unit id="UNINSTALL_Failure.Text" translate="yes" xml:space="preserve">
+          <source>Component Uninstall Failure</source>
+          <target state="new">Component Uninstall Failure</target>
+        </trans-unit>
+        <trans-unit id="WRITER_CreateArchive.Text" translate="yes" xml:space="preserve">
+          <source>Creating zip Archive - {0}</source>
+          <target state="new">Creating zip Archive - {0}</target>
+        </trans-unit>
+        <trans-unit id="WRITER_SavedFile.Text" translate="yes" xml:space="preserve">
+          <source>Saved file to Archive - {0}</source>
+          <target state="new">Saved file to Archive - {0}</target>
+        </trans-unit>
+        <trans-unit id="WRITER_SaveFileError.Text" translate="yes" xml:space="preserve">
+          <source>Error Saving File to Archive - {0}</source>
+          <target state="new">Error Saving File to Archive - {0}</target>
+        </trans-unit>
+        <trans-unit id="SKIN_Registered.Text" translate="yes" xml:space="preserve">
+          <source>Theme Package Registered successfully - {0}</source>
+          <target state="new">Theme Package Registered successfully - {0}</target>
+        </trans-unit>
+        <trans-unit id="SKIN_UnRegistered.Text" translate="yes" xml:space="preserve">
+          <source>Theme Package Unregistered successfully - {0}</source>
+          <target state="new">Theme Package Unregistered successfully - {0}</target>
+        </trans-unit>
+        <trans-unit id="WRITER_AddFileToManifest.Text" translate="yes" xml:space="preserve">
+          <source>Added File to manifest - {0}</source>
+          <target state="new">Added File to manifest - {0}</target>
+        </trans-unit>
+        <trans-unit id="WRITER_CreatedManifest.Text" translate="yes" xml:space="preserve">
+          <source>Created Manifest</source>
+          <target state="new">Created Manifest</target>
+        </trans-unit>
+        <trans-unit id="WRITER_CreatedPackage.Text" translate="yes" xml:space="preserve">
+          <source>Created Package</source>
+          <target state="new">Created Package</target>
+        </trans-unit>
+        <trans-unit id="WRITER_CreatingManifest.Text" translate="yes" xml:space="preserve">
+          <source>Creating Manifest</source>
+          <target state="new">Creating Manifest</target>
+        </trans-unit>
+        <trans-unit id="WRITER_CreatingPackage.Text" translate="yes" xml:space="preserve">
+          <source>Creating Package</source>
+          <target state="new">Creating Package</target>
+        </trans-unit>
+        <trans-unit id="PACKAGE_UnRecognizable.Text" translate="yes" xml:space="preserve">
+          <source>Unrecognizable Package manifest</source>
+          <target state="new">Unrecognizable Package manifest</target>
+        </trans-unit>
+        <trans-unit id="LANGUAGE_Registered.Text" translate="yes" xml:space="preserve">
+          <source>Language Pack Registered successfully - {0}</source>
+          <target state="new">Language Pack Registered successfully - {0}</target>
+        </trans-unit>
+        <trans-unit id="LANGUAGE_UnRegistered.Text" translate="yes" xml:space="preserve">
+          <source>Language Pack Unregistered successfully - {0}</source>
+          <target state="new">Language Pack Unregistered successfully - {0}</target>
+        </trans-unit>
+        <trans-unit id="DisplayEnglish.Text" translate="yes" xml:space="preserve">
+          <source>Display English Name</source>
+          <target state="new">Display English Name</target>
+        </trans-unit>
+        <trans-unit id="DisplayNative.Text" translate="yes" xml:space="preserve">
+          <source>Display Native Name</source>
+          <target state="new">Display Native Name</target>
+        </trans-unit>
+        <trans-unit id="CLEANUP_ProcessComplete.Text" translate="yes" xml:space="preserve">
+          <source>Completed Processing of Cleanup File - {0}</source>
+          <target state="new">Completed Processing of Cleanup File - {0}</target>
+        </trans-unit>
+        <trans-unit id="CLEANUP_Processing.Text" translate="yes" xml:space="preserve">
+          <source>Processing Cleanup File - {0}</source>
+          <target state="new">Processing Cleanup File - {0}</target>
+        </trans-unit>
+        <trans-unit id="LANGUAGE_PortalsEnabled.Text" translate="yes" xml:space="preserve">
+          <source>Language Enabled for all Websites - {0}</source>
+          <target state="new">Language Enabled for all Websites - {0}</target>
+        </trans-unit>
+        <trans-unit id="PermissionTypeGrant.Text" translate="yes" xml:space="preserve">
+          <source>Permission Granted</source>
+          <target state="new">Permission Granted</target>
+        </trans-unit>
+        <trans-unit id="PermissionTypeDeny.Text" translate="yes" xml:space="preserve">
+          <source>Permission Denied</source>
+          <target state="new">Permission Denied</target>
+        </trans-unit>
+        <trans-unit id="PermissionTypeNull.Text" translate="yes" xml:space="preserve">
+          <source>Not Specified</source>
+          <target state="new">Not Specified</target>
+        </trans-unit>
+        <trans-unit id="FailedRecipient.Text" translate="yes" xml:space="preserve">
+          <source>The message was not delivered to the following address(es) - {0}</source>
+          <target state="new">The message was not delivered to the following address(es) - {0}</target>
+        </trans-unit>
+        <trans-unit id="SMTPConfigurationProblem.Text" translate="yes" xml:space="preserve">
+          <source>There is a problem with the configuration of your SMTP Server.  Mail was not sent.</source>
+          <target state="new">There is a problem with the configuration of your SMTP Server.  Mail was not sent.</target>
+        </trans-unit>
+        <trans-unit id="FILE_NotAllowed.Text" translate="yes" xml:space="preserve">
+          <source>File extension not allowed - {0}</source>
+          <target state="new">File extension not allowed - {0}</target>
+        </trans-unit>
+        <trans-unit id="InsufficientFolderPermission.Text" translate="yes" xml:space="preserve">
+          <source>You do not have sufficient permissions to write to folder {0}.  Please contact your hosting provider to ensure the appropriate security settings have been enabled on the server.</source>
+          <target state="new">You do not have sufficient permissions to write to folder {0}.  Please contact your hosting provider to ensure the appropriate security settings have been enabled on the server.</target>
+        </trans-unit>
+        <trans-unit id="UNINSTALL_WarningsComp.Text" translate="yes" xml:space="preserve">
+          <source>Component Uninstalled with Warnings</source>
+          <target state="new">Component Uninstalled with Warnings</target>
+        </trans-unit>
+        <trans-unit id="UNINSTALL_Warnings.Text" translate="yes" xml:space="preserve">
+          <source>Uninstalled with Warnings</source>
+          <target state="new">Uninstalled with Warnings</target>
+        </trans-unit>
+        <trans-unit id="FileInUse.Text" translate="yes" xml:space="preserve">
+          <source>The file - {0} - appears to be in use and cannot be deleted at this time.  Please wait for a few minutes and try again.</source>
+          <target state="new">The file - {0} - appears to be in use and cannot be deleted at this time.  Please wait for a few minutes and try again.</target>
+        </trans-unit>
+        <trans-unit id="GreenSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Success</source>
+          <target state="new">Success</target>
+        </trans-unit>
+        <trans-unit id="RedError.Text" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <target state="new">Error</target>
+        </trans-unit>
+        <trans-unit id="YellowWarning.Text" translate="yes" xml:space="preserve">
+          <source>Warning</source>
+          <target state="new">Warning</target>
+        </trans-unit>
+        <trans-unit id="SelectedRole.Text" translate="yes" xml:space="preserve">
+          <source>Selected Role</source>
+          <target state="new">Selected Role</target>
+        </trans-unit>
+        <trans-unit id="jQuery.NotInstalled.Text" translate="yes" xml:space="preserve">
+          <source>jQuery is not installed.</source>
+          <target state="new">jQuery is not installed.</target>
+        </trans-unit>
+        <trans-unit id="jQuery.UnknownVersion.Text" translate="yes" xml:space="preserve">
+          <source>Unable to determine jQuery Version.</source>
+          <target state="new">Unable to determine jQuery Version.</target>
+        </trans-unit>
+        <trans-unit id="SendMail.Error" translate="yes" xml:space="preserve">
+          <source>There was an error sending confirmation emails - {0}  However your user account was created successfully.</source>
+          <target state="new">There was an error sending confirmation emails - {0}  However your user account was created successfully.</target>
+        </trans-unit>
+        <trans-unit id="TokenReplaceUnknownObject.Text" translate="yes" xml:space="preserve">
+          <source>Error accessing [{0}:{1}], {0} is an unknown datasource.</source>
+          <target state="new">Error accessing [{0}:{1}], {0} is an unknown datasource.</target>
+        </trans-unit>
+        <trans-unit id="DASHBOARD_KeyMissing.Text" translate="yes" xml:space="preserve">
+          <source>Required field Key is missing from Manifest.</source>
+          <target state="new">Required field Key is missing from Manifest.</target>
+        </trans-unit>
+        <trans-unit id="DASHBOARD_LocalResourcesMissing.Text" translate="yes" xml:space="preserve">
+          <source>Required field LocalResources is missing from Manifest.</source>
+          <target state="new">Required field LocalResources is missing from Manifest.</target>
+        </trans-unit>
+        <trans-unit id="DASHBOARD_ReadSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Parsed Dashboard Control Manifest successfully.</source>
+          <target state="new">Parsed Dashboard Control Manifest successfully.</target>
+        </trans-unit>
+        <trans-unit id="DASHBOARD_Registered.Text" translate="yes" xml:space="preserve">
+          <source>Dashboard Control registered successfully.</source>
+          <target state="new">Dashboard Control registered successfully.</target>
+        </trans-unit>
+        <trans-unit id="DASHBOARD_SrcMissing.Text" translate="yes" xml:space="preserve">
+          <source>Required field Src is missing from Manifest.</source>
+          <target state="new">Required field Src is missing from Manifest.</target>
+        </trans-unit>
+        <trans-unit id="DASHBOARD_UnRegistered.Text" translate="yes" xml:space="preserve">
+          <source>Dashboard Control unregistered successfully.</source>
+          <target state="new">Dashboard Control unregistered successfully.</target>
+        </trans-unit>
+        <trans-unit id="SKIN_Installed.Text" translate="yes" xml:space="preserve">
+          <source>Theme already installed with a different Package Name.</source>
+          <target state="new">Theme already installed with a different Package Name.</target>
+        </trans-unit>
+        <trans-unit id="ModuleEffective.Text" translate="yes" xml:space="preserve">
+          <source>Module Effective - {0}</source>
+          <target state="new">Module Effective - {0}</target>
+        </trans-unit>
+        <trans-unit id="ModuleVisibleAdministrator.Text" translate="yes" xml:space="preserve">
+          <source>Visible by Administrators only.</source>
+          <target state="new">Visible by Administrators only.</target>
+        </trans-unit>
+        <trans-unit id="PortalRoot.Text" translate="yes" xml:space="preserve">
+          <source>Site Root</source>
+          <target state="new">Site Root</target>
+        </trans-unit>
+        <trans-unit id="False.Text" translate="yes" xml:space="preserve">
+          <source>False</source>
+          <target state="new">False</target>
+        </trans-unit>
+        <trans-unit id="True.Text" translate="yes" xml:space="preserve">
+          <source>True</source>
+          <target state="new">True</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_InvalidEmailAddress.Text" translate="yes" xml:space="preserve">
+          <source>The email address ({0}) is not in a valid format.</source>
+          <target state="new">The email address ({0}) is not in a valid format.</target>
+        </trans-unit>
+        <trans-unit id="EXCEPTION_ModuleCacheMissing.Text" translate="yes" xml:space="preserve">
+          <source>The ModuleCachingProvider is not properly configured.  Please verify that the moduleCaching provider configuration exists in the web.config and that a default provider is specified.</source>
+          <target state="new">The ModuleCachingProvider is not properly configured.  Please verify that the moduleCaching provider configuration exists in the web.config and that a default provider is specified.</target>
+        </trans-unit>
+        <trans-unit id="File.Text" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="Localization_NotLocalized.Text" translate="yes" xml:space="preserve">
+          <source>Not localized</source>
+          <target state="new">Not localized</target>
+        </trans-unit>
+        <trans-unit id="Localization_NotTranslated.Text" translate="yes" xml:space="preserve">
+          <source>Not translated</source>
+          <target state="new">Not translated</target>
+        </trans-unit>
+        <trans-unit id="Localization_OutOfDate.Text" translate="yes" xml:space="preserve">
+          <source>Out of date</source>
+          <target state="new">Out of date</target>
+        </trans-unit>
+        <trans-unit id="Localization_Translated.Text" translate="yes" xml:space="preserve">
+          <source>Translated</source>
+          <target state="new">Translated</target>
+        </trans-unit>
+        <trans-unit id="DeLocalizeModule.Confirm" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delocalize this module?</source>
+          <target state="new">Are you sure you want to delocalize this module?</target>
+        </trans-unit>
+        <trans-unit id="LocalizeModule.Confirm" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to localize this module?</source>
+          <target state="new">Are you sure you want to localize this module?</target>
+        </trans-unit>
+        <trans-unit id="TranslateModule.Confirm" translate="yes" xml:space="preserve">
+          <source>Are yu sure you want to mark this module as translated?</source>
+          <target state="new">Are yu sure you want to mark this module as translated?</target>
+        </trans-unit>
+        <trans-unit id="UnTranslateModule.Confirm" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to mark this module as not translated?</source>
+          <target state="new">Are you sure you want to mark this module as not translated?</target>
+        </trans-unit>
+        <trans-unit id="System_Default.Text" translate="yes" xml:space="preserve">
+          <source>System Default</source>
+          <target state="new">System Default</target>
+        </trans-unit>
+        <trans-unit id="LanguageNotSelected.Text" translate="yes" xml:space="preserve">
+          <source>You have not selected a preferred locale.  Your preferred locale will therefore default to the site's default locale.</source>
+          <target state="new">You have not selected a preferred locale.  Your preferred locale will therefore default to the site's default locale.</target>
+        </trans-unit>
+        <trans-unit id="DefaultFolderMappings.Error" translate="yes" xml:space="preserve">
+          <source>Error creating Default Folder Types</source>
+          <target state="new">Error creating Default Folder Types</target>
+        </trans-unit>
+        <trans-unit id="jQuery.UI.UnknownVersion.Text" translate="yes" xml:space="preserve">
+          <source>Unable to determine jQuery UI Version.</source>
+          <target state="new">Unable to determine jQuery UI Version.</target>
+        </trans-unit>
+        <trans-unit id="jQueryUI.NotInstalled.Text" translate="yes" xml:space="preserve">
+          <source>jQuery UI is not Installed.</source>
+          <target state="new">jQuery UI is not Installed.</target>
+        </trans-unit>
+        <trans-unit id="Confirm.Text" translate="yes" xml:space="preserve">
+          <source>Confirm</source>
+          <target state="new">Confirm</target>
+        </trans-unit>
+        <trans-unit id="RequiredFields.Text" translate="yes" xml:space="preserve">
+          <source>Indicates required fields</source>
+          <target state="new">Indicates required fields</target>
+        </trans-unit>
+        <trans-unit id="CollapseAll.Text" translate="yes" xml:space="preserve">
+          <source>Collapse All</source>
+          <target state="new">Collapse All</target>
+        </trans-unit>
+        <trans-unit id="ExpandAll.Text" translate="yes" xml:space="preserve">
+          <source>Expand All</source>
+          <target state="new">Expand All</target>
+        </trans-unit>
+        <trans-unit id="Ok.Text" translate="yes" xml:space="preserve">
+          <source>Ok</source>
+          <target state="new">Ok</target>
+        </trans-unit>
+        <trans-unit id="MODULE_InvalidVersion.Text" translate="yes" xml:space="preserve">
+          <source>Version {0} is invalid - not adding to UpgradeVersions list.</source>
+          <target state="new">Version {0} is invalid - not adding to UpgradeVersions list.</target>
+        </trans-unit>
+        <trans-unit id="EVENTMESSAGE_CommandMissing.Text" translate="yes" xml:space="preserve">
+          <source>Processor command is missing from the manifest.</source>
+          <target state="new">Processor command is missing from the manifest.</target>
+        </trans-unit>
+        <trans-unit id="EVENTMESSAGE_TypeMissing.Text" translate="yes" xml:space="preserve">
+          <source>Processor type is missing from the manifest.</source>
+          <target state="new">Processor type is missing from the manifest.</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source>Module Help</source>
+          <target state="new">Module Help</target>
+        </trans-unit>
+        <trans-unit id="ResourceNotFound.Text" translate="yes" xml:space="preserve">
+          <source>Resource Not Found</source>
+          <target state="new">Resource Not Found</target>
+        </trans-unit>
+        <trans-unit id="FriendsGroups.Text" translate="yes" xml:space="preserve">
+          <source>Friends and Groups</source>
+          <target state="new">Friends and Groups</target>
+        </trans-unit>
+        <trans-unit id="ModuleNotIntended.Text" translate="yes" xml:space="preserve">
+          <source>This module is only intended for use on a page which is defined as the profile page for the site.</source>
+          <target state="new">This module is only intended for use on a page which is defined as the profile page for the site.</target>
+        </trans-unit>
+        <trans-unit id="Delete.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="UnverifiedUser.Text" translate="yes" xml:space="preserve">
+          <source>You are using an unverified account. Please verify your account by clicking on the link contained in the verification email that has been sent to you.</source>
+          <target state="new">You are using an unverified account. Please verify your account by clicking on the link contained in the verification email that has been sent to you.</target>
+        </trans-unit>
+        <trans-unit id="DayAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} day ago</source>
+          <target state="new">{0} day ago</target>
+        </trans-unit>
+        <trans-unit id="DaysAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} days ago</source>
+          <target state="new">{0} days ago</target>
+        </trans-unit>
+        <trans-unit id="HourAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} hour ago</source>
+          <target state="new">{0} hour ago</target>
+        </trans-unit>
+        <trans-unit id="HoursAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} hours ago</source>
+          <target state="new">{0} hours ago</target>
+        </trans-unit>
+        <trans-unit id="MinuteAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} minute ago</source>
+          <target state="new">{0} minute ago</target>
+        </trans-unit>
+        <trans-unit id="MinutesAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} minutes ago</source>
+          <target state="new">{0} minutes ago</target>
+        </trans-unit>
+        <trans-unit id="MonthAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} month ago</source>
+          <target state="new">{0} month ago</target>
+        </trans-unit>
+        <trans-unit id="MonthsAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} months ago</source>
+          <target state="new">{0} months ago</target>
+        </trans-unit>
+        <trans-unit id="SecondsAgo.Text" translate="yes" xml:space="preserve">
+          <source> {0} seconds ago</source>
+          <target state="new"> {0} seconds ago</target>
+        </trans-unit>
+        <trans-unit id="WeekAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} week ago</source>
+          <target state="new">{0} week ago</target>
+        </trans-unit>
+        <trans-unit id="WeeksAgo.Text" translate="yes" xml:space="preserve">
+          <source>{0} weeks ago</source>
+          <target state="new">{0} weeks ago</target>
+        </trans-unit>
+        <trans-unit id="DuplicateDisplayName.Text" translate="yes" xml:space="preserve">
+          <source>The Display Name is already in use.</source>
+          <target state="new">The Display Name is already in use.</target>
+        </trans-unit>
+        <trans-unit id="InvalidDisplayName.Text" translate="yes" xml:space="preserve">
+          <source>The Display Name is invalid.</source>
+          <target state="new">The Display Name is invalid.</target>
+        </trans-unit>
+        <trans-unit id="OAuthConfigBase_APIKey.Help" translate="yes" xml:space="preserve">
+          <source>Enter the value of the APP ID/API Key/Consumer Key you configured for this authentication provider.</source>
+          <target state="new">Enter the value of the APP ID/API Key/Consumer Key you configured for this authentication provider.</target>
+        </trans-unit>
+        <trans-unit id="OAuthConfigBase_APIKey.Text" translate="yes" xml:space="preserve">
+          <source>APP ID</source>
+          <target state="new">APP ID</target>
+        </trans-unit>
+        <trans-unit id="OAuthConfigBase_APISecret.Help" translate="yes" xml:space="preserve">
+          <source>Enter the value of the APP Secret/Consumer Secret you configured for this authentication provider.</source>
+          <target state="new">Enter the value of the APP Secret/Consumer Secret you configured for this authentication provider.</target>
+        </trans-unit>
+        <trans-unit id="OAuthConfigBase_APISecret.Text" translate="yes" xml:space="preserve">
+          <source>APP Secret</source>
+          <target state="new">APP Secret</target>
+        </trans-unit>
+        <trans-unit id="OAuthConfigBase_Enabled.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to enable this authentication provider for this site.</source>
+          <target state="new">Check this box to enable this authentication provider for this site.</target>
+        </trans-unit>
+        <trans-unit id="OAuthConfigBase_Enabled.Text" translate="yes" xml:space="preserve">
+          <source>Enabled</source>
+          <target state="new">Enabled</target>
+        </trans-unit>
+        <trans-unit id="OAuthConfigBase_LoginURL.Help" translate="yes" xml:space="preserve">
+          <source>Enter the URL for the Login page for your site.</source>
+          <target state="new">Enter the URL for the Login page for your site.</target>
+        </trans-unit>
+        <trans-unit id="OAuthConfigBase_LoginURL.Text" translate="yes" xml:space="preserve">
+          <source>Login URL:</source>
+          <target state="new">Login URL:</target>
+        </trans-unit>
+        <trans-unit id="OAuthConfigBase_RegisterURL.Help" translate="yes" xml:space="preserve">
+          <source>Enter the URL for the Registration page for your site.</source>
+          <target state="new">Enter the URL for the Registration page for your site.</target>
+        </trans-unit>
+        <trans-unit id="OAuthConfigBase_RegisterURL.Text" translate="yes" xml:space="preserve">
+          <source>Registration URL:</source>
+          <target state="new">Registration URL:</target>
+        </trans-unit>
+        <trans-unit id="Follow.Text" translate="yes" xml:space="preserve">
+          <source>Follow</source>
+          <target state="new">Follow</target>
+        </trans-unit>
+        <trans-unit id="Accept.Text" translate="yes" xml:space="preserve">
+          <source>Accept</source>
+          <target state="new">Accept</target>
+        </trans-unit>
+        <trans-unit id="AcceptFriend.Text" translate="yes" xml:space="preserve">
+          <source>Accept Friend Request</source>
+          <target state="new">Accept Friend Request</target>
+        </trans-unit>
+        <trans-unit id="DismissNotification.Text" translate="yes" xml:space="preserve">
+          <source>Dismiss this Notification</source>
+          <target state="new">Dismiss this Notification</target>
+        </trans-unit>
+        <trans-unit id="FollowBack.Text" translate="yes" xml:space="preserve">
+          <source>Follow Back</source>
+          <target state="new">Follow Back</target>
+        </trans-unit>
+        <trans-unit id="Ignore.Text" translate="yes" xml:space="preserve">
+          <source>Ignore</source>
+          <target state="new">Ignore</target>
+        </trans-unit>
+        <trans-unit id="IgnoreFriend.Text" translate="yes" xml:space="preserve">
+          <source>Ignore Friend Request</source>
+          <target state="new">Ignore Friend Request</target>
+        </trans-unit>
+        <trans-unit id="Dismiss.Text" translate="yes" xml:space="preserve">
+          <source>Dismiss</source>
+          <target state="new">Dismiss</target>
+        </trans-unit>
+        <trans-unit id="UserFolderTitle.Text" translate="yes" xml:space="preserve">
+          <source>My Files</source>
+          <target state="new">My Files</target>
+        </trans-unit>
+        <trans-unit id="COMPONENT_Skipped.Text" translate="yes" xml:space="preserve">
+          <source>Component Skipped</source>
+          <target state="new">Component Skipped</target>
+        </trans-unit>
+        <trans-unit id="DeleteSharedModule.Confirm" translate="yes" xml:space="preserve">
+          <source>This module is being shared by other sites in the site group.  Deleting this instance will remove all the shared instances in other sites.&amp;nbsp;&amp;nbsp;To see which sites are sharing the module, check Settings &gt; Module Settings &gt; Added To Page.&amp;nbsp;&amp;nbsp;Are you sure you want to continue and delete this module and all shared instances?</source>
+          <target state="new">This module is being shared by other sites in the site group.  Deleting this instance will remove all the shared instances in other sites.&amp;nbsp;&amp;nbsp;To see which sites are sharing the module, check Settings &gt; Module Settings &gt; Added To Page.&amp;nbsp;&amp;nbsp;Are you sure you want to continue and delete this module and all shared instances?</target>
+        </trans-unit>
+        <trans-unit id="CopyPermissionsToChildren.Text" translate="yes" xml:space="preserve">
+          <source>Permissions will be replaced for all children of this page.<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept><bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>Are you sure you want to continue?</source>
+          <target state="new">Permissions will be replaced for all children of this page.<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept><bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>Are you sure you want to continue?</target>
+        </trans-unit>
+        <trans-unit id="MyFolderName.Text" translate="yes" xml:space="preserve">
+          <source>My Folder</source>
+          <target state="new">My Folder</target>
+        </trans-unit>
+        <trans-unit id="Basic.Text" translate="yes" xml:space="preserve">
+          <source>Profile Basic Settings</source>
+          <target state="new">Profile Basic Settings</target>
+        </trans-unit>
+        <trans-unit id="Contact.Text" translate="yes" xml:space="preserve">
+          <source>Contact Information</source>
+          <target state="new">Contact Information</target>
+        </trans-unit>
+        <trans-unit id="Location.Text" translate="yes" xml:space="preserve">
+          <source>Location Information</source>
+          <target state="new">Location Information</target>
+        </trans-unit>
+        <trans-unit id="ProfileUrlCleaned.Text" translate="yes" xml:space="preserve">
+          <source>The submitted URL contains illegal characters, which have been removed.  Click Update to accept 
+the modified URL.</source>
+          <target state="new">The submitted URL contains illegal characters, which have been removed.  Click Update to accept 
+the modified URL.</target>
+        </trans-unit>
+        <trans-unit id="CleanWarningTitle.Text" translate="yes" xml:space="preserve">
+          <source>URL Cleaned</source>
+          <target state="new">URL Cleaned</target>
+        </trans-unit>
+        <trans-unit id="DuplicateUrlWarningTitle.Text" translate="yes" xml:space="preserve">
+          <source>Duplicate URL</source>
+          <target state="new">Duplicate URL</target>
+        </trans-unit>
+        <trans-unit id="ProfileUrlNotUnique.Text" translate="yes" xml:space="preserve">
+          <source>The requested URL is not available.  Click Update to accept the suggested alternative.</source>
+          <target state="new">The requested URL is not available.  Click Update to accept the suggested alternative.</target>
+        </trans-unit>
+        <trans-unit id="DraftCompleted.Action" translate="yes" xml:space="preserve">
+          <source>Draft Completed</source>
+          <target state="new">Draft Completed</target>
+        </trans-unit>
+        <trans-unit id="DraftCompleted.Comment" translate="yes" xml:space="preserve">
+          <source>The Draft State has been completed.  The content is ready to be published.</source>
+          <target state="new">The Draft State has been completed.  The content is ready to be published.</target>
+        </trans-unit>
+        <trans-unit id="StateCompleted.Action" translate="yes" xml:space="preserve">
+          <source>State Completed</source>
+          <target state="new">State Completed</target>
+        </trans-unit>
+        <trans-unit id="StateCompleted.Comment" translate="yes" xml:space="preserve">
+          <source>The State '[STATE]' has been approved.</source>
+          <target state="new">The State '[STATE]' has been approved.</target>
+        </trans-unit>
+        <trans-unit id="StateDiscarded.Action" translate="yes" xml:space="preserve">
+          <source>State Discarded</source>
+          <target state="new">State Discarded</target>
+        </trans-unit>
+        <trans-unit id="StateDiscarded.Comment" translate="yes" xml:space="preserve">
+          <source>The State '[STATE]' has been discarded.</source>
+          <target state="new">The State '[STATE]' has been discarded.</target>
+        </trans-unit>
+        <trans-unit id="StateInitiated.Action" translate="yes" xml:space="preserve">
+          <source>State Initiated</source>
+          <target state="new">State Initiated</target>
+        </trans-unit>
+        <trans-unit id="StateInitiated.Comment" translate="yes" xml:space="preserve">
+          <source>The Workflow is in state '[STATE]'.</source>
+          <target state="new">The Workflow is in state '[STATE]'.</target>
+        </trans-unit>
+        <trans-unit id="WorkflowApproved.Action" translate="yes" xml:space="preserve">
+          <source>Workflow Completed</source>
+          <target state="new">Workflow Completed</target>
+        </trans-unit>
+        <trans-unit id="WorkflowApproved.Comment" translate="yes" xml:space="preserve">
+          <source>The Workflow '[WORKFLOW]' has been completed.  The Content has been approved.</source>
+          <target state="new">The Workflow '[WORKFLOW]' has been completed.  The Content has been approved.</target>
+        </trans-unit>
+        <trans-unit id="WorkflowError.Action" translate="yes" xml:space="preserve">
+          <source>Workflow Error</source>
+          <target state="new">Workflow Error</target>
+        </trans-unit>
+        <trans-unit id="WorkflowError.Comment" translate="yes" xml:space="preserve">
+          <source>The Workflow '[WORKFLOW]' has thrown an error.</source>
+          <target state="new">The Workflow '[WORKFLOW]' has thrown an error.</target>
+        </trans-unit>
+        <trans-unit id="WorkflowStarted.Action" translate="yes" xml:space="preserve">
+          <source>Workflow Started</source>
+          <target state="new">Workflow Started</target>
+        </trans-unit>
+        <trans-unit id="WorkflowStarted.Comment" translate="yes" xml:space="preserve">
+          <source>The Workflow '[WORKFLOW]' has started.</source>
+          <target state="new">The Workflow '[WORKFLOW]' has started.</target>
+        </trans-unit>
+        <trans-unit id="URLPROVIDER_NameMissing.Text" translate="yes" xml:space="preserve">
+          <source>UrlProvider Name Missing</source>
+          <target state="new">UrlProvider Name Missing</target>
+        </trans-unit>
+        <trans-unit id="URLPROVIDER_Registered.Text" translate="yes" xml:space="preserve">
+          <source>UrlProvider Registered</source>
+          <target state="new">UrlProvider Registered</target>
+        </trans-unit>
+        <trans-unit id="URLPROVIDER_TypeMissing.Text" translate="yes" xml:space="preserve">
+          <source>UrlProvider Type Missing</source>
+          <target state="new">UrlProvider Type Missing</target>
+        </trans-unit>
+        <trans-unit id="URLPROVIDER_UnRegistered.Text" translate="yes" xml:space="preserve">
+          <source>UrlProvider UnRegistered</source>
+          <target state="new">UrlProvider UnRegistered</target>
+        </trans-unit>
+        <trans-unit id="URLPROVIDER_ReadSuccess.Text" translate="yes" xml:space="preserve">
+          <source>UrlProvider Manifest read successfully</source>
+          <target state="new">UrlProvider Manifest read successfully</target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowDescription.Text" translate="yes" xml:space="preserve">
+          <source>Allows an author to manage content and then have it reviewed by other users before it is published.</source>
+          <target state="new">Allows an author to manage content and then have it reviewed by other users before it is published.</target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowName.Text" translate="yes" xml:space="preserve">
+          <source>Content Approval</source>
+          <target state="new">Content Approval</target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowState1.OnCompleteMessageBody" translate="yes" xml:space="preserve">
+          <source>[DATE]: The file [FILE] is ready for review by [USER].</source>
+          <target state="new">[DATE]: The file [FILE] is ready for review by [USER].</target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowState1.OnCompleteMessageSubject" translate="yes" xml:space="preserve">
+          <source>File ready for review</source>
+          <target state="new">File ready for review</target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowState1.OnDiscardMessageBody" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowState1.OnDiscardMessageSubject" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowState1.StateName" translate="yes" xml:space="preserve">
+          <source>Draft</source>
+          <target state="new">Draft</target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowState2.OnCompleteMessageBody" translate="yes" xml:space="preserve">
+          <source>[DATE]: The file [FILE] has been approved by [USER].</source>
+          <target state="new">[DATE]: The file [FILE] has been approved by [USER].</target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowState2.OnCompleteMessageSubject" translate="yes" xml:space="preserve">
+          <source>File approved</source>
+          <target state="new">File approved</target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowState2.OnDiscardMessageBody" translate="yes" xml:space="preserve">
+          <source>[DATE]: The file [FILE] has been discarded by [USER].</source>
+          <target state="new">[DATE]: The file [FILE] has been discarded by [USER].</target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowState2.OnDiscardMessageSubject" translate="yes" xml:space="preserve">
+          <source>File discarded</source>
+          <target state="new">File discarded</target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowState2.StateName" translate="yes" xml:space="preserve">
+          <source>Ready For Review</source>
+          <target state="new">Ready For Review</target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowState3.OnCompleteMessageBody" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowState3.OnCompleteMessageSubject" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowState3.OnDiscardMessageBody" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowState3.OnDiscardMessageSubject" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowState3.StateName" translate="yes" xml:space="preserve">
+          <source>Published</source>
+          <target state="new">Published</target>
+        </trans-unit>
+        <trans-unit id="Save.Text" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="Cancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="CommentProvided.Action" translate="yes" xml:space="preserve">
+          <source>Comment Provided</source>
+          <target state="new">Comment Provided</target>
+        </trans-unit>
+        <trans-unit id="CommentProvided.Comment" translate="yes" xml:space="preserve">
+          <source>State '[STATE]' comment: [COMMENT]</source>
+          <target state="new">State '[STATE]' comment: [COMMENT]</target>
+        </trans-unit>
+        <trans-unit id="WorkflowDiscarded.Action" translate="yes" xml:space="preserve">
+          <source>Workflow Discarded</source>
+          <target state="new">Workflow Discarded</target>
+        </trans-unit>
+        <trans-unit id="WorkflowDiscarded.Comment" translate="yes" xml:space="preserve">
+          <source>The Workflow '[WORKFLOW]' has been discarded on state '[STATE]'.</source>
+          <target state="new">The Workflow '[WORKFLOW]' has been discarded on state '[STATE]'.</target>
+        </trans-unit>
+        <trans-unit id="DropDownList.SearchInputPlaceHolder" translate="yes" xml:space="preserve">
+          <source>Search...</source>
+          <target state="new">Search...</target>
+        </trans-unit>
+        <trans-unit id="DropDownList.SearchButtonTooltip" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="DropDownList.ClearButtonTooltip" translate="yes" xml:space="preserve">
+          <source>Clear</source>
+          <target state="new">Clear</target>
+        </trans-unit>
+        <trans-unit id="DropDownList.SortAscendingButtonTitle" translate="yes" xml:space="preserve">
+          <source>A-Z</source>
+          <target state="new">A-Z</target>
+        </trans-unit>
+        <trans-unit id="DropDownList.SortAscendingButtonTooltip" translate="yes" xml:space="preserve">
+          <source>Sort in ascending order</source>
+          <target state="new">Sort in ascending order</target>
+        </trans-unit>
+        <trans-unit id="DropDownList.SortDescendingButtonTooltip" translate="yes" xml:space="preserve">
+          <source>Sort in descending order</source>
+          <target state="new">Sort in descending order</target>
+        </trans-unit>
+        <trans-unit id="DropDownList.UnsortedOrderButtonTooltip" translate="yes" xml:space="preserve">
+          <source>Remove sorting</source>
+          <target state="new">Remove sorting</target>
+        </trans-unit>
+        <trans-unit id="DropDownList.Results" translate="yes" xml:space="preserve">
+          <source>Results</source>
+          <target state="new">Results</target>
+        </trans-unit>
+        <trans-unit id="DropDownList.SelectedItemExpandTooltip" translate="yes" xml:space="preserve">
+          <source>Click to expand</source>
+          <target state="new">Click to expand</target>
+        </trans-unit>
+        <trans-unit id="DropDownList.SelectedItemCollapseTooltip" translate="yes" xml:space="preserve">
+          <source>Click to collapse</source>
+          <target state="new">Click to collapse</target>
+        </trans-unit>
+        <trans-unit id="DropDownList.LoadingResultText" translate="yes" xml:space="preserve">
+          <source>...Loading Results</source>
+          <target state="new">...Loading Results</target>
+        </trans-unit>
+        <trans-unit id="DropDownList.SelectWebPageDefaultText" translate="yes" xml:space="preserve">
+          <source>Select A Web Page</source>
+          <target state="new">Select A Web Page</target>
+        </trans-unit>
+        <trans-unit id="DropDownList.SelectUserDefaultText" translate="yes" xml:space="preserve">
+          <source>Select A User</source>
+          <target state="new">Select A User</target>
+        </trans-unit>
+        <trans-unit id="DropDownList.SelectFolderDefaultText" translate="yes" xml:space="preserve">
+          <source>Select A Folder</source>
+          <target state="new">Select A Folder</target>
+        </trans-unit>
+        <trans-unit id="SEARCH_NoLink.Text" translate="yes" xml:space="preserve">
+          <source>[no link available]</source>
+          <target state="new">[no link available]</target>
+        </trans-unit>
+        <trans-unit id="VerificationSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Your account has been successfully verified.</source>
+          <target state="new">Your account has been successfully verified.</target>
+        </trans-unit>
+        <trans-unit id="RootFolder.Name" translate="yes" xml:space="preserve">
+          <source>Site Root</source>
+          <target state="new">Site Root</target>
+        </trans-unit>
+        <trans-unit id="HostRootFolder.Name" translate="yes" xml:space="preserve">
+          <source>Host Root</source>
+          <target state="new">Host Root</target>
+        </trans-unit>
+        <trans-unit id="LIBRARY_ReadSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Parsed library manifest successfully</source>
+          <target state="new">Parsed library manifest successfully</target>
+        </trans-unit>
+        <trans-unit id="LIBRARY_Registered.Text" translate="yes" xml:space="preserve">
+          <source>Library Registered Successfully - {0}</source>
+          <target state="new">Library Registered Successfully - {0}</target>
+        </trans-unit>
+        <trans-unit id="LIBRARY_UnRegistered.Text" translate="yes" xml:space="preserve">
+          <source>Library UnRegistered Successfully - {0}</source>
+          <target state="new">Library UnRegistered Successfully - {0}</target>
+        </trans-unit>
+        <trans-unit id="Daily.Text" translate="yes" xml:space="preserve">
+          <source>Daily</source>
+          <target state="new">Daily</target>
+        </trans-unit>
+        <trans-unit id="Hourly.Text" translate="yes" xml:space="preserve">
+          <source>Hourly</source>
+          <target state="new">Hourly</target>
+        </trans-unit>
+        <trans-unit id="Monthly.Text" translate="yes" xml:space="preserve">
+          <source>Monthly</source>
+          <target state="new">Monthly</target>
+        </trans-unit>
+        <trans-unit id="Weekly.Text" translate="yes" xml:space="preserve">
+          <source>Weekly</source>
+          <target state="new">Weekly</target>
+        </trans-unit>
+        <trans-unit id="ScriptCollision.Text" translate="yes" xml:space="preserve">
+          <source>Requests for two or more different versions of JavaScript libraries were made for this page.  The details have been logged to the event log.</source>
+          <target state="new">Requests for two or more different versions of JavaScript libraries were made for this page.  The details have been logged to the event log.</target>
+        </trans-unit>
+        <trans-unit id="ViewJournal.Text" translate="yes" xml:space="preserve">
+          <source>View</source>
+          <target state="new">View</target>
+        </trans-unit>
+        <trans-unit id="SizeB.Text" translate="yes" xml:space="preserve">
+          <source>B</source>
+          <target state="new">B</target>
+        </trans-unit>
+        <trans-unit id="SizeGb.Text" translate="yes" xml:space="preserve">
+          <source>GB</source>
+          <target state="new">GB</target>
+        </trans-unit>
+        <trans-unit id="SizeKb.Text" translate="yes" xml:space="preserve">
+          <source>KB</source>
+          <target state="new">KB</target>
+        </trans-unit>
+        <trans-unit id="SizeMb.Text" translate="yes" xml:space="preserve">
+          <source>MB</source>
+          <target state="new">MB</target>
+        </trans-unit>
+        <trans-unit id="Friends.Text" translate="yes" xml:space="preserve">
+          <source>Friends</source>
+          <target state="new">Friends</target>
+        </trans-unit>
+        <trans-unit id="Followers.Text" translate="yes" xml:space="preserve">
+          <source>Followers</source>
+          <target state="new">Followers</target>
+        </trans-unit>
+        <trans-unit id="FriendsAndGroups.Text" translate="yes" xml:space="preserve">
+          <source>Friends and Groups</source>
+          <target state="new">Friends and Groups</target>
+        </trans-unit>
+        <trans-unit id="PermissionRoleHeader.Text" translate="yes" xml:space="preserve">
+          <source>Role</source>
+          <target state="new">Role</target>
+        </trans-unit>
+        <trans-unit id="InvalidRoleId.Text" translate="yes" xml:space="preserve">
+          <source>The role specified is invalid.  Please specify a valid role.</source>
+          <target state="new">The role specified is invalid.  Please specify a valid role.</target>
+        </trans-unit>
+        <trans-unit id="PermissionActionsHeader.Text" translate="yes" xml:space="preserve">
+          <source>Actions</source>
+          <target state="new">Actions</target>
+        </trans-unit>
+        <trans-unit id="RoleNotFound.Text" translate="yes" xml:space="preserve">
+          <source>The selected role is not found.  Please refresh the page and try again.</source>
+          <target state="new">The selected role is not found.  Please refresh the page and try again.</target>
+        </trans-unit>
+        <trans-unit id="RoleSelect.Text" translate="yes" xml:space="preserve">
+          <source>Select Role:</source>
+          <target state="new">Select Role:</target>
+        </trans-unit>
+        <trans-unit id="CreatingConfiguredFolderMapping.Error" translate="yes" xml:space="preserve">
+          <source>Error when creating a folder mapping from config file.</source>
+          <target state="new">Error when creating a folder mapping from config file.</target>
+        </trans-unit>
+        <trans-unit id="PermissionUserHeader.Text" translate="yes" xml:space="preserve">
+          <source>User</source>
+          <target state="new">User</target>
+        </trans-unit>
+        <trans-unit id="ChooseFile.Text" translate="yes" xml:space="preserve">
+          <source>Choose File</source>
+          <target state="new">Choose File</target>
+        </trans-unit>
+        <trans-unit id="Review.Text" translate="yes" xml:space="preserve">
+          <source>Review</source>
+          <target state="new">Review</target>
+        </trans-unit>
+        <trans-unit id="FileUpload.UnzipFilePromptTitle.Text" translate="yes" xml:space="preserve">
+          <source>Unzip Information</source>
+          <target state="new">Unzip Information</target>
+        </trans-unit>
+        <trans-unit id="FileUpload.UnzipFileFailedPromptBody.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div class="invalidFiles"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>[COUNT] of [TOTAL] file(s) were not extracted because their file types are not supported:<ept id="2">&lt;/p&gt;</ept>[FILELIST]<ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div class="invalidFiles"&gt;</bpt><bpt id="2">&lt;p&gt;</bpt>[COUNT] of [TOTAL] file(s) were not extracted because their file types are not supported:<ept id="2">&lt;/p&gt;</ept>[FILELIST]<ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="FileUpload.UnzipFileSuccessPromptBody.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div class="validFiles"&gt;</bpt><it id="2" pos="open">&lt;p&gt;</it>[TOTAL] of [TOTAL] file(s) were extracted successfully.<ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div class="validFiles"&gt;</bpt><it id="2" pos="open">&lt;p&gt;</it>[TOTAL] of [TOTAL] file(s) were extracted successfully.<ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="AuthorizeUser.Text" translate="yes" xml:space="preserve">
+          <source>Authorize</source>
+          <target state="new">Authorize</target>
+        </trans-unit>
+        <trans-unit id="AuthorizeUserDescription.Text" translate="yes" xml:space="preserve">
+          <source>Authorize the user registration.</source>
+          <target state="new">Authorize the user registration.</target>
+        </trans-unit>
+        <trans-unit id="RejectUser.Text" translate="yes" xml:space="preserve">
+          <source>Reject</source>
+          <target state="new">Reject</target>
+        </trans-unit>
+        <trans-unit id="RejectUserDescription.Text" translate="yes" xml:space="preserve">
+          <source>Reject the user registration. Removes the user.</source>
+          <target state="new">Reject the user registration. Removes the user.</target>
+        </trans-unit>
+        <trans-unit id="DefaultWorkflowMigrationPrefix.Text" translate="yes" xml:space="preserve">
+          <source>Folders:</source>
+          <target state="new">Folders:</target>
+        </trans-unit>
+        <trans-unit id="DefaultDirectPublishWorkflowDescription.Text" translate="yes" xml:space="preserve">
+          <source>Allows an author to directly publish content to the site.</source>
+          <target state="new">Allows an author to directly publish content to the site.</target>
+        </trans-unit>
+        <trans-unit id="DefaultDirectPublishWorkflowName.Text" translate="yes" xml:space="preserve">
+          <source>Direct Publish</source>
+          <target state="new">Direct Publish</target>
+        </trans-unit>
+        <trans-unit id="DefaultSaveDraftWorkflowDescription.Text" translate="yes" xml:space="preserve">
+          <source>Allows author to save a draft copy before the content is published.</source>
+          <target state="new">Allows author to save a draft copy before the content is published.</target>
+        </trans-unit>
+        <trans-unit id="DefaultSaveDraftWorkflowName.Text" translate="yes" xml:space="preserve">
+          <source>Save Draft</source>
+          <target state="new">Save Draft</target>
+        </trans-unit>
+        <trans-unit id="QuickSettings.Text" translate="yes" xml:space="preserve">
+          <source>Quick Settings</source>
+          <target state="new">Quick Settings</target>
+        </trans-unit>
+        <trans-unit id="ContentType.Text" translate="yes" xml:space="preserve">
+          <source>Content Type</source>
+          <target state="new">Content Type</target>
+        </trans-unit>
+        <trans-unit id="DataType.Text" translate="yes" xml:space="preserve">
+          <source>Data Type</source>
+          <target state="new">Data Type</target>
+        </trans-unit>
+        <trans-unit id="NoRecords.Text" translate="yes" xml:space="preserve">
+          <source>No records to display</source>
+          <target state="new">No records to display</target>
+        </trans-unit>
+        <trans-unit id="Search.Text" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

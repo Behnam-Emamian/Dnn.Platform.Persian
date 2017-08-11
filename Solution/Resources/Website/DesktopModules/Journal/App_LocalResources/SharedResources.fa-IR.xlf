@@ -1,0 +1,738 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="SharedResources.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="comment.Text" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <target state="new">Comment</target>
+        </trans-unit>
+        <trans-unit id="Comments.Text" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target state="new">Comments</target>
+        </trans-unit>
+        <trans-unit id="journal_status.Text" translate="yes" xml:space="preserve">
+          <source>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
+	&lt;/p&gt;
+		[JOURNALCONTROL:LIKELIST]
+		[JOURNALCONTROL:COMMENTAREA]
+	&lt;/div&gt;
+</source>
+          <target state="new">&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
+	&lt;/p&gt;
+		[JOURNALCONTROL:LIKELIST]
+		[JOURNALCONTROL:COMMENTAREA]
+	&lt;/div&gt;
+</target>
+        </trans-unit>
+        <trans-unit id="{resx:like}.Text" translate="yes" xml:space="preserve">
+          <source>Like</source>
+          <target state="new">Like</target>
+        </trans-unit>
+        <trans-unit id="{resx:unlike}.Text" translate="yes" xml:space="preserve">
+          <source>Unlike</source>
+          <target state="new">Unlike</target>
+        </trans-unit>
+        <trans-unit id="{resx:and}.Text" translate="yes" xml:space="preserve">
+          <source>and</source>
+          <target state="new">and</target>
+        </trans-unit>
+        <trans-unit id="{resx:likesthis}.Text" translate="yes" xml:space="preserve">
+          <source>likes this</source>
+          <target state="new">likes this</target>
+        </trans-unit>
+        <trans-unit id="{resx:likethis}.Text" translate="yes" xml:space="preserve">
+          <source>like this</source>
+          <target state="new">like this</target>
+        </trans-unit>
+        <trans-unit id="{resx:other}.Text" translate="yes" xml:space="preserve">
+          <source>other</source>
+          <target state="new">other</target>
+        </trans-unit>
+        <trans-unit id="{resx:others}.Text" translate="yes" xml:space="preserve">
+          <source>others</source>
+          <target state="new">others</target>
+        </trans-unit>
+        <trans-unit id="{resx:you}.Text" translate="yes" xml:space="preserve">
+          <source>You</source>
+          <target state="new">You</target>
+        </trans-unit>
+        <trans-unit id="{resx:youlikethis}.Text" translate="yes" xml:space="preserve">
+          <source>You like this</source>
+          <target state="new">You like this</target>
+        </trans-unit>
+        <trans-unit id="{resx:comment}.Text" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <target state="new">Comment</target>
+        </trans-unit>
+        <trans-unit id="{resx:leavecomment}.Text" translate="yes" xml:space="preserve">
+          <source>Leave a comment...</source>
+          <target state="new">Leave a comment...</target>
+        </trans-unit>
+        <trans-unit id="journal_link.Text" translate="yes" xml:space="preserve">
+          <source>&lt;div class="author"&gt;
+	&lt;img src="[JournalProfile:relativeurl|32]" /&gt;
+&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]
+		&lt;div class="jlink dnnClear"&gt;
+			&lt;a href="[journaldata:Url]" target="_blank"&gt;&lt;img src="[journaldata:ImageUrl]" /&gt;&lt;/a&gt;
+			&lt;div&gt;&lt;a href="[journaldata:Url]" target="_blank"&gt;[journaldata:Title]&lt;/a&gt;&lt;br /&gt;[journaldata:Description]&lt;/div&gt;
+			
+		&lt;/div&gt;
+	&lt;/p&gt;
+
+	&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+	[JOURNALCONTROL:COMMENTAREA]
+&lt;/div&gt;</source>
+          <target state="new">&lt;div class="author"&gt;
+	&lt;img src="[JournalProfile:relativeurl|32]" /&gt;
+&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]
+		&lt;div class="jlink dnnClear"&gt;
+			&lt;a href="[journaldata:Url]" target="_blank"&gt;&lt;img src="[journaldata:ImageUrl]" /&gt;&lt;/a&gt;
+			&lt;div&gt;&lt;a href="[journaldata:Url]" target="_blank"&gt;[journaldata:Title]&lt;/a&gt;&lt;br /&gt;[journaldata:Description]&lt;/div&gt;
+			
+		&lt;/div&gt;
+	&lt;/p&gt;
+
+	&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+	[JOURNALCONTROL:COMMENTAREA]
+&lt;/div&gt;</target>
+        </trans-unit>
+        <trans-unit id="journal_photo.Text" translate="yes" xml:space="preserve">
+          <source>&lt;div class="author"&gt;
+	&lt;img src="[JournalProfile:relativeurl|32]" /&gt;
+&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]
+		&lt;div class="jphoto dnnClear"&gt;
+			&lt;a href="[journaldata:ImageUrl]" target="_blank"&gt;&lt;img src="[journaldata:ImageUrl]" style="width:250px;" /&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/p&gt;
+
+	&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+	[JOURNALCONTROL:COMMENTAREA]
+&lt;/div&gt;</source>
+          <target state="new">&lt;div class="author"&gt;
+	&lt;img src="[JournalProfile:relativeurl|32]" /&gt;
+&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]
+		&lt;div class="jphoto dnnClear"&gt;
+			&lt;a href="[journaldata:ImageUrl]" target="_blank"&gt;&lt;img src="[journaldata:ImageUrl]" style="width:250px;" /&gt;&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/p&gt;
+
+	&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+	[JOURNALCONTROL:COMMENTAREA]
+&lt;/div&gt;</target>
+        </trans-unit>
+        <trans-unit id="UserFolderTitle.Text" translate="yes" xml:space="preserve">
+          <source>My Files</source>
+          <target state="new">My Files</target>
+        </trans-unit>
+        <trans-unit id="journal_file.Text" translate="yes" xml:space="preserve">
+          <source>&lt;div class="author"&gt;
+	&lt;img src="[JournalProfile:relativeurl|32]" /&gt;
+&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]
+		&lt;div class="jfile dnnClear"&gt;
+			&lt;img src="[journaldata:ImageUrl]" /&gt;
+			&lt;div&gt;&lt;a href="[journaldata:Url]" target="_blank"&gt;[journaldata:Title]&lt;/a&gt;&lt;br /&gt;[journaldata:Description]&lt;/div&gt;
+			
+		&lt;/div&gt;
+	&lt;/p&gt;
+
+	&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+	[JOURNALCONTROL:COMMENTAREA]
+&lt;/div&gt;</source>
+          <target state="new">&lt;div class="author"&gt;
+	&lt;img src="[JournalProfile:relativeurl|32]" /&gt;
+&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]
+		&lt;div class="jfile dnnClear"&gt;
+			&lt;img src="[journaldata:ImageUrl]" /&gt;
+			&lt;div&gt;&lt;a href="[journaldata:Url]" target="_blank"&gt;[journaldata:Title]&lt;/a&gt;&lt;br /&gt;[journaldata:Description]&lt;/div&gt;
+			
+		&lt;/div&gt;
+	&lt;/p&gt;
+
+	&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+	[JOURNALCONTROL:COMMENTAREA]
+&lt;/div&gt;</target>
+        </trans-unit>
+        <trans-unit id="file.Text" translate="yes" xml:space="preserve">
+          <source>Files</source>
+          <target state="new">Files</target>
+        </trans-unit>
+        <trans-unit id="link.Text" translate="yes" xml:space="preserve">
+          <source>Links</source>
+          <target state="new">Links</target>
+        </trans-unit>
+        <trans-unit id="photo.Text" translate="yes" xml:space="preserve">
+          <source>Photos</source>
+          <target state="new">Photos</target>
+        </trans-unit>
+        <trans-unit id="status.Text" translate="yes" xml:space="preserve">
+          <source>Posts</source>
+          <target state="new">Posts</target>
+        </trans-unit>
+        <trans-unit id="forum_reply.Text" translate="yes" xml:space="preserve">
+          <source>Forum Replies</source>
+          <target state="new">Forum Replies</target>
+        </trans-unit>
+        <trans-unit id="forum_topic.Text" translate="yes" xml:space="preserve">
+          <source>Forum Topics</source>
+          <target state="new">Forum Topics</target>
+        </trans-unit>
+        <trans-unit id="journal_forum_reply.Text" translate="yes" xml:space="preserve">
+          <source>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;replied to: &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+		[JOURNALCONTROL:LIKELIST]
+	
+	&lt;/div&gt;</source>
+          <target state="new">&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;replied to: &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+		[JOURNALCONTROL:LIKELIST]
+	
+	&lt;/div&gt;</target>
+        </trans-unit>
+        <trans-unit id="journal_forum_topic.Text" translate="yes" xml:space="preserve">
+          <source>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;created the topic: &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+		[JOURNALCONTROL:LIKELIST]
+	
+	&lt;/div&gt;</source>
+          <target state="new">&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;created the topic: &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+		[JOURNALCONTROL:LIKELIST]
+	
+	&lt;/div&gt;</target>
+        </trans-unit>
+        <trans-unit id="blog.Text" translate="yes" xml:space="preserve">
+          <source>Blogs</source>
+          <target state="new">Blogs</target>
+        </trans-unit>
+        <trans-unit id="journal_blog.Text" translate="yes" xml:space="preserve">
+          <source>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;&lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+		[JOURNALCONTROL:LIKELIST]
+	
+	&lt;/div&gt;</source>
+          <target state="new">&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;&lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+		[JOURNALCONTROL:LIKELIST]
+	
+	&lt;/div&gt;</target>
+        </trans-unit>
+        <trans-unit id="groupcreate.Text" translate="yes" xml:space="preserve">
+          <source>Groups Created</source>
+          <target state="new">Groups Created</target>
+        </trans-unit>
+        <trans-unit id="groupjoin.Text" translate="yes" xml:space="preserve">
+          <source>Groups Joined</source>
+          <target state="new">Groups Joined</target>
+        </trans-unit>
+        <trans-unit id="journal_groupcreate.Text" translate="yes" xml:space="preserve">
+          <source>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;created the group &lt;a href="[journaldata:Url]"&gt;[JournalItem:Title]&lt;/a&gt;&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
+	&lt;/p&gt;
+		[JOURNALCONTROL:LIKELIST]
+		[JOURNALCONTROL:COMMENTAREA]
+	&lt;/div&gt;</source>
+          <target state="new">&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;created the group &lt;a href="[journaldata:Url]"&gt;[JournalItem:Title]&lt;/a&gt;&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
+	&lt;/p&gt;
+		[JOURNALCONTROL:LIKELIST]
+		[JOURNALCONTROL:COMMENTAREA]
+	&lt;/div&gt;</target>
+        </trans-unit>
+        <trans-unit id="journal_groupjoin.Text" translate="yes" xml:space="preserve">
+          <source>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;joined the group &lt;a href="[journaldata:Url]"&gt;[JournalItem:Title]&lt;/a&gt;&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
+	&lt;/p&gt;
+		[JOURNALCONTROL:LIKELIST]
+		[JOURNALCONTROL:COMMENTAREA]
+	&lt;/div&gt;</source>
+          <target state="new">&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;joined the group &lt;a href="[journaldata:Url]"&gt;[JournalItem:Title]&lt;/a&gt;&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
+	&lt;/p&gt;
+		[JOURNALCONTROL:LIKELIST]
+		[JOURNALCONTROL:COMMENTAREA]
+	&lt;/div&gt;</target>
+        </trans-unit>
+        <trans-unit id="achievement.Action" translate="yes" xml:space="preserve">
+          <source>has earned the achievement</source>
+          <target state="new">has earned the achievement</target>
+        </trans-unit>
+        <trans-unit id="achievement.Text" translate="yes" xml:space="preserve">
+          <source>Achievements Earned</source>
+          <target state="new">Achievements Earned</target>
+        </trans-unit>
+        <trans-unit id="answer.Action" translate="yes" xml:space="preserve">
+          <source>answered the question</source>
+          <target state="new">answered the question</target>
+        </trans-unit>
+        <trans-unit id="answer.Text" translate="yes" xml:space="preserve">
+          <source>Answers</source>
+          <target state="new">Answers</target>
+        </trans-unit>
+        <trans-unit id="articleadd.Action" translate="yes" xml:space="preserve">
+          <source>added an article</source>
+          <target state="new">added an article</target>
+        </trans-unit>
+        <trans-unit id="articleadd.Text" translate="yes" xml:space="preserve">
+          <source>Articles</source>
+          <target state="new">Articles</target>
+        </trans-unit>
+        <trans-unit id="comment.Action" translate="yes" xml:space="preserve">
+          <source>commented on</source>
+          <target state="new">commented on</target>
+        </trans-unit>
+        <trans-unit id="documentadd.Action" translate="yes" xml:space="preserve">
+          <source>added the document</source>
+          <target state="new">added the document</target>
+        </trans-unit>
+        <trans-unit id="documentadd.Text" translate="yes" xml:space="preserve">
+          <source>Documents</source>
+          <target state="new">Documents</target>
+        </trans-unit>
+        <trans-unit id="documentupdate.Action" translate="yes" xml:space="preserve">
+          <source>updated the document</source>
+          <target state="new">updated the document</target>
+        </trans-unit>
+        <trans-unit id="documentupdate.Text" translate="yes" xml:space="preserve">
+          <source>Documents Updated</source>
+          <target state="new">Documents Updated</target>
+        </trans-unit>
+        <trans-unit id="eventattend.Action" translate="yes" xml:space="preserve">
+          <source>is attending the event</source>
+          <target state="new">is attending the event</target>
+        </trans-unit>
+        <trans-unit id="eventattend.Text" translate="yes" xml:space="preserve">
+          <source>Attending Events</source>
+          <target state="new">Attending Events</target>
+        </trans-unit>
+        <trans-unit id="eventcreate.Action" translate="yes" xml:space="preserve">
+          <source>created the event</source>
+          <target state="new">created the event</target>
+        </trans-unit>
+        <trans-unit id="eventcreate.Text" translate="yes" xml:space="preserve">
+          <source>Events</source>
+          <target state="new">Events</target>
+        </trans-unit>
+        <trans-unit id="friend.Text" translate="yes" xml:space="preserve">
+          <source>Friends</source>
+          <target state="new">Friends</target>
+        </trans-unit>
+        <trans-unit id="ideaadd.Action" translate="yes" xml:space="preserve">
+          <source>added the idea</source>
+          <target state="new">added the idea</target>
+        </trans-unit>
+        <trans-unit id="ideaadd.Text" translate="yes" xml:space="preserve">
+          <source>Ideas</source>
+          <target state="new">Ideas</target>
+        </trans-unit>
+        <trans-unit id="ideaupdate.Action" translate="yes" xml:space="preserve">
+          <source>updated the idea</source>
+          <target state="new">updated the idea</target>
+        </trans-unit>
+        <trans-unit id="ideaupdate.Text" translate="yes" xml:space="preserve">
+          <source>Updated Ideas</source>
+          <target state="new">Updated Ideas</target>
+        </trans-unit>
+        <trans-unit id="journal_generic.Text" translate="yes" xml:space="preserve">
+          <source>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</source>
+          <target state="new">&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</target>
+        </trans-unit>
+        <trans-unit id="privilege.Action" translate="yes" xml:space="preserve">
+          <source>has earned the privilege</source>
+          <target state="new">has earned the privilege</target>
+        </trans-unit>
+        <trans-unit id="privilege.Text" translate="yes" xml:space="preserve">
+          <source>Privileges Earned</source>
+          <target state="new">Privileges Earned</target>
+        </trans-unit>
+        <trans-unit id="projectcreated.Action" translate="yes" xml:space="preserve">
+          <source>created a new project</source>
+          <target state="new">created a new project</target>
+        </trans-unit>
+        <trans-unit id="projectcreated.Text" translate="yes" xml:space="preserve">
+          <source>Created Project</source>
+          <target state="new">Created Project</target>
+        </trans-unit>
+        <trans-unit id="projectupdate.Action" translate="yes" xml:space="preserve">
+          <source>updated the project</source>
+          <target state="new">updated the project</target>
+        </trans-unit>
+        <trans-unit id="projectupdated.Text" translate="yes" xml:space="preserve">
+          <source>Updated Project</source>
+          <target state="new">Updated Project</target>
+        </trans-unit>
+        <trans-unit id="question.Action" translate="yes" xml:space="preserve">
+          <source>asked the question</source>
+          <target state="new">asked the question</target>
+        </trans-unit>
+        <trans-unit id="question.Text" translate="yes" xml:space="preserve">
+          <source>Questions</source>
+          <target state="new">Questions</target>
+        </trans-unit>
+        <trans-unit id="reviewadd.Action" translate="yes" xml:space="preserve">
+          <source>added review for</source>
+          <target state="new">added review for</target>
+        </trans-unit>
+        <trans-unit id="reviewadd.Text" translate="yes" xml:space="preserve">
+          <source>Reviews</source>
+          <target state="new">Reviews</target>
+        </trans-unit>
+        <trans-unit id="reviewupdate.Action" translate="yes" xml:space="preserve">
+          <source>updated review for</source>
+          <target state="new">updated review for</target>
+        </trans-unit>
+        <trans-unit id="reviewupdate.Text" translate="yes" xml:space="preserve">
+          <source>Updated Reviews</source>
+          <target state="new">Updated Reviews</target>
+        </trans-unit>
+        <trans-unit id="survey.Action" translate="yes" xml:space="preserve">
+          <source>completed survey</source>
+          <target state="new">completed survey</target>
+        </trans-unit>
+        <trans-unit id="survey.Text" translate="yes" xml:space="preserve">
+          <source>Completed Survey</source>
+          <target state="new">Completed Survey</target>
+        </trans-unit>
+        <trans-unit id="taskadd.Action" translate="yes" xml:space="preserve">
+          <source>created a new task</source>
+          <target state="new">created a new task</target>
+        </trans-unit>
+        <trans-unit id="taskadd.Text" translate="yes" xml:space="preserve">
+          <source>Tasks</source>
+          <target state="new">Tasks</target>
+        </trans-unit>
+        <trans-unit id="taskupdate.Action" translate="yes" xml:space="preserve">
+          <source>updated the task</source>
+          <target state="new">updated the task</target>
+        </trans-unit>
+        <trans-unit id="taskupdate.Text" translate="yes" xml:space="preserve">
+          <source>Updated Tasks</source>
+          <target state="new">Updated Tasks</target>
+        </trans-unit>
+        <trans-unit id="videoadd.Action" translate="yes" xml:space="preserve">
+          <source>added the video</source>
+          <target state="new">added the video</target>
+        </trans-unit>
+        <trans-unit id="videoadd.Text" translate="yes" xml:space="preserve">
+          <source>Videos</source>
+          <target state="new">Videos</target>
+        </trans-unit>
+        <trans-unit id="vote.Action" translate="yes" xml:space="preserve">
+          <source>voted for</source>
+          <target state="new">voted for</target>
+        </trans-unit>
+        <trans-unit id="vote.Text" translate="yes" xml:space="preserve">
+          <source>Votes</source>
+          <target state="new">Votes</target>
+        </trans-unit>
+        <trans-unit id="wikiadd.Action" translate="yes" xml:space="preserve">
+          <source>added the wiki item</source>
+          <target state="new">added the wiki item</target>
+        </trans-unit>
+        <trans-unit id="wikiadd.Text" translate="yes" xml:space="preserve">
+          <source>Wiki</source>
+          <target state="new">Wiki</target>
+        </trans-unit>
+        <trans-unit id="wikiupdate.Action" translate="yes" xml:space="preserve">
+          <source>updated the wiki item</source>
+          <target state="new">updated the wiki item</target>
+        </trans-unit>
+        <trans-unit id="wikiupdate.Text" translate="yes" xml:space="preserve">
+          <source>Updated Wiki</source>
+          <target state="new">Updated Wiki</target>
+        </trans-unit>
+        <trans-unit id="badge.Action" translate="yes" xml:space="preserve">
+          <source>received the badge</source>
+          <target state="new">received the badge</target>
+        </trans-unit>
+        <trans-unit id="badge.Text" translate="yes" xml:space="preserve">
+          <source>Badges Received</source>
+          <target state="new">Badges Received</target>
+        </trans-unit>
+        <trans-unit id="journal_badge.Text" translate="yes" xml:space="preserve">
+          <source>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</source>
+          <target state="new">&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</target>
+        </trans-unit>
+        <trans-unit id="journal_comment.Text" translate="yes" xml:space="preserve">
+          <source>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</source>
+          <target state="new">&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</target>
+        </trans-unit>
+        <trans-unit id="journal_ideaadd.Text" translate="yes" xml:space="preserve">
+          <source>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</source>
+          <target state="new">&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</target>
+        </trans-unit>
+        <trans-unit id="journal_ideaupdate.Text" translate="yes" xml:space="preserve">
+          <source>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</source>
+          <target state="new">&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</target>
+        </trans-unit>
+        <trans-unit id="journal_vote.Text" translate="yes" xml:space="preserve">
+          <source>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</source>
+          <target state="new">&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
+&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+	&lt;/p&gt;
+	[JOURNALCONTROL:LIKELIST]
+&lt;/div&gt;</target>
+        </trans-unit>
+        <trans-unit id="Notification_Mention.Body" translate="yes" xml:space="preserve">
+          <source>{0}</source>
+          <target state="new">{0}</target>
+        </trans-unit>
+        <trans-unit id="Notification_Mention.Subject" translate="yes" xml:space="preserve">
+          <source>{0} mentioned you in a {1}</source>
+          <target state="new">{0} mentioned you in a {1}</target>
+        </trans-unit>
+        <trans-unit id="Notification_MentionType_Comment.Text" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <target state="new">Comment</target>
+        </trans-unit>
+        <trans-unit id="Notification_MentionType_Post.Text" translate="yes" xml:space="preserve">
+          <source>Post</source>
+          <target state="new">Post</target>
+        </trans-unit>
+        <trans-unit id="product.Text" translate="yes" xml:space="preserve">
+          <source>Products</source>
+          <target state="new">Products</target>
+        </trans-unit>
+        <trans-unit id="challengeadded.Action" translate="yes" xml:space="preserve">
+          <source>issued the challenge</source>
+          <target state="new">issued the challenge</target>
+        </trans-unit>
+        <trans-unit id="challengeadded.Text" translate="yes" xml:space="preserve">
+          <source>Challenges Added</source>
+          <target state="new">Challenges Added</target>
+        </trans-unit>
+        <trans-unit id="challengecompleted.Action" translate="yes" xml:space="preserve">
+          <source>completed the challenge</source>
+          <target state="new">completed the challenge</target>
+        </trans-unit>
+        <trans-unit id="challengecompleted.Text" translate="yes" xml:space="preserve">
+          <source>Challenges Completed</source>
+          <target state="new">Challenges Completed</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

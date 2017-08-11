@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Login.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="cmdLogin.Text" translate="yes" xml:space="preserve">
+          <source>Login</source>
+          <target state="new">Login</target>
+        </trans-unit>
+        <trans-unit id="Title.Text" translate="yes" xml:space="preserve">
+          <source>Standard</source>
+          <target state="new">Standard</target>
+        </trans-unit>
+        <trans-unit id="InvalidVerificationCode.Text" translate="yes" xml:space="preserve">
+          <source>Invalid verification code.</source>
+          <target state="new">Invalid verification code.</target>
+        </trans-unit>
+        <trans-unit id="UserAlreadyVerified.Text" translate="yes" xml:space="preserve">
+          <source>User already verified.</source>
+          <target state="new">User already verified.</target>
+        </trans-unit>
+        <trans-unit id="UserDoesNotExist.Text" translate="yes" xml:space="preserve">
+          <source>User does not exist.</source>
+          <target state="new">User does not exist.</target>
+        </trans-unit>
+        <trans-unit id="Email.Text" translate="yes" xml:space="preserve">
+          <source>Email Address:</source>
+          <target state="new">Email Address:</target>
+        </trans-unit>
+        <trans-unit id="cmdPassword.Text" translate="yes" xml:space="preserve">
+          <source>Reset Password</source>
+          <target state="new">Reset Password</target>
+        </trans-unit>
+        <trans-unit id="cmdRegister.Text" translate="yes" xml:space="preserve">
+          <source>Register</source>
+          <target state="new">Register</target>
+        </trans-unit>
+        <trans-unit id="Remember.Text" translate="yes" xml:space="preserve">
+          <source>Remember Login</source>
+          <target state="new">Remember Login</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

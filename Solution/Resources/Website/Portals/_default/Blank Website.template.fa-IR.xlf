@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Blank Website.template.en-US.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="LocalizedTemplateName.Text" translate="yes" xml:space="preserve">
+          <source>Blank Website</source>
+          <target state="new">Blank Website</target>
+        </trans-unit>
+        <trans-unit id="Setting.DefaultLanguage.Text" translate="yes" xml:space="preserve">
+          <source>en-US</source>
+          <target state="new">en-US</target>
+        </trans-unit>
+        <trans-unit id="Setting.FooterText.Text" translate="yes" xml:space="preserve">
+          <source>Copyright [year] by DNN Corp</source>
+          <target state="new">Copyright [year] by DNN Corp</target>
+        </trans-unit>
+        <trans-unit id="PortalDescription.Text" translate="yes" xml:space="preserve">
+          <source>Blank Template</source>
+          <target state="new">Blank Template</target>
+        </trans-unit>
+        <trans-unit id="Tab.Home.Description.Text" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="Tab.Home.Keywords.Text" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="Tab.Home.Name.Text" translate="yes" xml:space="preserve">
+          <source>Home</source>
+          <target state="new">Home</target>
+        </trans-unit>
+        <trans-unit id="Tab.Home.PageHeadText.Text" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="Tab.Home.Title.Text" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="RoleGroup.Description.Text" translate="yes" xml:space="preserve">
+          <source>A dummy role group that represents the Global roles</source>
+          <target state="new">A dummy role group that represents the Global roles</target>
+        </trans-unit>
+        <trans-unit id="Tab.About.RightPane.OtherModule.Content.8.Text" translate="yes" xml:space="preserve">
+          <source>Share your feedback</source>
+          <target state="new">Share your feedback</target>
+        </trans-unit>
+        <trans-unit id="Tab.SearchAdmin.ContentPane.Module.Title.Text" translate="yes" xml:space="preserve">
+          <source>Search Admin</source>
+          <target state="new">Search Admin</target>
+        </trans-unit>
+        <trans-unit id="Tab.SearchAdmin.Description.Text" translate="yes" xml:space="preserve">
+          <source>Search Admin</source>
+          <target state="new">Search Admin</target>
+        </trans-unit>
+        <trans-unit id="Tab.404ErrorPage..Module.Content.Text" translate="yes" xml:space="preserve">
+          <source>Sorry, the page you are looking for cannot be found and might have been removed, had its name changed, or is temporarily unavailable. It is recommended that you start again from the homepage. Feel free to contact us if the problem persists or if you definitely cannot find what you’re looking for.</source>
+          <target state="new">Sorry, the page you are looking for cannot be found and might have been removed, had its name changed, or is temporarily unavailable. It is recommended that you start again from the homepage. Feel free to contact us if the problem persists or if you definitely cannot find what you’re looking for.</target>
+        </trans-unit>
+        <trans-unit id="Tab.404ErrorPage..Module.Title.Text" translate="yes" xml:space="preserve">
+          <source>Page cannot be found</source>
+          <target state="new">Page cannot be found</target>
+        </trans-unit>
+        <trans-unit id="Tab.404ErrorPage.Content.Text" translate="yes" xml:space="preserve">
+          <source>404 Error Page</source>
+          <target state="new">404 Error Page</target>
+        </trans-unit>
+        <trans-unit id="Tab.404ErrorPage.Title.Text" translate="yes" xml:space="preserve">
+          <source>404 Error Page</source>
+          <target state="new">404 Error Page</target>
+        </trans-unit>
+        <trans-unit id="Tab.MyProfile.Title.Text" translate="yes" xml:space="preserve">
+          <source>My Profile</source>
+          <target state="new">My Profile</target>
+        </trans-unit>
+        <trans-unit id="Tab.Extensions.Title.Text" translate="yes" xml:space="preserve">
+          <source>Extensions</source>
+          <target state="new">Extensions</target>
+        </trans-unit>
+        <trans-unit id="Tab.PortalAdministration.Title.Text" translate="yes" xml:space="preserve">
+          <source>Website Administration</source>
+          <target state="new">Website Administration</target>
+        </trans-unit>
+        <trans-unit id="Tab.MyFriends.Title.Text" translate="yes" xml:space="preserve">
+          <source>My Friends</source>
+          <target state="new">My Friends</target>
+        </trans-unit>
+        <trans-unit id="Tab.MyMessages.Title.Text" translate="yes" xml:space="preserve">
+          <source>My Messages</source>
+          <target state="new">My Messages</target>
+        </trans-unit>
+        <trans-unit id="Tab.SecurityRoles.Title.Text" translate="yes" xml:space="preserve">
+          <source>Security Roles</source>
+          <target state="new">Security Roles</target>
+        </trans-unit>
+        <trans-unit id="Tab.SiteSettings.Title.Text" translate="yes" xml:space="preserve">
+          <source>Site Settings</source>
+          <target state="new">Site Settings</target>
+        </trans-unit>
+        <trans-unit id="Tab.UserAccounts.Title.Text" translate="yes" xml:space="preserve">
+          <source>User Accounts</source>
+          <target state="new">User Accounts</target>
+        </trans-unit>
+        <trans-unit id="Tab.SearchResultsCE.Title.Text" translate="yes" xml:space="preserve">
+          <source>Search Results</source>
+          <target state="new">Search Results</target>
+        </trans-unit>
+        <trans-unit id="Tab.Taxonomy.Title.Text" translate="yes" xml:space="preserve">
+          <source>Taxonomy</source>
+          <target state="new">Taxonomy</target>
+        </trans-unit>
+        <trans-unit id="Tab.DigitalAssetsManagement.Title.Text" translate="yes" xml:space="preserve">
+          <source>File Management</source>
+          <target state="new">File Management</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

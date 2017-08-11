@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Tabs.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="lblAdminOnly.Text" translate="yes" xml:space="preserve">
+          <source>Visible to Administrators only</source>
+          <target state="new">Visible to Administrators only</target>
+        </trans-unit>
+        <trans-unit id="lblEveryone.Text" translate="yes" xml:space="preserve">
+          <source>Page is visible to everyone</source>
+          <target state="new">Page is visible to everyone</target>
+        </trans-unit>
+        <trans-unit id="lblHome.Text" translate="yes" xml:space="preserve">
+          <source>Homepage of the site</source>
+          <target state="new">Homepage of the site</target>
+        </trans-unit>
+        <trans-unit id="lblRegistered.Text" translate="yes" xml:space="preserve">
+          <source>Visible to registered users</source>
+          <target state="new">Visible to registered users</target>
+        </trans-unit>
+        <trans-unit id="lblSecure.Text" translate="yes" xml:space="preserve">
+          <source>Visible to dedicated roles only</source>
+          <target state="new">Visible to dedicated roles only</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

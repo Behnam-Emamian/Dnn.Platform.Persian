@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="ResultsSettings.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ControlTitle_settings.Text" translate="yes" xml:space="preserve">
+          <source>Search Results Settings</source>
+          <target state="new">Search Results Settings</target>
+        </trans-unit>
+        <trans-unit id="filtersRequired.Text" translate="yes" xml:space="preserve">
+          <source>At least one content type should be selected.</source>
+          <target state="new">At least one content type should be selected.</target>
+        </trans-unit>
+        <trans-unit id="linkTargetOnSamePage.Text" translate="yes" xml:space="preserve">
+          <source>On Same Page</source>
+          <target state="new">On Same Page</target>
+        </trans-unit>
+        <trans-unit id="linkTargetOpenNewPage.Text" translate="yes" xml:space="preserve">
+          <source>Open New Page</source>
+          <target state="new">Open New Page</target>
+        </trans-unit>
+        <trans-unit id="plEnableWildSearch.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to enable searches to be performed by typing partial words, e.g. typing "org" will find "organization" or "organize".  This setting should be unchecked if results take a long time to retrieve.</source>
+          <target state="new">Check this box to enable searches to be performed by typing partial words, e.g. typing "org" will find "organization" or "organize".  This setting should be unchecked if results take a long time to retrieve.</target>
+        </trans-unit>
+        <trans-unit id="plEnableWildSearch.Text" translate="yes" xml:space="preserve">
+          <source>Enable Wildcard Searches by Default</source>
+          <target state="new">Enable Wildcard Searches by Default</target>
+        </trans-unit>
+        <trans-unit id="plResultsScopeForFilters.Help" translate="yes" xml:space="preserve">
+          <source>Limit the search results by selecting the content type(s).</source>
+          <target state="new">Limit the search results by selecting the content type(s).</target>
+        </trans-unit>
+        <trans-unit id="plResultsScopeForFilters.Text" translate="yes" xml:space="preserve">
+          <source>Results Scope for Content Type(s)</source>
+          <target state="new">Results Scope for Content Type(s)</target>
+        </trans-unit>
+        <trans-unit id="plResultsScopeForPortals.Help" translate="yes" xml:space="preserve">
+          <source>Limit the search results by selecting the site(s).</source>
+          <target state="new">Limit the search results by selecting the site(s).</target>
+        </trans-unit>
+        <trans-unit id="plResultsScopeForPortals.Text" translate="yes" xml:space="preserve">
+          <source>Results Scope for Site(s)</source>
+          <target state="new">Results Scope for Site(s)</target>
+        </trans-unit>
+        <trans-unit id="plTitleLinkTarget.Help" translate="yes" xml:space="preserve">
+          <source>Choose to open the link in the same page or in a new window.</source>
+          <target state="new">Choose to open the link in the same page or in a new window.</target>
+        </trans-unit>
+        <trans-unit id="plTitleLinkTarget.Text" translate="yes" xml:space="preserve">
+          <source>Title Link Target</source>
+          <target state="new">Title Link Target</target>
+        </trans-unit>
+        <trans-unit id="portalsRequired.Text" translate="yes" xml:space="preserve">
+          <source>At least one site should be selected.</source>
+          <target state="new">At least one site should be selected.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

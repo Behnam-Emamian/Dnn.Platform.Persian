@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="ModuleLocalization.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Language.Header" translate="yes" xml:space="preserve">
+          <source>Culture</source>
+          <target state="new">Culture</target>
+        </trans-unit>
+        <trans-unit id="UnBound.Header" translate="yes" xml:space="preserve">
+          <source>Is Detached?</source>
+          <target state="new">Is Detached?</target>
+        </trans-unit>
+        <trans-unit id="markModuleTranslated.Text" translate="yes" xml:space="preserve">
+          <source>Mark as Translated</source>
+          <target state="new">Mark as Translated</target>
+        </trans-unit>
+        <trans-unit id="markModuleUnTranslated.Text" translate="yes" xml:space="preserve">
+          <source>Mark as Not Translated</source>
+          <target state="new">Mark as Not Translated</target>
+        </trans-unit>
+        <trans-unit id="ModuleTitle.Header" translate="yes" xml:space="preserve">
+          <source>Module Title</source>
+          <target state="new">Module Title</target>
+        </trans-unit>
+        <trans-unit id="Translated.Header" translate="yes" xml:space="preserve">
+          <source>Translated?</source>
+          <target state="new">Translated?</target>
+        </trans-unit>
+        <trans-unit id="NA.Text" translate="yes" xml:space="preserve">
+          <source>NA</source>
+          <target state="new">NA</target>
+        </trans-unit>
+        <trans-unit id="Edit.Header" translate="yes" xml:space="preserve">
+          <source>Edit</source>
+          <target state="new">Edit</target>
+        </trans-unit>
+        <trans-unit id="ModuleType.Header" translate="yes" xml:space="preserve">
+          <source>Module</source>
+          <target state="new">Module</target>
+        </trans-unit>
+        <trans-unit id="bindModule.Text" translate="yes" xml:space="preserve">
+          <source>Reference Default Culture</source>
+          <target state="new">Reference Default Culture</target>
+        </trans-unit>
+        <trans-unit id="unbindModule.Text" translate="yes" xml:space="preserve">
+          <source>Detach from Default Culture</source>
+          <target state="new">Detach from Default Culture</target>
+        </trans-unit>
+        <trans-unit id="BindConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Binding to the default culture version will delete the content from the sub culture versions.  This action is irreversible.  Are you sure you want to proceed?</source>
+          <target state="new">Binding to the default culture version will delete the content from the sub culture versions.  This action is irreversible.  Are you sure you want to proceed?</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

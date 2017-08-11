@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Settings.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="AuthenticationConfig_Enabled.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to enable the standard DotNetNuke Authentication.</source>
+          <target state="new">Check this box to enable the standard DotNetNuke Authentication.</target>
+        </trans-unit>
+        <trans-unit id="AuthenticationConfig_Enabled.Text" translate="yes" xml:space="preserve">
+          <source>Enabled:</source>
+          <target state="new">Enabled:</target>
+        </trans-unit>
+        <trans-unit id="AuthenticationConfig_UseCaptcha.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to enable Captcha for the DotNetNuke Login.</source>
+          <target state="new">Check this box to enable Captcha for the DotNetNuke Login.</target>
+        </trans-unit>
+        <trans-unit id="AuthenticationConfig_UseCaptcha.Text" translate="yes" xml:space="preserve">
+          <source>Use Captcha:</source>
+          <target state="new">Use Captcha:</target>
+        </trans-unit>
+        <trans-unit id="Title.Text" translate="yes" xml:space="preserve">
+          <source>DotNetNuke Authentication Settings</source>
+          <target state="new">DotNetNuke Authentication Settings</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

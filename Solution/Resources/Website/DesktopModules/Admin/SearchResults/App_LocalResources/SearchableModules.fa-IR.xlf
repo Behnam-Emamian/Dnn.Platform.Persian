@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="SearchableModules.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="All.Text" translate="yes" xml:space="preserve">
+          <source>All</source>
+          <target state="new">All</target>
+        </trans-unit>
+        <trans-unit id="Crawler_tab.Text" translate="yes" xml:space="preserve">
+          <source>Pages</source>
+          <target state="new">Pages</target>
+        </trans-unit>
+        <trans-unit id="Crawler_user.Text" translate="yes" xml:space="preserve">
+          <source>Users</source>
+          <target state="new">Users</target>
+        </trans-unit>
+        <trans-unit id="Module_Answers.Text" translate="yes" xml:space="preserve">
+          <source>Answers</source>
+          <target state="new">Answers</target>
+        </trans-unit>
+        <trans-unit id="Module_Blogs.Text" translate="yes" xml:space="preserve">
+          <source>Blogs</source>
+          <target state="new">Blogs</target>
+        </trans-unit>
+        <trans-unit id="Module_Events.Text" translate="yes" xml:space="preserve">
+          <source>Events</source>
+          <target state="new">Events</target>
+        </trans-unit>
+        <trans-unit id="Module_Ideas.Text" translate="yes" xml:space="preserve">
+          <source>Ideas</source>
+          <target state="new">Ideas</target>
+        </trans-unit>
+        <trans-unit id="Module_Journal.Text" translate="yes" xml:space="preserve">
+          <source>Journal</source>
+          <target state="new">Journal</target>
+        </trans-unit>
+        <trans-unit id="Module_Text/HTML.Text" translate="yes" xml:space="preserve">
+          <source>Pages</source>
+          <target state="new">Pages</target>
+        </trans-unit>
+        <trans-unit id="Module_Group Directory.Text" translate="yes" xml:space="preserve">
+          <source>Group Directory</source>
+          <target state="new">Group Directory</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

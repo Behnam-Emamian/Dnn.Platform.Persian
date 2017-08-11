@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="ListSettings.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ControlTitle_settings.Text" translate="yes" xml:space="preserve">
+          <source>Group Module Settings</source>
+          <target state="new">Group Module Settings</target>
+        </trans-unit>
+        <trans-unit id="DefaultRoleGroup.Help" translate="yes" xml:space="preserve">
+          <source>Select the Role Group that contains the roles you want to display.</source>
+          <target state="new">Select the Role Group that contains the roles you want to display.</target>
+        </trans-unit>
+        <trans-unit id="DefaultRoleGroup.Text" translate="yes" xml:space="preserve">
+          <source>Default Role Group</source>
+          <target state="new">Default Role Group</target>
+        </trans-unit>
+        <trans-unit id="GroupCreatePage.Help" translate="yes" xml:space="preserve">
+          <source>Select the page where users will go to create new groups.</source>
+          <target state="new">Select the page where users will go to create new groups.</target>
+        </trans-unit>
+        <trans-unit id="GroupListEnableSearch.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to allow users to filter groups.</source>
+          <target state="new">Check this box to allow users to filter groups.</target>
+        </trans-unit>
+        <trans-unit id="GroupListEnableSearch.Text" translate="yes" xml:space="preserve">
+          <source>Enable Group Search</source>
+          <target state="new">Enable Group Search</target>
+        </trans-unit>
+        <trans-unit id="GroupListPageSize.Help" translate="yes" xml:space="preserve">
+          <source>Enter the number of groups displayed per page.</source>
+          <target state="new">Enter the number of groups displayed per page.</target>
+        </trans-unit>
+        <trans-unit id="GroupListPageSize.Text" translate="yes" xml:space="preserve">
+          <source>Group List Page Size</source>
+          <target state="new">Group List Page Size</target>
+        </trans-unit>
+        <trans-unit id="GroupListSortDirField.Help" translate="yes" xml:space="preserve">
+          <source>Choose the sort direction for the list of groups.</source>
+          <target state="new">Choose the sort direction for the list of groups.</target>
+        </trans-unit>
+        <trans-unit id="GroupListSortDirField.Text" translate="yes" xml:space="preserve">
+          <source>Sort Direction</source>
+          <target state="new">Sort Direction</target>
+        </trans-unit>
+        <trans-unit id="GroupListSortField.Help" translate="yes" xml:space="preserve">
+          <source>Choose the field that will be used to sort the list of groups.</source>
+          <target state="new">Choose the field that will be used to sort the list of groups.</target>
+        </trans-unit>
+        <trans-unit id="GroupListSortField.Text" translate="yes" xml:space="preserve">
+          <source>Sort List By</source>
+          <target state="new">Sort List By</target>
+        </trans-unit>
+        <trans-unit id="GroupListTemplateText.Help" translate="yes" xml:space="preserve">
+          <source>You can modify the default template in order to customize the group list display.  Common tokens are: <bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept>
+[groupitem:GroupName]<bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>
+[groupitem:GroupDescription]<bpt id="3">&lt;br &gt;</bpt><ept id="3">&lt;/br&gt;</ept>
+[groupitem:PhotoURL]<bpt id="4">&lt;br &gt;</bpt><ept id="4">&lt;/br&gt;</ept>
+[groupviewurl]<bpt id="5">&lt;br &gt;</bpt><ept id="5">&lt;/br&gt;</ept></source>
+          <target state="new">You can modify the default template in order to customize the group list display.  Common tokens are: <bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept>
+[groupitem:GroupName]<bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>
+[groupitem:GroupDescription]<bpt id="3">&lt;br &gt;</bpt><ept id="3">&lt;/br&gt;</ept>
+[groupitem:PhotoURL]<bpt id="4">&lt;br &gt;</bpt><ept id="4">&lt;/br&gt;</ept>
+[groupviewurl]<bpt id="5">&lt;br &gt;</bpt><ept id="5">&lt;/br&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="GroupListTemplateText.Text" translate="yes" xml:space="preserve">
+          <source>Group List Template</source>
+          <target state="new">Group List Template</target>
+        </trans-unit>
+        <trans-unit id="GroupListUserGroups.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to only display groups that the current user belongs to.</source>
+          <target state="new">Check this box to only display groups that the current user belongs to.</target>
+        </trans-unit>
+        <trans-unit id="GroupListUserGroups.Text" translate="yes" xml:space="preserve">
+          <source>Display User's Groups Only</source>
+          <target state="new">Display User's Groups Only</target>
+        </trans-unit>
+        <trans-unit id="GroupModeration.Help" translate="yes" xml:space="preserve">
+          <source>Check this box if new groups to require the approval by a Group Moderator.</source>
+          <target state="new">Check this box if new groups to require the approval by a Group Moderator.</target>
+        </trans-unit>
+        <trans-unit id="GroupModeration.Text" translate="yes" xml:space="preserve">
+          <source>Group Creation Requires Approval</source>
+          <target state="new">Group Creation Requires Approval</target>
+        </trans-unit>
+        <trans-unit id="GroupViewPage.Help" translate="yes" xml:space="preserve">
+          <source>Select the page where users will go to view a particular group.</source>
+          <target state="new">Select the page where users will go to view a particular group.</target>
+        </trans-unit>
+        <trans-unit id="GroupViewTemplateText.Help" translate="yes" xml:space="preserve">
+          <source>You can modify the default template in order to customize the group list display.  Common tokens are: <bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept>
+[groupitem:GroupName]<bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>
+[groupitem:GroupDescription]<bpt id="3">&lt;br &gt;</bpt><ept id="3">&lt;/br&gt;</ept>
+[groupitem:PhotoURL]<bpt id="4">&lt;br &gt;</bpt><ept id="4">&lt;/br&gt;</ept>
+[groupviewurl]<bpt id="5">&lt;br &gt;</bpt><ept id="5">&lt;/br&gt;</ept></source>
+          <target state="new">You can modify the default template in order to customize the group list display.  Common tokens are: <bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept>
+[groupitem:GroupName]<bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>
+[groupitem:GroupDescription]<bpt id="3">&lt;br &gt;</bpt><ept id="3">&lt;/br&gt;</ept>
+[groupitem:PhotoURL]<bpt id="4">&lt;br &gt;</bpt><ept id="4">&lt;/br&gt;</ept>
+[groupviewurl]<bpt id="5">&lt;br &gt;</bpt><ept id="5">&lt;/br&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="PageSizeValidation.Text" translate="yes" xml:space="preserve">
+          <source>Invalid page size specified. (1-9999)</source>
+          <target state="new">Invalid page size specified. (1-9999)</target>
+        </trans-unit>
+        <trans-unit id="ViewMode.Help" translate="yes" xml:space="preserve">
+          <source>Select the mode in which the module should display.</source>
+          <target state="new">Select the mode in which the module should display.</target>
+        </trans-unit>
+        <trans-unit id="ViewMode.Text" translate="yes" xml:space="preserve">
+          <source>Module View Mode</source>
+          <target state="new">Module View Mode</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

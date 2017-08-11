@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="SiteImportExport.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="nav_SiteImportExport.Text" translate="yes" xml:space="preserve">
+          <source>Import / Export</source>
+          <target state="new">Import / Export</target>
+        </trans-unit>
+        <trans-unit id="SiteImportExport.Header" translate="yes" xml:space="preserve">
+          <source>Import / Export</source>
+          <target state="new">Import / Export</target>
+        </trans-unit>
+        <trans-unit id="ImportButton.Text" translate="yes" xml:space="preserve">
+          <source>Import Data</source>
+          <target state="new">Import Data</target>
+        </trans-unit>
+        <trans-unit id="ExportButton.Text" translate="yes" xml:space="preserve">
+          <source>Export Data</source>
+          <target state="new">Export Data</target>
+        </trans-unit>
+        <trans-unit id="LastImport.Text" translate="yes" xml:space="preserve">
+          <source>Last Import</source>
+          <target state="new">Last Import</target>
+        </trans-unit>
+        <trans-unit id="LastExport.Text" translate="yes" xml:space="preserve">
+          <source>Last Export</source>
+          <target state="new">Last Export</target>
+        </trans-unit>
+        <trans-unit id="LastUpdate.Text" translate="yes" xml:space="preserve">
+          <source>Last Update</source>
+          <target state="new">Last Update</target>
+        </trans-unit>
+        <trans-unit id="JobDate.Header" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target state="new">Date</target>
+        </trans-unit>
+        <trans-unit id="JobType.Header" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="JobUser.Header" translate="yes" xml:space="preserve">
+          <source>Username</source>
+          <target state="new">Username</target>
+        </trans-unit>
+        <trans-unit id="JobPortal.Header" translate="yes" xml:space="preserve">
+          <source>Website</source>
+          <target state="new">Website</target>
+        </trans-unit>
+        <trans-unit id="JobStatus.Header" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target state="new">Status</target>
+        </trans-unit>
+        <trans-unit id="LegendExport.Text" translate="yes" xml:space="preserve">
+          <source>Site Export</source>
+          <target state="new">Site Export</target>
+        </trans-unit>
+        <trans-unit id="LegendImport.Text" translate="yes" xml:space="preserve">
+          <source>Site Import</source>
+          <target state="new">Site Import</target>
+        </trans-unit>
+        <trans-unit id="LogSection.Text" translate="yes" xml:space="preserve">
+          <source>Import / Export Log</source>
+          <target state="new">Import / Export Log</target>
+        </trans-unit>
+        <trans-unit id="ShowSiteLabel.Text" translate="yes" xml:space="preserve">
+          <source>Site: </source>
+          <target state="new">Site: </target>
+        </trans-unit>
+        <trans-unit id="ShowFilterLabel.Text" translate="yes" xml:space="preserve">
+          <source>Filter: </source>
+          <target state="new">Filter: </target>
+        </trans-unit>
+        <trans-unit id="JobTypeAll.Text" translate="yes" xml:space="preserve">
+          <source>All Imports and Exports</source>
+          <target state="new">All Imports and Exports</target>
+        </trans-unit>
+        <trans-unit id="JobTypeImport.Text" translate="yes" xml:space="preserve">
+          <source>All Imports</source>
+          <target state="new">All Imports</target>
+        </trans-unit>
+        <trans-unit id="JobTypeExport.Text" translate="yes" xml:space="preserve">
+          <source>All Exports</source>
+          <target state="new">All Exports</target>
+        </trans-unit>
+        <trans-unit id="SearchPlaceHolder.Text" translate="yes" xml:space="preserve">
+          <source>Search by Keyword</source>
+          <target state="new">Search by Keyword</target>
+        </trans-unit>
+        <trans-unit id="SummaryNoteTitle.Text" translate="yes" xml:space="preserve">
+          <source>*Note:</source>
+          <target state="new">*Note:</target>
+        </trans-unit>
+        <trans-unit id="SummaryNoteDescription.Text" translate="yes" xml:space="preserve">
+          <source>Your site export files are securely stored within your website's App_Data/ExportImport folder.</source>
+          <target state="new">Your site export files are securely stored within your website's App_Data/ExportImport folder.</target>
+        </trans-unit>
+        <trans-unit id="ExportSummary.Text" translate="yes" xml:space="preserve">
+          <source>Export Summary</source>
+          <target state="new">Export Summary</target>
+        </trans-unit>
+        <trans-unit id="NoJobs.Text" translate="yes" xml:space="preserve">
+          <source>No jobs found</source>
+          <target state="new">No jobs found</target>
+        </trans-unit>
+        <trans-unit id="BackToImportExport.Text" translate="yes" xml:space="preserve">
+          <source>Back to Import / Export</source>
+          <target state="new">Back to Import / Export</target>
+        </trans-unit>
+        <trans-unit id="Export.Text" translate="yes" xml:space="preserve">
+          <source>Export Data</source>
+          <target state="new">Export Data</target>
+        </trans-unit>
+        <trans-unit id="Import.Text" translate="yes" xml:space="preserve">
+          <source>Import Data</source>
+          <target state="new">Import Data</target>
+        </trans-unit>
+        <trans-unit id="ExportSettings.Text" translate="yes" xml:space="preserve">
+          <source>Export Settings</source>
+          <target state="new">Export Settings</target>
+        </trans-unit>
+        <trans-unit id="Site.Text" translate="yes" xml:space="preserve">
+          <source>Site</source>
+          <target state="new">Site</target>
+        </trans-unit>
+        <trans-unit id="Description.Text" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+        <trans-unit id="Name.Text" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="IncludeInExport.Text" translate="yes" xml:space="preserve">
+          <source>Include in Export</source>
+          <target state="new">Include in Export</target>
+        </trans-unit>
+        <trans-unit id="PagesInExport.Text" translate="yes" xml:space="preserve">
+          <source>Pages in Export</source>
+          <target state="new">Pages in Export</target>
+        </trans-unit>
+        <trans-unit id="BeginExport.Text" translate="yes" xml:space="preserve">
+          <source>Begin Export</source>
+          <target state="new">Begin Export</target>
+        </trans-unit>
+        <trans-unit id="Cancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="Content.Text" translate="yes" xml:space="preserve">
+          <source>Content</source>
+          <target state="new">Content</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties.Text" translate="yes" xml:space="preserve">
+          <source>Profile Properties</source>
+          <target state="new">Profile Properties</target>
+        </trans-unit>
+        <trans-unit id="Permissions.Text" translate="yes" xml:space="preserve">
+          <source>Permissions</source>
+          <target state="new">Permissions</target>
+        </trans-unit>
+        <trans-unit id="Extensions.Text" translate="yes" xml:space="preserve">
+          <source>Extensions</source>
+          <target state="new">Extensions</target>
+        </trans-unit>
+        <trans-unit id="DeletionsInExport.Text" translate="yes" xml:space="preserve">
+          <source>Include Deletions</source>
+          <target state="new">Include Deletions</target>
+        </trans-unit>
+        <trans-unit id="ExportName.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Name is required.</source>
+          <target state="new">Name is required.</target>
+        </trans-unit>
+        <trans-unit id="ExportRequestSubmitted" translate="yes" xml:space="preserve">
+          <source>Your data export has been placed in the queue, and will begin shortly.</source>
+          <target state="new">Your data export has been placed in the queue, and will begin shortly.</target>
+        </trans-unit>
+        <trans-unit id="ExportRequestSubmit.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Failed to submit the export site request. Please try again.</source>
+          <target state="new">Failed to submit the export site request. Please try again.</target>
+        </trans-unit>
+        <trans-unit id="ImportRequestSubmitted" translate="yes" xml:space="preserve">
+          <source>Your data import has been placed in the queue, and will begin shortly.</source>
+          <target state="new">Your data import has been placed in the queue, and will begin shortly.</target>
+        </trans-unit>
+        <trans-unit id="ImportRequestSubmit.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Failed to submit the import site request. Please try again.</source>
+          <target state="new">Failed to submit the import site request. Please try again.</target>
+        </trans-unit>
+        <trans-unit id="JobStatus0.Text" translate="yes" xml:space="preserve">
+          <source>Submitted</source>
+          <target state="new">Submitted</target>
+        </trans-unit>
+        <trans-unit id="JobStatus1.Text" translate="yes" xml:space="preserve">
+          <source>In Progress</source>
+          <target state="new">In Progress</target>
+        </trans-unit>
+        <trans-unit id="JobStatus2.Text" translate="yes" xml:space="preserve">
+          <source>Completed</source>
+          <target state="new">Completed</target>
+        </trans-unit>
+        <trans-unit id="JobStatus3.Text" translate="yes" xml:space="preserve">
+          <source>Failed</source>
+          <target state="new">Failed</target>
+        </trans-unit>
+        <trans-unit id="JobStatus4.Text" translate="yes" xml:space="preserve">
+          <source>Cancelled</source>
+          <target state="new">Cancelled</target>
+        </trans-unit>
+        <trans-unit id="CreatedOn.Text" translate="yes" xml:space="preserve">
+          <source>Created On</source>
+          <target state="new">Created On</target>
+        </trans-unit>
+        <trans-unit id="CompletedOn.Text" translate="yes" xml:space="preserve">
+          <source>Completed On</source>
+          <target state="new">Completed On</target>
+        </trans-unit>
+        <trans-unit id="ExportFile.Text" translate="yes" xml:space="preserve">
+          <source>Export File</source>
+          <target state="new">Export File</target>
+        </trans-unit>
+        <trans-unit id="lblLanguages.Help" translate="yes" xml:space="preserve">
+          <source>Select each of the secondary languages to be included in a multi-language template, or select the language of a single language site.</source>
+          <target state="new">Select each of the secondary languages to be included in a multi-language template, or select the language of a single language site.</target>
+        </trans-unit>
+        <trans-unit id="lblLanguages.Text" translate="yes" xml:space="preserve">
+          <source>Export Languages</source>
+          <target state="new">Export Languages</target>
+        </trans-unit>
+        <trans-unit id="lblSelectLanguages.Text" translate="yes" xml:space="preserve">
+          <source>-- Select Languages --</source>
+          <target state="new">-- Select Languages --</target>
+        </trans-unit>
+        <trans-unit id="lblNote.Text" translate="yes" xml:space="preserve">
+          <source>The default language ({0}) will always be exported.</source>
+          <target state="new">The default language ({0}) will always be exported.</target>
+        </trans-unit>
+        <trans-unit id="AllSites.Text" translate="yes" xml:space="preserve">
+          <source>--ALL SITES--</source>
+          <target state="new">--ALL SITES--</target>
+        </trans-unit>
+        <trans-unit id="SelectImportPackage.Text" translate="yes" xml:space="preserve">
+          <source>Select Package to Import</source>
+          <target state="new">Select Package to Import</target>
+        </trans-unit>
+        <trans-unit id="ClicktoSelect.Text" translate="yes" xml:space="preserve">
+          <source>click to select package</source>
+          <target state="new">click to select package</target>
+        </trans-unit>
+        <trans-unit id="ClicktoDeselect.Text" translate="yes" xml:space="preserve">
+          <source>click to deselect package</source>
+          <target state="new">click to deselect package</target>
+        </trans-unit>
+        <trans-unit id="PackageDescription.Text" translate="yes" xml:space="preserve">
+          <source>Package Description</source>
+          <target state="new">Package Description</target>
+        </trans-unit>
+        <trans-unit id="Continue.Text" translate="yes" xml:space="preserve">
+          <source>Continue</source>
+          <target state="new">Continue</target>
+        </trans-unit>
+        <trans-unit id="NoPackages.Text" translate="yes" xml:space="preserve">
+          <source>No import packages found</source>
+          <target state="new">No import packages found</target>
+        </trans-unit>
+        <trans-unit id="SelectException.Text" translate="yes" xml:space="preserve">
+          <source>Please select an import package and try again.</source>
+          <target state="new">Please select an import package and try again.</target>
+        </trans-unit>
+        <trans-unit id="AnalyzingPackage.Text" translate="yes" xml:space="preserve">
+          <source>Analyzing Package for Site Import ...</source>
+          <target state="new">Analyzing Package for Site Import ...</target>
+        </trans-unit>
+        <trans-unit id="AnalyzedPackage.Text" translate="yes" xml:space="preserve">
+          <source>Files Verified</source>
+          <target state="new">Files Verified</target>
+        </trans-unit>
+        <trans-unit id="ImportSummary.Text" translate="yes" xml:space="preserve">
+          <source>Import Summary</source>
+          <target state="new">Import Summary</target>
+        </trans-unit>
+        <trans-unit id="Pages.Text" translate="yes" xml:space="preserve">
+          <source>Pages</source>
+          <target state="new">Pages</target>
+        </trans-unit>
+        <trans-unit id="Users.Text" translate="yes" xml:space="preserve">
+          <source>Users</source>
+          <target state="new">Users</target>
+        </trans-unit>
+        <trans-unit id="UsersStep1.Text" translate="yes" xml:space="preserve">
+          <source>Users (Step 1 / 2)</source>
+          <target state="new">Users (Step 1 / 2)</target>
+        </trans-unit>
+        <trans-unit id="UsersStep2.Text" translate="yes" xml:space="preserve">
+          <source>Users (Step 2 / 2)</source>
+          <target state="new">Users (Step 2 / 2)</target>
+        </trans-unit>
+        <trans-unit id="Roles.Text" translate="yes" xml:space="preserve">
+          <source>Roles and Groups</source>
+          <target state="new">Roles and Groups</target>
+        </trans-unit>
+        <trans-unit id="Vocabularies.Text" translate="yes" xml:space="preserve">
+          <source>Vocabularies</source>
+          <target state="new">Vocabularies</target>
+        </trans-unit>
+        <trans-unit id="PageTemplates.Text" translate="yes" xml:space="preserve">
+          <source>Page Templates</source>
+          <target state="new">Page Templates</target>
+        </trans-unit>
+        <trans-unit id="IncludeProfileProperties.Text" translate="yes" xml:space="preserve">
+          <source>Include Profile Properties</source>
+          <target state="new">Include Profile Properties</target>
+        </trans-unit>
+        <trans-unit id="IncludePermissions.Text" translate="yes" xml:space="preserve">
+          <source>Include Permissions</source>
+          <target state="new">Include Permissions</target>
+        </trans-unit>
+        <trans-unit id="IncludeExtensions.Text" translate="yes" xml:space="preserve">
+          <source>Include Extensions</source>
+          <target state="new">Include Extensions</target>
+        </trans-unit>
+        <trans-unit id="IncludeDeletions.Text" translate="yes" xml:space="preserve">
+          <source>Include Deletions</source>
+          <target state="new">Include Deletions</target>
+        </trans-unit>
+        <trans-unit id="IncludeContent.Text" translate="yes" xml:space="preserve">
+          <source>Include Content</source>
+          <target state="new">Include Content</target>
+        </trans-unit>
+        <trans-unit id="FolderName.Text" translate="yes" xml:space="preserve">
+          <source>Folder Name</source>
+          <target state="new">Folder Name</target>
+        </trans-unit>
+        <trans-unit id="Timestamp.Text" translate="yes" xml:space="preserve">
+          <source>Timestamp</source>
+          <target state="new">Timestamp</target>
+        </trans-unit>
+        <trans-unit id="Assets.Text" translate="yes" xml:space="preserve">
+          <source>Assets</source>
+          <target state="new">Assets</target>
+        </trans-unit>
+        <trans-unit id="TotalExportSize.Text" translate="yes" xml:space="preserve">
+          <source>Total Export Size</source>
+          <target state="new">Total Export Size</target>
+        </trans-unit>
+        <trans-unit id="ExportMode.Text" translate="yes" xml:space="preserve">
+          <source>Export Mode</source>
+          <target state="new">Export Mode</target>
+        </trans-unit>
+        <trans-unit id="OverwriteCollisions.Text" translate="yes" xml:space="preserve">
+          <source>Overwrite Collisions</source>
+          <target state="new">Overwrite Collisions</target>
+        </trans-unit>
+        <trans-unit id="FinishImporting.Text" translate="yes" xml:space="preserve">
+          <source>To finish importing data to your site, click continue below, or click cancel to abort import.</source>
+          <target state="new">To finish importing data to your site, click continue below, or click cancel to abort import.</target>
+        </trans-unit>
+        <trans-unit id="ExportModeComplete.Text" translate="yes" xml:space="preserve">
+          <source>Full</source>
+          <target state="new">Full</target>
+        </trans-unit>
+        <trans-unit id="ExportModeDifferential.Text" translate="yes" xml:space="preserve">
+          <source>Differential</source>
+          <target state="new">Differential</target>
+        </trans-unit>
+        <trans-unit id="ConfirmCancel.Text" translate="yes" xml:space="preserve">
+          <source>Yes, Cancel</source>
+          <target state="new">Yes, Cancel</target>
+        </trans-unit>
+        <trans-unit id="ConfirmDelete.Text" translate="yes" xml:space="preserve">
+          <source>Yes, Remove</source>
+          <target state="new">Yes, Remove</target>
+        </trans-unit>
+        <trans-unit id="KeepImport.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="Yes.Text" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="No.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="CancelExport.Text" translate="yes" xml:space="preserve">
+          <source>Cancel Export</source>
+          <target state="new">Cancel Export</target>
+        </trans-unit>
+        <trans-unit id="CancelImport.Text" translate="yes" xml:space="preserve">
+          <source>Cancel Import</source>
+          <target state="new">Cancel Import</target>
+        </trans-unit>
+        <trans-unit id="CancelImportMessage.Text" translate="yes" xml:space="preserve">
+          <source>Cancelling will abort the import process. Are you sure you want to cancel?</source>
+          <target state="new">Cancelling will abort the import process. Are you sure you want to cancel?</target>
+        </trans-unit>
+        <trans-unit id="Delete.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="JobCancelled.Text" translate="yes" xml:space="preserve">
+          <source>Job has been cancelled.</source>
+          <target state="new">Job has been cancelled.</target>
+        </trans-unit>
+        <trans-unit id="JobDeleted.Text" translate="yes" xml:space="preserve">
+          <source>Job has been removed.</source>
+          <target state="new">Job has been removed.</target>
+        </trans-unit>
+        <trans-unit id="JobCancel.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Failed to cancel this job, please try again.</source>
+          <target state="new">Failed to cancel this job, please try again.</target>
+        </trans-unit>
+        <trans-unit id="JobDelete.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Failed to remove this job, please try again.</source>
+          <target state="new">Failed to remove this job, please try again.</target>
+        </trans-unit>
+        <trans-unit id="CancelJobMessage.Text" translate="yes" xml:space="preserve">
+          <source>Cancelling will abort the process. Are you sure you want to cancel?</source>
+          <target state="new">Cancelling will abort the process. Are you sure you want to cancel?</target>
+        </trans-unit>
+        <trans-unit id="DeleteJobMessage.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to remove this job?</source>
+          <target state="new">Are you sure you want to remove this job?</target>
+        </trans-unit>
+        <trans-unit id="SortByDateNewest.Text" translate="yes" xml:space="preserve">
+          <source>Date (Newest)</source>
+          <target state="new">Date (Newest)</target>
+        </trans-unit>
+        <trans-unit id="SortByDateOldest.Text" translate="yes" xml:space="preserve">
+          <source>Date (Oldest)</source>
+          <target state="new">Date (Oldest)</target>
+        </trans-unit>
+        <trans-unit id="SortByName.Text" translate="yes" xml:space="preserve">
+          <source>Name (Alphabetical)</source>
+          <target state="new">Name (Alphabetical)</target>
+        </trans-unit>
+        <trans-unit id="ShowSortLabel.Text" translate="yes" xml:space="preserve">
+          <source>Sort By:</source>
+          <target state="new">Sort By:</target>
+        </trans-unit>
+        <trans-unit id="Website.Text" translate="yes" xml:space="preserve">
+          <source>Website</source>
+          <target state="new">Website</target>
+        </trans-unit>
+        <trans-unit id="Mode.Text" translate="yes" xml:space="preserve">
+          <source>Mode</source>
+          <target state="new">Mode</target>
+        </trans-unit>
+        <trans-unit id="FileSize.Text" translate="yes" xml:space="preserve">
+          <source>Size</source>
+          <target state="new">Size</target>
+        </trans-unit>
+        <trans-unit id="VerifyPackage.Text" translate="yes" xml:space="preserve">
+          <source>Just a moment, we are checking the package ...</source>
+          <target state="new">Just a moment, we are checking the package ...</target>
+        </trans-unit>
+        <trans-unit id="DeletedPortal.Text" translate="yes" xml:space="preserve">
+          <source>Deleted</source>
+          <target state="new">Deleted</target>
+        </trans-unit>
+        <trans-unit id="RunNow.Text" translate="yes" xml:space="preserve">
+          <source>Run Now</source>
+          <target state="new">Run Now</target>
+        </trans-unit>
+        <trans-unit id="NoExportItem.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Failed to submit the export site request. Please select export item(s) and try again.</source>
+          <target state="new">Failed to submit the export site request. Please select export item(s) and try again.</target>
+        </trans-unit>
+        <trans-unit id="EmptyDateTime.Text" translate="yes" xml:space="preserve">
+          <source>-- --</source>
+          <target state="new">-- --</target>
+        </trans-unit>
+        <trans-unit id="SwitchOn.Text" translate="yes" xml:space="preserve">
+          <source>On</source>
+          <target state="new">On</target>
+        </trans-unit>
+        <trans-unit id="SwitchOff.Text" translate="yes" xml:space="preserve">
+          <source>Off</source>
+          <target state="new">Off</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

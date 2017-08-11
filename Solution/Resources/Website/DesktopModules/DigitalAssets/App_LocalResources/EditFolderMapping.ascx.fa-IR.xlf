@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="EditFolderMapping.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ControlTitle.Text" translate="yes" xml:space="preserve">
+          <source>{0} Folder Type</source>
+          <target state="new">{0} Folder Type</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_editfoldermapping.Text" translate="yes" xml:space="preserve">
+          <source>Edit Folder Mapping</source>
+          <target state="new">Edit Folder Mapping</target>
+        </trans-unit>
+        <trans-unit id="Description.Text" translate="yes" xml:space="preserve">
+          <source>Use this dialog to define a new folder type.</source>
+          <target state="new">Use this dialog to define a new folder type.</target>
+        </trans-unit>
+        <trans-unit id="DuplicateMappingName.Text" translate="yes" xml:space="preserve">
+          <source>A mapping with the same name already exists.  The changes have not been saved.</source>
+          <target state="new">A mapping with the same name already exists.  The changes have not been saved.</target>
+        </trans-unit>
+        <trans-unit id="FolderProviderSettings.Text" translate="yes" xml:space="preserve">
+          <source>Folder Provider Settings</source>
+          <target state="new">Folder Provider Settings</target>
+        </trans-unit>
+        <trans-unit id="GeneralSettings.Text" translate="yes" xml:space="preserve">
+          <source>General Settings</source>
+          <target state="new">General Settings</target>
+        </trans-unit>
+        <trans-unit id="FolderProviderLabel.Help" translate="yes" xml:space="preserve">
+          <source>Select the folder provider to use.</source>
+          <target state="new">Select the folder provider to use.</target>
+        </trans-unit>
+        <trans-unit id="FolderProviderLabel.Text" translate="yes" xml:space="preserve">
+          <source>Folder Provider</source>
+          <target state="new">Folder Provider</target>
+        </trans-unit>
+        <trans-unit id="NameLabel.Help" translate="yes" xml:space="preserve">
+          <source>Enter the name of this folder mapping.</source>
+          <target state="new">Enter the name of this folder mapping.</target>
+        </trans-unit>
+        <trans-unit id="NameLabel.Text" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="RequiredFields.Text" translate="yes" xml:space="preserve">
+          <source>Indicates required fields.</source>
+          <target state="new">Indicates required fields.</target>
+        </trans-unit>
+        <trans-unit id="SelectFolderProvider.Text" translate="yes" xml:space="preserve">
+          <source>- Select a Folder Provider -</source>
+          <target state="new">- Select a Folder Provider -</target>
+        </trans-unit>
+        <trans-unit id="SyncWarning.Text" translate="yes" xml:space="preserve">
+          <source>After updating the folder type, a synchronization will be performed on the folders using this type.  This may take some time, depending on the number of folders that match the criteria.</source>
+          <target state="new">After updating the folder type, a synchronization will be performed on the folders using this type.  This may take some time, depending on the number of folders that match the criteria.</target>
+        </trans-unit>
+        <trans-unit id="Update.Text" translate="yes" xml:space="preserve">
+          <source>Update</source>
+          <target state="new">Update</target>
+        </trans-unit>
+        <trans-unit id="FolderProviderValidator.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Folder provider is required.</source>
+          <target state="new">Folder provider is required.</target>
+        </trans-unit>
+        <trans-unit id="NameValidator.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Name is required.</source>
+          <target state="new">Name is required.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

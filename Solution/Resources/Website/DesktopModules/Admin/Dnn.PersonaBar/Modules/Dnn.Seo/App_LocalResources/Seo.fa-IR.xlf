@@ -1,0 +1,676 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Seo.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="nav_Seo.Text" translate="yes" xml:space="preserve">
+          <source>S E O</source>
+          <target state="new">S E O</target>
+        </trans-unit>
+        <trans-unit id="URLManagementTab.Text" translate="yes" xml:space="preserve">
+          <source>URL Management</source>
+          <target state="new">URL Management</target>
+        </trans-unit>
+        <trans-unit id="GeneralSettingsTab.Text" translate="yes" xml:space="preserve">
+          <source>GENERAL SETTINGS</source>
+          <target state="new">GENERAL SETTINGS</target>
+        </trans-unit>
+        <trans-unit id="ExtensionUrlProvidersTab.Text" translate="yes" xml:space="preserve">
+          <source>EXTENSION URL PROVIDERS</source>
+          <target state="new">EXTENSION URL PROVIDERS</target>
+        </trans-unit>
+        <trans-unit id="ExpressionsTab.Text" translate="yes" xml:space="preserve">
+          <source>EXPRESSIONS</source>
+          <target state="new">EXPRESSIONS</target>
+        </trans-unit>
+        <trans-unit id="TestURLTab.Text" translate="yes" xml:space="preserve">
+          <source>TEST URL</source>
+          <target state="new">TEST URL</target>
+        </trans-unit>
+        <trans-unit id="SitemapSettingsTab.Text" translate="yes" xml:space="preserve">
+          <source>Sitemap Settings</source>
+          <target state="new">Sitemap Settings</target>
+        </trans-unit>
+        <trans-unit id="minusCharacter.Text" translate="yes" xml:space="preserve">
+          <source>"-" e.g. page-name</source>
+          <target state="new">"-" e.g. page-name</target>
+        </trans-unit>
+        <trans-unit id="underscoreCharacter.Text" translate="yes" xml:space="preserve">
+          <source>"_" e.g. page_name</source>
+          <target state="new">"_" e.g. page_name</target>
+        </trans-unit>
+        <trans-unit id="Do301RedirectToPortalHome.Text" translate="yes" xml:space="preserve">
+          <source>Site Home Page</source>
+          <target state="new">Site Home Page</target>
+        </trans-unit>
+        <trans-unit id="Do404Error.Text" translate="yes" xml:space="preserve">
+          <source>404 Error</source>
+          <target state="new">404 Error</target>
+        </trans-unit>
+        <trans-unit id="ReplacementCharacter.Text" translate="yes" xml:space="preserve">
+          <source>Standard Replacement Character</source>
+          <target state="new">Standard Replacement Character</target>
+        </trans-unit>
+        <trans-unit id="ReplacementCharacter.Help" translate="yes" xml:space="preserve">
+          <source>Standard Replacement Character</source>
+          <target state="new">Standard Replacement Character</target>
+        </trans-unit>
+        <trans-unit id="enableSystemGeneratedUrlsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Concatenate Page URLs</source>
+          <target state="new">Concatenate Page URLs</target>
+        </trans-unit>
+        <trans-unit id="enableSystemGeneratedUrlsLabel.Help" translate="yes" xml:space="preserve">
+          <source>You can configure how the system will generate URLs.</source>
+          <target state="new">You can configure how the system will generate URLs.</target>
+        </trans-unit>
+        <trans-unit id="enableLowerCaseLabel.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to force URLs to be converted to lowercase.</source>
+          <target state="new">Check this box to force URLs to be converted to lowercase.</target>
+        </trans-unit>
+        <trans-unit id="enableLowerCaseLabel.Text" translate="yes" xml:space="preserve">
+          <source>Convert URLs to Lowercase</source>
+          <target state="new">Convert URLs to Lowercase</target>
+        </trans-unit>
+        <trans-unit id="autoAsciiConvertLabel.Help" translate="yes" xml:space="preserve">
+          <source>When checked, any accented (diacritic) characters such as å and è will be converted to their plain-ascii equivalent.  Example : å -&gt; a and è -&gt; e.</source>
+          <target state="new">When checked, any accented (diacritic) characters such as å and è will be converted to their plain-ascii equivalent.  Example : å -&gt; a and è -&gt; e.</target>
+        </trans-unit>
+        <trans-unit id="autoAsciiConvertLabel.Text" translate="yes" xml:space="preserve">
+          <source>Convert Accented Characters</source>
+          <target state="new">Convert Accented Characters</target>
+        </trans-unit>
+        <trans-unit id="setDefaultSiteLanguageLabel.Help" translate="yes" xml:space="preserve">
+          <source>When checked, the default language for this site will always be set in the rewritten URL when no other language is found.</source>
+          <target state="new">When checked, the default language for this site will always be set in the rewritten URL when no other language is found.</target>
+        </trans-unit>
+        <trans-unit id="setDefaultSiteLanguageLabel.Text" translate="yes" xml:space="preserve">
+          <source>Set Default Site Language</source>
+          <target state="new">Set Default Site Language</target>
+        </trans-unit>
+        <trans-unit id="UrlRewriter.Text" translate="yes" xml:space="preserve">
+          <source>URL REWRITER</source>
+          <target state="new">URL REWRITER</target>
+        </trans-unit>
+        <trans-unit id="UrlRedirects.Text" translate="yes" xml:space="preserve">
+          <source>URL REDIRECTS</source>
+          <target state="new">URL REDIRECTS</target>
+        </trans-unit>
+        <trans-unit id="plDeletedPages.Help" translate="yes" xml:space="preserve">
+          <source>Select the behavior that should occur when a user browses to a deleted, expired or disabled page.</source>
+          <target state="new">Select the behavior that should occur when a user browses to a deleted, expired or disabled page.</target>
+        </trans-unit>
+        <trans-unit id="plDeletedPages.Text" translate="yes" xml:space="preserve">
+          <source>Redirect deleted, expired, disabled pages to</source>
+          <target state="new">Redirect deleted, expired, disabled pages to</target>
+        </trans-unit>
+        <trans-unit id="enable301RedirectsLabel.Help" translate="yes" xml:space="preserve">
+          <source>Check this box if you want old "non-friendly" URLs to be redirected to the new URLs.</source>
+          <target state="new">Check this box if you want old "non-friendly" URLs to be redirected to the new URLs.</target>
+        </trans-unit>
+        <trans-unit id="enable301RedirectsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Redirect to Friendly URLs</source>
+          <target state="new">Redirect to Friendly URLs</target>
+        </trans-unit>
+        <trans-unit id="redirectOnWrongCaseLabel.Help" translate="yes" xml:space="preserve">
+          <source>When checked, any URL that is not in lower case will be redirected to the lower case version of that URL.</source>
+          <target state="new">When checked, any URL that is not in lower case will be redirected to the lower case version of that URL.</target>
+        </trans-unit>
+        <trans-unit id="redirectOnWrongCaseLabel.Text" translate="yes" xml:space="preserve">
+          <source>Redirect Mixed Case URLs</source>
+          <target state="new">Redirect Mixed Case URLs</target>
+        </trans-unit>
+        <trans-unit id="GlobalSetting.Text" translate="yes" xml:space="preserve">
+          <source>This is a global setting. Changes to this setting will affect all of your sites.</source>
+          <target state="new">This is a global setting. Changes to this setting will affect all of your sites.</target>
+        </trans-unit>
+        <trans-unit id="ignoreRegExLabel.Help" translate="yes" xml:space="preserve">
+          <source>The Ignore URL Regex pattern is used to stop processing of URLs by the URL Rewriting module.  This should be used when the URL in question doesn’t need to be rewritten, redirected or otherwise processed through the URL Rewriter.  Examples include images, css files, pdf files, service requests and requests for resources not associated with DotNetNuke.</source>
+          <target state="new">The Ignore URL Regex pattern is used to stop processing of URLs by the URL Rewriting module.  This should be used when the URL in question doesn’t need to be rewritten, redirected or otherwise processed through the URL Rewriter.  Examples include images, css files, pdf files, service requests and requests for resources not associated with DotNetNuke.</target>
+        </trans-unit>
+        <trans-unit id="ignoreRegExLabel.Text" translate="yes" xml:space="preserve">
+          <source>Ignore URL Regular Expression</source>
+          <target state="new">Ignore URL Regular Expression</target>
+        </trans-unit>
+        <trans-unit id="ignoreRegExInvalidPattern.Text" translate="yes" xml:space="preserve">
+          <source>Ignore URL Regular Expression is invalid</source>
+          <target state="new">Ignore URL Regular Expression is invalid</target>
+        </trans-unit>
+        <trans-unit id="RegularExpressions.Text" translate="yes" xml:space="preserve">
+          <source>REGULAR EXPRESSIONS</source>
+          <target state="new">REGULAR EXPRESSIONS</target>
+        </trans-unit>
+        <trans-unit id="ExtensionUrlProviders.Text" translate="yes" xml:space="preserve">
+          <source>EXTENSION URL PROVIDERS</source>
+          <target state="new">EXTENSION URL PROVIDERS</target>
+        </trans-unit>
+        <trans-unit id="SettingsUpdateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The settings have been updated.</source>
+          <target state="new">The settings have been updated.</target>
+        </trans-unit>
+        <trans-unit id="SettingsError.Text" translate="yes" xml:space="preserve">
+          <source>Could not update the settings. Please try later.</source>
+          <target state="new">Could not update the settings. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="SettingsRestoreWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to cancel your changes?</source>
+          <target state="new">Are you sure you want to cancel your changes?</target>
+        </trans-unit>
+        <trans-unit id="Yes.Text" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="No.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="doNotRewriteRegExLabel.Help" translate="yes" xml:space="preserve">
+          <source>The Do Not Rewrite URL regular expression stops URL Rewriting from occurring on any URL that matches.  Use this value when a URL is being interpreted as a DotNetNuke page, but should not be.</source>
+          <target state="new">The Do Not Rewrite URL regular expression stops URL Rewriting from occurring on any URL that matches.  Use this value when a URL is being interpreted as a DotNetNuke page, but should not be.</target>
+        </trans-unit>
+        <trans-unit id="doNotRewriteRegExLabel.Text" translate="yes" xml:space="preserve">
+          <source>Do Not Rewrite URL Regular Expression</source>
+          <target state="new">Do Not Rewrite URL Regular Expression</target>
+        </trans-unit>
+        <trans-unit id="doNotRewriteRegExInvalidPattern.Text" translate="yes" xml:space="preserve">
+          <source>Do Not Rewrite URL Regular Expression is invalid</source>
+          <target state="new">Do Not Rewrite URL Regular Expression is invalid</target>
+        </trans-unit>
+        <trans-unit id="siteUrlsOnlyRegExInvalidPattern.Text" translate="yes" xml:space="preserve">
+          <source>Site URLs Only Regular Expression is invalid</source>
+          <target state="new">Site URLs Only Regular Expression is invalid</target>
+        </trans-unit>
+        <trans-unit id="siteUrlsOnlyRegExLabel.Help" translate="yes" xml:space="preserve">
+          <source>The Site URLs Only regular expression pattern changes the processing order for matching URLs.  When matched, the URLs are evaluated against any of the regular expressions in the siteURLs.config file, without first being checked against the list of friendly URLs for the site.  Use this pattern to force processing through the siteURLs.config file for an explicit URL Rewrite or Redirect located within that file.</source>
+          <target state="new">The Site URLs Only regular expression pattern changes the processing order for matching URLs.  When matched, the URLs are evaluated against any of the regular expressions in the siteURLs.config file, without first being checked against the list of friendly URLs for the site.  Use this pattern to force processing through the siteURLs.config file for an explicit URL Rewrite or Redirect located within that file.</target>
+        </trans-unit>
+        <trans-unit id="siteUrlsOnlyRegExLabel.Text" translate="yes" xml:space="preserve">
+          <source>Site URLs Only Regular Expression</source>
+          <target state="new">Site URLs Only Regular Expression</target>
+        </trans-unit>
+        <trans-unit id="doNotRedirectUrlRegExInvalidPattern.Text" translate="yes" xml:space="preserve">
+          <source>Do Not Redirect URL Regular Expression is invalid</source>
+          <target state="new">Do Not Redirect URL Regular Expression is invalid</target>
+        </trans-unit>
+        <trans-unit id="doNotRedirectUrlRegExLabel.Help" translate="yes" xml:space="preserve">
+          <source>The Do Not Redirect URL regular expression pattern prevents matching URLs from being redirected in all cases.  Use this pattern when a URL is being redirected incorrectly.</source>
+          <target state="new">The Do Not Redirect URL regular expression pattern prevents matching URLs from being redirected in all cases.  Use this pattern when a URL is being redirected incorrectly.</target>
+        </trans-unit>
+        <trans-unit id="doNotRedirectUrlRegExLabel.Text" translate="yes" xml:space="preserve">
+          <source>Do Not Redirect URL Regular Expression</source>
+          <target state="new">Do Not Redirect URL Regular Expression</target>
+        </trans-unit>
+        <trans-unit id="doNotRedirectHttpsUrlRegExInvalidPattern.Text" translate="yes" xml:space="preserve">
+          <source>Do Not Redirect Https URL Regular Expression is invalid</source>
+          <target state="new">Do Not Redirect Https URL Regular Expression is invalid</target>
+        </trans-unit>
+        <trans-unit id="doNotRedirectHttpsUrlRegExLabel.Help" translate="yes" xml:space="preserve">
+          <source>The Do Not Redirect https URL regular expression is used to stop unwanted redirects between http and https URLs.  It prevents the redirect for any matching URLs, and works both for http-&gt;https and https-&gt;http redirects.</source>
+          <target state="new">The Do Not Redirect https URL regular expression is used to stop unwanted redirects between http and https URLs.  It prevents the redirect for any matching URLs, and works both for http-&gt;https and https-&gt;http redirects.</target>
+        </trans-unit>
+        <trans-unit id="doNotRedirectHttpsUrlRegExLabel.Text" translate="yes" xml:space="preserve">
+          <source>Do Not Redirect Https URL Regular Expression</source>
+          <target state="new">Do Not Redirect Https URL Regular Expression</target>
+        </trans-unit>
+        <trans-unit id="preventLowerCaseUrlRegExLabel.Help" translate="yes" xml:space="preserve">
+          <source>The Prevent Lowercase URL regular expression stops the automatic conversion to lower case for any matching URLs.  Use this pattern to prevent the lowercase conversion of any URLs which need to remain in mixed/upper case.  This is frequently used to stop the conversion of URLs where the contents of the URL contain an encoded character or case-sensitive value.</source>
+          <target state="new">The Prevent Lowercase URL regular expression stops the automatic conversion to lower case for any matching URLs.  Use this pattern to prevent the lowercase conversion of any URLs which need to remain in mixed/upper case.  This is frequently used to stop the conversion of URLs where the contents of the URL contain an encoded character or case-sensitive value.</target>
+        </trans-unit>
+        <trans-unit id="preventLowerCaseUrlRegExLabel.Text" translate="yes" xml:space="preserve">
+          <source>Prevent Lowercase URL Regular Expression</source>
+          <target state="new">Prevent Lowercase URL Regular Expression</target>
+        </trans-unit>
+        <trans-unit id="preventLowerCaseUrlRegExInvalidPattern.Text" translate="yes" xml:space="preserve">
+          <source>Prevent Lowercase URL Regular Expression is invalid</source>
+          <target state="new">Prevent Lowercase URL Regular Expression is invalid</target>
+        </trans-unit>
+        <trans-unit id="doNotUseFriendlyUrlsRegExLabel.Help" translate="yes" xml:space="preserve">
+          <source>The Do Not Use Friendly URLs regular expression pattern is used to force certain DotNetNuke pages into using a longer URL for the page.  This is normally used to generate behaviour for backwards compatibility.</source>
+          <target state="new">The Do Not Use Friendly URLs regular expression pattern is used to force certain DotNetNuke pages into using a longer URL for the page.  This is normally used to generate behaviour for backwards compatibility.</target>
+        </trans-unit>
+        <trans-unit id="doNotUseFriendlyUrlsRegExLabel.Text" translate="yes" xml:space="preserve">
+          <source>Do Not Use Friendly URLs Regular Expression</source>
+          <target state="new">Do Not Use Friendly URLs Regular Expression</target>
+        </trans-unit>
+        <trans-unit id="doNotUseFriendlyUrlsRegExInvalidPattern.Text" translate="yes" xml:space="preserve">
+          <source>Do Not Use Friendly URLs Regular Expression is invalid</source>
+          <target state="new">Do Not Use Friendly URLs Regular Expression is invalid</target>
+        </trans-unit>
+        <trans-unit id="keepInQueryStringRegExInvalidPattern.Text" translate="yes" xml:space="preserve">
+          <source>Keep In Querystring Regular Expression is invalid</source>
+          <target state="new">Keep In Querystring Regular Expression is invalid</target>
+        </trans-unit>
+        <trans-unit id="keepInQueryStringRegExLabel.Help" translate="yes" xml:space="preserve">
+          <source>The Keep in Querystring regular expression allows the matching of part of the friendly URL Path and ensuring that it stays in the querystring.  When a DotNetNuke URL of /pagename/key/value is generated, a ‘Keep in Querystring Regular Expression’ pattern of /key/value will match that part of the path and leave it as part of the querystring for the generated URL; e.g. /pagename?key=value.</source>
+          <target state="new">The Keep in Querystring regular expression allows the matching of part of the friendly URL Path and ensuring that it stays in the querystring.  When a DotNetNuke URL of /pagename/key/value is generated, a ‘Keep in Querystring Regular Expression’ pattern of /key/value will match that part of the path and leave it as part of the querystring for the generated URL; e.g. /pagename?key=value.</target>
+        </trans-unit>
+        <trans-unit id="keepInQueryStringRegExLabel.Text" translate="yes" xml:space="preserve">
+          <source>Keep in Querystring Regular Expression</source>
+          <target state="new">Keep in Querystring Regular Expression</target>
+        </trans-unit>
+        <trans-unit id="urlsWithNoExtensionRegExLabel.Help" translate="yes" xml:space="preserve">
+          <source>The URLs with no Extension regular expression pattern is used to validate URLs that do not refer to a resource on the server, are not DotNetNuke pages, but can be requested with no URL extension.  URLs matching this regular expression will not be treated as a 404 when a matching DotNetNuke page can not be found for the URL.</source>
+          <target state="new">The URLs with no Extension regular expression pattern is used to validate URLs that do not refer to a resource on the server, are not DotNetNuke pages, but can be requested with no URL extension.  URLs matching this regular expression will not be treated as a 404 when a matching DotNetNuke page can not be found for the URL.</target>
+        </trans-unit>
+        <trans-unit id="urlsWithNoExtensionRegExLabel.Text" translate="yes" xml:space="preserve">
+          <source>URLs With No Extension Regular Expression</source>
+          <target state="new">URLs With No Extension Regular Expression</target>
+        </trans-unit>
+        <trans-unit id="urlsWithNoExtensionRegExInvalidPattern.Text" translate="yes" xml:space="preserve">
+          <source>URLs With No Extension Regular Expression is invalid</source>
+          <target state="new">URLs With No Extension Regular Expression is invalid</target>
+        </trans-unit>
+        <trans-unit id="validFriendlyUrlRegExLabel.Help" translate="yes" xml:space="preserve">
+          <source>This pattern is used to determine whether the characters that make up a page name or URL segment are valid for forming a friendly URL path. Characters that do not match the pattern will be removed from page names</source>
+          <target state="new">This pattern is used to determine whether the characters that make up a page name or URL segment are valid for forming a friendly URL path. Characters that do not match the pattern will be removed from page names</target>
+        </trans-unit>
+        <trans-unit id="validFriendlyUrlRegExLabel.Text" translate="yes" xml:space="preserve">
+          <source>Valid Friendly URL Regular Expression</source>
+          <target state="new">Valid Friendly URL Regular Expression</target>
+        </trans-unit>
+        <trans-unit id="validFriendlyUrlRegExInvalidPattern.Text" translate="yes" xml:space="preserve">
+          <source>Valid Friendly URL Regular Expression is invalid</source>
+          <target state="new">Valid Friendly URL Regular Expression is invalid</target>
+        </trans-unit>
+        <trans-unit id="TestPageUrl.Text" translate="yes" xml:space="preserve">
+          <source>TEST A PAGE URL</source>
+          <target state="new">TEST A PAGE URL</target>
+        </trans-unit>
+        <trans-unit id="TestUrlRewriting.Text" translate="yes" xml:space="preserve">
+          <source>TEST URL REWRITING</source>
+          <target state="new">TEST URL REWRITING</target>
+        </trans-unit>
+        <trans-unit id="selectPageToTestLabel.Help" translate="yes" xml:space="preserve">
+          <source>Select a page for this site to test out the URL generation.   You can use the ‘Search’ box to filter the list of pages.</source>
+          <target state="new">Select a page for this site to test out the URL generation.   You can use the ‘Search’ box to filter the list of pages.</target>
+        </trans-unit>
+        <trans-unit id="selectPageToTestLabel.Text" translate="yes" xml:space="preserve">
+          <source>Page to Test</source>
+          <target state="new">Page to Test</target>
+        </trans-unit>
+        <trans-unit id="NoneSpecified.Text" translate="yes" xml:space="preserve">
+          <source>None Specified</source>
+          <target state="new">None Specified</target>
+        </trans-unit>
+        <trans-unit id="None.Text" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <target state="new">None</target>
+        </trans-unit>
+        <trans-unit id="queryStringLabel.Help" translate="yes" xml:space="preserve">
+          <source>To generate a URL which includes extra information in the path, add on the path information in the form of a querystring.  For example, entering &amp;key=value will change the generated URL to include/key/value in the URL path.  Use this feature to test out the example URLs generated by third party URLs.</source>
+          <target state="new">To generate a URL which includes extra information in the path, add on the path information in the form of a querystring.  For example, entering &amp;key=value will change the generated URL to include/key/value in the URL path.  Use this feature to test out the example URLs generated by third party URLs.</target>
+        </trans-unit>
+        <trans-unit id="queryStringLabel.Text" translate="yes" xml:space="preserve">
+          <source>Add Query String (optional)</source>
+          <target state="new">Add Query String (optional)</target>
+        </trans-unit>
+        <trans-unit id="pageNameLabel.Help" translate="yes" xml:space="preserve">
+          <source>Some modules generate a friendly URL by defining the last part of the URL explicitly.  If this is the case, enter the value for the ‘pagename’ value that is used when generating the URL.  If you have no explicit value, or do not know when to use this value, leave the value empty.</source>
+          <target state="new">Some modules generate a friendly URL by defining the last part of the URL explicitly.  If this is the case, enter the value for the ‘pagename’ value that is used when generating the URL.  If you have no explicit value, or do not know when to use this value, leave the value empty.</target>
+        </trans-unit>
+        <trans-unit id="pageNameLabel.Text" translate="yes" xml:space="preserve">
+          <source>Custom Page Name / URL End String (optional)</source>
+          <target state="new">Custom Page Name / URL End String (optional)</target>
+        </trans-unit>
+        <trans-unit id="resultingUrlsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Resulting URLs</source>
+          <target state="new">Resulting URLs</target>
+        </trans-unit>
+        <trans-unit id="resultingUrlsLabel.Help" translate="yes" xml:space="preserve">
+          <source>Shows the list of URLs that can be generated from the selected page, depending on alias and/or language.</source>
+          <target state="new">Shows the list of URLs that can be generated from the selected page, depending on alias and/or language.</target>
+        </trans-unit>
+        <trans-unit id="TestUrlButtonCaption.Text" translate="yes" xml:space="preserve">
+          <source>Test URL</source>
+          <target state="new">Test URL</target>
+        </trans-unit>
+        <trans-unit id="testUrlRewritingButton.Text" translate="yes" xml:space="preserve">
+          <source>Test URL Rewriting</source>
+          <target state="new">Test URL Rewriting</target>
+        </trans-unit>
+        <trans-unit id="testUrlRewritingLabel.Text" translate="yes" xml:space="preserve">
+          <source>URL to Test</source>
+          <target state="new">URL to Test</target>
+        </trans-unit>
+        <trans-unit id="testUrlRewritingLabel.Help" translate="yes" xml:space="preserve">
+          <source>Enter a fully-qualified URL (including http:// or https://) into this box in order to test out the URL Rewriting / Redirecting.</source>
+          <target state="new">Enter a fully-qualified URL (including http:// or https://) into this box in order to test out the URL Rewriting / Redirecting.</target>
+        </trans-unit>
+        <trans-unit id="rewritingResultLabel.Help" translate="yes" xml:space="preserve">
+          <source>Shows the rewritten URL, in the raw format that will be seen by the DNN platform and third-party extensions.</source>
+          <target state="new">Shows the rewritten URL, in the raw format that will be seen by the DNN platform and third-party extensions.</target>
+        </trans-unit>
+        <trans-unit id="rewritingResultLabel.Text" translate="yes" xml:space="preserve">
+          <source>Rewriting Result</source>
+          <target state="new">Rewriting Result</target>
+        </trans-unit>
+        <trans-unit id="languageLabel.Help" translate="yes" xml:space="preserve">
+          <source>Shows the culture code as identified during the URL Rewriting process.</source>
+          <target state="new">Shows the culture code as identified during the URL Rewriting process.</target>
+        </trans-unit>
+        <trans-unit id="languageLabel.Text" translate="yes" xml:space="preserve">
+          <source>Identified Language / Culture</source>
+          <target state="new">Identified Language / Culture</target>
+        </trans-unit>
+        <trans-unit id="identifiedTabLabel.Help" translate="yes" xml:space="preserve">
+          <source>The name of the DNN page that has been identified during the URL Rewriting process.</source>
+          <target state="new">The name of the DNN page that has been identified during the URL Rewriting process.</target>
+        </trans-unit>
+        <trans-unit id="identifiedTabLabel.Text" translate="yes" xml:space="preserve">
+          <source>Identified Page</source>
+          <target state="new">Identified Page</target>
+        </trans-unit>
+        <trans-unit id="redirectionResultLabel.Help" translate="yes" xml:space="preserve">
+          <source>If the tested URL is to be redirected, shows the redirect location of the URL.</source>
+          <target state="new">If the tested URL is to be redirected, shows the redirect location of the URL.</target>
+        </trans-unit>
+        <trans-unit id="redirectionResultLabel.Text" translate="yes" xml:space="preserve">
+          <source>Redirection Result</source>
+          <target state="new">Redirection Result</target>
+        </trans-unit>
+        <trans-unit id="redirectionReasonLabel.Help" translate="yes" xml:space="preserve">
+          <source>Reason that this URL was redirected</source>
+          <target state="new">Reason that this URL was redirected</target>
+        </trans-unit>
+        <trans-unit id="redirectionReasonLabel.Text" translate="yes" xml:space="preserve">
+          <source>Redirection Reason</source>
+          <target state="new">Redirection Reason</target>
+        </trans-unit>
+        <trans-unit id="operationMessagesLabel.Help" translate="yes" xml:space="preserve">
+          <source>Any debug messages created during the test URL Rewriting process.</source>
+          <target state="new">Any debug messages created during the test URL Rewriting process.</target>
+        </trans-unit>
+        <trans-unit id="operationMessagesLabel.Text" translate="yes" xml:space="preserve">
+          <source>Operation Messages</source>
+          <target state="new">Operation Messages</target>
+        </trans-unit>
+        <trans-unit id="Alias_In_Url.Text" translate="yes" xml:space="preserve">
+          <source>Alias In Url</source>
+          <target state="new">Alias In Url</target>
+        </trans-unit>
+        <trans-unit id="Built_In_Url.Text" translate="yes" xml:space="preserve">
+          <source>Built In Url</source>
+          <target state="new">Built In Url</target>
+        </trans-unit>
+        <trans-unit id="Custom_Tab_Alias.Text" translate="yes" xml:space="preserve">
+          <source>Custom Tab Alias</source>
+          <target state="new">Custom Tab Alias</target>
+        </trans-unit>
+        <trans-unit id="Deleted_Page.Text" translate="yes" xml:space="preserve">
+          <source>Deleted Page</source>
+          <target state="new">Deleted Page</target>
+        </trans-unit>
+        <trans-unit id="Diacritic_Characters.Text" translate="yes" xml:space="preserve">
+          <source>Diacritic Characters</source>
+          <target state="new">Diacritic Characters</target>
+        </trans-unit>
+        <trans-unit id="Disabled_Page.Text" translate="yes" xml:space="preserve">
+          <source>Disabled Page</source>
+          <target state="new">Disabled Page</target>
+        </trans-unit>
+        <trans-unit id="Error_Event.Text" translate="yes" xml:space="preserve">
+          <source>Error Event</source>
+          <target state="new">Error Event</target>
+        </trans-unit>
+        <trans-unit id="Exception.Text" translate="yes" xml:space="preserve">
+          <source>Exception</source>
+          <target state="new">Exception</target>
+        </trans-unit>
+        <trans-unit id="File_Url.Text" translate="yes" xml:space="preserve">
+          <source>File Url</source>
+          <target state="new">File Url</target>
+        </trans-unit>
+        <trans-unit id="Host_Portal_Used.Text" translate="yes" xml:space="preserve">
+          <source>Host Portal Used</source>
+          <target state="new">Host Portal Used</target>
+        </trans-unit>
+        <trans-unit id="Module_Provider_Redirect.Text" translate="yes" xml:space="preserve">
+          <source>Module Provider Redirect</source>
+          <target state="new">Module Provider Redirect</target>
+        </trans-unit>
+        <trans-unit id="Module_Provider_Rewrite_Redirect.Text" translate="yes" xml:space="preserve">
+          <source>Module Provider Rewrite Redirect</source>
+          <target state="new">Module Provider Rewrite Redirect</target>
+        </trans-unit>
+        <trans-unit id="Not_Redirected.Text" translate="yes" xml:space="preserve">
+          <source>Not Redirected</source>
+          <target state="new">Not Redirected</target>
+        </trans-unit>
+        <trans-unit id="No_Portal_Alias.Text" translate="yes" xml:space="preserve">
+          <source>No Portal Alias</source>
+          <target state="new">No Portal Alias</target>
+        </trans-unit>
+        <trans-unit id="Page_404.Text" translate="yes" xml:space="preserve">
+          <source>Page 404</source>
+          <target state="new">Page 404</target>
+        </trans-unit>
+        <trans-unit id="Requested_404.Text" translate="yes" xml:space="preserve">
+          <source>Requested 404</source>
+          <target state="new">Requested 404</target>
+        </trans-unit>
+        <trans-unit id="Requested_404_In_Url.Text" translate="yes" xml:space="preserve">
+          <source>Requested 404 In Url</source>
+          <target state="new">Requested 404 In Url</target>
+        </trans-unit>
+        <trans-unit id="Requested_SplashPage.Text" translate="yes" xml:space="preserve">
+          <source>Requested SplashPage</source>
+          <target state="new">Requested SplashPage</target>
+        </trans-unit>
+        <trans-unit id="Secure_Page_Requested.Text" translate="yes" xml:space="preserve">
+          <source>Secure Page Requested</source>
+          <target state="new">Secure Page Requested</target>
+        </trans-unit>
+        <trans-unit id="SiteUrls_Config_Rule.Text" translate="yes" xml:space="preserve">
+          <source>SiteUrls Config Rule</source>
+          <target state="new">SiteUrls Config Rule</target>
+        </trans-unit>
+        <trans-unit id="Site_Root_Home.Text" translate="yes" xml:space="preserve">
+          <source>Site Root Home</source>
+          <target state="new">Site Root Home</target>
+        </trans-unit>
+        <trans-unit id="Spaces_Replaced.Text" translate="yes" xml:space="preserve">
+          <source>Spaces Replaced</source>
+          <target state="new">Spaces Replaced</target>
+        </trans-unit>
+        <trans-unit id="Tab_External_Url.Text" translate="yes" xml:space="preserve">
+          <source>Tab External Url</source>
+          <target state="new">Tab External Url</target>
+        </trans-unit>
+        <trans-unit id="Tab_Permanent_Redirect.Text" translate="yes" xml:space="preserve">
+          <source>Tab Permanent Redirect</source>
+          <target state="new">Tab Permanent Redirect</target>
+        </trans-unit>
+        <trans-unit id="Unfriendly_Url_Child_Portal.Text" translate="yes" xml:space="preserve">
+          <source>Unfriendly Url Child Portal</source>
+          <target state="new">Unfriendly Url Child Portal</target>
+        </trans-unit>
+        <trans-unit id="Unfriendly_Url_TabId.Text" translate="yes" xml:space="preserve">
+          <source>Unfriendly Url TabId</source>
+          <target state="new">Unfriendly Url TabId</target>
+        </trans-unit>
+        <trans-unit id="User_Profile_Url.Text" translate="yes" xml:space="preserve">
+          <source>User Profile Url</source>
+          <target state="new">User Profile Url</target>
+        </trans-unit>
+        <trans-unit id="Wrong_Portal_Alias.Text" translate="yes" xml:space="preserve">
+          <source>Wrong Portal Alias</source>
+          <target state="new">Wrong Portal Alias</target>
+        </trans-unit>
+        <trans-unit id="Wrong_Portal_Alias_For_Browser_Type.Text" translate="yes" xml:space="preserve">
+          <source>Wrong Portal Alias For Browser Type</source>
+          <target state="new">Wrong Portal Alias For Browser Type</target>
+        </trans-unit>
+        <trans-unit id="Wrong_Portal_Alias_For_Culture.Text" translate="yes" xml:space="preserve">
+          <source>Wrong Portal Alias For Culture</source>
+          <target state="new">Wrong Portal Alias For Culture</target>
+        </trans-unit>
+        <trans-unit id="Wrong_Portal_Alias_For_Culture_And_Browser.Text" translate="yes" xml:space="preserve">
+          <source>Wrong Portal Alias For Culture And Browser</source>
+          <target state="new">Wrong Portal Alias For Culture And Browser</target>
+        </trans-unit>
+        <trans-unit id="Wrong_Sub_Domain.Text" translate="yes" xml:space="preserve">
+          <source>Wrong Sub Domain</source>
+          <target state="new">Wrong Sub Domain</target>
+        </trans-unit>
+        <trans-unit id="SitemapSettings.Text" translate="yes" xml:space="preserve">
+          <source>GENERAL SITEMAP SETTINGS</source>
+          <target state="new">GENERAL SITEMAP SETTINGS</target>
+        </trans-unit>
+        <trans-unit id="SitemapProviders.Text" translate="yes" xml:space="preserve">
+          <source>SITEMAP PROVIDERS</source>
+          <target state="new">SITEMAP PROVIDERS</target>
+        </trans-unit>
+        <trans-unit id="SiteSubmission.Text" translate="yes" xml:space="preserve">
+          <source>SITE SUBMISSION</source>
+          <target state="new">SITE SUBMISSION</target>
+        </trans-unit>
+        <trans-unit id="sitemapUrlLabel.Help" translate="yes" xml:space="preserve">
+          <source>Submit the Site Map to Google for better search optimization. Click Submit to get a Google Webmaster Tools account and verify your site ownership ( using the Verification option below ). Once verified, you can select the Add General Web Sitemap option on the Google Sitemaps tab and paste in the Site Map URL displayed.</source>
+          <target state="new">Submit the Site Map to Google for better search optimization. Click Submit to get a Google Webmaster Tools account and verify your site ownership ( using the Verification option below ). Once verified, you can select the Add General Web Sitemap option on the Google Sitemaps tab and paste in the Site Map URL displayed.</target>
+        </trans-unit>
+        <trans-unit id="sitemapUrlLabel.Text" translate="yes" xml:space="preserve">
+          <source>Sitemap URL</source>
+          <target state="new">Sitemap URL</target>
+        </trans-unit>
+        <trans-unit id="lblCache.Help" translate="yes" xml:space="preserve">
+          <source>Enable this option if you want to cache the Sitemap so it is not generated every time it is requested. This is specially necessary for big sites. If your site has more than 50.000 URLs the Sitemap will be cached with a default value of 1 day. Set this value to 0 to disable the caching.</source>
+          <target state="new">Enable this option if you want to cache the Sitemap so it is not generated every time it is requested. This is specially necessary for big sites. If your site has more than 50.000 URLs the Sitemap will be cached with a default value of 1 day. Set this value to 0 to disable the caching.</target>
+        </trans-unit>
+        <trans-unit id="lblCache.Text" translate="yes" xml:space="preserve">
+          <source>Days to Cache Sitemap For</source>
+          <target state="new">Days to Cache Sitemap For</target>
+        </trans-unit>
+        <trans-unit id="lnkResetCache.Text" translate="yes" xml:space="preserve">
+          <source>Clear Cache</source>
+          <target state="new">Clear Cache</target>
+        </trans-unit>
+        <trans-unit id="lblExcludePriority.Help" translate="yes" xml:space="preserve">
+          <source>This option can be used to remove certain pages from the Sitemap. For example you can setup a priority of -1 for a page and enter -1 here to cause the page to not being included in the generated Sitemap.</source>
+          <target state="new">This option can be used to remove certain pages from the Sitemap. For example you can setup a priority of -1 for a page and enter -1 here to cause the page to not being included in the generated Sitemap.</target>
+        </trans-unit>
+        <trans-unit id="lblExcludePriority.Text" translate="yes" xml:space="preserve">
+          <source>Exclude URLs With a Priority Lower Than</source>
+          <target state="new">Exclude URLs With a Priority Lower Than</target>
+        </trans-unit>
+        <trans-unit id="lblMinPagePriority.Help" translate="yes" xml:space="preserve">
+          <source>When "page level based priorities" is used, minimum priority for pages can be used to set the lowest priority that will be used on low level pages</source>
+          <target state="new">When "page level based priorities" is used, minimum priority for pages can be used to set the lowest priority that will be used on low level pages</target>
+        </trans-unit>
+        <trans-unit id="lblMinPagePriority.Text" translate="yes" xml:space="preserve">
+          <source>Minimum Priority for Pages</source>
+          <target state="new">Minimum Priority for Pages</target>
+        </trans-unit>
+        <trans-unit id="lblIncludeHidden.Help" translate="yes" xml:space="preserve">
+          <source>When checked hidden pages (not visible in the menu) will also be included in the Sitemap. The default is not to include hidden pages.</source>
+          <target state="new">When checked hidden pages (not visible in the menu) will also be included in the Sitemap. The default is not to include hidden pages.</target>
+        </trans-unit>
+        <trans-unit id="lblIncludeHidden.Text" translate="yes" xml:space="preserve">
+          <source>Include Hidden Pages</source>
+          <target state="new">Include Hidden Pages</target>
+        </trans-unit>
+        <trans-unit id="lblLevelPriority.Help" translate="yes" xml:space="preserve">
+          <source>When checked, the priority for each page will be computed from the hierarchy level of the page. Top level pages will have a value of 1, second level 0.9, third level 0.8, ...  This setting will not change the value stored in the actual page but it will use the computed value when required.</source>
+          <target state="new">When checked, the priority for each page will be computed from the hierarchy level of the page. Top level pages will have a value of 1, second level 0.9, third level 0.8, ...  This setting will not change the value stored in the actual page but it will use the computed value when required.</target>
+        </trans-unit>
+        <trans-unit id="lblLevelPriority.Text" translate="yes" xml:space="preserve">
+          <source>Use Page Level Based Priorities</source>
+          <target state="new">Use Page Level Based Priorities</target>
+        </trans-unit>
+        <trans-unit id="1Day.Text" translate="yes" xml:space="preserve">
+          <source>1 Day</source>
+          <target state="new">1 Day</target>
+        </trans-unit>
+        <trans-unit id="2Days.Text" translate="yes" xml:space="preserve">
+          <source>2 Days</source>
+          <target state="new">2 Days</target>
+        </trans-unit>
+        <trans-unit id="3Days.Text" translate="yes" xml:space="preserve">
+          <source>3 Days</source>
+          <target state="new">3 Days</target>
+        </trans-unit>
+        <trans-unit id="4Days.Text" translate="yes" xml:space="preserve">
+          <source>4 Days</source>
+          <target state="new">4 Days</target>
+        </trans-unit>
+        <trans-unit id="5Days.Text" translate="yes" xml:space="preserve">
+          <source>5 Days</source>
+          <target state="new">5 Days</target>
+        </trans-unit>
+        <trans-unit id="6Days.Text" translate="yes" xml:space="preserve">
+          <source>6 Days</source>
+          <target state="new">6 Days</target>
+        </trans-unit>
+        <trans-unit id="7Days.Text" translate="yes" xml:space="preserve">
+          <source>7 Days</source>
+          <target state="new">7 Days</target>
+        </trans-unit>
+        <trans-unit id="DisableCaching.Text" translate="yes" xml:space="preserve">
+          <source>Disable Caching</source>
+          <target state="new">Disable Caching</target>
+        </trans-unit>
+        <trans-unit id="enableSitemapProvider.Help" translate="yes" xml:space="preserve">
+          <source>Enable Sitemap Provider</source>
+          <target state="new">Enable Sitemap Provider</target>
+        </trans-unit>
+        <trans-unit id="enableSitemapProvider.Text" translate="yes" xml:space="preserve">
+          <source>Enable Sitemap Provider</source>
+          <target state="new">Enable Sitemap Provider</target>
+        </trans-unit>
+        <trans-unit id="overridePriority.Help" translate="yes" xml:space="preserve">
+          <source>Override Priority</source>
+          <target state="new">Override Priority</target>
+        </trans-unit>
+        <trans-unit id="overridePriority.Text" translate="yes" xml:space="preserve">
+          <source>Override Priority</source>
+          <target state="new">Override Priority</target>
+        </trans-unit>
+        <trans-unit id="Name.Header" translate="yes" xml:space="preserve">
+          <source>NAME</source>
+          <target state="new">NAME</target>
+        </trans-unit>
+        <trans-unit id="Enabled.Header" translate="yes" xml:space="preserve">
+          <source>Enabled</source>
+          <target state="new">Enabled</target>
+        </trans-unit>
+        <trans-unit id="Priority.Header" translate="yes" xml:space="preserve">
+          <source>Priority</source>
+          <target state="new">Priority</target>
+        </trans-unit>
+        <trans-unit id="lblSearchEngine.Help" translate="yes" xml:space="preserve">
+          <source>Submit your site to the selected search engine for indexing.</source>
+          <target state="new">Submit your site to the selected search engine for indexing.</target>
+        </trans-unit>
+        <trans-unit id="lblSearchEngine.Text" translate="yes" xml:space="preserve">
+          <source>Search Engine</source>
+          <target state="new">Search Engine</target>
+        </trans-unit>
+        <trans-unit id="lblVerification.Help" translate="yes" xml:space="preserve">
+          <source>When signing up with Google Webmaster Tools you will need to Verify your site ownership. Choose the "Upload an HTML File" method from the Google Verification screen. Enter the file name displayed (ie. google53c0cef435b2b81e.html) into the Verification text box and click Create. Return to Google and select the Verify button.</source>
+          <target state="new">When signing up with Google Webmaster Tools you will need to Verify your site ownership. Choose the "Upload an HTML File" method from the Google Verification screen. Enter the file name displayed (ie. google53c0cef435b2b81e.html) into the Verification text box and click Create. Return to Google and select the Verify button.</target>
+        </trans-unit>
+        <trans-unit id="lblVerification.Text" translate="yes" xml:space="preserve">
+          <source>Verification</source>
+          <target state="new">Verification</target>
+        </trans-unit>
+        <trans-unit id="Submit.Text" translate="yes" xml:space="preserve">
+          <source>Submit</source>
+          <target state="new">Submit</target>
+        </trans-unit>
+        <trans-unit id="Create.Text" translate="yes" xml:space="preserve">
+          <source>Create</source>
+          <target state="new">Create</target>
+        </trans-unit>
+        <trans-unit id="VerificationValidity.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Valid file name must has an extension .html (ie. google53c0cef435b2b81e.html)</source>
+          <target state="new">Valid file name must has an extension .html (ie. google53c0cef435b2b81e.html)</target>
+        </trans-unit>
+        <trans-unit id="NoExtensionUrlProviders.Text" translate="yes" xml:space="preserve">
+          <source>No extension URL providers found</source>
+          <target state="new">No extension URL providers found</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Import.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="plFolder.Text" translate="yes" xml:space="preserve">
+          <source>Folder:</source>
+          <target state="new">Folder:</target>
+        </trans-unit>
+        <trans-unit id="plFolder.Help" translate="yes" xml:space="preserve">
+          <source>Select the import folder.</source>
+          <target state="new">Select the import folder.</target>
+        </trans-unit>
+        <trans-unit id="plTemplate.Text" translate="yes" xml:space="preserve">
+          <source>Template:</source>
+          <target state="new">Template:</target>
+        </trans-unit>
+        <trans-unit id="plTemplate.Help" translate="yes" xml:space="preserve">
+          <source>Select the page template to import.</source>
+          <target state="new">Select the page template to import.</target>
+        </trans-unit>
+        <trans-unit id="cmdImport.Text" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <target state="new">Import</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_importtab.Text" translate="yes" xml:space="preserve">
+          <source>Import Page</source>
+          <target state="new">Import Page</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;h1&gt;</bpt>Import Page<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Administrators can import content for the specified page.<ept id="2">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;h1&gt;</bpt>Import Page<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Administrators can import content for the specified page.<ept id="2">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="Error.Text" translate="yes" xml:space="preserve">
+          <source>An error occurred during the import.</source>
+          <target state="new">An error occurred during the import.</target>
+        </trans-unit>
+        <trans-unit id="NotCorrectType.Text" translate="yes" xml:space="preserve">
+          <source>The import file specified is not the correct type for this page.</source>
+          <target state="new">The import file specified is not the correct type for this page.</target>
+        </trans-unit>
+        <trans-unit id="NotValidXml.Text" translate="yes" xml:space="preserve">
+          <source>The file you selected does not contain a valid XML structure.</source>
+          <target state="new">The file you selected does not contain a valid XML structure.</target>
+        </trans-unit>
+        <trans-unit id="Root.Text" translate="yes" xml:space="preserve">
+          <source>Root</source>
+          <target state="new">Root</target>
+        </trans-unit>
+        <trans-unit id="ModeAdd.Text" translate="yes" xml:space="preserve">
+          <source>Create a new page</source>
+          <target state="new">Create a new page</target>
+        </trans-unit>
+        <trans-unit id="ModeReplace.Text" translate="yes" xml:space="preserve">
+          <source>Replace the current page</source>
+          <target state="new">Replace the current page</target>
+        </trans-unit>
+        <trans-unit id="ModeSettings.Text" translate="yes" xml:space="preserve">
+          <source>Edit imported page</source>
+          <target state="new">Edit imported page</target>
+        </trans-unit>
+        <trans-unit id="ModeView.Text" translate="yes" xml:space="preserve">
+          <source>View imported page</source>
+          <target state="new">View imported page</target>
+        </trans-unit>
+        <trans-unit id="plMode.Help" translate="yes" xml:space="preserve">
+          <source>Select the mode of import.</source>
+          <target state="new">Select the mode of import.</target>
+        </trans-unit>
+        <trans-unit id="plMode.Text" translate="yes" xml:space="preserve">
+          <source>Import Mode:</source>
+          <target state="new">Import Mode:</target>
+        </trans-unit>
+        <trans-unit id="plRedirect.Help" translate="yes" xml:space="preserve">
+          <source>Select where to redirect to on successful import.</source>
+          <target state="new">Select where to redirect to on successful import.</target>
+        </trans-unit>
+        <trans-unit id="plRedirect.Text" translate="yes" xml:space="preserve">
+          <source>Redirect Mode</source>
+          <target state="new">Redirect Mode</target>
+        </trans-unit>
+        <trans-unit id="plTabName.Help" translate="yes" xml:space="preserve">
+          <source>Enter a name for the new page.</source>
+          <target state="new">Enter a name for the new page.</target>
+        </trans-unit>
+        <trans-unit id="plTabName.Text" translate="yes" xml:space="preserve">
+          <source>Page Name:</source>
+          <target state="new">Page Name:</target>
+        </trans-unit>
+        <trans-unit id="SpecifyFile.Text" translate="yes" xml:space="preserve">
+          <source>Please specify the template to import.</source>
+          <target state="new">Please specify the template to import.</target>
+        </trans-unit>
+        <trans-unit id="SpecifyMode.Text" translate="yes" xml:space="preserve">
+          <source>Please specify the import mode.</source>
+          <target state="new">Please specify the import mode.</target>
+        </trans-unit>
+        <trans-unit id="NoTabsInTemplate.Text" translate="yes" xml:space="preserve">
+          <source>Template does not contain any pages.</source>
+          <target state="new">Template does not contain any pages.</target>
+        </trans-unit>
+        <trans-unit id="valTemplate.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Please select a template.</source>
+          <target state="new">Please select a template.</target>
+        </trans-unit>
+        <trans-unit id="EmptyTabName.Text" translate="yes" xml:space="preserve">
+          <source>You must specify a name for the page.</source>
+          <target state="new">You must specify a name for the page.</target>
+        </trans-unit>
+        <trans-unit id="InsertAfter.Text" translate="yes" xml:space="preserve">
+          <source>After</source>
+          <target state="new">After</target>
+        </trans-unit>
+        <trans-unit id="InsertBefore.Text" translate="yes" xml:space="preserve">
+          <source>Before</source>
+          <target state="new">Before</target>
+        </trans-unit>
+        <trans-unit id="InsertPosition.Help" translate="yes" xml:space="preserve">
+          <source>Select the page that you want this page to be inserted before or after.</source>
+          <target state="new">Select the page that you want this page to be inserted before or after.</target>
+        </trans-unit>
+        <trans-unit id="InsertPosition.Text" translate="yes" xml:space="preserve">
+          <source>Insert Page:</source>
+          <target state="new">Insert Page:</target>
+        </trans-unit>
+        <trans-unit id="plParentTab.Help" translate="yes" xml:space="preserve">
+          <source>Select the page that you want this page to be a child of.</source>
+          <target state="new">Select the page that you want this page to be a child of.</target>
+        </trans-unit>
+        <trans-unit id="plParentTab.Text" translate="yes" xml:space="preserve">
+          <source>Parent Page</source>
+          <target state="new">Parent Page</target>
+        </trans-unit>
+        <trans-unit id="InsertAtEnd.Text" translate="yes" xml:space="preserve">
+          <source>Add to End</source>
+          <target state="new">Add to End</target>
+        </trans-unit>
+        <trans-unit id="TabExists.Text" translate="yes" xml:space="preserve">
+          <source>This page name is already being used for another page at the same level of the page hierarchy.</source>
+          <target state="new">This page name is already being used for another page at the same level of the page hierarchy.</target>
+        </trans-unit>
+        <trans-unit id="TabRecycled.Text" translate="yes" xml:space="preserve">
+          <source>A page with this name exists in the Recycle Bin.  To restore this page use the Recycle Bin.</source>
+          <target state="new">A page with this name exists in the Recycle Bin.  To restore this page use the Recycle Bin.</target>
+        </trans-unit>
+        <trans-unit id="InvalidTabName.Text" translate="yes" xml:space="preserve">
+          <source>This is an invalid Page Name</source>
+          <target state="new">This is an invalid Page Name</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

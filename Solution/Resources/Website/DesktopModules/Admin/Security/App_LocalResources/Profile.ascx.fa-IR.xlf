@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Profile.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ProfileProperties_FirstName.Text" translate="yes" xml:space="preserve">
+          <source>First Name:</source>
+          <target state="new">First Name:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_LastName.Text" translate="yes" xml:space="preserve">
+          <source>Last Name:</source>
+          <target state="new">Last Name:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_MiddleName.Text" translate="yes" xml:space="preserve">
+          <source>Middle Name:</source>
+          <target state="new">Middle Name:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Prefix.Text" translate="yes" xml:space="preserve">
+          <source>Prefix:</source>
+          <target state="new">Prefix:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_FirstName.Help" translate="yes" xml:space="preserve">
+          <source>Enter a first name.</source>
+          <target state="new">Enter a first name.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_LastName.Help" translate="yes" xml:space="preserve">
+          <source>Enter a last name.</source>
+          <target state="new">Enter a last name.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_MiddleName.Help" translate="yes" xml:space="preserve">
+          <source>Enter a middle name.</source>
+          <target state="new">Enter a middle name.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Prefix.Help" translate="yes" xml:space="preserve">
+          <source>Enter a prefix. E.g. Mr, Dr</source>
+          <target state="new">Enter a prefix. E.g. Mr, Dr</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Suffix.Text" translate="yes" xml:space="preserve">
+          <source>Suffix:</source>
+          <target state="new">Suffix:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Suffix.Help" translate="yes" xml:space="preserve">
+          <source>Enter a suffix. E.g. BSc, PhD</source>
+          <target state="new">Enter a suffix. E.g. BSc, PhD</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Unit.Text" translate="yes" xml:space="preserve">
+          <source>Unit:</source>
+          <target state="new">Unit:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Unit.Help" translate="yes" xml:space="preserve">
+          <source>Enter a unit number for an apartment or condominium.</source>
+          <target state="new">Enter a unit number for an apartment or condominium.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Street.Text" translate="yes" xml:space="preserve">
+          <source>Street:</source>
+          <target state="new">Street:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Street.Help" translate="yes" xml:space="preserve">
+          <source>Enter the street part of the address. E.g. 123 Main Street</source>
+          <target state="new">Enter the street part of the address. E.g. 123 Main Street</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_City.Text" translate="yes" xml:space="preserve">
+          <source>City:</source>
+          <target state="new">City:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_City.Help" translate="yes" xml:space="preserve">
+          <source>Enter the city part of the address.</source>
+          <target state="new">Enter the city part of the address.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Region.Text" translate="yes" xml:space="preserve">
+          <source>Region:</source>
+          <target state="new">Region:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Region.Help" translate="yes" xml:space="preserve">
+          <source>Enter the region (state, province or county) part of the address.</source>
+          <target state="new">Enter the region (state, province or county) part of the address.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Country.Text" translate="yes" xml:space="preserve">
+          <source>Country:</source>
+          <target state="new">Country:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Country.Help" translate="yes" xml:space="preserve">
+          <source>Select the country part of the address.</source>
+          <target state="new">Select the country part of the address.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_PostalCode.Text" translate="yes" xml:space="preserve">
+          <source>Postal Code:</source>
+          <target state="new">Postal Code:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_PostalCode.Help" translate="yes" xml:space="preserve">
+          <source>Enter the Postal/Zip Code part of the address.</source>
+          <target state="new">Enter the Postal/Zip Code part of the address.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Telephone.Text" translate="yes" xml:space="preserve">
+          <source>Telephone:</source>
+          <target state="new">Telephone:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Telephone.Help" translate="yes" xml:space="preserve">
+          <source>Enter a telephone number.</source>
+          <target state="new">Enter a telephone number.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Cell.Text" translate="yes" xml:space="preserve">
+          <source>Cell/Mobile:</source>
+          <target state="new">Cell/Mobile:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Cell.Help" translate="yes" xml:space="preserve">
+          <source>Enter a cell/mobile phone number.</source>
+          <target state="new">Enter a cell/mobile phone number.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Fax.Text" translate="yes" xml:space="preserve">
+          <source>Fax:</source>
+          <target state="new">Fax:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Fax.Help" translate="yes" xml:space="preserve">
+          <source>Enter a fax number.</source>
+          <target state="new">Enter a fax number.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Website.Text" translate="yes" xml:space="preserve">
+          <source>Website:</source>
+          <target state="new">Website:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Website.Help" translate="yes" xml:space="preserve">
+          <source>Enter a website URL.</source>
+          <target state="new">Enter a website URL.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_IM.Text" translate="yes" xml:space="preserve">
+          <source>IM:</source>
+          <target state="new">IM:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_IM.Help" translate="yes" xml:space="preserve">
+          <source>Enter an instant messenger id. E.g. Skype, Yahoo, Google</source>
+          <target state="new">Enter an instant messenger id. E.g. Skype, Yahoo, Google</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_TimeZone.Text" translate="yes" xml:space="preserve">
+          <source>Time Zone:</source>
+          <target state="new">Time Zone:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_TimeZone.Help" translate="yes" xml:space="preserve">
+          <source>Select your time zone.</source>
+          <target state="new">Select your time zone.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_PreferredLocale.Text" translate="yes" xml:space="preserve">
+          <source>Preferred Locale:</source>
+          <target state="new">Preferred Locale:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_PreferredLocale.Help" translate="yes" xml:space="preserve">
+          <source>Choose your preferred locale.</source>
+          <target state="new">Choose your preferred locale.</target>
+        </trans-unit>
+        <trans-unit id="ProfileTitle.Text" translate="yes" xml:space="preserve">
+          <source>Edit Profile - {0} (Id: {1})</source>
+          <target state="new">Edit Profile - {0} (Id: {1})</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Cell.Required" translate="yes" xml:space="preserve">
+          <source>Cell phone is required.</source>
+          <target state="new">Cell phone is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_City.Required" translate="yes" xml:space="preserve">
+          <source>City is required.</source>
+          <target state="new">City is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Country.Not Specified" translate="yes" xml:space="preserve">
+          <source>Not Specified</source>
+          <target state="new">Not Specified</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Country.Required" translate="yes" xml:space="preserve">
+          <source>Country is required.</source>
+          <target state="new">Country is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Fax.Required" translate="yes" xml:space="preserve">
+          <source>Fax number is required.</source>
+          <target state="new">Fax number is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_FirstName.Required" translate="yes" xml:space="preserve">
+          <source>First name is required.</source>
+          <target state="new">First name is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_IM.Required" translate="yes" xml:space="preserve">
+          <source>IM handle is required.</source>
+          <target state="new">IM handle is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_LastName.Required" translate="yes" xml:space="preserve">
+          <source>Last name is required.</source>
+          <target state="new">Last name is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_MiddleName.Required" translate="yes" xml:space="preserve">
+          <source>Middle name is required.</source>
+          <target state="new">Middle name is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_PostalCode.Required" translate="yes" xml:space="preserve">
+          <source>Postal Code is required.</source>
+          <target state="new">Postal Code is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_PreferredLocale.Required" translate="yes" xml:space="preserve">
+          <source>Preferred locale is required.</source>
+          <target state="new">Preferred locale is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Prefix.Required" translate="yes" xml:space="preserve">
+          <source>Prefix is required.</source>
+          <target state="new">Prefix is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Region.Required" translate="yes" xml:space="preserve">
+          <source>Region is required.</source>
+          <target state="new">Region is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Street.Required" translate="yes" xml:space="preserve">
+          <source>Street is required.</source>
+          <target state="new">Street is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Suffix.Required" translate="yes" xml:space="preserve">
+          <source>Suffix is required.</source>
+          <target state="new">Suffix is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Telephone.Required" translate="yes" xml:space="preserve">
+          <source>Telephone is required.</source>
+          <target state="new">Telephone is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_TimeZone.Required" translate="yes" xml:space="preserve">
+          <source>Time zone is required.</source>
+          <target state="new">Time zone is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Unit.Required" translate="yes" xml:space="preserve">
+          <source>Unit is required.</source>
+          <target state="new">Unit is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Website.Required" translate="yes" xml:space="preserve">
+          <source>Website is required.</source>
+          <target state="new">Website is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Biography.Text" translate="yes" xml:space="preserve">
+          <source>Biography:</source>
+          <target state="new">Biography:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Biography.Help" translate="yes" xml:space="preserve">
+          <source>Enter a short biography.</source>
+          <target state="new">Enter a short biography.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Biography.Required" translate="yes" xml:space="preserve">
+          <source>Biography is required.</source>
+          <target state="new">Biography is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Address.Header" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <target state="new">Address</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Contact Info.Header" translate="yes" xml:space="preserve">
+          <source>Contact Info</source>
+          <target state="new">Contact Info</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Name.Header" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Preferences.Header" translate="yes" xml:space="preserve">
+          <source>Preferences</source>
+          <target state="new">Preferences</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Photo.Help" translate="yes" xml:space="preserve">
+          <source>Select a photo or upload an image from your local file system.</source>
+          <target state="new">Select a photo or upload an image from your local file system.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Photo.Required" translate="yes" xml:space="preserve">
+          <source>Photo is required.</source>
+          <target state="new">Photo is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Photo.Text" translate="yes" xml:space="preserve">
+          <source>Photo:</source>
+          <target state="new">Photo:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_PreferredTimeZone.Help" translate="yes" xml:space="preserve">
+          <source>Choose your preferred time zone.</source>
+          <target state="new">Choose your preferred time zone.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_PreferredTimeZone.Required" translate="yes" xml:space="preserve">
+          <source>Preferred time zone is required.</source>
+          <target state="new">Preferred time zone is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_PreferredTimeZone.Text" translate="yes" xml:space="preserve">
+          <source>Preferred Time Zone:</source>
+          <target state="new">Preferred Time Zone:</target>
+        </trans-unit>
+        <trans-unit id="RequireProfile.Text" translate="yes" xml:space="preserve">
+          <source>Your Profile</source>
+          <target state="new">Your Profile</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Email.Text" translate="yes" xml:space="preserve">
+          <source>Email Address:</source>
+          <target state="new">Email Address:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Username.Text" translate="yes" xml:space="preserve">
+          <source>Username:</source>
+          <target state="new">Username:</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_DisplayName.Text" translate="yes" xml:space="preserve">
+          <source>Display Name:</source>
+          <target state="new">Display Name:</target>
+        </trans-unit>
+        <trans-unit id="Address.Text" translate="yes" xml:space="preserve">
+          <source>Address Details</source>
+          <target state="new">Address Details</target>
+        </trans-unit>
+        <trans-unit id="Contact Info.Text" translate="yes" xml:space="preserve">
+          <source>Contact Information</source>
+          <target state="new">Contact Information</target>
+        </trans-unit>
+        <trans-unit id="Name.Text" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="Preferences.Text" translate="yes" xml:space="preserve">
+          <source>Preferences</source>
+          <target state="new">Preferences</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Facebook.Help" translate="yes" xml:space="preserve">
+          <source>A link to your Facebook profile with a format beginning with facebook.com/</source>
+          <target state="new">A link to your Facebook profile with a format beginning with facebook.com/</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Facebook.Required" translate="yes" xml:space="preserve">
+          <source>Facebook is required.</source>
+          <target state="new">Facebook is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Facebook.Text" translate="yes" xml:space="preserve">
+          <source>Facebook</source>
+          <target state="new">Facebook</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_GooglePlus.Help" translate="yes" xml:space="preserve">
+          <source>A link to your Google+ profile with a format beginning with plus.google.com/</source>
+          <target state="new">A link to your Google+ profile with a format beginning with plus.google.com/</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_GooglePlus.Required" translate="yes" xml:space="preserve">
+          <source>Google+ is required.</source>
+          <target state="new">Google+ is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_GooglePlus.Text" translate="yes" xml:space="preserve">
+          <source>Google+</source>
+          <target state="new">Google+</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_LinkedIn.Help" translate="yes" xml:space="preserve">
+          <source>A link to your LinkedIn profile with a format beginning with www.linkedin.com/ or [country].linkedin.com/</source>
+          <target state="new">A link to your LinkedIn profile with a format beginning with www.linkedin.com/ or [country].linkedin.com/</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_LinkedIn.Required" translate="yes" xml:space="preserve">
+          <source>LinkedIn is required.</source>
+          <target state="new">LinkedIn is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_LinkedIn.Text" translate="yes" xml:space="preserve">
+          <source>LinkedIn</source>
+          <target state="new">LinkedIn</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Twitter.Help" translate="yes" xml:space="preserve">
+          <source>A link to your Twitter profile with a format beginning with twitter.com/</source>
+          <target state="new">A link to your Twitter profile with a format beginning with twitter.com/</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Twitter.Required" translate="yes" xml:space="preserve">
+          <source>Twitter is required.</source>
+          <target state="new">Twitter is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Twitter.Text" translate="yes" xml:space="preserve">
+          <source>Twitter</source>
+          <target state="new">Twitter</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Skype.Help" translate="yes" xml:space="preserve">
+          <source>A link to your call you on Skype via your user name.</source>
+          <target state="new">A link to your call you on Skype via your user name.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Skype.Required" translate="yes" xml:space="preserve">
+          <source>Skype ID is required.</source>
+          <target state="new">Skype ID is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfileProperties_Skype.Text" translate="yes" xml:space="preserve">
+          <source>Skype ID</source>
+          <target state="new">Skype ID</target>
+        </trans-unit>
+        <trans-unit id="DisplayNameNotUnique.Text" translate="yes" xml:space="preserve">
+          <source>The display name you have entered is already in use, please choose a different one.</source>
+          <target state="new">The display name you have entered is already in use, please choose a different one.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="SecurityRoles.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="UserName.Header" translate="yes" xml:space="preserve">
+          <source>User Name</source>
+          <target state="new">User Name</target>
+        </trans-unit>
+        <trans-unit id="SecurityRole.Header" translate="yes" xml:space="preserve">
+          <source>Security Role</source>
+          <target state="new">Security Role</target>
+        </trans-unit>
+        <trans-unit id="ExpiryDate.Header" translate="yes" xml:space="preserve">
+          <source>Expiry Date</source>
+          <target state="new">Expiry Date</target>
+        </trans-unit>
+        <trans-unit id="plUsers.Text" translate="yes" xml:space="preserve">
+          <source>User Name</source>
+          <target state="new">User Name</target>
+        </trans-unit>
+        <trans-unit id="plUsers.Help" translate="yes" xml:space="preserve">
+          <source>Enter the user name and click Validate to confirm.</source>
+          <target state="new">Enter the user name and click Validate to confirm.</target>
+        </trans-unit>
+        <trans-unit id="cmdValidate.Text" translate="yes" xml:space="preserve">
+          <source>Validate</source>
+          <target state="new">Validate</target>
+        </trans-unit>
+        <trans-unit id="plRoles.Text" translate="yes" xml:space="preserve">
+          <source>Security Role</source>
+          <target state="new">Security Role</target>
+        </trans-unit>
+        <trans-unit id="plRoles.Help" translate="yes" xml:space="preserve">
+          <source>Select the security role.</source>
+          <target state="new">Select the security role.</target>
+        </trans-unit>
+        <trans-unit id="plExpiryDate.Text" translate="yes" xml:space="preserve">
+          <source>Expiry Date</source>
+          <target state="new">Expiry Date</target>
+        </trans-unit>
+        <trans-unit id="plExpiryDate.Help" translate="yes" xml:space="preserve">
+          <source>Choose the date that access to this role will expire or leave blank for no expiry.</source>
+          <target state="new">Choose the date that access to this role will expire or leave blank for no expiry.</target>
+        </trans-unit>
+        <trans-unit id="SendNotification.Text" translate="yes" xml:space="preserve">
+          <source>Send Email</source>
+          <target state="new">Send Email</target>
+        </trans-unit>
+        <trans-unit id="cmdAdd.Text" translate="yes" xml:space="preserve">
+          <source>Add Role</source>
+          <target state="new">Add Role</target>
+        </trans-unit>
+        <trans-unit id="valExpiryDate.Text" translate="yes" xml:space="preserve">
+          <source>Invalid expiry date</source>
+          <target state="new">Invalid expiry date</target>
+        </trans-unit>
+        <trans-unit id="RoleRemoveError.Text" translate="yes" xml:space="preserve">
+          <source>You cannot remove the Administrators or the Registered Users roles.</source>
+          <target state="new">You cannot remove the Administrators or the Registered Users roles.</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_user roles.Text" translate="yes" xml:space="preserve">
+          <source>User Roles</source>
+          <target state="new">User Roles</target>
+        </trans-unit>
+        <trans-unit id="UserTitle.Text" translate="yes" xml:space="preserve">
+          <source>Manage Roles for User: {0}</source>
+          <target state="new">Manage Roles for User: {0}</target>
+        </trans-unit>
+        <trans-unit id="RoleTitle.Text" translate="yes" xml:space="preserve">
+          <source>Manage Users in Role: {0}</source>
+          <target state="new">Manage Users in Role: {0}</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;h1&gt;</bpt>About Manage Security Roles<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Administrators can manage the security roles defined for their site. The module allows you to manage the users assigned to security roles.<ept id="2">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;h1&gt;</bpt>About Manage Security Roles<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Administrators can manage the security roles defined for their site. The module allows you to manage the users assigned to security roles.<ept id="2">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="AddUser.Text" translate="yes" xml:space="preserve">
+          <source>Add User to Role</source>
+          <target state="new">Add User to Role</target>
+        </trans-unit>
+        <trans-unit id="AddRole.Text" translate="yes" xml:space="preserve">
+          <source>Add Role to User</source>
+          <target state="new">Add Role to User</target>
+        </trans-unit>
+        <trans-unit id="EffectiveDate.Header" translate="yes" xml:space="preserve">
+          <source>Effective Date</source>
+          <target state="new">Effective Date</target>
+        </trans-unit>
+        <trans-unit id="plEffectiveDate.Text" translate="yes" xml:space="preserve">
+          <source>Effective Date</source>
+          <target state="new">Effective Date</target>
+        </trans-unit>
+        <trans-unit id="plEffectiveDate.Help" translate="yes" xml:space="preserve">
+          <source>Select the date this user can first access this role or leave blank for immediate access.</source>
+          <target state="new">Select the date this user can first access this role or leave blank for immediate access.</target>
+        </trans-unit>
+        <trans-unit id="valEffectiveDate.Text" translate="yes" xml:space="preserve">
+          <source>Invalid effective date</source>
+          <target state="new">Invalid effective date</target>
+        </trans-unit>
+        <trans-unit id="valDates.Text" translate="yes" xml:space="preserve">
+          <source>Expiry date must be greater than effective date.</source>
+          <target state="new">Expiry date must be greater than effective date.</target>
+        </trans-unit>
+        <trans-unit id="UpdateRole.Text" translate="yes" xml:space="preserve">
+          <source>Update User Role</source>
+          <target state="new">Update User Role</target>
+        </trans-unit>
+        <trans-unit id="NotAuthorized.Text" translate="yes" xml:space="preserve">
+          <source>You are not authorized to edit this role.</source>
+          <target state="new">You are not authorized to edit this role.</target>
+        </trans-unit>
+        <trans-unit id="DeleteUsersFromRole.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to remove '{0}' from the '{1}' role?</source>
+          <target state="new">Are you sure you want to remove '{0}' from the '{1}' role?</target>
+        </trans-unit>
+        <trans-unit id="DeleteRoleFromUser.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to remove the '{1}' role from '{0}'?</source>
+          <target state="new">Are you sure you want to remove the '{1}' role from '{0}'?</target>
+        </trans-unit>
+        <trans-unit id="lblIsOwner.Text" translate="yes" xml:space="preserve">
+          <source>Is Owner</source>
+          <target state="new">Is Owner</target>
+        </trans-unit>
+        <trans-unit id="IsOwner.Header" translate="yes" xml:space="preserve">
+          <source>Is Owner</source>
+          <target state="new">Is Owner</target>
+        </trans-unit>
+        <trans-unit id="lblIsOwner.Help" translate="yes" xml:space="preserve">
+          <source>Add this user as an owner of this group.</source>
+          <target state="new">Add this user as an owner of this group.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

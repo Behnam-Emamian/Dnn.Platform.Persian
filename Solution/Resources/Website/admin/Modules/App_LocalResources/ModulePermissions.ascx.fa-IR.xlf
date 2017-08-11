@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="ModulePermissions.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="plPermissions.Text" translate="yes" xml:space="preserve">
+          <source>Permissions:</source>
+          <target state="new">Permissions:</target>
+        </trans-unit>
+        <trans-unit id="plPermissions.Help" translate="yes" xml:space="preserve">
+          <source>Select the View and Edit permissions by checking/unchecking the boxes in the grid.  Check the Inherit View Permissions box to allow the module to inherit permissions from the page.</source>
+          <target state="new">Select the View and Edit permissions by checking/unchecking the boxes in the grid.  Check the Inherit View Permissions box to allow the module to inherit permissions from the page.</target>
+        </trans-unit>
+        <trans-unit id="InheritPermissions.Text" translate="yes" xml:space="preserve">
+          <source>Inherit <bpt id="1">&lt;b&gt;</bpt>View<ept id="1">&lt;/b&gt;</ept> permissions from <bpt id="2">&lt;b&gt;</bpt>Page<ept id="2">&lt;/b&gt;</ept></source>
+          <target state="new">Inherit <bpt id="1">&lt;b&gt;</bpt>View<ept id="1">&lt;/b&gt;</ept> permissions from <bpt id="2">&lt;b&gt;</bpt>Page<ept id="2">&lt;/b&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_module.Text" translate="yes" xml:space="preserve">
+          <source>Module</source>
+          <target state="new">Module</target>
+        </trans-unit>
+        <trans-unit id="Permissions.Text" translate="yes" xml:space="preserve">
+          <source>Permissions</source>
+          <target state="new">Permissions</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

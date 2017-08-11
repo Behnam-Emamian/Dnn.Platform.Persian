@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="UserSettings.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ControlTitle_usersettings.Text" translate="yes" xml:space="preserve">
+          <source>User Settings</source>
+          <target state="new">User Settings</target>
+        </trans-unit>
+        <trans-unit id="ProviderSettings.Text" translate="yes" xml:space="preserve">
+          <source>Membership Provider Settings</source>
+          <target state="new">Membership Provider Settings</target>
+        </trans-unit>
+        <trans-unit id="UserAccounts.Text" translate="yes" xml:space="preserve">
+          <source>User Accounts Settings</source>
+          <target state="new">User Accounts Settings</target>
+        </trans-unit>
+        <trans-unit id="Column_Address.Text" translate="yes" xml:space="preserve">
+          <source>Show Address Column:</source>
+          <target state="new">Show Address Column:</target>
+        </trans-unit>
+        <trans-unit id="Column_Address.Help" translate="yes" xml:space="preserve">
+          <source>Show the Address column.</source>
+          <target state="new">Show the Address column.</target>
+        </trans-unit>
+        <trans-unit id="Column_Authorized.Text" translate="yes" xml:space="preserve">
+          <source>Show Authorized Column:</source>
+          <target state="new">Show Authorized Column:</target>
+        </trans-unit>
+        <trans-unit id="Column_Authorized.Help" translate="yes" xml:space="preserve">
+          <source>Show the Authorized column.</source>
+          <target state="new">Show the Authorized column.</target>
+        </trans-unit>
+        <trans-unit id="Column_CreatedDate.Text" translate="yes" xml:space="preserve">
+          <source>Show Created Date Column:</source>
+          <target state="new">Show Created Date Column:</target>
+        </trans-unit>
+        <trans-unit id="Column_CreatedDate.Help" translate="yes" xml:space="preserve">
+          <source>Show the Created Date column.</source>
+          <target state="new">Show the Created Date column.</target>
+        </trans-unit>
+        <trans-unit id="Column_DisplayName.Text" translate="yes" xml:space="preserve">
+          <source>Show Name Column:</source>
+          <target state="new">Show Name Column:</target>
+        </trans-unit>
+        <trans-unit id="Column_DisplayName.Help" translate="yes" xml:space="preserve">
+          <source>Show the Name column.</source>
+          <target state="new">Show the Name column.</target>
+        </trans-unit>
+        <trans-unit id="Column_Email.Text" translate="yes" xml:space="preserve">
+          <source>Show Email Column:</source>
+          <target state="new">Show Email Column:</target>
+        </trans-unit>
+        <trans-unit id="Column_Email.Help" translate="yes" xml:space="preserve">
+          <source>Show the Email column.</source>
+          <target state="new">Show the Email column.</target>
+        </trans-unit>
+        <trans-unit id="Column_FirstName.Text" translate="yes" xml:space="preserve">
+          <source>Show First Name Column:</source>
+          <target state="new">Show First Name Column:</target>
+        </trans-unit>
+        <trans-unit id="Column_FirstName.Help" translate="yes" xml:space="preserve">
+          <source>Show the First Name column.</source>
+          <target state="new">Show the First Name column.</target>
+        </trans-unit>
+        <trans-unit id="Column_LastLogin.Text" translate="yes" xml:space="preserve">
+          <source>Show Last Login Column:</source>
+          <target state="new">Show Last Login Column:</target>
+        </trans-unit>
+        <trans-unit id="Column_LastLogin.Help" translate="yes" xml:space="preserve">
+          <source>Show the Last Login column.</source>
+          <target state="new">Show the Last Login column.</target>
+        </trans-unit>
+        <trans-unit id="Column_LastName.Text" translate="yes" xml:space="preserve">
+          <source>Show Last Name Column:</source>
+          <target state="new">Show Last Name Column:</target>
+        </trans-unit>
+        <trans-unit id="Column_LastName.Help" translate="yes" xml:space="preserve">
+          <source>Show the Last Name column.</source>
+          <target state="new">Show the Last Name column.</target>
+        </trans-unit>
+        <trans-unit id="Column_Telephone.Text" translate="yes" xml:space="preserve">
+          <source>Show Telephone Column:</source>
+          <target state="new">Show Telephone Column:</target>
+        </trans-unit>
+        <trans-unit id="Column_Telephone.Help" translate="yes" xml:space="preserve">
+          <source>Show the Telephone column.</source>
+          <target state="new">Show the Telephone column.</target>
+        </trans-unit>
+        <trans-unit id="Records_PerPage.Text" translate="yes" xml:space="preserve">
+          <source>Users per Page:</source>
+          <target state="new">Users per Page:</target>
+        </trans-unit>
+        <trans-unit id="Records_PerPage.Help" translate="yes" xml:space="preserve">
+          <source>Enter the number of users to display on a page.</source>
+          <target state="new">Enter the number of users to display on a page.</target>
+        </trans-unit>
+        <trans-unit id="ProviderSettingsHelp.Text" translate="yes" xml:space="preserve">
+          <source>In this section you can review the membership provider's settings.  Some providers may allow you to edit the settings.  The default provider based on the ASP.NET MemberRole requires you to edit web.config, so the settings can not be updated here.</source>
+          <target state="new">In this section you can review the membership provider's settings.  Some providers may allow you to edit the settings.  The default provider based on the ASP.NET MemberRole requires you to edit web.config, so the settings can not be updated here.</target>
+        </trans-unit>
+        <trans-unit id="PasswordSettings.Text" translate="yes" xml:space="preserve">
+          <source>Password Aging Settings</source>
+          <target state="new">Password Aging Settings</target>
+        </trans-unit>
+        <trans-unit id="PasswordSettingsHelp.Text" translate="yes" xml:space="preserve">
+          <source>You can set up Password aging settings in this section.</source>
+          <target state="new">You can set up Password aging settings in this section.</target>
+        </trans-unit>
+        <trans-unit id="Display_Mode.Text" translate="yes" xml:space="preserve">
+          <source>Default Display Mode:</source>
+          <target state="new">Default Display Mode:</target>
+        </trans-unit>
+        <trans-unit id="Display_Mode.Help" translate="yes" xml:space="preserve">
+          <source>Select the default display mode for the Users Grid.</source>
+          <target state="new">Select the default display mode for the Users Grid.</target>
+        </trans-unit>
+        <trans-unit id="Security_UsersControl.Text" translate="yes" xml:space="preserve">
+          <source>Users Display Mode in Manage Roles:</source>
+          <target state="new">Users Display Mode in Manage Roles:</target>
+        </trans-unit>
+        <trans-unit id="Security_UsersControl.Help" translate="yes" xml:space="preserve">
+          <source>Select the Users Control to use in the Manage Roles module control.</source>
+          <target state="new">Select the Users Control to use in the Manage Roles module control.</target>
+        </trans-unit>
+        <trans-unit id="FirstLetter.Text" translate="yes" xml:space="preserve">
+          <source>First Letter</source>
+          <target state="new">First Letter</target>
+        </trans-unit>
+        <trans-unit id="Combo.Text" translate="yes" xml:space="preserve">
+          <source>Combo Box</source>
+          <target state="new">Combo Box</target>
+        </trans-unit>
+        <trans-unit id="TextBox.Text" translate="yes" xml:space="preserve">
+          <source>Text Box</source>
+          <target state="new">Text Box</target>
+        </trans-unit>
+        <trans-unit id="Display_SuppressPager.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to hide the page in the user accounts grid if only one page of records</source>
+          <target state="new">Check this box to hide the page in the user accounts grid if only one page of records</target>
+        </trans-unit>
+        <trans-unit id="Display_SuppressPager.Text" translate="yes" xml:space="preserve">
+          <source>Disable Results Paging:</source>
+          <target state="new">Disable Results Paging:</target>
+        </trans-unit>
+        <trans-unit id="Profile_ManageServices.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to display the Manage Services section in the Users profile.</source>
+          <target state="new">Check this box to display the Manage Services section in the Users profile.</target>
+        </trans-unit>
+        <trans-unit id="Profile_ManageServices.Text" translate="yes" xml:space="preserve">
+          <source>Display Manage Services:</source>
+          <target state="new">Display Manage Services:</target>
+        </trans-unit>
+        <trans-unit id="MembersOnly.Text" translate="yes" xml:space="preserve">
+          <source>Members Only</source>
+          <target state="new">Members Only</target>
+        </trans-unit>
+        <trans-unit id="Security_DisplayNameFormat.Help" translate="yes" xml:space="preserve">
+          <source>Optionally specify a format for the users display name. The format can include tokens for dynamic substitution such as [FIRSTNAME] [LASTNAME]. If a display name format is specified, the display name will no longer be editable through the user interface.</source>
+          <target state="new">Optionally specify a format for the users display name. The format can include tokens for dynamic substitution such as [FIRSTNAME] [LASTNAME]. If a display name format is specified, the display name will no longer be editable through the user interface.</target>
+        </trans-unit>
+        <trans-unit id="Security_DisplayNameFormat.Text" translate="yes" xml:space="preserve">
+          <source>Display Name Format:</source>
+          <target state="new">Display Name Format:</target>
+        </trans-unit>
+        <trans-unit id="InvalidRegex.Text" translate="yes" xml:space="preserve">
+          <source>{0}'s value is not a valid regular expression.</source>
+          <target state="new">{0}'s value is not a valid regular expression.</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_settings.Text" translate="yes" xml:space="preserve">
+          <source>User Account Settings</source>
+          <target state="new">User Account Settings</target>
+        </trans-unit>
+        <trans-unit id="CannotChangeSettings.Text" translate="yes" xml:space="preserve">
+          <source>This site is a member of a Site Group, these settings are controlled by the master site.</source>
+          <target state="new">This site is a member of a Site Group, these settings are controlled by the master site.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

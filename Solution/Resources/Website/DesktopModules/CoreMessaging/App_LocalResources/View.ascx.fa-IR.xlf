@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="View.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Actions.Text" translate="yes" xml:space="preserve">
+          <source>Actions</source>
+          <target state="new">Actions</target>
+        </trans-unit>
+        <trans-unit id="All.Text" translate="yes" xml:space="preserve">
+          <source>All</source>
+          <target state="new">All</target>
+        </trans-unit>
+        <trans-unit id="ArrangeConversation.Text" translate="yes" xml:space="preserve">
+          <source>Conversation</source>
+          <target state="new">Conversation</target>
+        </trans-unit>
+        <trans-unit id="ArrangeDate.Text" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target state="new">Date</target>
+        </trans-unit>
+        <trans-unit id="ArrangeFrom.Text" translate="yes" xml:space="preserve">
+          <source>From</source>
+          <target state="new">From</target>
+        </trans-unit>
+        <trans-unit id="ArrangeMessages.Text" translate="yes" xml:space="preserve">
+          <source>Arrange</source>
+          <target state="new">Arrange</target>
+        </trans-unit>
+        <trans-unit id="Attach.Text" translate="yes" xml:space="preserve">
+          <source>Attach</source>
+          <target state="new">Attach</target>
+        </trans-unit>
+        <trans-unit id="Attachments.Text" translate="yes" xml:space="preserve">
+          <source>Attachment(s)</source>
+          <target state="new">Attachment(s)</target>
+        </trans-unit>
+        <trans-unit id="Browse.Text" translate="yes" xml:space="preserve">
+          <source>Browse From Site</source>
+          <target state="new">Browse From Site</target>
+        </trans-unit>
+        <trans-unit id="Cancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="ComposeNewMessage.Text" translate="yes" xml:space="preserve">
+          <source>Compose New Message</source>
+          <target state="new">Compose New Message</target>
+        </trans-unit>
+        <trans-unit id="DismissThis.Text" translate="yes" xml:space="preserve">
+          <source>Dismiss this</source>
+          <target state="new">Dismiss this</target>
+        </trans-unit>
+        <trans-unit id="DismissAllNotifications.Text" translate="yes" xml:space="preserve">
+          <source>Dismiss All Notifications</source>
+          <target state="new">Dismiss All Notifications</target>
+        </trans-unit>
+        <trans-unit id="DismissAllConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to dismiss all {0} notification(s)?</source>
+          <target state="new">Are you sure you want to dismiss all {0} notification(s)?</target>
+        </trans-unit>
+        <trans-unit id="EditModule.Text" translate="yes" xml:space="preserve">
+          <source>Edit Module</source>
+          <target state="new">Edit Module</target>
+        </trans-unit>
+        <trans-unit id="FileSize.Header" translate="yes" xml:space="preserve">
+          <source>File Size:</source>
+          <target state="new">File Size:</target>
+        </trans-unit>
+        <trans-unit id="Filter.Text" translate="yes" xml:space="preserve">
+          <source>Filter</source>
+          <target state="new">Filter</target>
+        </trans-unit>
+        <trans-unit id="FilterCategory.Text" translate="yes" xml:space="preserve">
+          <source>category</source>
+          <target state="new">category</target>
+        </trans-unit>
+        <trans-unit id="FilterFriends.Text" translate="yes" xml:space="preserve">
+          <source>friends</source>
+          <target state="new">friends</target>
+        </trans-unit>
+        <trans-unit id="FilterFrom.Text" translate="yes" xml:space="preserve">
+          <source>from</source>
+          <target state="new">from</target>
+        </trans-unit>
+        <trans-unit id="FilterGroups.Text" translate="yes" xml:space="preserve">
+          <source>groups</source>
+          <target state="new">groups</target>
+        </trans-unit>
+        <trans-unit id="FilterUnread.Text" translate="yes" xml:space="preserve">
+          <source>unread</source>
+          <target state="new">unread</target>
+        </trans-unit>
+        <trans-unit id="FilterViewAll.Text" translate="yes" xml:space="preserve">
+          <source>view All</source>
+          <target state="new">view All</target>
+        </trans-unit>
+        <trans-unit id="LastModified.Header" translate="yes" xml:space="preserve">
+          <source>Last modified</source>
+          <target state="new">Last modified</target>
+        </trans-unit>
+        <trans-unit id="LoadMore.Text" translate="yes" xml:space="preserve">
+          <source>Load More</source>
+          <target state="new">Load More</target>
+        </trans-unit>
+        <trans-unit id="MarkArchive.Text" translate="yes" xml:space="preserve">
+          <source>Archive</source>
+          <target state="new">Archive</target>
+        </trans-unit>
+        <trans-unit id="MarkRead.Text" translate="yes" xml:space="preserve">
+          <source>Mark as Read</source>
+          <target state="new">Mark as Read</target>
+        </trans-unit>
+        <trans-unit id="MarkUnread.Text" translate="yes" xml:space="preserve">
+          <source>Mark as Unread</source>
+          <target state="new">Mark as Unread</target>
+        </trans-unit>
+        <trans-unit id="Message.Text" translate="yes" xml:space="preserve">
+          <source>Your Message:</source>
+          <target state="new">Your Message:</target>
+        </trans-unit>
+        <trans-unit id="MessageSent.Text" translate="yes" xml:space="preserve">
+          <source>Your message has been sent successfully.</source>
+          <target state="new">Your message has been sent successfully.</target>
+        </trans-unit>
+        <trans-unit id="MessageSentTitle.Text" translate="yes" xml:space="preserve">
+          <source>Message Sent</source>
+          <target state="new">Message Sent</target>
+        </trans-unit>
+        <trans-unit id="Name.Header" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="None.Text" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <target state="new">None</target>
+        </trans-unit>
+        <trans-unit id="NoResults.Text" translate="yes" xml:space="preserve">
+          <source>No results</source>
+          <target state="new">No results</target>
+        </trans-unit>
+        <trans-unit id="Read.Text" translate="yes" xml:space="preserve">
+          <source>Read</source>
+          <target state="new">Read</target>
+        </trans-unit>
+        <trans-unit id="ReadStatusToggle.Text" translate="yes" xml:space="preserve">
+          <source>Mark as Read or Unread</source>
+          <target state="new">Mark as Read or Unread</target>
+        </trans-unit>
+        <trans-unit id="Remove.Text" translate="yes" xml:space="preserve">
+          <source>Remove attachment</source>
+          <target state="new">Remove attachment</target>
+        </trans-unit>
+        <trans-unit id="Reply.Text" translate="yes" xml:space="preserve">
+          <source>Reply</source>
+          <target state="new">Reply</target>
+        </trans-unit>
+        <trans-unit id="Searching.Text" translate="yes" xml:space="preserve">
+          <source>Searching...</source>
+          <target state="new">Searching...</target>
+        </trans-unit>
+        <trans-unit id="Select.Text" translate="yes" xml:space="preserve">
+          <source>Select</source>
+          <target state="new">Select</target>
+        </trans-unit>
+        <trans-unit id="Send.Text" translate="yes" xml:space="preserve">
+          <source>Send</source>
+          <target state="new">Send</target>
+        </trans-unit>
+        <trans-unit id="Subject.Text" translate="yes" xml:space="preserve">
+          <source>Subject:</source>
+          <target state="new">Subject:</target>
+        </trans-unit>
+        <trans-unit id="Throttling.Text" translate="yes" xml:space="preserve">
+          <source>Please wait before sending a new message.</source>
+          <target state="new">Please wait before sending a new message.</target>
+        </trans-unit>
+        <trans-unit id="Title.Text" translate="yes" xml:space="preserve">
+          <source>Compose Message</source>
+          <target state="new">Compose Message</target>
+        </trans-unit>
+        <trans-unit id="To.Text" translate="yes" xml:space="preserve">
+          <source>Send To:</source>
+          <target state="new">Send To:</target>
+        </trans-unit>
+        <trans-unit id="Type.Header" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="Unread.Text" translate="yes" xml:space="preserve">
+          <source>Unread</source>
+          <target state="new">Unread</target>
+        </trans-unit>
+        <trans-unit id="UserFileManagerTitle.Text" translate="yes" xml:space="preserve">
+          <source>Browse file to use</source>
+          <target state="new">Browse file to use</target>
+        </trans-unit>
+        <trans-unit id="ApplyActionToMessages.Text" translate="yes" xml:space="preserve">
+          <source>Apply An Action To Your Messages</source>
+          <target state="new">Apply An Action To Your Messages</target>
+        </trans-unit>
+        <trans-unit id="Archived.Text" translate="yes" xml:space="preserve">
+          <source>Archived</source>
+          <target state="new">Archived</target>
+        </trans-unit>
+        <trans-unit id="ArchivedMessages.Text" translate="yes" xml:space="preserve">
+          <source>Archived Messages</source>
+          <target state="new">Archived Messages</target>
+        </trans-unit>
+        <trans-unit id="ArchiveMessages.Text" translate="yes" xml:space="preserve">
+          <source>Archive Message(s)</source>
+          <target state="new">Archive Message(s)</target>
+        </trans-unit>
+        <trans-unit id="BackToMessages.Text" translate="yes" xml:space="preserve">
+          <source>Back to Messages</source>
+          <target state="new">Back to Messages</target>
+        </trans-unit>
+        <trans-unit id="ConversationArchived.Text" translate="yes" xml:space="preserve">
+          <source>The conversation has been archived.</source>
+          <target state="new">The conversation has been archived.</target>
+        </trans-unit>
+        <trans-unit id="ConversationSetAsRead.Text" translate="yes" xml:space="preserve">
+          <source>The conversation has been set as read.</source>
+          <target state="new">The conversation has been set as read.</target>
+        </trans-unit>
+        <trans-unit id="ConversationSetAsUnread.Text" translate="yes" xml:space="preserve">
+          <source>The conversation has been set as unread.</source>
+          <target state="new">The conversation has been set as unread.</target>
+        </trans-unit>
+        <trans-unit id="ConversationUnarchived.Text" translate="yes" xml:space="preserve">
+          <source>The conversation has been unarchived.</source>
+          <target state="new">The conversation has been unarchived.</target>
+        </trans-unit>
+        <trans-unit id="Conversations.Text" translate="yes" xml:space="preserve">
+          <source>Conversations</source>
+          <target state="new">Conversations</target>
+        </trans-unit>
+        <trans-unit id="Loading.Text" translate="yes" xml:space="preserve">
+          <source>loading...</source>
+          <target state="new">loading...</target>
+        </trans-unit>
+        <trans-unit id="LoadingContent.Text" translate="yes" xml:space="preserve">
+          <source>Loading Content...</source>
+          <target state="new">Loading Content...</target>
+        </trans-unit>
+        <trans-unit id="MarkUnarchive.Text" translate="yes" xml:space="preserve">
+          <source>Unarchive</source>
+          <target state="new">Unarchive</target>
+        </trans-unit>
+        <trans-unit id="Messages.Text" translate="yes" xml:space="preserve">
+          <source>Messages</source>
+          <target state="new">Messages</target>
+        </trans-unit>
+        <trans-unit id="NewUnreadMessages.Text" translate="yes" xml:space="preserve">
+          <source> New unread messages</source>
+          <target state="new"> New unread messages</target>
+        </trans-unit>
+        <trans-unit id="SelectMessages.Text" translate="yes" xml:space="preserve">
+          <source>Select Messages</source>
+          <target state="new">Select Messages</target>
+        </trans-unit>
+        <trans-unit id="Sent.Text" translate="yes" xml:space="preserve">
+          <source>Sent</source>
+          <target state="new">Sent</target>
+        </trans-unit>
+        <trans-unit id="SentMessages.Text" translate="yes" xml:space="preserve">
+          <source>Sent Messages</source>
+          <target state="new">Sent Messages</target>
+        </trans-unit>
+        <trans-unit id="ShowPreviousReplies.Text" translate="yes" xml:space="preserve">
+          <source>Show Previous Replies</source>
+          <target state="new">Show Previous Replies</target>
+        </trans-unit>
+        <trans-unit id="PermissionsNotProperlySet.Text" translate="yes" xml:space="preserve">
+          <source>Module permissions are not properly set. The module shouldn't be visible for unauthenticated users.  Please correct.</source>
+          <target state="new">Module permissions are not properly set. The module shouldn't be visible for unauthenticated users.  Please correct.</target>
+        </trans-unit>
+        <trans-unit id="ContentNotAvailable.Text" translate="yes" xml:space="preserve">
+          <source>The content of this module cannot be visible by unauthenticated users. Please login in order to see its content.</source>
+          <target state="new">The content of this module cannot be visible by unauthenticated users. Please login in order to see its content.</target>
+        </trans-unit>
+        <trans-unit id="Notifications.Text" translate="yes" xml:space="preserve">
+          <source>Notifications</source>
+          <target state="new">Notifications</target>
+        </trans-unit>
+        <trans-unit id="Of.Text" translate="yes" xml:space="preserve">
+          <source> of </source>
+          <target state="new"> of </target>
+        </trans-unit>
+        <trans-unit id="TotalNotifications.Text" translate="yes" xml:space="preserve">
+          <source> Total notifications</source>
+          <target state="new"> Total notifications</target>
+        </trans-unit>
+        <trans-unit id="From.Text" translate="yes" xml:space="preserve">
+          <source>From</source>
+          <target state="new">From</target>
+        </trans-unit>
+        <trans-unit id="SentTo.Text" translate="yes" xml:space="preserve">
+          <source>Sent to</source>
+          <target state="new">Sent to</target>
+        </trans-unit>
+        <trans-unit id="NotificationConfirmNo.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="NotificationConfirmTitle.Text" translate="yes" xml:space="preserve">
+          <source>Confirm</source>
+          <target state="new">Confirm</target>
+        </trans-unit>
+        <trans-unit id="NotificationConfirmYes.Text" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="ActionNotPerformed.Text" translate="yes" xml:space="preserve">
+          <source>An error occurred while performing the action.  Please try again later.</source>
+          <target state="new">An error occurred while performing the action.  Please try again later.</target>
+        </trans-unit>
+        <trans-unit id="ActionPerformed.Text" translate="yes" xml:space="preserve">
+          <source>The action has been performed successfully.</source>
+          <target state="new">The action has been performed successfully.</target>
+        </trans-unit>
+        <trans-unit id="ReplyHasNoRecipients.Text" translate="yes" xml:space="preserve">
+          <source>The message no longer has any valid recipients so replies have been disabled.</source>
+          <target state="new">The message no longer has any valid recipients so replies have been disabled.</target>
+        </trans-unit>
+        <trans-unit id="ServerError.Text" translate="yes" xml:space="preserve">
+          <source>An error occurred while processing the request.  Please try again later.</source>
+          <target state="new">An error occurred while processing the request.  Please try again later.</target>
+        </trans-unit>
+        <trans-unit id="ServerErrorWithDescription.Text" translate="yes" xml:space="preserve">
+          <source>An error occurred while processing the request: </source>
+          <target state="new">An error occurred while processing the request: </target>
+        </trans-unit>
+        <trans-unit id="CreateMessageError.Text" translate="yes" xml:space="preserve">
+          <source>An error occurred while creating the message.  Please try again later.</source>
+          <target state="new">An error occurred while creating the message.  Please try again later.</target>
+        </trans-unit>
+        <trans-unit id="CreateMessageErrorWithDescription.Text" translate="yes" xml:space="preserve">
+          <source>An error occurred while creating the message:</source>
+          <target state="new">An error occurred while creating the message:</target>
+        </trans-unit>
+        <trans-unit id="AutoSuggestError.Text" translate="yes" xml:space="preserve">
+          <source>An error occurred while getting suggestions:</source>
+          <target state="new">An error occurred while getting suggestions:</target>
+        </trans-unit>
+        <trans-unit id="Upload.Text" translate="yes" xml:space="preserve">
+          <source>Upload From Computer</source>
+          <target state="new">Upload From Computer</target>
+        </trans-unit>
+        <trans-unit id="Subscriptions.Text" translate="yes" xml:space="preserve">
+          <source>Subscriptions</source>
+          <target state="new">Subscriptions</target>
+        </trans-unit>
+        <trans-unit id="Action.Text" translate="yes" xml:space="preserve">
+          <source>Action</source>
+          <target state="new">Action</target>
+        </trans-unit>
+        <trans-unit id="Activity.Text" translate="yes" xml:space="preserve">
+          <source>Activity</source>
+          <target state="new">Activity</target>
+        </trans-unit>
+        <trans-unit id="ManageSubscriptions.Text" translate="yes" xml:space="preserve">
+          <source>Manage Subscriptions</source>
+          <target state="new">Manage Subscriptions</target>
+        </trans-unit>
+        <trans-unit id="Frequency.Text" translate="yes" xml:space="preserve">
+          <source>Frequency</source>
+          <target state="new">Frequency</target>
+        </trans-unit>
+        <trans-unit id="lblMessageFreq.Help" translate="yes" xml:space="preserve">
+          <source>Select how frequently you will receive emails informing you of new messages.</source>
+          <target state="new">Select how frequently you will receive emails informing you of new messages.</target>
+        </trans-unit>
+        <trans-unit id="lblMessageFreq.Text" translate="yes" xml:space="preserve">
+          <source>Message Digest Frequency:</source>
+          <target state="new">Message Digest Frequency:</target>
+        </trans-unit>
+        <trans-unit id="lblNotificationFreq.Help" translate="yes" xml:space="preserve">
+          <source>Select how frequently you will receive emails informing you of site notifications.</source>
+          <target state="new">Select how frequently you will receive emails informing you of site notifications.</target>
+        </trans-unit>
+        <trans-unit id="lblNotificationFreq.Text" translate="yes" xml:space="preserve">
+          <source>Notification Digest Frequency:</source>
+          <target state="new">Notification Digest Frequency:</target>
+        </trans-unit>
+        <trans-unit id="EmailDeliverySchedule.Text" translate="yes" xml:space="preserve">
+          <source>Email Delivery Schedule</source>
+          <target state="new">Email Delivery Schedule</target>
+        </trans-unit>
+        <trans-unit id="PrefSaved.Text" translate="yes" xml:space="preserve">
+          <source>Your preferences have been updated.</source>
+          <target state="new">Your preferences have been updated.</target>
+        </trans-unit>
+        <trans-unit id="SearchFilter.Text" translate="yes" xml:space="preserve">
+          <source>Search Filter</source>
+          <target state="new">Search Filter</target>
+        </trans-unit>
+        <trans-unit id="SubscriptionType.Text" translate="yes" xml:space="preserve">
+          <source>Subscription Type</source>
+          <target state="new">Subscription Type</target>
+        </trans-unit>
+        <trans-unit id="Unsubscribe.Text" translate="yes" xml:space="preserve">
+          <source>Unsubscribe</source>
+          <target state="new">Unsubscribe</target>
+        </trans-unit>
+        <trans-unit id="SubscribedDescription.Text" translate="yes" xml:space="preserve">
+          <source>Item</source>
+          <target state="new">Item</target>
+        </trans-unit>
+        <trans-unit id="Unsubscribed.Text" translate="yes" xml:space="preserve">
+          <source>You have been successfully unsubscribed.</source>
+          <target state="new">You have been successfully unsubscribed.</target>
+        </trans-unit>
+        <trans-unit id="lblSubscriptions.Help" translate="yes" xml:space="preserve">
+          <source>View and manage your subscriptions.</source>
+          <target state="new">View and manage your subscriptions.</target>
+        </trans-unit>
+        <trans-unit id="lblSubscriptions.Text" translate="yes" xml:space="preserve">
+          <source>Subscriptions:</source>
+          <target state="new">Subscriptions:</target>
+        </trans-unit>
+        <trans-unit id="DNNCorp_Answers_Question.Text" translate="yes" xml:space="preserve">
+          <source>Answers Subscriptions</source>
+          <target state="new">Answers Subscriptions</target>
+        </trans-unit>
+        <trans-unit id="DNNCorp_Blogs.Text" translate="yes" xml:space="preserve">
+          <source>Blogs Subscriptions</source>
+          <target state="new">Blogs Subscriptions</target>
+        </trans-unit>
+        <trans-unit id="DNNCorp_Challenges_Challenge.Text" translate="yes" xml:space="preserve">
+          <source>Challenges Subscriptions</source>
+          <target state="new">Challenges Subscriptions</target>
+        </trans-unit>
+        <trans-unit id="DNNCorp_Discussions_Topic.Text" translate="yes" xml:space="preserve">
+          <source>Discussions Subscriptions</source>
+          <target state="new">Discussions Subscriptions</target>
+        </trans-unit>
+        <trans-unit id="DNNCorp_File.Text" translate="yes" xml:space="preserve">
+          <source>File Subscriptions</source>
+          <target state="new">File Subscriptions</target>
+        </trans-unit>
+        <trans-unit id="DNNCorp_Folder.Text" translate="yes" xml:space="preserve">
+          <source>Folder Subscriptions</source>
+          <target state="new">Folder Subscriptions</target>
+        </trans-unit>
+        <trans-unit id="DNNCorp_Groups_CreatedApprovedGroup.Text" translate="yes" xml:space="preserve">
+          <source>Groups Subscriptions</source>
+          <target state="new">Groups Subscriptions</target>
+        </trans-unit>
+        <trans-unit id="DNNCorp_Ideas.Text" translate="yes" xml:space="preserve">
+          <source>Ideas Subscriptions</source>
+          <target state="new">Ideas Subscriptions</target>
+        </trans-unit>
+        <trans-unit id="DNNCorp_SocialEvents_Event.Text" translate="yes" xml:space="preserve">
+          <source>Events Subscriptions</source>
+          <target state="new">Events Subscriptions</target>
+        </trans-unit>
+        <trans-unit id="DNNCorp_Wiki_Page.Text" translate="yes" xml:space="preserve">
+          <source>Wiki Subscriptions</source>
+          <target state="new">Wiki Subscriptions</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

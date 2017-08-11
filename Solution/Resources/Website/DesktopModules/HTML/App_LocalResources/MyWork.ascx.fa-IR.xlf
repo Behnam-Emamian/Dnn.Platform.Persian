@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="MyWork.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;P&gt;</bpt>The Text/HTML Module renders plain text, rich text or HTML. Five different editing views are available: <ept id="1">&lt;/P&gt;</ept>
+<it id="2" pos="open">&lt;OL&gt;</it>
+<it id="3" pos="open">&lt;LI&gt;</it><bpt id="4">&lt;STRONG&gt;</bpt>Basic Text Box / Text<ept id="4">&lt;/STRONG&gt;</ept>: Renders basic text and HTML tags.  Text entered on a new line is rendered as a line break. The text style is the Normal style, as set in your style sheet. 
+<it id="5" pos="open">&lt;LI&gt;</it><bpt id="6">&lt;STRONG&gt;</bpt>Basic Text Box / HTML<ept id="6">&lt;/STRONG&gt;</ept>: Displays basic text in HTML format.
+<it id="7" pos="open">&lt;LI&gt;</it><bpt id="8">&lt;STRONG&gt;</bpt>Basic Text Box / Raw<ept id="8">&lt;/STRONG&gt;</ept>: Displays basic text in HTML format. Text entered on a new line is not rendered as a line break.
+<it id="9" pos="open">&lt;LI&gt;</it><bpt id="10">&lt;STRONG&gt;</bpt>Rich Text Editor / HTML<ept id="10">&lt;/STRONG&gt;</ept>: Allows you to paste HTML from other sources.
+<it id="11" pos="open">&lt;LI&gt;</it><bpt id="12">&lt;STRONG&gt;</bpt>Rich Text Editor / Design<ept id="12">&lt;/STRONG&gt;</ept>: A full word processor or WYSIWYG (What You See is What You Get) editor with functionality such as hyperlinks, email links, File Manager image gallery, bullet points, spell check and more.</source>
+          <target state="new"><bpt id="1">&lt;P&gt;</bpt>The Text/HTML Module renders plain text, rich text or HTML. Five different editing views are available: <ept id="1">&lt;/P&gt;</ept>
+<it id="2" pos="open">&lt;OL&gt;</it>
+<it id="3" pos="open">&lt;LI&gt;</it><bpt id="4">&lt;STRONG&gt;</bpt>Basic Text Box / Text<ept id="4">&lt;/STRONG&gt;</ept>: Renders basic text and HTML tags.  Text entered on a new line is rendered as a line break. The text style is the Normal style, as set in your style sheet. 
+<it id="5" pos="open">&lt;LI&gt;</it><bpt id="6">&lt;STRONG&gt;</bpt>Basic Text Box / HTML<ept id="6">&lt;/STRONG&gt;</ept>: Displays basic text in HTML format.
+<it id="7" pos="open">&lt;LI&gt;</it><bpt id="8">&lt;STRONG&gt;</bpt>Basic Text Box / Raw<ept id="8">&lt;/STRONG&gt;</ept>: Displays basic text in HTML format. Text entered on a new line is not rendered as a line break.
+<it id="9" pos="open">&lt;LI&gt;</it><bpt id="10">&lt;STRONG&gt;</bpt>Rich Text Editor / HTML<ept id="10">&lt;/STRONG&gt;</ept>: Allows you to paste HTML from other sources.
+<it id="11" pos="open">&lt;LI&gt;</it><bpt id="12">&lt;STRONG&gt;</bpt>Rich Text Editor / Design<ept id="12">&lt;/STRONG&gt;</ept>: A full word processor or WYSIWYG (What You See is What You Get) editor with functionality such as hyperlinks, email links, File Manager image gallery, bullet points, spell check and more.</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_mywork.Text" translate="yes" xml:space="preserve">
+          <source>My Work</source>
+          <target state="new">My Work</target>
+        </trans-unit>
+        <trans-unit id="lblMessage.Text" translate="yes" xml:space="preserve">
+          <source>The following Content requires Review before it can be Published:</source>
+          <target state="new">The following Content requires Review before it can be Published:</target>
+        </trans-unit>
+        <trans-unit id="lblNoRecords.Text" translate="yes" xml:space="preserve">
+          <source>You have no HTML content associated with your account. </source>
+          <target state="new">You have no HTML content associated with your account. </target>
+        </trans-unit>
+        <trans-unit id="Page.Header" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target state="new">Page</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

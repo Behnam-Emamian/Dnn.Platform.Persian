@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Workflow.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="plWorkflow1.Text" translate="yes" xml:space="preserve">
+          <source>Workflow</source>
+          <target state="new">Workflow</target>
+        </trans-unit>
+        <trans-unit id="plWorkflow1.Help" translate="yes" xml:space="preserve">
+          <source>Select A Workflow To Manage</source>
+          <target state="new">Select A Workflow To Manage</target>
+        </trans-unit>
+        <trans-unit id="plWorkflow2.Text" translate="yes" xml:space="preserve">
+          <source>Workflow</source>
+          <target state="new">Workflow</target>
+        </trans-unit>
+        <trans-unit id="plWorkflow2.Help" translate="yes" xml:space="preserve">
+          <source>Enter A Name For The Workflow</source>
+          <target state="new">Enter A Name For The Workflow</target>
+        </trans-unit>
+        <trans-unit id="plDescription.Text" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+        <trans-unit id="plDescription.Help" translate="yes" xml:space="preserve">
+          <source>Enter A Description For The Workflow</source>
+          <target state="new">Enter A Description For The Workflow</target>
+        </trans-unit>
+        <trans-unit id="plHistory.Text" translate="yes" xml:space="preserve">
+          <source>History</source>
+          <target state="new">History</target>
+        </trans-unit>
+        <trans-unit id="plHistory.Help" translate="yes" xml:space="preserve">
+          <source>Specify the maximum number of Versions to retain</source>
+          <target state="new">Specify the maximum number of Versions to retain</target>
+        </trans-unit>
+        <trans-unit id="plDeleted.Text" translate="yes" xml:space="preserve">
+          <source>Deleted</source>
+          <target state="new">Deleted</target>
+        </trans-unit>
+        <trans-unit id="plDeleted.Help" translate="yes" xml:space="preserve">
+          <source>Specify Whether Or Not This Workflow Is Active</source>
+          <target state="new">Specify Whether Or Not This Workflow Is Active</target>
+        </trans-unit>
+        <trans-unit id="cmdAddWorkflow.Text" translate="yes" xml:space="preserve">
+          <source>Add New Workflow</source>
+          <target state="new">Add New Workflow</target>
+        </trans-unit>
+        <trans-unit id="WorkflowExists.Text" translate="yes" xml:space="preserve">
+          <source>A Workflow With The Specified Name Already Exists For This Site</source>
+          <target state="new">A Workflow With The Specified Name Already Exists For This Site</target>
+        </trans-unit>
+        <trans-unit id="dshStates.Text" translate="yes" xml:space="preserve">
+          <source>States</source>
+          <target state="new">States</target>
+        </trans-unit>
+        <trans-unit id="State.Header" translate="yes" xml:space="preserve">
+          <source>State</source>
+          <target state="new">State</target>
+        </trans-unit>
+        <trans-unit id="Active.Header" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <target state="new">Active</target>
+        </trans-unit>
+        <trans-unit id="cmdAddState.Text" translate="yes" xml:space="preserve">
+          <source>Add New State</source>
+          <target state="new">Add New State</target>
+        </trans-unit>
+        <trans-unit id="dshPermissions.Text" translate="yes" xml:space="preserve">
+          <source>State Configuration</source>
+          <target state="new">State Configuration</target>
+        </trans-unit>
+        <trans-unit id="plState.Text" translate="yes" xml:space="preserve">
+          <source>State</source>
+          <target state="new">State</target>
+        </trans-unit>
+        <trans-unit id="plState.Help" translate="yes" xml:space="preserve">
+          <source>Enter A Name For The State</source>
+          <target state="new">Enter A Name For The State</target>
+        </trans-unit>
+        <trans-unit id="plPermissions.Text" translate="yes" xml:space="preserve">
+          <source>Reviewers</source>
+          <target state="new">Reviewers</target>
+        </trans-unit>
+        <trans-unit id="plPermissions.Help" translate="yes" xml:space="preserve">
+          <source>Specify Who Can Review Content For The State</source>
+          <target state="new">Specify Who Can Review Content For The State</target>
+        </trans-unit>
+        <trans-unit id="plNotify.Text" translate="yes" xml:space="preserve">
+          <source>Notify</source>
+          <target state="new">Notify</target>
+        </trans-unit>
+        <trans-unit id="plNotify.Help" translate="yes" xml:space="preserve">
+          <source>Specify If The Author And Reviewers Should Receive Email Notifications Related To The State</source>
+          <target state="new">Specify If The Author And Reviewers Should Receive Email Notifications Related To The State</target>
+        </trans-unit>
+        <trans-unit id="plActive.Text" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <target state="new">Active</target>
+        </trans-unit>
+        <trans-unit id="plActive.Help" translate="yes" xml:space="preserve">
+          <source>Specify If The State Is Active</source>
+          <target state="new">Specify If The State Is Active</target>
+        </trans-unit>
+        <trans-unit id="dshVersions.Text" translate="yes" xml:space="preserve">
+          <source>Version History</source>
+          <target state="new">Version History</target>
+        </trans-unit>
+        <trans-unit id="plMaximumVersionHistory.Text" translate="yes" xml:space="preserve">
+          <source>History</source>
+          <target state="new">History</target>
+        </trans-unit>
+        <trans-unit id="plMaximumVersionHistory.Help" translate="yes" xml:space="preserve">
+          <source>Specify the maximum number of content versions to retain in history for a module ( enter zero to retain all versions )</source>
+          <target state="new">Specify the maximum number of content versions to retain in history for a module ( enter zero to retain all versions )</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;P&gt;</bpt>The Text/HTML Module renders plain text, rich text or HTML. Five different editing views are available: <ept id="1">&lt;/P&gt;</ept>
+<it id="2" pos="open">&lt;OL&gt;</it>
+<it id="3" pos="open">&lt;LI&gt;</it><bpt id="4">&lt;STRONG&gt;</bpt>Basic Text Box / Text<ept id="4">&lt;/STRONG&gt;</ept>: Renders basic text and HTML tags.  Text entered on a new line is rendered as a line break. The text style is the Normal style, as set in your style sheet. 
+<it id="5" pos="open">&lt;LI&gt;</it><bpt id="6">&lt;STRONG&gt;</bpt>Basic Text Box / HTML<ept id="6">&lt;/STRONG&gt;</ept>: Displays basic text in HTML format.
+<it id="7" pos="open">&lt;LI&gt;</it><bpt id="8">&lt;STRONG&gt;</bpt>Basic Text Box / Raw<ept id="8">&lt;/STRONG&gt;</ept>: Displays basic text in HTML format. Text entered on a new line is not rendered as a line break.
+<it id="9" pos="open">&lt;LI&gt;</it><bpt id="10">&lt;STRONG&gt;</bpt>Rich Text Editor / HTML<ept id="10">&lt;/STRONG&gt;</ept>: Allows you to paste HTML from other sources.
+<it id="11" pos="open">&lt;LI&gt;</it><bpt id="12">&lt;STRONG&gt;</bpt>Rich Text Editor / Design<ept id="12">&lt;/STRONG&gt;</ept>: A full word processor or WYSIWYG (What You See is What You Get) editor with functionality such as hyperlinks, email links, File Manager image gallery, bullet points, spell check and more.</source>
+          <target state="new"><bpt id="1">&lt;P&gt;</bpt>The Text/HTML Module renders plain text, rich text or HTML. Five different editing views are available: <ept id="1">&lt;/P&gt;</ept>
+<it id="2" pos="open">&lt;OL&gt;</it>
+<it id="3" pos="open">&lt;LI&gt;</it><bpt id="4">&lt;STRONG&gt;</bpt>Basic Text Box / Text<ept id="4">&lt;/STRONG&gt;</ept>: Renders basic text and HTML tags.  Text entered on a new line is rendered as a line break. The text style is the Normal style, as set in your style sheet. 
+<it id="5" pos="open">&lt;LI&gt;</it><bpt id="6">&lt;STRONG&gt;</bpt>Basic Text Box / HTML<ept id="6">&lt;/STRONG&gt;</ept>: Displays basic text in HTML format.
+<it id="7" pos="open">&lt;LI&gt;</it><bpt id="8">&lt;STRONG&gt;</bpt>Basic Text Box / Raw<ept id="8">&lt;/STRONG&gt;</ept>: Displays basic text in HTML format. Text entered on a new line is not rendered as a line break.
+<it id="9" pos="open">&lt;LI&gt;</it><bpt id="10">&lt;STRONG&gt;</bpt>Rich Text Editor / HTML<ept id="10">&lt;/STRONG&gt;</ept>: Allows you to paste HTML from other sources.
+<it id="11" pos="open">&lt;LI&gt;</it><bpt id="12">&lt;STRONG&gt;</bpt>Rich Text Editor / Design<ept id="12">&lt;/STRONG&gt;</ept>: A full word processor or WYSIWYG (What You See is What You Get) editor with functionality such as hyperlinks, email links, File Manager image gallery, bullet points, spell check and more.</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_workflow.Text" translate="yes" xml:space="preserve">
+          <source>Manage Workflows</source>
+          <target state="new">Manage Workflows</target>
+        </trans-unit>
+        <trans-unit id="WorkFlowStateHelp.Text" translate="yes" xml:space="preserve">
+          <source>In this section you can manage the workflow states.  Note that once a workflow is being used you cannot delete any of the workflow states associated with the workflow.  Also the first and last workflow states of a workflow cannot be deleted.</source>
+          <target state="new">In this section you can manage the workflow states.  Note that once a workflow is being used you cannot delete any of the workflow states associated with the workflow.  Also the first and last workflow states of a workflow cannot be deleted.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

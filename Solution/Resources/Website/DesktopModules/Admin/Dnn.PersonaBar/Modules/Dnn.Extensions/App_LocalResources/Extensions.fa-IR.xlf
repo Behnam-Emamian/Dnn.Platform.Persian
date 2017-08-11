@@ -1,0 +1,1492 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Extensions.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="nav_Extensions.Text" translate="yes" xml:space="preserve">
+          <source>Extensions</source>
+          <target state="new">Extensions</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_.Text" translate="yes" xml:space="preserve">
+          <source>Extensions</source>
+          <target state="new">Extensions</target>
+        </trans-unit>
+        <trans-unit id="CreateExtension.Action" translate="yes" xml:space="preserve">
+          <source>Create New Extension</source>
+          <target state="new">Create New Extension</target>
+        </trans-unit>
+        <trans-unit id="Delete.Text" translate="yes" xml:space="preserve">
+          <source>Uninstall this Extension</source>
+          <target state="new">Uninstall this Extension</target>
+        </trans-unit>
+        <trans-unit id="ExtensionInstall.Action" translate="yes" xml:space="preserve">
+          <source>Install Extension</source>
+          <target state="new">Install Extension</target>
+        </trans-unit>
+        <trans-unit id="Language.Header" translate="yes" xml:space="preserve">
+          <source>Language</source>
+          <target state="new">Language</target>
+        </trans-unit>
+        <trans-unit id="Name.Header" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="plPackageTypes.Help" translate="yes" xml:space="preserve">
+          <source>Select a single type of extension to be displayed.</source>
+          <target state="new">Select a single type of extension to be displayed.</target>
+        </trans-unit>
+        <trans-unit id="plPackageTypes.Text" translate="yes" xml:space="preserve">
+          <source>Filter by Type:</source>
+          <target state="new">Filter by Type:</target>
+        </trans-unit>
+        <trans-unit id="Title.Text" translate="yes" xml:space="preserve">
+          <source>List of {0} Extensions Installed</source>
+          <target state="new">List of {0} Extensions Installed</target>
+        </trans-unit>
+        <trans-unit id="TreeHeader.Text" translate="yes" xml:space="preserve">
+          <source>Installed Extensions</source>
+          <target state="new">Installed Extensions</target>
+        </trans-unit>
+        <trans-unit id="Type.Header" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="Upgrade.Header" translate="yes" xml:space="preserve">
+          <source>Upgrade?</source>
+          <target state="new">Upgrade?</target>
+        </trans-unit>
+        <trans-unit id="Version.Header" translate="yes" xml:space="preserve">
+          <source>Version</source>
+          <target state="new">Version</target>
+        </trans-unit>
+        <trans-unit id="Description.Header" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+        <trans-unit id="ImportModule.Action" translate="yes" xml:space="preserve">
+          <source>Import Module Definition</source>
+          <target state="new">Import Module Definition</target>
+        </trans-unit>
+        <trans-unit id="CreateLanguagePack.Action" translate="yes" xml:space="preserve">
+          <source>Create New Language</source>
+          <target state="new">Create New Language</target>
+        </trans-unit>
+        <trans-unit id="CreateModule.Action" translate="yes" xml:space="preserve">
+          <source>Create New Module</source>
+          <target state="new">Create New Module</target>
+        </trans-unit>
+        <trans-unit id="LanguagePackInstall.Action" translate="yes" xml:space="preserve">
+          <source>Install Language Pack</source>
+          <target state="new">Install Language Pack</target>
+        </trans-unit>
+        <trans-unit id="ModuleInstall.Action" translate="yes" xml:space="preserve">
+          <source>Install Module</source>
+          <target state="new">Install Module</target>
+        </trans-unit>
+        <trans-unit id="CreateSkin.Action" translate="yes" xml:space="preserve">
+          <source>Create New Theme</source>
+          <target state="new">Create New Theme</target>
+        </trans-unit>
+        <trans-unit id="EditSkins.Action" translate="yes" xml:space="preserve">
+          <source>Manage Themes</source>
+          <target state="new">Manage Themes</target>
+        </trans-unit>
+        <trans-unit id="SkinInstall.Action" translate="yes" xml:space="preserve">
+          <source>Install New Theme</source>
+          <target state="new">Install New Theme</target>
+        </trans-unit>
+        <trans-unit id="plLocales.Text" translate="yes" xml:space="preserve">
+          <source>Find Available Language Packs:</source>
+          <target state="new">Find Available Language Packs:</target>
+        </trans-unit>
+        <trans-unit id="plLocales.Help" translate="yes" xml:space="preserve">
+          <source>Choose a language to display a list of the extensions that have a language pack available in the selected language.  If a language pack exists, follow the link to download and install the language pack.</source>
+          <target state="new">Choose a language to display a list of the extensions that have a language pack available in the selected language.  If a language pack exists, follow the link to download and install the language pack.</target>
+        </trans-unit>
+        <trans-unit id="CreateContainer.Action" translate="yes" xml:space="preserve">
+          <source>Create New Container</source>
+          <target state="new">Create New Container</target>
+        </trans-unit>
+        <trans-unit id="InstallExtensions.Action" translate="yes" xml:space="preserve">
+          <source>Install Available Extensions</source>
+          <target state="new">Install Available Extensions</target>
+        </trans-unit>
+        <trans-unit id="AppTitle.Text" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="AppType.Text" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="AppDescription.Text" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="UpgradeMessage.Text" translate="yes" xml:space="preserve">
+          <source>Click Here To Get The Upgrade</source>
+          <target state="new">Click Here To Get The Upgrade</target>
+        </trans-unit>
+        <trans-unit id="LanguageMessage.Text" translate="yes" xml:space="preserve">
+          <source>Click Here To Get The Language Pack</source>
+          <target state="new">Click Here To Get The Language Pack</target>
+        </trans-unit>
+        <trans-unit id="Portal.Header" translate="yes" xml:space="preserve">
+          <source>Website</source>
+          <target state="new">Website</target>
+        </trans-unit>
+        <trans-unit id="lblUpdate.Text" translate="yes" xml:space="preserve">
+          <source>This application contains an Update Service which displays an icon when a new version of an Extension is available.  The icon displayed will contain a visual indication if a currently installed Extension contains a potential security vulnerability.  If a security vulnerability is identified, it is highly recommended that you upgrade to the newer version of the Extension.  Clicking the icon will redirect you to a location where you will be able to acquire the Extension for immediate installation.</source>
+          <target state="new">This application contains an Update Service which displays an icon when a new version of an Extension is available.  The icon displayed will contain a visual indication if a currently installed Extension contains a potential security vulnerability.  If a security vulnerability is identified, it is highly recommended that you upgrade to the newer version of the Extension.  Clicking the icon will redirect you to a location where you will be able to acquire the Extension for immediate installation.</target>
+        </trans-unit>
+        <trans-unit id="CheckLanguage.Text" translate="yes" xml:space="preserve">
+          <source>Use Update Service to check for updated Language Packs for Extensions</source>
+          <target state="new">Use Update Service to check for updated Language Packs for Extensions</target>
+        </trans-unit>
+        <trans-unit id="Language.Text" translate="yes" xml:space="preserve">
+          <source>Edit Language Files</source>
+          <target state="new">Edit Language Files</target>
+        </trans-unit>
+        <trans-unit id="Extensions.Text" translate="yes" xml:space="preserve">
+          <source>Extensions</source>
+          <target state="new">Extensions</target>
+        </trans-unit>
+        <trans-unit id="NoResults.Text" translate="yes" xml:space="preserve">
+          <source>No Extensions were found</source>
+          <target state="new">No Extensions were found</target>
+        </trans-unit>
+        <trans-unit id="Edit.Text" translate="yes" xml:space="preserve">
+          <source>Edit this Extension</source>
+          <target state="new">Edit this Extension</target>
+        </trans-unit>
+        <trans-unit id="InstalledOnHost.Tooltip" translate="yes" xml:space="preserve">
+          <source>Installed on Host</source>
+          <target state="new">Installed on Host</target>
+        </trans-unit>
+        <trans-unit id="InstalledOnPortal.Tooltip" translate="yes" xml:space="preserve">
+          <source>Installed on {0}</source>
+          <target state="new">Installed on {0}</target>
+        </trans-unit>
+        <trans-unit id="Auth_System.Type" translate="yes" xml:space="preserve">
+          <source>Authentication Systems</source>
+          <target state="new">Authentication Systems</target>
+        </trans-unit>
+        <trans-unit id="Container.Type" translate="yes" xml:space="preserve">
+          <source>Containers</source>
+          <target state="new">Containers</target>
+        </trans-unit>
+        <trans-unit id="CoreLanguagePack.Type" translate="yes" xml:space="preserve">
+          <source>Core Language Packs</source>
+          <target state="new">Core Language Packs</target>
+        </trans-unit>
+        <trans-unit id="DashboardControl.Type" translate="yes" xml:space="preserve">
+          <source>Dashboard Controls</source>
+          <target state="new">Dashboard Controls</target>
+        </trans-unit>
+        <trans-unit id="ExtensionLanguagePack.Type" translate="yes" xml:space="preserve">
+          <source>Extension Language Packs</source>
+          <target state="new">Extension Language Packs</target>
+        </trans-unit>
+        <trans-unit id="Library.Type" translate="yes" xml:space="preserve">
+          <source>Libraries</source>
+          <target state="new">Libraries</target>
+        </trans-unit>
+        <trans-unit id="Module.Type" translate="yes" xml:space="preserve">
+          <source>Modules</source>
+          <target state="new">Modules</target>
+        </trans-unit>
+        <trans-unit id="MoreExtensions.Text" translate="yes" xml:space="preserve">
+          <source>More Extensions</source>
+          <target state="new">More Extensions</target>
+        </trans-unit>
+        <trans-unit id="PersonaBar.Type" translate="yes" xml:space="preserve">
+          <source>Persona Bar</source>
+          <target state="new">Persona Bar</target>
+        </trans-unit>
+        <trans-unit id="Provider.Type" translate="yes" xml:space="preserve">
+          <source>Providers</source>
+          <target state="new">Providers</target>
+        </trans-unit>
+        <trans-unit id="Skin.Type" translate="yes" xml:space="preserve">
+          <source>Themes</source>
+          <target state="new">Themes</target>
+        </trans-unit>
+        <trans-unit id="SkinObject.Type" translate="yes" xml:space="preserve">
+          <source>Skin Objects</source>
+          <target state="new">Skin Objects</target>
+        </trans-unit>
+        <trans-unit id="Widget.Type" translate="yes" xml:space="preserve">
+          <source>Widgets</source>
+          <target state="new">Widgets</target>
+        </trans-unit>
+        <trans-unit id="InstalledExtensions.Text" translate="yes" xml:space="preserve">
+          <source>Installed Extensions</source>
+          <target state="new">Installed Extensions</target>
+        </trans-unit>
+        <trans-unit id="AvailableExtensions.Text" translate="yes" xml:space="preserve">
+          <source>Available Extensions</source>
+          <target state="new">Available Extensions</target>
+        </trans-unit>
+        <trans-unit id="ExpandAll.Text" translate="yes" xml:space="preserve">
+          <source>Expand All</source>
+          <target state="new">Expand All</target>
+        </trans-unit>
+        <trans-unit id="AuthSystem.Type" translate="yes" xml:space="preserve">
+          <source>Authentication Systems</source>
+          <target state="new">Authentication Systems</target>
+        </trans-unit>
+        <trans-unit id="Language.Type" translate="yes" xml:space="preserve">
+          <source>Language Packs</source>
+          <target state="new">Language Packs</target>
+        </trans-unit>
+        <trans-unit id="Catalog.Text" translate="yes" xml:space="preserve">
+          <source>Extension Feed</source>
+          <target state="new">Extension Feed</target>
+        </trans-unit>
+        <trans-unit id="CatalogModule.Text" translate="yes" xml:space="preserve">
+          <source>Module</source>
+          <target state="new">Module</target>
+        </trans-unit>
+        <trans-unit id="CatalogSearchTitle.Text" translate="yes" xml:space="preserve">
+          <source>Search for Extensions</source>
+          <target state="new">Search for Extensions</target>
+        </trans-unit>
+        <trans-unit id="CatalogSkin.Text" translate="yes" xml:space="preserve">
+          <source>Theme</source>
+          <target state="new">Theme</target>
+        </trans-unit>
+        <trans-unit id="SearchLabel.Help" translate="yes" xml:space="preserve">
+          <source>Hit Enter to search or Esc to clear and cancel.</source>
+          <target state="new">Hit Enter to search or Esc to clear and cancel.</target>
+        </trans-unit>
+        <trans-unit id="SearchLabel.Text" translate="yes" xml:space="preserve">
+          <source>Search:</source>
+          <target state="new">Search:</target>
+        </trans-unit>
+        <trans-unit id="TypeLabel.Help" translate="yes" xml:space="preserve">
+          <source>Select the type of extension.</source>
+          <target state="new">Select the type of extension.</target>
+        </trans-unit>
+        <trans-unit id="TypeLabel.Text" translate="yes" xml:space="preserve">
+          <source>Type:</source>
+          <target state="new">Type:</target>
+        </trans-unit>
+        <trans-unit id="ClearSearch.Text" translate="yes" xml:space="preserve">
+          <source>Clear Search</source>
+          <target state="new">Clear Search</target>
+        </trans-unit>
+        <trans-unit id="NameAZ.Text" translate="yes" xml:space="preserve">
+          <source>Name: A-Z</source>
+          <target state="new">Name: A-Z</target>
+        </trans-unit>
+        <trans-unit id="NameZA.Text" translate="yes" xml:space="preserve">
+          <source>Name: Z-A</source>
+          <target state="new">Name: Z-A</target>
+        </trans-unit>
+        <trans-unit id="PriceHighLow.Text" translate="yes" xml:space="preserve">
+          <source>Price: High - Low</source>
+          <target state="new">Price: High - Low</target>
+        </trans-unit>
+        <trans-unit id="PriceLowHigh.Text" translate="yes" xml:space="preserve">
+          <source>Price: Low - High</source>
+          <target state="new">Price: Low - High</target>
+        </trans-unit>
+        <trans-unit id="Search.Text" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="By.Text" translate="yes" xml:space="preserve">
+          <source>By</source>
+          <target state="new">By</target>
+        </trans-unit>
+        <trans-unit id="TagCloud.Text" translate="yes" xml:space="preserve">
+          <source>Tag Cloud</source>
+          <target state="new">Tag Cloud</target>
+        </trans-unit>
+        <trans-unit id="NotSpecified.Text" translate="yes" xml:space="preserve">
+          <source>Not Specified</source>
+          <target state="new">Not Specified</target>
+        </trans-unit>
+        <trans-unit id="MoreInformation.Text" translate="yes" xml:space="preserve">
+          <source>More Information</source>
+          <target state="new">More Information</target>
+        </trans-unit>
+        <trans-unit id="DetailsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <target state="new">Details</target>
+        </trans-unit>
+        <trans-unit id="LicenseLabel.Text" translate="yes" xml:space="preserve">
+          <source>License</source>
+          <target state="new">License</target>
+        </trans-unit>
+        <trans-unit id="TagLabel.Text" translate="yes" xml:space="preserve">
+          <source>Tag:</source>
+          <target state="new">Tag:</target>
+        </trans-unit>
+        <trans-unit id="VendorLabel.Text" translate="yes" xml:space="preserve">
+          <source>Vendor:</source>
+          <target state="new">Vendor:</target>
+        </trans-unit>
+        <trans-unit id="ExtensionsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Extensions</source>
+          <target state="new">Extensions</target>
+        </trans-unit>
+        <trans-unit id="NoneLabel.Text" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <target state="new">None</target>
+        </trans-unit>
+        <trans-unit id="ErrorLabel.Text" translate="yes" xml:space="preserve">
+          <source>Error...</source>
+          <target state="new">Error...</target>
+        </trans-unit>
+        <trans-unit id="LoadingLabel.Text" translate="yes" xml:space="preserve">
+          <source>Loading</source>
+          <target state="new">Loading</target>
+        </trans-unit>
+        <trans-unit id="OrderLabel.Text" translate="yes" xml:space="preserve">
+          <source>Order:</source>
+          <target state="new">Order:</target>
+        </trans-unit>
+        <trans-unit id="InUse.Header" translate="yes" xml:space="preserve">
+          <source>In Use</source>
+          <target state="new">In Use</target>
+        </trans-unit>
+        <trans-unit id="PurchasedExtensions.Text" translate="yes" xml:space="preserve">
+          <source>Purchased Extensions</source>
+          <target state="new">Purchased Extensions</target>
+        </trans-unit>
+        <trans-unit id="installExtension.Text" translate="yes" xml:space="preserve">
+          <source>Install</source>
+          <target state="new">Install</target>
+        </trans-unit>
+        <trans-unit id="Version.Text" translate="yes" xml:space="preserve">
+          <source>Minimum Version Required:</source>
+          <target state="new">Minimum Version Required:</target>
+        </trans-unit>
+        <trans-unit id="DescriptionLabel.Text" translate="yes" xml:space="preserve">
+          <source>Product Description</source>
+          <target state="new">Product Description</target>
+        </trans-unit>
+        <trans-unit id="ExtensionDetail.Text" translate="yes" xml:space="preserve">
+          <source>More detail</source>
+          <target state="new">More detail</target>
+        </trans-unit>
+        <trans-unit id="License.Text" translate="yes" xml:space="preserve">
+          <source>License:</source>
+          <target state="new">License:</target>
+        </trans-unit>
+        <trans-unit id="ListExtensions.Text" translate="yes" xml:space="preserve">
+          <source>Learn more about how to offer your extensions <bpt id="1">&lt;a href="http://store.dnnsoftware.com/make-money/become-a-seller" target="_blank" class="info"&gt;</bpt>here<ept id="1">&lt;/a&gt;</ept>.</source>
+          <target state="new">Learn more about how to offer your extensions <bpt id="1">&lt;a href="http://store.dnnsoftware.com/make-money/become-a-seller" target="_blank" class="info"&gt;</bpt>here<ept id="1">&lt;/a&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="JavaScript_Library.Type" translate="yes" xml:space="preserve">
+          <source>JavaScript Libraries</source>
+          <target state="new">JavaScript Libraries</target>
+        </trans-unit>
+        <trans-unit id="EvoqConnector.Type" translate="yes" xml:space="preserve">
+          <source>Evoq Connectors</source>
+          <target state="new">Evoq Connectors</target>
+        </trans-unit>
+        <trans-unit id="CollapseAll.Text" translate="yes" xml:space="preserve">
+          <source>Collapse All</source>
+          <target state="new">Collapse All</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_OwnerDetails.Label" translate="yes" xml:space="preserve">
+          <source>Owner Details</source>
+          <target state="new">Owner Details</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageDescription.HelpText" translate="yes" xml:space="preserve">
+          <source>A description of the package.</source>
+          <target state="new">A description of the package.</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageEmailAddress.HelpText" translate="yes" xml:space="preserve">
+          <source>The email address of the package's author.</source>
+          <target state="new">The email address of the package's author.</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageFriendlyName.HelpText" translate="yes" xml:space="preserve">
+          <source>The friendly name of the package.</source>
+          <target state="new">The friendly name of the package.</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageIconFile.HelpText" translate="yes" xml:space="preserve">
+          <source>The icon filename for this package.</source>
+          <target state="new">The icon filename for this package.</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageLicense.HelpText" translate="yes" xml:space="preserve">
+          <source>The license for this package.</source>
+          <target state="new">The license for this package.</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageName.HelpText" translate="yes" xml:space="preserve">
+          <source>The package name (e.g. CompanyName.Name).</source>
+          <target state="new">The package name (e.g. CompanyName.Name).</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageOrganization.HelpText" translate="yes" xml:space="preserve">
+          <source>The organization responsible for the package.</source>
+          <target state="new">The organization responsible for the package.</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageOwner.HelpText" translate="yes" xml:space="preserve">
+          <source>The owner of the package.</source>
+          <target state="new">The owner of the package.</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageReleaseNotes.HelpText" translate="yes" xml:space="preserve">
+          <source>The release notes for this version.</source>
+          <target state="new">The release notes for this version.</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageType.HelpText" translate="yes" xml:space="preserve">
+          <source>The type of package.</source>
+          <target state="new">The type of package.</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageURL.HelpText" translate="yes" xml:space="preserve">
+          <source>The author's URL.</source>
+          <target state="new">The author's URL.</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageVersion.HelpText" translate="yes" xml:space="preserve">
+          <source>The version of the package.</source>
+          <target state="new">The version of the package.</target>
+        </trans-unit>
+        <trans-unit id="Showing.Label" translate="yes" xml:space="preserve">
+          <source>Showing:</source>
+          <target state="new">Showing:</target>
+        </trans-unit>
+        <trans-unit id="EditAuthSystem_Enabled.Label" translate="yes" xml:space="preserve">
+          <source>Enabled?</source>
+          <target state="new">Enabled?</target>
+        </trans-unit>
+        <trans-unit id="EditAuthSystem_Enabled.Tooltip" translate="yes" xml:space="preserve">
+          <source>Check to enable this Authentication System.</source>
+          <target state="new">Check to enable this Authentication System.</target>
+        </trans-unit>
+        <trans-unit id="EditAuthSystem_LoginCtrlSource.Label" translate="yes" xml:space="preserve">
+          <source>Login Control Source</source>
+          <target state="new">Login Control Source</target>
+        </trans-unit>
+        <trans-unit id="EditAuthSystem_LoginCtrlSource.Tooltip" translate="yes" xml:space="preserve">
+          <source>The source of the Login Control for this Authentication System</source>
+          <target state="new">The source of the Login Control for this Authentication System</target>
+        </trans-unit>
+        <trans-unit id="EditAuthSystem_LogoffCtrlSource.Label" translate="yes" xml:space="preserve">
+          <source>Logoff Control Source</source>
+          <target state="new">Logoff Control Source</target>
+        </trans-unit>
+        <trans-unit id="EditAuthSystem_LogoffCtrlSource.Tooltip" translate="yes" xml:space="preserve">
+          <source>The source of the Logoff Control for this Authentication System</source>
+          <target state="new">The source of the Logoff Control for this Authentication System</target>
+        </trans-unit>
+        <trans-unit id="EditAuthSystem_SettingsCtrlSource.Label" translate="yes" xml:space="preserve">
+          <source>Settings Control Source</source>
+          <target state="new">Settings Control Source</target>
+        </trans-unit>
+        <trans-unit id="EditAuthSystem_SettingsCtrlSource.Tooltip" translate="yes" xml:space="preserve">
+          <source>Check to enable this Authentication System.</source>
+          <target state="new">Check to enable this Authentication System.</target>
+        </trans-unit>
+        <trans-unit id="EditAuthSystem_Type.Label" translate="yes" xml:space="preserve">
+          <source>Authentication Type</source>
+          <target state="new">Authentication Type</target>
+        </trans-unit>
+        <trans-unit id="EditAuthSystem_Type.Tooltip" translate="yes" xml:space="preserve">
+          <source>The type of Authentication System (eg LiveID, OpenID etc)</source>
+          <target state="new">The type of Authentication System (eg LiveID, OpenID etc)</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageDescription.Label" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageEmailAddress.Label" translate="yes" xml:space="preserve">
+          <source>Email Address</source>
+          <target state="new">Email Address</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageFriendlyName.Label" translate="yes" xml:space="preserve">
+          <source>Friendly Name</source>
+          <target state="new">Friendly Name</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageIconFile.Label" translate="yes" xml:space="preserve">
+          <source>Icon</source>
+          <target state="new">Icon</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageName.Label" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageOrganization.Label" translate="yes" xml:space="preserve">
+          <source>Organization</source>
+          <target state="new">Organization</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageOwner.Label" translate="yes" xml:space="preserve">
+          <source>Owner</source>
+          <target state="new">Owner</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageURL.Label" translate="yes" xml:space="preserve">
+          <source>URL</source>
+          <target state="new">URL</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageVersion.Label" translate="yes" xml:space="preserve">
+          <source>Version</source>
+          <target state="new">Version</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_Cancel.Button" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_FileUploadDefault.Text" translate="yes" xml:space="preserve">
+          <source>Drag and Drop a File or Click Icon To Browse</source>
+          <target state="new">Drag and Drop a File or Click Icon To Browse</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_FileUploadDragOver.Text" translate="yes" xml:space="preserve">
+          <source>Drag and Drop a File</source>
+          <target state="new">Drag and Drop a File</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_Or.Text" translate="yes" xml:space="preserve">
+          <source>or</source>
+          <target state="new">or</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_PackageExists.Error" translate="yes" xml:space="preserve">
+          <source>The package is already installed.</source>
+          <target state="new">The package is already installed.</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_PackageExists.HelpText" translate="yes" xml:space="preserve">
+          <source>If you have reached this page it is because the installer needs to gather some more information before proceeding.</source>
+          <target state="new">If you have reached this page it is because the installer needs to gather some more information before proceeding.</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_PackageExists.Warning" translate="yes" xml:space="preserve">
+          <source>Warning: You have selected to repair the installation of this package. &lt;br/&gt; This will cause the files in the package to overwrite all files that were previously installed.</source>
+          <target state="new">Warning: You have selected to repair the installation of this package. &lt;br/&gt; This will cause the files in the package to overwrite all files that were previously installed.</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_RepairInstall.Button" translate="yes" xml:space="preserve">
+          <source>Repair Install</source>
+          <target state="new">Repair Install</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_Upload.Button" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="new">Next</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_UploadAFile.Text" translate="yes" xml:space="preserve">
+          <source>Upload a File</source>
+          <target state="new">Upload a File</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_UploadComplete.Text" translate="yes" xml:space="preserve">
+          <source>Upload Complete</source>
+          <target state="new">Upload Complete</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_UploadFailed.Text" translate="yes" xml:space="preserve">
+          <source>Zip File Upload Failed with </source>
+          <target state="new">Zip File Upload Failed with </target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_Uploading.Text" translate="yes" xml:space="preserve">
+          <source>Uploading</source>
+          <target state="new">Uploading</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_UploadPackage.Header" translate="yes" xml:space="preserve">
+          <source>Upload Extension Package</source>
+          <target state="new">Upload Extension Package</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_UploadPackage.HelpText" translate="yes" xml:space="preserve">
+          <source>To begin installation, upload the package by dragging the file into the field below.</source>
+          <target state="new">To begin installation, upload the package by dragging the file into the field below.</target>
+        </trans-unit>
+        <trans-unit id="NewModule_AddFolder.Button" translate="yes" xml:space="preserve">
+          <source>Add Folder</source>
+          <target state="new">Add Folder</target>
+        </trans-unit>
+        <trans-unit id="NewModule_AddTestPage.HelpText" translate="yes" xml:space="preserve">
+          <source>Check this box to create a test page for your new module.</source>
+          <target state="new">Check this box to create a test page for your new module.</target>
+        </trans-unit>
+        <trans-unit id="NewModule_AddTestPage.Label" translate="yes" xml:space="preserve">
+          <source>Add a Test Page:</source>
+          <target state="new">Add a Test Page:</target>
+        </trans-unit>
+        <trans-unit id="NewModule_Cancel.Button" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="NewModule_Create.Button" translate="yes" xml:space="preserve">
+          <source>Create</source>
+          <target state="new">Create</target>
+        </trans-unit>
+        <trans-unit id="NewModule_CreateFrom.HelpText" translate="yes" xml:space="preserve">
+          <source>You can create a new module in three ways. Select which method to use. New - creates a new module control, Control - creates a module from an existing control, Manifest - creates a module from an existing manifest.</source>
+          <target state="new">You can create a new module in three ways. Select which method to use. New - creates a new module control, Control - creates a module from an existing control, Manifest - creates a module from an existing manifest.</target>
+        </trans-unit>
+        <trans-unit id="NewModule_CreateFrom.Label" translate="yes" xml:space="preserve">
+          <source>Create New Module From:</source>
+          <target state="new">Create New Module From:</target>
+        </trans-unit>
+        <trans-unit id="NewModule_Description.HelpText" translate="yes" xml:space="preserve">
+          <source>You can provide a description for your module.</source>
+          <target state="new">You can provide a description for your module.</target>
+        </trans-unit>
+        <trans-unit id="NewModule_Description.Label" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+        <trans-unit id="NewModule_FileName.HelpText" translate="yes" xml:space="preserve">
+          <source>Enter a name for the new module control</source>
+          <target state="new">Enter a name for the new module control</target>
+        </trans-unit>
+        <trans-unit id="NewModule_FileName.Label" translate="yes" xml:space="preserve">
+          <source>File Name</source>
+          <target state="new">File Name</target>
+        </trans-unit>
+        <trans-unit id="NewModule_Language.HelpText" translate="yes" xml:space="preserve">
+          <source>Choose the language to use.</source>
+          <target state="new">Choose the language to use.</target>
+        </trans-unit>
+        <trans-unit id="NewModule_Language.Label" translate="yes" xml:space="preserve">
+          <source>Language</source>
+          <target state="new">Language</target>
+        </trans-unit>
+        <trans-unit id="NewModule_ModuleFolder.HelpText" translate="yes" xml:space="preserve">
+          <source>This is the folder where your module files and folders are populated.</source>
+          <target state="new">This is the folder where your module files and folders are populated.</target>
+        </trans-unit>
+        <trans-unit id="NewModule_ModuleFolder.Label" translate="yes" xml:space="preserve">
+          <source>Module Folder</source>
+          <target state="new">Module Folder</target>
+        </trans-unit>
+        <trans-unit id="NewModule_ModuleName.HelpText" translate="yes" xml:space="preserve">
+          <source>Enter a Friendly Name for your module.</source>
+          <target state="new">Enter a Friendly Name for your module.</target>
+        </trans-unit>
+        <trans-unit id="NewModule_ModuleName.Label" translate="yes" xml:space="preserve">
+          <source>Module Name</source>
+          <target state="new">Module Name</target>
+        </trans-unit>
+        <trans-unit id="NewModule_NoneSpecified.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;None Specified&gt;</it></source>
+          <target state="new"><it id="1" pos="open">&lt;None Specified&gt;</it></target>
+        </trans-unit>
+        <trans-unit id="NewModule_OwnerFolder.HelpText" translate="yes" xml:space="preserve">
+          <source>Module Developers are encouraged to use a "unique" folder inside DesktopModules for all the development, to avoid potential clashes with other developers. Select the folder you would like to use for your Module Development. Note: Folders with user controls (.ascx files) and the core admin folder are excluded from this list.</source>
+          <target state="new">Module Developers are encouraged to use a "unique" folder inside DesktopModules for all the development, to avoid potential clashes with other developers. Select the folder you would like to use for your Module Development. Note: Folders with user controls (.ascx files) and the core admin folder are excluded from this list.</target>
+        </trans-unit>
+        <trans-unit id="NewModule_OwnerFolder.Label" translate="yes" xml:space="preserve">
+          <source>Owner Folder</source>
+          <target state="new">Owner Folder</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_Cancel.Button" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_Definition.HelpText" translate="yes" xml:space="preserve">
+          <source>This is the Name of the Module Definition</source>
+          <target state="new">This is the Name of the Module Definition</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_Definition.Label" translate="yes" xml:space="preserve">
+          <source>Definition</source>
+          <target state="new">Definition</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_HelpURL.HelpText" translate="yes" xml:space="preserve">
+          <source>You can provide a Help URL for this control. This will appear on the Actions menu.</source>
+          <target state="new">You can provide a Help URL for this control. This will appear on the Actions menu.</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_HelpURL.Label" translate="yes" xml:space="preserve">
+          <source>Help URL</source>
+          <target state="new">Help URL</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_Icon.HelpText" translate="yes" xml:space="preserve">
+          <source>Choose an Icon for this control. This will displayed in the Module Header if supported by the theme.</source>
+          <target state="new">Choose an Icon for this control. This will displayed in the Module Header if supported by the theme.</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_Icon.Label" translate="yes" xml:space="preserve">
+          <source>Icon</source>
+          <target state="new">Icon</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_Key.HelpText" translate="yes" xml:space="preserve">
+          <source>Enter a unique name to identify this control within the Module</source>
+          <target state="new">Enter a unique name to identify this control within the Module</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_Key.Label" translate="yes" xml:space="preserve">
+          <source>Key</source>
+          <target state="new">Key</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_Module.HelpText" translate="yes" xml:space="preserve">
+          <source>This is the Friendly Name of the Module.</source>
+          <target state="new">This is the Friendly Name of the Module.</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_Module.Label" translate="yes" xml:space="preserve">
+          <source>Module</source>
+          <target state="new">Module</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_Source.HelpText" translate="yes" xml:space="preserve">
+          <source>Select the source file or enter the typename for this control.</source>
+          <target state="new">Select the source file or enter the typename for this control.</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_Source.Label" translate="yes" xml:space="preserve">
+          <source>Source File</source>
+          <target state="new">Source File</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_SourceFolder.HelpText" translate="yes" xml:space="preserve">
+          <source>Select the source folder for the control.</source>
+          <target state="new">Select the source folder for the control.</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_SourceFolder.Label" translate="yes" xml:space="preserve">
+          <source>Source Folder</source>
+          <target state="new">Source Folder</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_SupportsPartialRendering.HelpText" translate="yes" xml:space="preserve">
+          <source>This flag indicates whether the module control supports AJAX partial rendering.</source>
+          <target state="new">This flag indicates whether the module control supports AJAX partial rendering.</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_SupportsPartialRendering.Label" translate="yes" xml:space="preserve">
+          <source>Supports Partial Rendering?</source>
+          <target state="new">Supports Partial Rendering?</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_SupportsPopups.HelpText" translate="yes" xml:space="preserve">
+          <source>This flag indicates whether the module control supports modal popups.</source>
+          <target state="new">This flag indicates whether the module control supports modal popups.</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_SupportsPopups.Label" translate="yes" xml:space="preserve">
+          <source>Supports Popups?</source>
+          <target state="new">Supports Popups?</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_Title.HelpText" translate="yes" xml:space="preserve">
+          <source>Enter a title for this control. This will be displayed in the Module Header if supported in the theme.</source>
+          <target state="new">Enter a title for this control. This will be displayed in the Module Header if supported in the theme.</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_Title.Label" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <target state="new">Title</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_Type.HelpText" translate="yes" xml:space="preserve">
+          <source>Choose the type of the control from the list.</source>
+          <target state="new">Choose the type of the control from the list.</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_Type.Label" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="new">Type</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_Update.Button" translate="yes" xml:space="preserve">
+          <source>Update</source>
+          <target state="new">Update</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_ViewOrder.HelpText" translate="yes" xml:space="preserve">
+          <source>Enter the view order for the control in the list of controls for this definition.</source>
+          <target state="new">Enter the view order for the control in the list of controls for this definition.</target>
+        </trans-unit>
+        <trans-unit id="AddModuleControl_ViewOrder.Label" translate="yes" xml:space="preserve">
+          <source>View Order</source>
+          <target state="new">View Order</target>
+        </trans-unit>
+        <trans-unit id="EditModule_Assigned.Label" translate="yes" xml:space="preserve">
+          <source>Assigned</source>
+          <target state="new">Assigned</target>
+        </trans-unit>
+        <trans-unit id="EditModule_AssignedPremiumModules.Label" translate="yes" xml:space="preserve">
+          <source>Assigned Premium Modules</source>
+          <target state="new">Assigned Premium Modules</target>
+        </trans-unit>
+        <trans-unit id="EditModule_BusinessControllerClass.HelpText" translate="yes" xml:space="preserve">
+          <source>The fully qualified namespace of the class that implements the Modules Features (IPortable, ISearchable etc)</source>
+          <target state="new">The fully qualified namespace of the class that implements the Modules Features (IPortable, ISearchable etc)</target>
+        </trans-unit>
+        <trans-unit id="EditModule_BusinessControllerClass.Label" translate="yes" xml:space="preserve">
+          <source>Business Controller Class</source>
+          <target state="new">Business Controller Class</target>
+        </trans-unit>
+        <trans-unit id="EditModule_Dependencies.HelpText" translate="yes" xml:space="preserve">
+          <source>You can list any dependencies that the module has here.</source>
+          <target state="new">You can list any dependencies that the module has here.</target>
+        </trans-unit>
+        <trans-unit id="EditModule_Dependencies.Label" translate="yes" xml:space="preserve">
+          <source>Dependencies</source>
+          <target state="new">Dependencies</target>
+        </trans-unit>
+        <trans-unit id="EditModule_FolderName.HelpText" translate="yes" xml:space="preserve">
+          <source>Specify the folder name for this module</source>
+          <target state="new">Specify the folder name for this module</target>
+        </trans-unit>
+        <trans-unit id="EditModule_FolderName.Label" translate="yes" xml:space="preserve">
+          <source>Folder Name</source>
+          <target state="new">Folder Name</target>
+        </trans-unit>
+        <trans-unit id="EditModule_IsPortable.HelpText" translate="yes" xml:space="preserve">
+          <source>Identifies if the module supports the IPortable interface allowing it to Export and Import content.</source>
+          <target state="new">Identifies if the module supports the IPortable interface allowing it to Export and Import content.</target>
+        </trans-unit>
+        <trans-unit id="EditModule_IsPortable.Label" translate="yes" xml:space="preserve">
+          <source>Is Portable?</source>
+          <target state="new">Is Portable?</target>
+        </trans-unit>
+        <trans-unit id="EditModule_IsPremiumModule.HelpText" translate="yes" xml:space="preserve">
+          <source>All Modules can be assigned/unassigned from a website. However, on website Creation Premium Modules are not auto-assigned to a new website.</source>
+          <target state="new">All Modules can be assigned/unassigned from a website. However, on website Creation Premium Modules are not auto-assigned to a new website.</target>
+        </trans-unit>
+        <trans-unit id="EditModule_IsPremiumModule.Label" translate="yes" xml:space="preserve">
+          <source>Is Premium Module?</source>
+          <target state="new">Is Premium Module?</target>
+        </trans-unit>
+        <trans-unit id="EditModule_IsSearchable.HelpText" translate="yes" xml:space="preserve">
+          <source>Identifies if the module supports the ISearchable or ModuleSearchBase interface allowing it to have its content indexed.</source>
+          <target state="new">Identifies if the module supports the ISearchable or ModuleSearchBase interface allowing it to have its content indexed.</target>
+        </trans-unit>
+        <trans-unit id="EditModule_IsSearchable.Label" translate="yes" xml:space="preserve">
+          <source>Is Searchable?</source>
+          <target state="new">Is Searchable?</target>
+        </trans-unit>
+        <trans-unit id="EditModule_IsUpgradable.HelpText" translate="yes" xml:space="preserve">
+          <source>Identifies if the module supports the IUpgradable interface allowing it to run custom code when upgraded.</source>
+          <target state="new">Identifies if the module supports the IUpgradable interface allowing it to run custom code when upgraded.</target>
+        </trans-unit>
+        <trans-unit id="EditModule_IsUpgradable.Label" translate="yes" xml:space="preserve">
+          <source>Is Upgradable?</source>
+          <target state="new">Is Upgradable?</target>
+        </trans-unit>
+        <trans-unit id="EditModule_ModuleCategory.HelpText" translate="yes" xml:space="preserve">
+          <source>Select the Module Category for this module</source>
+          <target state="new">Select the Module Category for this module</target>
+        </trans-unit>
+        <trans-unit id="EditModule_ModuleCategory.Label" translate="yes" xml:space="preserve">
+          <source>Module Category</source>
+          <target state="new">Module Category</target>
+        </trans-unit>
+        <trans-unit id="EditModule_ModuleDefinitions.Header" translate="yes" xml:space="preserve">
+          <source>Module Definitions</source>
+          <target state="new">Module Definitions</target>
+        </trans-unit>
+        <trans-unit id="EditModule_ModuleName.HelpText" translate="yes" xml:space="preserve">
+          <source>The name of the Module</source>
+          <target state="new">The name of the Module</target>
+        </trans-unit>
+        <trans-unit id="EditModule_ModuleName.Label" translate="yes" xml:space="preserve">
+          <source>Module Name</source>
+          <target state="new">Module Name</target>
+        </trans-unit>
+        <trans-unit id="EditModule_ModuleSharing.HelpText" translate="yes" xml:space="preserve">
+          <source>Identifies whether the module supports sharing itself across multiple sites.</source>
+          <target state="new">Identifies whether the module supports sharing itself across multiple sites.</target>
+        </trans-unit>
+        <trans-unit id="EditModule_ModuleSharing.Label" translate="yes" xml:space="preserve">
+          <source>Module Sharing</source>
+          <target state="new">Module Sharing</target>
+        </trans-unit>
+        <trans-unit id="EditModule_Permissions.HelpText" translate="yes" xml:space="preserve">
+          <source>You can list any Code Access Security Permissions your module requires here.</source>
+          <target state="new">You can list any Code Access Security Permissions your module requires here.</target>
+        </trans-unit>
+        <trans-unit id="EditModule_Permissions.Label" translate="yes" xml:space="preserve">
+          <source>Permissions</source>
+          <target state="new">Permissions</target>
+        </trans-unit>
+        <trans-unit id="EditModule_PremiumModuleAssignment.Header" translate="yes" xml:space="preserve">
+          <source>Premium Module Assignment</source>
+          <target state="new">Premium Module Assignment</target>
+        </trans-unit>
+        <trans-unit id="EditModule_Unassigned.Label" translate="yes" xml:space="preserve">
+          <source>Unassigned</source>
+          <target state="new">Unassigned</target>
+        </trans-unit>
+        <trans-unit id="ModuleDefinitions_AddControl.Button" translate="yes" xml:space="preserve">
+          <source>Add Control</source>
+          <target state="new">Add Control</target>
+        </trans-unit>
+        <trans-unit id="ModuleDefinitions_AddDefinition.Button" translate="yes" xml:space="preserve">
+          <source>Add Definition</source>
+          <target state="new">Add Definition</target>
+        </trans-unit>
+        <trans-unit id="ModuleDefinitions_DefaultCacheTime.HelpText" translate="yes" xml:space="preserve">
+          <source>This is the default Cache Time to be used for this Module Definition. A default cache time of "-1" indicates that the module does not support output caching.</source>
+          <target state="new">This is the default Cache Time to be used for this Module Definition. A default cache time of "-1" indicates that the module does not support output caching.</target>
+        </trans-unit>
+        <trans-unit id="ModuleDefinitions_DefaultCacheTime.Label" translate="yes" xml:space="preserve">
+          <source>DefaultCacheTime</source>
+          <target state="new">DefaultCacheTime</target>
+        </trans-unit>
+        <trans-unit id="ModuleDefinitions_DefinitionName.HelpText" translate="yes" xml:space="preserve">
+          <source>An unchanging name for the Module Definition</source>
+          <target state="new">An unchanging name for the Module Definition</target>
+        </trans-unit>
+        <trans-unit id="ModuleDefinitions_DefinitionName.Label" translate="yes" xml:space="preserve">
+          <source>Definition Name</source>
+          <target state="new">Definition Name</target>
+        </trans-unit>
+        <trans-unit id="ModuleDefinitions_FriendlyName.HelpText" translate="yes" xml:space="preserve">
+          <source>Enter a friendly name for the Module Definition.</source>
+          <target state="new">Enter a friendly name for the Module Definition.</target>
+        </trans-unit>
+        <trans-unit id="ModuleDefinitions_FriendlyName.Label" translate="yes" xml:space="preserve">
+          <source>Friendly Name</source>
+          <target state="new">Friendly Name</target>
+        </trans-unit>
+        <trans-unit id="ModuleDefinitions_ModuleControls.Header" translate="yes" xml:space="preserve">
+          <source>Module Controls</source>
+          <target state="new">Module Controls</target>
+        </trans-unit>
+        <trans-unit id="ModuleDefinitions_Source.Label" translate="yes" xml:space="preserve">
+          <source>Source</source>
+          <target state="new">Source</target>
+        </trans-unit>
+        <trans-unit id="ModuleDefinitions_Title.Label" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <target state="new">Title</target>
+        </trans-unit>
+        <trans-unit id="NewModule_Resource.HelpText" translate="yes" xml:space="preserve">
+          <source>Select the resource to use to create your module.</source>
+          <target state="new">Select the resource to use to create your module.</target>
+        </trans-unit>
+        <trans-unit id="NewModule_Resource.Label" translate="yes" xml:space="preserve">
+          <source>Resource</source>
+          <target state="new">Resource</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_Header.Header" translate="yes" xml:space="preserve">
+          <source>Create Package</source>
+          <target state="new">Create Package</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_PackageManifest.Header" translate="yes" xml:space="preserve">
+          <source>Package Manifest</source>
+          <target state="new">Package Manifest</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_PackageManifest.HelpText" translate="yes" xml:space="preserve">
+          <source>This Wizard will create a manifest for your extension. If you have already created a manifest (either by running this wizard or by manually creating a manifest file) you can select to use that manifest by checking "Use Existing Manifest" box and choosing the manifest that the system has found for this extension from the drop-down list of manifests.</source>
+          <target state="new">This Wizard will create a manifest for your extension. If you have already created a manifest (either by running this wizard or by manually creating a manifest file) you can select to use that manifest by checking "Use Existing Manifest" box and choosing the manifest that the system has found for this extension from the drop-down list of manifests.</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_UseExistingManifest.Label" translate="yes" xml:space="preserve">
+          <source>Using Existing Manifest:</source>
+          <target state="new">Using Existing Manifest:</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_CreatePackage.Button" translate="yes" xml:space="preserve">
+          <source>Create Package</source>
+          <target state="new">Create Package</target>
+        </trans-unit>
+        <trans-unit id="EditModule_Add.Button" translate="yes" xml:space="preserve">
+          <source>Add</source>
+          <target state="new">Add</target>
+        </trans-unit>
+        <trans-unit id="ModuleDefinitions_Cancel.Button" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="ModuleDefinitions_Save.Button" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_ArchiveFileName.Label" translate="yes" xml:space="preserve">
+          <source>Archive File Name</source>
+          <target state="new">Archive File Name</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_ChooseAssemblies.HelpText" translate="yes" xml:space="preserve">
+          <source>At this step you can add the assemblies to include in your package. If there is a project file in the Package folder, the Wizard has attempted to determine the assemblies to include, but you can add or delete assemblies from the list.</source>
+          <target state="new">At this step you can add the assemblies to include in your package. If there is a project file in the Package folder, the Wizard has attempted to determine the assemblies to include, but you can add or delete assemblies from the list.</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_ChooseAssemblies.Label" translate="yes" xml:space="preserve">
+          <source>Choose Assemblies to Include</source>
+          <target state="new">Choose Assemblies to Include</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_ChooseFiles.HelpText" translate="yes" xml:space="preserve">
+          <source>At this step you can choose the files to include in your package. The Wizard has attempted to determine the files to include, but you can add or delete files from the list. In addition, you can optionally choose to include the source files by checking the "Include Source" box.</source>
+          <target state="new">At this step you can choose the files to include in your package. The Wizard has attempted to determine the files to include, but you can add or delete files from the list. In addition, you can optionally choose to include the source files by checking the "Include Source" box.</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_ChooseFiles.Label" translate="yes" xml:space="preserve">
+          <source>Choose Files to Include</source>
+          <target state="new">Choose Files to Include</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_CreateManifest.HelpText" translate="yes" xml:space="preserve">
+          <source>Based on your selections the Wizard has created the manifest for the package. The manifest is displayed in the text box below. You can edit the manifest, before creating the package.</source>
+          <target state="new">Based on your selections the Wizard has created the manifest for the package. The manifest is displayed in the text box below. You can edit the manifest, before creating the package.</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_CreateManifest.Label" translate="yes" xml:space="preserve">
+          <source>Create Manifest</source>
+          <target state="new">Create Manifest</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_CreateManifestFile.Label" translate="yes" xml:space="preserve">
+          <source>Create Manifest File:</source>
+          <target state="new">Create Manifest File:</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_CreatePackage.Label" translate="yes" xml:space="preserve">
+          <source>Create Package</source>
+          <target state="new">Create Package</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_FinalStep.HelpText" translate="yes" xml:space="preserve">
+          <source>The final step is to create the package. To create a copy of the Manifest file check the "Create Manifest File" checkbox - the file will be created in the Package's folder. Regardless of the setting you use here, the manifest will be saved in the database and it will be added to the package.</source>
+          <target state="new">The final step is to create the package. To create a copy of the Manifest file check the "Create Manifest File" checkbox - the file will be created in the Package's folder. Regardless of the setting you use here, the manifest will be saved in the database and it will be added to the package.</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_FinalStep.HelpTextTwo" translate="yes" xml:space="preserve">
+          <source>Check the "Create Package" checkbox to create a package. The package will be created in the relevant Install folder (eg Install/Modules for modules, Install/Themes for Themes, etc.).</source>
+          <target state="new">Check the "Create Package" checkbox to create a package. The package will be created in the relevant Install folder (eg Install/Modules for modules, Install/Themes for Themes, etc.).</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_Folder.Label" translate="yes" xml:space="preserve">
+          <source>Folder:</source>
+          <target state="new">Folder:</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_Logs.HelpText" translate="yes" xml:space="preserve">
+          <source>The results of the package creation are shown below.</source>
+          <target state="new">The results of the package creation are shown below.</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_Logs.Label" translate="yes" xml:space="preserve">
+          <source>Create Package Results</source>
+          <target state="new">Create Package Results</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_ManifestFile.Label" translate="yes" xml:space="preserve">
+          <source>Manifest File:</source>
+          <target state="new">Manifest File:</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_ManifestFileName.Label" translate="yes" xml:space="preserve">
+          <source>Manifest File Name</source>
+          <target state="new">Manifest File Name</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_RefreshFileList.Button" translate="yes" xml:space="preserve">
+          <source>Refresh File List</source>
+          <target state="new">Refresh File List</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_ReviewManifest.Label" translate="yes" xml:space="preserve">
+          <source>Review Manifest:</source>
+          <target state="new">Review Manifest:</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_ExtensionSettings.TabHeader" translate="yes" xml:space="preserve">
+          <source>Extension Settings</source>
+          <target state="new">Extension Settings</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_License.TabHeader" translate="yes" xml:space="preserve">
+          <source>License</source>
+          <target state="new">License</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageInformation.TabHeader" translate="yes" xml:space="preserve">
+          <source>Package Information</source>
+          <target state="new">Package Information</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_ReleaseNotes.TabHeader" translate="yes" xml:space="preserve">
+          <source>Release Notes</source>
+          <target state="new">Release Notes</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_SiteSettings.TabHeader" translate="yes" xml:space="preserve">
+          <source>Site Settings</source>
+          <target state="new">Site Settings</target>
+        </trans-unit>
+        <trans-unit id="EditContainer_ThemePackageName.HelpText" translate="yes" xml:space="preserve">
+          <source>Enter a name for the Theme Package</source>
+          <target state="new">Enter a name for the Theme Package</target>
+        </trans-unit>
+        <trans-unit id="EditContainer_ThemePackageName.Label" translate="yes" xml:space="preserve">
+          <source>Theme Package Name</source>
+          <target state="new">Theme Package Name</target>
+        </trans-unit>
+        <trans-unit id="EditExtensionLanguagePack_Language.HelpText" translate="yes" xml:space="preserve">
+          <source>Choose the Language for this Language Pack</source>
+          <target state="new">Choose the Language for this Language Pack</target>
+        </trans-unit>
+        <trans-unit id="EditExtensionLanguagePack_Language.Label" translate="yes" xml:space="preserve">
+          <source>Language</source>
+          <target state="new">Language</target>
+        </trans-unit>
+        <trans-unit id="EditExtensionLanguagePack_Package.HelpText" translate="yes" xml:space="preserve">
+          <source>Chose the Package this Language Pack is for.</source>
+          <target state="new">Chose the Package this Language Pack is for.</target>
+        </trans-unit>
+        <trans-unit id="EditExtensionLanguagePack_Package.Label" translate="yes" xml:space="preserve">
+          <source>Package</source>
+          <target state="new">Package</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_CustomCDN.HelpText" translate="yes" xml:space="preserve">
+          <source>The URL to a custom CDN location for this library which will be used instead of the default CDN</source>
+          <target state="new">The URL to a custom CDN location for this library which will be used instead of the default CDN</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_CustomCDN.Label" translate="yes" xml:space="preserve">
+          <source>Custom CDN</source>
+          <target state="new">Custom CDN</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_DefaultCDN.HelpText" translate="yes" xml:space="preserve">
+          <source>The URL to the default CDN to use for the library. This can be overridden by providing a custom URL.</source>
+          <target state="new">The URL to the default CDN to use for the library. This can be overridden by providing a custom URL.</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_DefaultCDN.Label" translate="yes" xml:space="preserve">
+          <source>Default CDN</source>
+          <target state="new">Default CDN</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_DependsOn.HelpText" translate="yes" xml:space="preserve">
+          <source>Displays a list of all the packages that this package depends on.</source>
+          <target state="new">Displays a list of all the packages that this package depends on.</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_DependsOn.Label" translate="yes" xml:space="preserve">
+          <source>Depends On</source>
+          <target state="new">Depends On</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_FileName.HelpText" translate="yes" xml:space="preserve">
+          <source>The filename of the JavaScript file.</source>
+          <target state="new">The filename of the JavaScript file.</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_FileName.Label" translate="yes" xml:space="preserve">
+          <source>File Name</source>
+          <target state="new">File Name</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_LibraryName.HelpText" translate="yes" xml:space="preserve">
+          <source>The name of the JavaScript Library (e.g. "jQuery")</source>
+          <target state="new">The name of the JavaScript Library (e.g. "jQuery")</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_LibraryName.Label" translate="yes" xml:space="preserve">
+          <source>Library Name</source>
+          <target state="new">Library Name</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_LibraryVersion.HelpText" translate="yes" xml:space="preserve">
+          <source>The version of the JavaScript Library.</source>
+          <target state="new">The version of the JavaScript Library.</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_LibraryVersion.Label" translate="yes" xml:space="preserve">
+          <source>Library Version</source>
+          <target state="new">Library Version</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_ObjectName.HelpText" translate="yes" xml:space="preserve">
+          <source>The name of the JavaScript object to use to access the libraries methods.</source>
+          <target state="new">The name of the JavaScript object to use to access the libraries methods.</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_ObjectName.Label" translate="yes" xml:space="preserve">
+          <source>Object Name</source>
+          <target state="new">Object Name</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_PreferredLocation.HelpText" translate="yes" xml:space="preserve">
+          <source>The preferred location to render the script. There are three possibilities: in the page head, at the top of the page body, or at the bottom of the page body.</source>
+          <target state="new">The preferred location to render the script. There are three possibilities: in the page head, at the top of the page body, or at the bottom of the page body.</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_PreferredLocation.Label" translate="yes" xml:space="preserve">
+          <source>Preferred Location</source>
+          <target state="new">Preferred Location</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_UsedBy.HelpText" translate="yes" xml:space="preserve">
+          <source>Displays a list of all the packages that use this package.</source>
+          <target state="new">Displays a list of all the packages that use this package.</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_UsedBy.Label" translate="yes" xml:space="preserve">
+          <source>Used By</source>
+          <target state="new">Used By</target>
+        </trans-unit>
+        <trans-unit id="EditSkinObject_ControlKey.HelpText" translate="yes" xml:space="preserve">
+          <source>Enter a key for the Skin Object. The key must be unique.</source>
+          <target state="new">Enter a key for the Skin Object. The key must be unique.</target>
+        </trans-unit>
+        <trans-unit id="EditSkinObject_ControlKey.Label" translate="yes" xml:space="preserve">
+          <source>Control Key</source>
+          <target state="new">Control Key</target>
+        </trans-unit>
+        <trans-unit id="EditSkinObject_ControlSrc.HelpText" translate="yes" xml:space="preserve">
+          <source>Enter the Source for this Control. If the control is a User Control, enter the source relative to the website root.</source>
+          <target state="new">Enter the Source for this Control. If the control is a User Control, enter the source relative to the website root.</target>
+        </trans-unit>
+        <trans-unit id="EditSkinObject_ControlSrc.Label" translate="yes" xml:space="preserve">
+          <source>Control SRC</source>
+          <target state="new">Control SRC</target>
+        </trans-unit>
+        <trans-unit id="EditSkinObject_SupportsPartialRender.HelpText" translate="yes" xml:space="preserve">
+          <source>Check this box to indicate that this control supports AJAX Partial Rendering.</source>
+          <target state="new">Check this box to indicate that this control supports AJAX Partial Rendering.</target>
+        </trans-unit>
+        <trans-unit id="EditSkinObject_SupportsPartialRender.Label" translate="yes" xml:space="preserve">
+          <source>Supports Partial Rendering</source>
+          <target state="new">Supports Partial Rendering</target>
+        </trans-unit>
+        <trans-unit id="LoadMore.Button" translate="yes" xml:space="preserve">
+          <source>Load More</source>
+          <target state="new">Load More</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_TableName.Header" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="EditJavascriptLibrary_TableVersion.Header" translate="yes" xml:space="preserve">
+          <source>Version</source>
+          <target state="new">Version</target>
+        </trans-unit>
+        <trans-unit id="AuthSystemSiteSettings_AppEnabled.HelpText" translate="yes" xml:space="preserve">
+          <source>Check this box to enable this authentication provider for this site.</source>
+          <target state="new">Check this box to enable this authentication provider for this site.</target>
+        </trans-unit>
+        <trans-unit id="AuthSystemSiteSettings_AppEnabled.Label" translate="yes" xml:space="preserve">
+          <source>Enabled</source>
+          <target state="new">Enabled</target>
+        </trans-unit>
+        <trans-unit id="AuthSystemSiteSettings_AppId.HelpText" translate="yes" xml:space="preserve">
+          <source>Enter the value of the APP ID/API Key/Consumer Key you configured for this authentication provider.</source>
+          <target state="new">Enter the value of the APP ID/API Key/Consumer Key you configured for this authentication provider.</target>
+        </trans-unit>
+        <trans-unit id="AuthSystemSiteSettings_AppId.Label" translate="yes" xml:space="preserve">
+          <source>App ID</source>
+          <target state="new">App ID</target>
+        </trans-unit>
+        <trans-unit id="AuthSystemSiteSettings_AppSecret.HelpText" translate="yes" xml:space="preserve">
+          <source>Enter the value of the APP Secret/Consumer Secret you configured for this authentication provider.</source>
+          <target state="new">Enter the value of the APP Secret/Consumer Secret you configured for this authentication provider.</target>
+        </trans-unit>
+        <trans-unit id="AuthSystemSiteSettings_AppSecret.Label" translate="yes" xml:space="preserve">
+          <source>App Secret</source>
+          <target state="new">App Secret</target>
+        </trans-unit>
+        <trans-unit id="CreateExtension_Cancel.Button" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="CreateExtension_Save.Button" translate="yes" xml:space="preserve">
+          <source>Create</source>
+          <target state="new">Create</target>
+        </trans-unit>
+        <trans-unit id="CreateNewModule.HelpText" translate="yes" xml:space="preserve">
+          <source>You can create a new module in three ways. Select which method to use. New - creates a new module control, Control - creates a module from an existing control, Manifest - creates a module from an existing manifest.</source>
+          <target state="new">You can create a new module in three ways. Select which method to use. New - creates a new module control, Control - creates a module from an existing control, Manifest - creates a module from an existing manifest.</target>
+        </trans-unit>
+        <trans-unit id="CreateNewModuleFrom.Label" translate="yes" xml:space="preserve">
+          <source>Create New Module From:</source>
+          <target state="new">Create New Module From:</target>
+        </trans-unit>
+        <trans-unit id="CreateNewModule_FolderName.Label" translate="yes" xml:space="preserve">
+          <source>Folder Name</source>
+          <target state="new">Folder Name</target>
+        </trans-unit>
+        <trans-unit id="CreateNewModule_NewFolder.Label" translate="yes" xml:space="preserve">
+          <source>New Folder</source>
+          <target state="new">New Folder</target>
+        </trans-unit>
+        <trans-unit id="CreateNewModule_NotSpecified.Label" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;Not Specified&gt;</it></source>
+          <target state="new"><it id="1" pos="open">&lt;Not Specified&gt;</it></target>
+        </trans-unit>
+        <trans-unit id="Done.Button" translate="yes" xml:space="preserve">
+          <source>Done</source>
+          <target state="new">Done</target>
+        </trans-unit>
+        <trans-unit id="EditModule_SaveAndClose.Button" translate="yes" xml:space="preserve">
+          <source>Save &amp; Close</source>
+          <target state="new">Save &amp; Close</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_AcceptLicense.Label" translate="yes" xml:space="preserve">
+          <source>Accept License?</source>
+          <target state="new">Accept License?</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_License.Header" translate="yes" xml:space="preserve">
+          <source>License</source>
+          <target state="new">License</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_License.HelpText" translate="yes" xml:space="preserve">
+          <source>Before proceeding you must accept the terms of the license for this extension. \n Please review the license and check the Accept License check box.</source>
+          <target state="new">Before proceeding you must accept the terms of the license for this extension. \n Please review the license and check the Accept License check box.</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_Logs.Header" translate="yes" xml:space="preserve">
+          <source>Package Installation Report</source>
+          <target state="new">Package Installation Report</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_Logs.HelpText" translate="yes" xml:space="preserve">
+          <source>Installation is complete. See details below.</source>
+          <target state="new">Installation is complete. See details below.</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_ReleaseNotes.Header" translate="yes" xml:space="preserve">
+          <source>Release Notes</source>
+          <target state="new">Release Notes</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_ReleaseNotes.HelpText" translate="yes" xml:space="preserve">
+          <source>Review the Release Notes for this package.</source>
+          <target state="new">Review the Release Notes for this package.</target>
+        </trans-unit>
+        <trans-unit id="Next.Button" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="new">Next</target>
+        </trans-unit>
+        <trans-unit id="Cancel.Button" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="EditExtensions_TabHasError.Text" translate="yes" xml:space="preserve">
+          <source>This tab has an error.  Package Information, Extension Settings, License and Release Notes cannot be saved.</source>
+          <target state="new">This tab has an error.  Package Information, Extension Settings, License and Release Notes cannot be saved.</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_PackageType.Label" translate="yes" xml:space="preserve">
+          <source>Extension Type</source>
+          <target state="new">Extension Type</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_PackageInfo.Header" translate="yes" xml:space="preserve">
+          <source>Package Information</source>
+          <target state="new">Package Information</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_PackageInfo.HelpText" translate="yes" xml:space="preserve">
+          <source>The following information was found in the package manifest.</source>
+          <target state="new">The following information was found in the package manifest.</target>
+        </trans-unit>
+        <trans-unit id="Save.Button" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="UnsavedChanges.Cancel" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="UnsavedChanges.Confirm" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="UnsavedChanges.HelpText" translate="yes" xml:space="preserve">
+          <source>You have unsaved changes. Are you sure you want to proceed?</source>
+          <target state="new">You have unsaved changes. Are you sure you want to proceed?</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_ArchiveFileName.HelpText" translate="yes" xml:space="preserve">
+          <source>Enter the file name to use for the archive (zip).</source>
+          <target state="new">Enter the file name to use for the archive (zip).</target>
+        </trans-unit>
+        <trans-unit id="CreatePackage_ManifestFileName.HelpText" translate="yes" xml:space="preserve">
+          <source>Enter the file name to use for the manifest.</source>
+          <target state="new">Enter the file name to use for the manifest.</target>
+        </trans-unit>
+        <trans-unit id="DeleteExtension.Cancel" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="DeleteExtension.Confirm" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="DeleteExtension.Warning" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete {0}?</source>
+          <target state="new">Are you sure you want to delete {0}?</target>
+        </trans-unit>
+        <trans-unit id="Download.Button" translate="yes" xml:space="preserve">
+          <source>Download</source>
+          <target state="new">Download</target>
+        </trans-unit>
+        <trans-unit id="EditExtension_Notify.Success" translate="yes" xml:space="preserve">
+          <source>Extension updated sucessfully.</source>
+          <target state="new">Extension updated sucessfully.</target>
+        </trans-unit>
+        <trans-unit id="EditModule_ModuleSharingSupported.Label" translate="yes" xml:space="preserve">
+          <source>Supported</source>
+          <target state="new">Supported</target>
+        </trans-unit>
+        <trans-unit id="EditModule_ModuleSharingUnknown.Label" translate="yes" xml:space="preserve">
+          <source>Unknown</source>
+          <target state="new">Unknown</target>
+        </trans-unit>
+        <trans-unit id="EditModule_ModuleSharingUnsupported.Label" translate="yes" xml:space="preserve">
+          <source>Unsupported</source>
+          <target state="new">Unsupported</target>
+        </trans-unit>
+        <trans-unit id="Install.Button" translate="yes" xml:space="preserve">
+          <source>Install</source>
+          <target state="new">Install</target>
+        </trans-unit>
+        <trans-unit id="Previous.Button" translate="yes" xml:space="preserve">
+          <source>Previous</source>
+          <target state="new">Previous</target>
+        </trans-unit>
+        <trans-unit id="Errors.Text" translate="yes" xml:space="preserve">
+          <source>errors</source>
+          <target state="new">errors</target>
+        </trans-unit>
+        <trans-unit id="TryAgain.Text" translate="yes" xml:space="preserve">
+          <source>[Try Again]</source>
+          <target state="new">[Try Again]</target>
+        </trans-unit>
+        <trans-unit id="ViewErrorLog.Text" translate="yes" xml:space="preserve">
+          <source>[View Error Log]</source>
+          <target state="new">[View Error Log]</target>
+        </trans-unit>
+        <trans-unit id="Delete.Button" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="DeleteExtension.Action" translate="yes" xml:space="preserve">
+          <source>Delete Extensions - {0}</source>
+          <target state="new">Delete Extensions - {0}</target>
+        </trans-unit>
+        <trans-unit id="DeleteFiles.HelpText" translate="yes" xml:space="preserve">
+          <source>Check this box to delete the files associated with this extension.</source>
+          <target state="new">Check this box to delete the files associated with this extension.</target>
+        </trans-unit>
+        <trans-unit id="DeleteFiles.Label" translate="yes" xml:space="preserve">
+          <source>Delete Files?</source>
+          <target state="new">Delete Files?</target>
+        </trans-unit>
+        <trans-unit id="Extension.Header" translate="yes" xml:space="preserve">
+          <source>Extension</source>
+          <target state="new">Extension</target>
+        </trans-unit>
+        <trans-unit id="Container.Text" translate="yes" xml:space="preserve">
+          <source>Container</source>
+          <target state="new">Container</target>
+        </trans-unit>
+        <trans-unit id="InstallError.Text" translate="yes" xml:space="preserve">
+          <source>Error loading files from temporary folder - see below.</source>
+          <target state="new">Error loading files from temporary folder - see below.</target>
+        </trans-unit>
+        <trans-unit id="InvalidExt.Text" translate="yes" xml:space="preserve">
+          <source>Invalid File Extension - {0}</source>
+          <target state="new">Invalid File Extension - {0}</target>
+        </trans-unit>
+        <trans-unit id="InvalidFiles.Text" translate="yes" xml:space="preserve">
+          <source>The package contains files with invalid File Extensions ({0})</source>
+          <target state="new">The package contains files with invalid File Extensions ({0})</target>
+        </trans-unit>
+        <trans-unit id="ZipCriticalError.Text" translate="yes" xml:space="preserve">
+          <source>Critical error reading zip package.</source>
+          <target state="new">Critical error reading zip package.</target>
+        </trans-unit>
+        <trans-unit id="Deploy.Button" translate="yes" xml:space="preserve">
+          <source>Deploy</source>
+          <target state="new">Deploy</target>
+        </trans-unit>
+        <trans-unit id="InstallerMoreInfo.Text" translate="yes" xml:space="preserve">
+          <source>If you have reached this page it is because the installer needs some more information before proceeding.</source>
+          <target state="new">If you have reached this page it is because the installer needs some more information before proceeding.</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_UploadFailedUnknown.Text" translate="yes" xml:space="preserve">
+          <source>Zip File Upload Failed</source>
+          <target state="new">Zip File Upload Failed</target>
+        </trans-unit>
+        <trans-unit id="InstallExtension_UploadFailedUnknownLogs.Text" translate="yes" xml:space="preserve">
+          <source>An unknown error has occured. Please check your installation zip file and try again. &lt;br/&gt;
+Common issues with bad installation files:
+<bpt id="1">&lt;ul&gt;</bpt>
+<bpt id="2">&lt;li&gt;</bpt>Zip file size is too large, check your IIS settings for max upload file size.<ept id="2">&lt;/li&gt;</ept>
+<bpt id="3">&lt;li&gt;</bpt>Missing resources in the zip file.<ept id="3">&lt;/li&gt;</ept>
+<bpt id="4">&lt;li&gt;</bpt>Invalid files in the package.<ept id="4">&lt;/li&gt;</ept>
+<bpt id="5">&lt;li&gt;</bpt>File extension is not .zip.<ept id="5">&lt;/li&gt;</ept>
+<bpt id="6">&lt;li&gt;</bpt>Check that you are logged in.<ept id="6">&lt;/li&gt;</ept>
+<ept id="1">&lt;/ul&gt;</ept></source>
+          <target state="new">An unknown error has occured. Please check your installation zip file and try again. &lt;br/&gt;
+Common issues with bad installation files:
+<bpt id="1">&lt;ul&gt;</bpt>
+<bpt id="2">&lt;li&gt;</bpt>Zip file size is too large, check your IIS settings for max upload file size.<ept id="2">&lt;/li&gt;</ept>
+<bpt id="3">&lt;li&gt;</bpt>Missing resources in the zip file.<ept id="3">&lt;/li&gt;</ept>
+<bpt id="4">&lt;li&gt;</bpt>Invalid files in the package.<ept id="4">&lt;/li&gt;</ept>
+<bpt id="5">&lt;li&gt;</bpt>File extension is not .zip.<ept id="5">&lt;/li&gt;</ept>
+<bpt id="6">&lt;li&gt;</bpt>Check that you are logged in.<ept id="6">&lt;/li&gt;</ept>
+<ept id="1">&lt;/ul&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="InvalidDNNManifest.Text" translate="yes" xml:space="preserve">
+          <source>This package does not appear to be a valid DNN Extension as it does not have a manifest. Old (legacy) Themes and Containers do not contain manifests. If this package is a legacy Theme or Container Package please check the appropriate radio button below, and click Next.</source>
+          <target state="new">This package does not appear to be a valid DNN Extension as it does not have a manifest. Old (legacy) Themes and Containers do not contain manifests. If this package is a legacy Theme or Container Package please check the appropriate radio button below, and click Next.</target>
+        </trans-unit>
+        <trans-unit id="InstallationError.Text" translate="yes" xml:space="preserve">
+          <source>There was an error during installation. See log files below for more information.</source>
+          <target state="new">There was an error during installation. See log files below for more information.</target>
+        </trans-unit>
+        <trans-unit id="BackToEditExtension.Text" translate="yes" xml:space="preserve">
+          <source>Back To Edit {0} Extension</source>
+          <target state="new">Back To Edit {0} Extension</target>
+        </trans-unit>
+        <trans-unit id="BackToExtensions.Text" translate="yes" xml:space="preserve">
+          <source>Back To Extensions</source>
+          <target state="new">Back To Extensions</target>
+        </trans-unit>
+        <trans-unit id="ModuleUsageTitle.Text" translate="yes" xml:space="preserve">
+          <source>Module Usage for {0}</source>
+          <target state="new">Module Usage for {0}</target>
+        </trans-unit>
+        <trans-unit id="PagesFromSite.Text" translate="yes" xml:space="preserve">
+          <source>Showing Pages from Site:</source>
+          <target state="new">Showing Pages from Site:</target>
+        </trans-unit>
+        <trans-unit id="ModuleUsageDetail.Text" translate="yes" xml:space="preserve">
+          <source>This module is used on {0} {1} page(s):</source>
+          <target state="new">This module is used on {0} {1} page(s):</target>
+        </trans-unit>
+        <trans-unit id="NoModuleUsageDetail.Text" translate="yes" xml:space="preserve">
+          <source>This module does not exist on any {0} pages.</source>
+          <target state="new">This module does not exist on any {0} pages.</target>
+        </trans-unit>
+        <trans-unit id="Loading.Text" translate="yes" xml:space="preserve">
+          <source>One sec...We are fetching your extensions</source>
+          <target state="new">One sec...We are fetching your extensions</target>
+        </trans-unit>
+        <trans-unit id="Loading.Tooltip" translate="yes" xml:space="preserve">
+          <source>Your extensions will be here in a just a moment</source>
+          <target state="new">Your extensions will be here in a just a moment</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

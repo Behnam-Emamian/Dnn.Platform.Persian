@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Export.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="plFolder.Text" translate="yes" xml:space="preserve">
+          <source>Folder:</source>
+          <target state="new">Folder:</target>
+        </trans-unit>
+        <trans-unit id="plFolder.Help" translate="yes" xml:space="preserve">
+          <source>Select the export folder where the template will be saved.</source>
+          <target state="new">Select the export folder where the template will be saved.</target>
+        </trans-unit>
+        <trans-unit id="plFile.Text" translate="yes" xml:space="preserve">
+          <source>Template Name:</source>
+          <target state="new">Template Name:</target>
+        </trans-unit>
+        <trans-unit id="plFile.Help" translate="yes" xml:space="preserve">
+          <source>Enter a name for the page template.</source>
+          <target state="new">Enter a name for the page template.</target>
+        </trans-unit>
+        <trans-unit id="cmdExport.Text" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <target state="new">Export</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_exporttab.Text" translate="yes" xml:space="preserve">
+          <source>Export Page</source>
+          <target state="new">Export Page</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;h1&gt;</bpt>Export Page<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Administrators can export content for the specified page.<ept id="2">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;h1&gt;</bpt>Export Page<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Administrators can export content for the specified page.<ept id="2">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="Error.Text" translate="yes" xml:space="preserve">
+          <source>An error occurred during the export.</source>
+          <target state="new">An error occurred during the export.</target>
+        </trans-unit>
+        <trans-unit id="Validation.Text" translate="yes" xml:space="preserve">
+          <source>You must specify a folder and template name for export.</source>
+          <target state="new">You must specify a folder and template name for export.</target>
+        </trans-unit>
+        <trans-unit id="Root.Text" translate="yes" xml:space="preserve">
+          <source>Root</source>
+          <target state="new">Root</target>
+        </trans-unit>
+        <trans-unit id="plDescription.Help" translate="yes" xml:space="preserve">
+          <source>Enter a description of this template.</source>
+          <target state="new">Enter a description of this template.</target>
+        </trans-unit>
+        <trans-unit id="plDescription.Text" translate="yes" xml:space="preserve">
+          <source>Description:</source>
+          <target state="new">Description:</target>
+        </trans-unit>
+        <trans-unit id="plContent.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to include the module content.</source>
+          <target state="new">Check this box to include the module content.</target>
+        </trans-unit>
+        <trans-unit id="plContent.Text" translate="yes" xml:space="preserve">
+          <source>Include Content:</source>
+          <target state="new">Include Content:</target>
+        </trans-unit>
+        <trans-unit id="ExportedMessage.Text" translate="yes" xml:space="preserve">
+          <source>The page template has been created to <bpt id="1">&lt;b&gt;</bpt>{0}<ept id="1">&lt;/b&gt;</ept></source>
+          <target state="new">The page template has been created to <bpt id="1">&lt;b&gt;</bpt>{0}<ept id="1">&lt;/b&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="valDescription.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>You are required to provide a description of the template.</source>
+          <target state="new">You are required to provide a description of the template.</target>
+        </trans-unit>
+        <trans-unit id="valFileName.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>You must provide a file name for the template.</source>
+          <target state="new">You must provide a file name for the template.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

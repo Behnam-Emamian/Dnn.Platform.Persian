@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="View.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="AddFriend.Text" translate="yes" xml:space="preserve">
+          <source>Add as Friend</source>
+          <target state="new">Add as Friend</target>
+        </trans-unit>
+        <trans-unit id="Follow.Text" translate="yes" xml:space="preserve">
+          <source>Follow</source>
+          <target state="new">Follow</target>
+        </trans-unit>
+        <trans-unit id="Loading.Text" translate="yes" xml:space="preserve">
+          <source>Loading ....</source>
+          <target state="new">Loading ....</target>
+        </trans-unit>
+        <trans-unit id="LoadMore.Text" translate="yes" xml:space="preserve">
+          <source>Load more</source>
+          <target state="new">Load more</target>
+        </trans-unit>
+        <trans-unit id="SendMessage.Text" translate="yes" xml:space="preserve">
+          <source>Send message</source>
+          <target state="new">Send message</target>
+        </trans-unit>
+        <trans-unit id="UserName.Text" translate="yes" xml:space="preserve">
+          <source>User Name</source>
+          <target state="new">User Name</target>
+        </trans-unit>
+        <trans-unit id="RemoveFriend.Text" translate="yes" xml:space="preserve">
+          <source>Remove Friend</source>
+          <target state="new">Remove Friend</target>
+        </trans-unit>
+        <trans-unit id="FriendPending.Text" translate="yes" xml:space="preserve">
+          <source>Friend Request Pending</source>
+          <target state="new">Friend Request Pending</target>
+        </trans-unit>
+        <trans-unit id="AcceptFriend.Text" translate="yes" xml:space="preserve">
+          <source>Accept Friend Request</source>
+          <target state="new">Accept Friend Request</target>
+        </trans-unit>
+        <trans-unit id="City.Text" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <target state="new">City</target>
+        </trans-unit>
+        <trans-unit id="Email.Text" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <target state="new">Email</target>
+        </trans-unit>
+        <trans-unit id="UnFollow.Text" translate="yes" xml:space="preserve">
+          <source>Unfollow</source>
+          <target state="new">Unfollow</target>
+        </trans-unit>
+        <trans-unit id="Search.Text" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="AdvancedSearch.Text" translate="yes" xml:space="preserve">
+          <source>Advanced Search</source>
+          <target state="new">Advanced Search</target>
+        </trans-unit>
+        <trans-unit id="Country.Text" translate="yes" xml:space="preserve">
+          <source>Country</source>
+          <target state="new">Country</target>
+        </trans-unit>
+        <trans-unit id="Name.Text" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="DisplayName.Text" translate="yes" xml:space="preserve">
+          <source>Display Name</source>
+          <target state="new">Display Name</target>
+        </trans-unit>
+        <trans-unit id="Prefix.Text" translate="yes" xml:space="preserve">
+          <source>Prefix</source>
+          <target state="new">Prefix</target>
+        </trans-unit>
+        <trans-unit id="NoMembers.Text" translate="yes" xml:space="preserve">
+          <source>No members were found that satisfy the search conditions.</source>
+          <target state="new">No members were found that satisfy the search conditions.</target>
+        </trans-unit>
+        <trans-unit id="ServerError.Text" translate="yes" xml:space="preserve">
+          <source>An error occurred while processing the request.  Please try again later.</source>
+          <target state="new">An error occurred while processing the request.  Please try again later.</target>
+        </trans-unit>
+        <trans-unit id="ServerErrorWithDescription.Text" translate="yes" xml:space="preserve">
+          <source>An error occurred while processing the request:</source>
+          <target state="new">An error occurred while processing the request:</target>
+        </trans-unit>
+        <trans-unit id="SearchConnections.Text" translate="yes" xml:space="preserve">
+          <source>Search Connections ...</source>
+          <target state="new">Search Connections ...</target>
+        </trans-unit>
+        <trans-unit id="Refresh.Text" translate="yes" xml:space="preserve">
+          <source>Refresh Results</source>
+          <target state="new">Refresh Results</target>
+        </trans-unit>
+        <trans-unit id="SearchError.Text" translate="yes" xml:space="preserve">
+          <source>Searches can only contain alphanumeric characters and spaces.</source>
+          <target state="new">Searches can only contain alphanumeric characters and spaces.</target>
+        </trans-unit>
+        <trans-unit id="Attachments.Text" translate="yes" xml:space="preserve">
+          <source>Attachment(s)</source>
+          <target state="new">Attachment(s)</target>
+        </trans-unit>
+        <trans-unit id="AutoSuggestError.Text" translate="yes" xml:space="preserve">
+          <source>An error occurred while getting suggestions:</source>
+          <target state="new">An error occurred while getting suggestions:</target>
+        </trans-unit>
+        <trans-unit id="Browse.Text" translate="yes" xml:space="preserve">
+          <source>Browse From Site</source>
+          <target state="new">Browse From Site</target>
+        </trans-unit>
+        <trans-unit id="Cancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="CreateMessageError.Text" translate="yes" xml:space="preserve">
+          <source>An error occurred while creating the message.  Please try again later.</source>
+          <target state="new">An error occurred while creating the message.  Please try again later.</target>
+        </trans-unit>
+        <trans-unit id="CreateMessageErrorWithDescription.Text" translate="yes" xml:space="preserve">
+          <source>An error occurred while creating the message:</source>
+          <target state="new">An error occurred while creating the message:</target>
+        </trans-unit>
+        <trans-unit id="DismissThis.Text" translate="yes" xml:space="preserve">
+          <source>Dismiss this</source>
+          <target state="new">Dismiss this</target>
+        </trans-unit>
+        <trans-unit id="Message.Text" translate="yes" xml:space="preserve">
+          <source>Your message</source>
+          <target state="new">Your message</target>
+        </trans-unit>
+        <trans-unit id="MessageSent.Text" translate="yes" xml:space="preserve">
+          <source>Your message has been sent successfully.</source>
+          <target state="new">Your message has been sent successfully.</target>
+        </trans-unit>
+        <trans-unit id="MessageSentTitle.Text" translate="yes" xml:space="preserve">
+          <source>Message Sent</source>
+          <target state="new">Message Sent</target>
+        </trans-unit>
+        <trans-unit id="NoResults.Text" translate="yes" xml:space="preserve">
+          <source>No results</source>
+          <target state="new">No results</target>
+        </trans-unit>
+        <trans-unit id="Remove.Text" translate="yes" xml:space="preserve">
+          <source>Remove attachment</source>
+          <target state="new">Remove attachment</target>
+        </trans-unit>
+        <trans-unit id="Searching.Text" translate="yes" xml:space="preserve">
+          <source>Searching...</source>
+          <target state="new">Searching...</target>
+        </trans-unit>
+        <trans-unit id="Send.Text" translate="yes" xml:space="preserve">
+          <source>Send</source>
+          <target state="new">Send</target>
+        </trans-unit>
+        <trans-unit id="Subject.Text" translate="yes" xml:space="preserve">
+          <source>Subject</source>
+          <target state="new">Subject</target>
+        </trans-unit>
+        <trans-unit id="Throttling.Text" translate="yes" xml:space="preserve">
+          <source>Please wait before sending a new message.</source>
+          <target state="new">Please wait before sending a new message.</target>
+        </trans-unit>
+        <trans-unit id="Title.Text" translate="yes" xml:space="preserve">
+          <source>Compose Message</source>
+          <target state="new">Compose Message</target>
+        </trans-unit>
+        <trans-unit id="To.Text" translate="yes" xml:space="preserve">
+          <source>Send to</source>
+          <target state="new">Send to</target>
+        </trans-unit>
+        <trans-unit id="Upload.Text" translate="yes" xml:space="preserve">
+          <source>Upload From Computer</source>
+          <target state="new">Upload From Computer</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

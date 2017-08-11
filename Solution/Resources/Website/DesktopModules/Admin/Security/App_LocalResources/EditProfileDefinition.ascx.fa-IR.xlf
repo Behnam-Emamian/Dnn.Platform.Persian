@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="EditProfileDefinition.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="EditProperty.Text" translate="yes" xml:space="preserve">
+          <source>Edit Profile Property Definition</source>
+          <target state="new">Edit Profile Property Definition</target>
+        </trans-unit>
+        <trans-unit id="AddContent.Action" translate="yes" xml:space="preserve">
+          <source>Add New Profile Property</source>
+          <target state="new">Add New Profile Property</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_DataType.Text" translate="yes" xml:space="preserve">
+          <source>Data Type:</source>
+          <target state="new">Data Type:</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_DataType.Help" translate="yes" xml:space="preserve">
+          <source>Select the data type for this field.</source>
+          <target state="new">Select the data type for this field.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_DefaultValue.Text" translate="yes" xml:space="preserve">
+          <source>Default Value:</source>
+          <target state="new">Default Value:</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_DefaultValue.Help" translate="yes" xml:space="preserve">
+          <source>Optionally provide a default value for this property.</source>
+          <target state="new">Optionally provide a default value for this property.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_PropertyCategory.Text" translate="yes" xml:space="preserve">
+          <source>Property Category:</source>
+          <target state="new">Property Category:</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_PropertyCategory.Help" translate="yes" xml:space="preserve">
+          <source>Enter the category for this property.  This will allow the related properties to be grouped when dislayed to the user.</source>
+          <target state="new">Enter the category for this property.  This will allow the related properties to be grouped when dislayed to the user.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_PropertyName.Text" translate="yes" xml:space="preserve">
+          <source>Property Name:</source>
+          <target state="new">Property Name:</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_PropertyName.Help" translate="yes" xml:space="preserve">
+          <source>Enter a name for the property.</source>
+          <target state="new">Enter a name for the property.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_ValidationExpression.Text" translate="yes" xml:space="preserve">
+          <source>Validation Expression:</source>
+          <target state="new">Validation Expression:</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_ValidationExpression.Help" translate="yes" xml:space="preserve">
+          <source>You can provide a regular expression to validate the data entered for this property.</source>
+          <target state="new">You can provide a regular expression to validate the data entered for this property.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_ViewOrder.Text" translate="yes" xml:space="preserve">
+          <source>View Order:</source>
+          <target state="new">View Order:</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_ViewOrder.Help" translate="yes" xml:space="preserve">
+          <source>Enter a number to determine the view order for this property or leave blank to add.</source>
+          <target state="new">Enter a number to determine the view order for this property or leave blank to add.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_Visible.Text" translate="yes" xml:space="preserve">
+          <source>Visible:</source>
+          <target state="new">Visible:</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_Visible.Help" translate="yes" xml:space="preserve">
+          <source>Check this box if this property can be viewed and edited by the user or leave it unchecked if it is visible to Administrators only.</source>
+          <target state="new">Check this box if this property can be viewed and edited by the user or leave it unchecked if it is visible to Administrators only.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_Required.Text" translate="yes" xml:space="preserve">
+          <source>Required:</source>
+          <target state="new">Required:</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_Required.Help" translate="yes" xml:space="preserve">
+          <source>Set whether this property is required.</source>
+          <target state="new">Set whether this property is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_Length.Text" translate="yes" xml:space="preserve">
+          <source>Length:</source>
+          <target state="new">Length:</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_Length.Help" translate="yes" xml:space="preserve">
+          <source>Enter the maximum length for this property.  This will only be applicable for specific data types.</source>
+          <target state="new">Enter the maximum length for this property.  This will only be applicable for specific data types.</target>
+        </trans-unit>
+        <trans-unit id="DuplicateName.Text" translate="yes" xml:space="preserve">
+          <source>This property already exists.  Property names must be unique.  Please select a different name for this property.</source>
+          <target state="new">This property already exists.  Property names must be unique.  Please select a different name for this property.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_PropertyCategory.Required" translate="yes" xml:space="preserve">
+          <source>The category is required.</source>
+          <target state="new">The category is required.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_PropertyName.Required" translate="yes" xml:space="preserve">
+          <source>The property name is required.</source>
+          <target state="new">The property name is required.</target>
+        </trans-unit>
+        <trans-unit id="plCategoryName.Help" translate="yes" xml:space="preserve">
+          <source>Enter the text for the category's name in the selected language.</source>
+          <target state="new">Enter the text for the category's name in the selected language.</target>
+        </trans-unit>
+        <trans-unit id="plCategoryName.Text" translate="yes" xml:space="preserve">
+          <source>Category Name:</source>
+          <target state="new">Category Name:</target>
+        </trans-unit>
+        <trans-unit id="plLocales.Help" translate="yes" xml:space="preserve">
+          <source>Select the language.</source>
+          <target state="new">Select the language.</target>
+        </trans-unit>
+        <trans-unit id="plLocales.Text" translate="yes" xml:space="preserve">
+          <source>Choose Language:</source>
+          <target state="new">Choose Language:</target>
+        </trans-unit>
+        <trans-unit id="plPropertyHelp.Help" translate="yes" xml:space="preserve">
+          <source>Enter the Help for this property in the selected language.</source>
+          <target state="new">Enter the Help for this property in the selected language.</target>
+        </trans-unit>
+        <trans-unit id="plPropertyHelp.Text" translate="yes" xml:space="preserve">
+          <source>Property Help:</source>
+          <target state="new">Property Help:</target>
+        </trans-unit>
+        <trans-unit id="plPropertyName.Help" translate="yes" xml:space="preserve">
+          <source>Enter the text for the property's name in the selected language.</source>
+          <target state="new">Enter the text for the property's name in the selected language.</target>
+        </trans-unit>
+        <trans-unit id="plPropertyName.Text" translate="yes" xml:space="preserve">
+          <source>Property Name:</source>
+          <target state="new">Property Name:</target>
+        </trans-unit>
+        <trans-unit id="cmdCreate.Text" translate="yes" xml:space="preserve">
+          <source>Create New Property</source>
+          <target state="new">Create New Property</target>
+        </trans-unit>
+        <trans-unit id="cmdUpdate.Text" translate="yes" xml:space="preserve">
+          <source>Update Property</source>
+          <target state="new">Update Property</target>
+        </trans-unit>
+        <trans-unit id="Introduction.Help" translate="yes" xml:space="preserve">
+          <source>The first step in editing a Profile Property Definition is to update the property's details.  Make any changes you need to the fields on this page, and click Next to save the changes, and proceed to the next step.</source>
+          <target state="new">The first step in editing a Profile Property Definition is to update the property's details.  Make any changes you need to the fields on this page, and click Next to save the changes, and proceed to the next step.</target>
+        </trans-unit>
+        <trans-unit id="Introduction.Title" translate="yes" xml:space="preserve">
+          <source>Edit Property Details</source>
+          <target state="new">Edit Property Details</target>
+        </trans-unit>
+        <trans-unit id="List.Help" translate="yes" xml:space="preserve">
+          <source>The property details have been updated.  This property is a List type property.  The next step is to define the list entries.</source>
+          <target state="new">The property details have been updated.  This property is a List type property.  The next step is to define the list entries.</target>
+        </trans-unit>
+        <trans-unit id="List.Title" translate="yes" xml:space="preserve">
+          <source>Manage List Entries</source>
+          <target state="new">Manage List Entries</target>
+        </trans-unit>
+        <trans-unit id="Introduction_Add.Help" translate="yes" xml:space="preserve">
+          <source>The first step in setting up a Profile Property Definition is to define the property's details.  Enter the details in this page and click "Next" to create the Property Definition.   <bpt id="1">&lt;b&gt;</bpt>Note:<ept id="1">&lt;/b&gt;</ept> All fields marked with a red asterisk are required.</source>
+          <target state="new">The first step in setting up a Profile Property Definition is to define the property's details.  Enter the details in this page and click "Next" to create the Property Definition.   <bpt id="1">&lt;b&gt;</bpt>Note:<ept id="1">&lt;/b&gt;</ept> All fields marked with a red asterisk are required.</target>
+        </trans-unit>
+        <trans-unit id="Introduction_Add.Title" translate="yes" xml:space="preserve">
+          <source>Add New Property Details</source>
+          <target state="new">Add New Property Details</target>
+        </trans-unit>
+        <trans-unit id="Localization.Help" translate="yes" xml:space="preserve">
+          <source>The next step is to manage the localization of this property.  Select the language you want to update, add new text or modify the existing text and then click Update.</source>
+          <target state="new">The next step is to manage the localization of this property.  Select the language you want to update, add new text or modify the existing text and then click Update.</target>
+        </trans-unit>
+        <trans-unit id="Localization.Title" translate="yes" xml:space="preserve">
+          <source>Manage Localization</source>
+          <target state="new">Manage Localization</target>
+        </trans-unit>
+        <trans-unit id="cmdCancel.Text" translate="yes" xml:space="preserve">
+          <source>Return to Profile Properties List</source>
+          <target state="new">Return to Profile Properties List</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_PropertyName.Validation" translate="yes" xml:space="preserve">
+          <source>The property name cannot contain spaces.</source>
+          <target state="new">The property name cannot contain spaces.</target>
+        </trans-unit>
+        <trans-unit id="plPropertyRequired.Help" translate="yes" xml:space="preserve">
+          <source>Enter the error message to display for this field when the property is Required but not present.</source>
+          <target state="new">Enter the error message to display for this field when the property is Required but not present.</target>
+        </trans-unit>
+        <trans-unit id="plPropertyRequired.Text" translate="yes" xml:space="preserve">
+          <source>Required Error Message:</source>
+          <target state="new">Required Error Message:</target>
+        </trans-unit>
+        <trans-unit id="plPropertyValidation.Help" translate="yes" xml:space="preserve">
+          <source>Enter the error message to display for this field when the property fails the Regular Expression Validation.</source>
+          <target state="new">Enter the error message to display for this field when the property fails the Regular Expression Validation.</target>
+        </trans-unit>
+        <trans-unit id="plPropertyValidation.Text" translate="yes" xml:space="preserve">
+          <source>Validation Error Message:</source>
+          <target state="new">Validation Error Message:</target>
+        </trans-unit>
+        <trans-unit id="RequiredTextBox.Text" translate="yes" xml:space="preserve">
+          <source>If you use a TextBox field, the required length must be greater than 0.</source>
+          <target state="new">If you use a TextBox field, the required length must be greater than 0.</target>
+        </trans-unit>
+        <trans-unit id="AddProperty.Text" translate="yes" xml:space="preserve">
+          <source>Add Profile Property Definition</source>
+          <target state="new">Add Profile Property Definition</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_DefaultVisibility.Help" translate="yes" xml:space="preserve">
+          <source>You can set the default visibility of the profile property.  This is the initial value of the visibility and applies if the user does not modify it, when editing their profile.</source>
+          <target state="new">You can set the default visibility of the profile property.  This is the initial value of the visibility and applies if the user does not modify it, when editing their profile.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_DefaultVisibility.Text" translate="yes" xml:space="preserve">
+          <source>Default Visibility:</source>
+          <target state="new">Default Visibility:</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_ReadOnly.Help" translate="yes" xml:space="preserve">
+          <source>Read only profile properties can be edited by the Administrator but are read-only to the user.</source>
+          <target state="new">Read only profile properties can be edited by the Administrator but are read-only to the user.</target>
+        </trans-unit>
+        <trans-unit id="ProfilePropertyDefinition_ReadOnly.Text" translate="yes" xml:space="preserve">
+          <source>Read Only:</source>
+          <target state="new">Read Only:</target>
+        </trans-unit>
+        <trans-unit id="Cancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="Return.Text" translate="yes" xml:space="preserve">
+          <source>Update</source>
+          <target state="new">Update</target>
+        </trans-unit>
+        <trans-unit id="valPropertyName.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>You need enter a name for this property.</source>
+          <target state="new">You need enter a name for this property.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

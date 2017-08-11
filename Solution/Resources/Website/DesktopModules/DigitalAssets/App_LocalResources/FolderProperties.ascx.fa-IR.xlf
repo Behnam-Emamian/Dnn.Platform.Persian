@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="FolderProperties.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="CancelButton.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="cmdCopyPerm.Text" translate="yes" xml:space="preserve">
+          <source>Copy Permissions</source>
+          <target state="new">Copy Permissions</target>
+        </trans-unit>
+        <trans-unit id="DialogTitle.Text" translate="yes" xml:space="preserve">
+          <source>{0} Folder Info</source>
+          <target state="new">{0} Folder Info</target>
+        </trans-unit>
+        <trans-unit id="FolderNameLabel.Help" translate="yes" xml:space="preserve">
+          <source>Edit the current folder name.</source>
+          <target state="new">Edit the current folder name.</target>
+        </trans-unit>
+        <trans-unit id="FolderNameLabel.Text" translate="yes" xml:space="preserve">
+          <source>Folder Name</source>
+          <target state="new">Folder Name</target>
+        </trans-unit>
+        <trans-unit id="FolderTypeLabel.Help" translate="yes" xml:space="preserve">
+          <source>The folder type of the current folder.</source>
+          <target state="new">The folder type of the current folder.</target>
+        </trans-unit>
+        <trans-unit id="FolderTypeLabel.Text" translate="yes" xml:space="preserve">
+          <source>Folder Type</source>
+          <target state="new">Folder Type</target>
+        </trans-unit>
+        <trans-unit id="GeneralTab.Text" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="new">General</target>
+        </trans-unit>
+        <trans-unit id="lblCopyPerm.Help" translate="yes" xml:space="preserve">
+          <source>Copies the currently selected permissions for the folder to subfolders.</source>
+          <target state="new">Copies the currently selected permissions for the folder to subfolders.</target>
+        </trans-unit>
+        <trans-unit id="lblCopyPerm.Text" translate="yes" xml:space="preserve">
+          <source>Copy Permissions to Subfolders:</source>
+          <target state="new">Copy Permissions to Subfolders:</target>
+        </trans-unit>
+        <trans-unit id="PermissionCopyError.Text" translate="yes" xml:space="preserve">
+          <source>There was an error copying the permissions.</source>
+          <target state="new">There was an error copying the permissions.</target>
+        </trans-unit>
+        <trans-unit id="PermissionsCopied.Text" translate="yes" xml:space="preserve">
+          <source>Permissions copied successfully.</source>
+          <target state="new">Permissions copied successfully.</target>
+        </trans-unit>
+        <trans-unit id="PermissionsTab.Text" translate="yes" xml:space="preserve">
+          <source>Permissions</source>
+          <target state="new">Permissions</target>
+        </trans-unit>
+        <trans-unit id="SaveButton.Text" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="UserCannotChangePermissionsError.Text" translate="yes" xml:space="preserve">
+          <source>You cannot change the permissions of this folder.</source>
+          <target state="new">You cannot change the permissions of this folder.</target>
+        </trans-unit>
+        <trans-unit id="UserCannotEditFolderError.Text" translate="yes" xml:space="preserve">
+          <source>The user does not have permission to edit this folder.</source>
+          <target state="new">The user does not have permission to edit this folder.</target>
+        </trans-unit>
+        <trans-unit id="UserCannotReadFolderError.Text" translate="yes" xml:space="preserve">
+          <source>The user does not have permission to read this folder.</source>
+          <target state="new">The user does not have permission to read this folder.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

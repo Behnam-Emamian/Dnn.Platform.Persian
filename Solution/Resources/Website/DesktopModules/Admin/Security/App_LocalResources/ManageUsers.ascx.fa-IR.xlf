@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="ManageUsers.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Roles.Action" translate="yes" xml:space="preserve">
+          <source>Manage Roles for this User</source>
+          <target state="new">Manage Roles for this User</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_edit.Text" translate="yes" xml:space="preserve">
+          <source>Edit User Accounts</source>
+          <target state="new">Edit User Accounts</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;h1&gt;</bpt>About the User Management Module<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Administrators can manage their registered users. This module allows you to add new users, modify existing users, delete users, and manage the security roles for users.<ept id="2">&lt;/p&gt;</ept>
+</source>
+          <target state="new"><bpt id="1">&lt;h1&gt;</bpt>About the User Management Module<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Administrators can manage their registered users. This module allows you to add new users, modify existing users, delete users, and manage the security roles for users.<ept id="2">&lt;/p&gt;</ept>
+</target>
+        </trans-unit>
+        <trans-unit id="UserLockedOut.Text" translate="yes" xml:space="preserve">
+          <source>This account is currently locked out following too many unsuccessful login attempts.</source>
+          <target state="new">This account is currently locked out following too many unsuccessful login attempts.</target>
+        </trans-unit>
+        <trans-unit id="InvalidUser.Text" translate="yes" xml:space="preserve">
+          <source>This account is not a user in the current site.</source>
+          <target state="new">This account is not a user in the current site.</target>
+        </trans-unit>
+        <trans-unit id="SuperUser.Text" translate="yes" xml:space="preserve">
+          <source>This account represents a Super User.  You do not have the rights to edit a Super User Account.</source>
+          <target state="new">This account represents a Super User.  You do not have the rights to edit a Super User Account.</target>
+        </trans-unit>
+        <trans-unit id="NoUser.Text" translate="yes" xml:space="preserve">
+          <source>This account doesn't exist.</source>
+          <target state="new">This account doesn't exist.</target>
+        </trans-unit>
+        <trans-unit id="plNewPassword.Text" translate="yes" xml:space="preserve">
+          <source>New Password:</source>
+          <target state="new">New Password:</target>
+        </trans-unit>
+        <trans-unit id="plNewPassword.Help" translate="yes" xml:space="preserve">
+          <source>Enter the new password.</source>
+          <target state="new">Enter the new password.</target>
+        </trans-unit>
+        <trans-unit id="plNewConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Confirm New Password:</source>
+          <target state="new">Confirm New Password:</target>
+        </trans-unit>
+        <trans-unit id="plNewConfirm.Help" translate="yes" xml:space="preserve">
+          <source>Re-enter the new password to confirm.</source>
+          <target state="new">Re-enter the new password to confirm.</target>
+        </trans-unit>
+        <trans-unit id="ResetPassword.Text" translate="yes" xml:space="preserve">
+          <source>Reset Password</source>
+          <target state="new">Reset Password</target>
+        </trans-unit>
+        <trans-unit id="cmdUpdatePassword.Text" translate="yes" xml:space="preserve">
+          <source>Update Password</source>
+          <target state="new">Update Password</target>
+        </trans-unit>
+        <trans-unit id="NewPassword.Text" translate="yes" xml:space="preserve">
+          <source>You must enter a new password.</source>
+          <target state="new">You must enter a new password.</target>
+        </trans-unit>
+        <trans-unit id="UserTitle.Text" translate="yes" xml:space="preserve">
+          <source>Edit User - {0} (Id: {1})</source>
+          <target state="new">Edit User - {0} (Id: {1})</target>
+        </trans-unit>
+        <trans-unit id="MembershipTitle.Text" translate="yes" xml:space="preserve">
+          <source>Membership Information</source>
+          <target state="new">Membership Information</target>
+        </trans-unit>
+        <trans-unit id="AddContent.Action" translate="yes" xml:space="preserve">
+          <source>Add New User</source>
+          <target state="new">Add New User</target>
+        </trans-unit>
+        <trans-unit id="Profile.Action" translate="yes" xml:space="preserve">
+          <source>Manage User's Profile</source>
+          <target state="new">Manage User's Profile</target>
+        </trans-unit>
+        <trans-unit id="Password.Action" translate="yes" xml:space="preserve">
+          <source>Manage User's Password</source>
+          <target state="new">Manage User's Password</target>
+        </trans-unit>
+        <trans-unit id="cmdUser.Text" translate="yes" xml:space="preserve">
+          <source>Manage Account</source>
+          <target state="new">Manage Account</target>
+        </trans-unit>
+        <trans-unit id="cmdRoles.Text" translate="yes" xml:space="preserve">
+          <source>Manage Roles for this User</source>
+          <target state="new">Manage Roles for this User</target>
+        </trans-unit>
+        <trans-unit id="cmdPassword.Text" translate="yes" xml:space="preserve">
+          <source>Manage Password</source>
+          <target state="new">Manage Password</target>
+        </trans-unit>
+        <trans-unit id="cmdProfile.Text" translate="yes" xml:space="preserve">
+          <source>Manage Profile</source>
+          <target state="new">Manage Profile</target>
+        </trans-unit>
+        <trans-unit id="AddUser.Text" translate="yes" xml:space="preserve">
+          <source>Add New User</source>
+          <target state="new">Add New User</target>
+        </trans-unit>
+        <trans-unit id="UserUnAuthorized.Text" translate="yes" xml:space="preserve">
+          <source>User successfully un-authorized.</source>
+          <target state="new">User successfully un-authorized.</target>
+        </trans-unit>
+        <trans-unit id="UserAuthorized.Text" translate="yes" xml:space="preserve">
+          <source>User successfully authorized.</source>
+          <target state="new">User successfully authorized.</target>
+        </trans-unit>
+        <trans-unit id="PasswordQAChanged.Text" translate="yes" xml:space="preserve">
+          <source>Password question and answer successfully updated.</source>
+          <target state="new">Password question and answer successfully updated.</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_profile.Text" translate="yes" xml:space="preserve">
+          <source>Manage Profile</source>
+          <target state="new">Manage Profile</target>
+        </trans-unit>
+        <trans-unit id="NotAuthorized.Text" translate="yes" xml:space="preserve">
+          <source>You are not authorized to edit this user.</source>
+          <target state="new">You are not authorized to edit this user.</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_register.Text" translate="yes" xml:space="preserve">
+          <source>Register</source>
+          <target state="new">Register</target>
+        </trans-unit>
+        <trans-unit id="cmdServices.Text" translate="yes" xml:space="preserve">
+          <source>Manage Services</source>
+          <target state="new">Manage Services</target>
+        </trans-unit>
+        <trans-unit id="ManageProfile.Action" translate="yes" xml:space="preserve">
+          <source>Manage Profile Properties</source>
+          <target state="new">Manage Profile Properties</target>
+        </trans-unit>
+        <trans-unit id="cmdRegister.Text" translate="yes" xml:space="preserve">
+          <source>Register</source>
+          <target state="new">Register</target>
+        </trans-unit>
+        <trans-unit id="ExceededRegisterQuota.Text" translate="yes" xml:space="preserve">
+          <source>You cannot register at this time for this site.  Please contact the Site Administrator to find out when registration will be reopened.</source>
+          <target state="new">You cannot register at this time for this site.  Please contact the Site Administrator to find out when registration will be reopened.</target>
+        </trans-unit>
+        <trans-unit id="ExceededUserQuota.Text" translate="yes" xml:space="preserve">
+          <source>Adding this user will exceed the user quota for this site.  Please contact your hosting provider for inquiries related to increasing your user quota.</source>
+          <target state="new">Adding this user will exceed the user quota for this site.  Please contact your hosting provider for inquiries related to increasing your user quota.</target>
+        </trans-unit>
+        <trans-unit id="UserSubscribed.Text" translate="yes" xml:space="preserve">
+          <source>You have successfully subscribed to the {0} role.</source>
+          <target state="new">You have successfully subscribed to the {0} role.</target>
+        </trans-unit>
+        <trans-unit id="UserUnSubscribed.Text" translate="yes" xml:space="preserve">
+          <source>You have successfully unsubscribed from the {0} role.</source>
+          <target state="new">You have successfully unsubscribed from the {0} role.</target>
+        </trans-unit>
+        <trans-unit id="EmailError.Text" translate="yes" xml:space="preserve">
+          <source>This website requires a unique Email Address.  The Email Address you entered has already been used.</source>
+          <target state="new">This website requires a unique Email Address.  The Email Address you entered has already been used.</target>
+        </trans-unit>
+        <trans-unit id="CannotAddUser.Text" translate="yes" xml:space="preserve">
+          <source>This site is configured to require users to enter a Question and Answer receive password reminders.  This configuration is incompatible with Administrators adding users, so has been disabled for this site.</source>
+          <target state="new">This site is configured to require users to enter a Question and Answer receive password reminders.  This configuration is incompatible with Administrators adding users, so has been disabled for this site.</target>
+        </trans-unit>
+        <trans-unit id="cmdLogin.Text" translate="yes" xml:space="preserve">
+          <source>Proceed to Login</source>
+          <target state="new">Proceed to Login</target>
+        </trans-unit>
+        <trans-unit id="plCaptcha.Help" translate="yes" xml:space="preserve">
+          <source>Enter the security code.</source>
+          <target state="new">Enter the security code.</target>
+        </trans-unit>
+        <trans-unit id="plCaptcha.Text" translate="yes" xml:space="preserve">
+          <source>Security Code:</source>
+          <target state="new">Security Code:</target>
+        </trans-unit>
+        <trans-unit id="UserPasswordUpdateChanged.Text" translate="yes" xml:space="preserve">
+          <source>User must update password on next login.</source>
+          <target state="new">User must update password on next login.</target>
+        </trans-unit>
+        <trans-unit id="RegisterWarning.Text" translate="yes" xml:space="preserve">
+          <source> - <bpt id="1">&lt;em&gt;</bpt>(<bpt id="2">&lt;strong&gt;</bpt>Note:<ept id="2">&lt;/strong&gt;</ept> - Registration may take several seconds.  Once you click the Register button please wait until the system responds.)<ept id="1">&lt;/em&gt;</ept></source>
+          <target state="new"> - <bpt id="1">&lt;em&gt;</bpt>(<bpt id="2">&lt;strong&gt;</bpt>Note:<ept id="2">&lt;/strong&gt;</ept> - Registration may take several seconds.  Once you click the Register button please wait until the system responds.)<ept id="1">&lt;/em&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="AddUser.Title" translate="yes" xml:space="preserve">
+          <source>Add New User</source>
+          <target state="new">Add New User</target>
+        </trans-unit>
+        <trans-unit id="Register.Text" translate="yes" xml:space="preserve">
+          <source>User Registration</source>
+          <target state="new">User Registration</target>
+        </trans-unit>
+        <trans-unit id="Register.Title" translate="yes" xml:space="preserve">
+          <source>User Registration</source>
+          <target state="new">User Registration</target>
+        </trans-unit>
+        <trans-unit id="AccountSettings.Text" translate="yes" xml:space="preserve">
+          <source>Account Settings</source>
+          <target state="new">Account Settings</target>
+        </trans-unit>
+        <trans-unit id="MembershipDetails.Text" translate="yes" xml:space="preserve">
+          <source>Account Information</source>
+          <target state="new">Account Information</target>
+        </trans-unit>
+        <trans-unit id="UserPromotedToSuperuser.Text" translate="yes" xml:space="preserve">
+          <source>User has been updated to be a Super User.</source>
+          <target state="new">User has been updated to be a Super User.</target>
+        </trans-unit>
+        <trans-unit id="UserDemotedFromSuperuser.Text" translate="yes" xml:space="preserve">
+          <source>User has been updated to be a regular user.</source>
+          <target state="new">User has been updated to be a regular user.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

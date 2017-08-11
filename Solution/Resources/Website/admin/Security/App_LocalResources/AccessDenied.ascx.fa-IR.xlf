@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="AccessDenied.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="AccessDenied.Text" translate="yes" xml:space="preserve">
+          <source>Either you are not currently logged in, or you do not have access to this content.</source>
+          <target state="new">Either you are not currently logged in, or you do not have access to this content.</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_access denied.Text" translate="yes" xml:space="preserve">
+          <source>Access Denied</source>
+          <target state="new">Access Denied</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

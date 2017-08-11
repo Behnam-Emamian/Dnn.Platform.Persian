@@ -1,0 +1,912 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Pages.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ErrorPages.Text" translate="yes" xml:space="preserve">
+          <source>You must select at least one page to be exported.</source>
+          <target state="new">You must select at least one page to be exported.</target>
+        </trans-unit>
+        <trans-unit id="nav_Pages.Text" translate="yes" xml:space="preserve">
+          <source>Pages</source>
+          <target state="new">Pages</target>
+        </trans-unit>
+        <trans-unit id="SiteDetails_Pages.Text" translate="yes" xml:space="preserve">
+          <source>Pages</source>
+          <target state="new">Pages</target>
+        </trans-unit>
+        <trans-unit id="Description.Label" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+        <trans-unit id="HomeDirectory.Label" translate="yes" xml:space="preserve">
+          <source>Home Directory</source>
+          <target state="new">Home Directory</target>
+        </trans-unit>
+        <trans-unit id="Title.Label" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <target state="new">Title</target>
+        </trans-unit>
+        <trans-unit id="Delete.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="Edit.Text" translate="yes" xml:space="preserve">
+          <source>Edit</source>
+          <target state="new">Edit</target>
+        </trans-unit>
+        <trans-unit id="Settings.Text" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="new">Settings</target>
+        </trans-unit>
+        <trans-unit id="View.Text" translate="yes" xml:space="preserve">
+          <source>View</source>
+          <target state="new">View</target>
+        </trans-unit>
+        <trans-unit id="Hidden.Text" translate="yes" xml:space="preserve">
+          <source>Page is hidden in menu</source>
+          <target state="new">Page is hidden in menu</target>
+        </trans-unit>
+        <trans-unit id="Cancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="DragPageTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Drag Page into Location</source>
+          <target state="new">Drag Page into Location</target>
+        </trans-unit>
+        <trans-unit id="DragInvalid.Text" translate="yes" xml:space="preserve">
+          <source>You can't drag a page as a child of itself.</source>
+          <target state="new">You can't drag a page as a child of itself.</target>
+        </trans-unit>
+        <trans-unit id="DeletePageConfirm.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to delete this page.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to delete this page.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="Pending.Text" translate="yes" xml:space="preserve">
+          <source>Please drag the page into the desired location.</source>
+          <target state="new">Please drag the page into the desired location.</target>
+        </trans-unit>
+        <trans-unit id="Search.Text" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="page_name_tooltip" translate="yes" xml:space="preserve">
+          <source>Page Name</source>
+          <target state="new">Page Name</target>
+        </trans-unit>
+        <trans-unit id="page_title_tooltip" translate="yes" xml:space="preserve">
+          <source>Page Title</source>
+          <target state="new">Page Title</target>
+        </trans-unit>
+        <trans-unit id="AnErrorOccurred.Text" translate="yes" xml:space="preserve">
+          <source>An error has occurred.</source>
+          <target state="new">An error has occurred.</target>
+        </trans-unit>
+        <trans-unit id="DeleteModuleConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete the module "[MODULETITLE]" from this page?</source>
+          <target state="new">Are you sure you want to delete the module "[MODULETITLE]" from this page?</target>
+        </trans-unit>
+        <trans-unit id="SitemapPriority.Text" translate="yes" xml:space="preserve">
+          <source>Sitemap Priority</source>
+          <target state="new">Sitemap Priority</target>
+        </trans-unit>
+        <trans-unit id="SitemapPriority_tooltip.Text" translate="yes" xml:space="preserve">
+          <source>Enter the desired priority (between 0 and 1.0). This helps determine how this page is ranked in Google with respect to other pages on your site (0.5 is the default).</source>
+          <target state="new">Enter the desired priority (between 0 and 1.0). This helps determine how this page is ranked in Google with respect to other pages on your site (0.5 is the default).</target>
+        </trans-unit>
+        <trans-unit id="PageHeaderTags.Text" translate="yes" xml:space="preserve">
+          <source>Page Header Tags</source>
+          <target state="new">Page Header Tags</target>
+        </trans-unit>
+        <trans-unit id="PageHeaderTags_tooltip.Text" translate="yes" xml:space="preserve">
+          <source>Enter any tags (i.e. META tags) that should be rendered in the "HEAD" tag of the HTML for this page.</source>
+          <target state="new">Enter any tags (i.e. META tags) that should be rendered in the "HEAD" tag of the HTML for this page.</target>
+        </trans-unit>
+        <trans-unit id="AddUrl.Text" translate="yes" xml:space="preserve">
+          <source>Add URL</source>
+          <target state="new">Add URL</target>
+        </trans-unit>
+        <trans-unit id="UrlsForThisPage.Text" translate="yes" xml:space="preserve">
+          <source>URLs for this page</source>
+          <target state="new">URLs for this page</target>
+        </trans-unit>
+        <trans-unit id="Url.Text" translate="yes" xml:space="preserve">
+          <source>URL</source>
+          <target state="new">URL</target>
+        </trans-unit>
+        <trans-unit id="UrlType.Text" translate="yes" xml:space="preserve">
+          <source>URL Type</source>
+          <target state="new">URL Type</target>
+        </trans-unit>
+        <trans-unit id="GeneratedBy.Text" translate="yes" xml:space="preserve">
+          <source>Generated By</source>
+          <target state="new">Generated By</target>
+        </trans-unit>
+        <trans-unit id="None.Text" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <target state="new">None</target>
+        </trans-unit>
+        <trans-unit id="Include.Text" translate="yes" xml:space="preserve">
+          <source>Include</source>
+          <target state="new">Include</target>
+        </trans-unit>
+        <trans-unit id="Exclude.Text" translate="yes" xml:space="preserve">
+          <source>Exclude</source>
+          <target state="new">Exclude</target>
+        </trans-unit>
+        <trans-unit id="Security.Text" translate="yes" xml:space="preserve">
+          <source>Security</source>
+          <target state="new">Security</target>
+        </trans-unit>
+        <trans-unit id="SecureConnection.Text" translate="yes" xml:space="preserve">
+          <source>Secure Connection</source>
+          <target state="new">Secure Connection</target>
+        </trans-unit>
+        <trans-unit id="SecureConnection_tooltip.Text" translate="yes" xml:space="preserve">
+          <source>Specify whether or not this page should be forced to use a secure connection (SSL). This option will only be enabled if the administrator has Enabled SSL in the site settings.</source>
+          <target state="new">Specify whether or not this page should be forced to use a secure connection (SSL). This option will only be enabled if the administrator has Enabled SSL in the site settings.</target>
+        </trans-unit>
+        <trans-unit id="AllowIndexing.Text" translate="yes" xml:space="preserve">
+          <source>Allow Indexing</source>
+          <target state="new">Allow Indexing</target>
+        </trans-unit>
+        <trans-unit id="AllowIndexing_tooltip.Text" translate="yes" xml:space="preserve">
+          <source>This setting controls whether a page should be indexed by search crawlers. It uses the INDEX/NOINDEX values for ROBOTS meta tag.</source>
+          <target state="new">This setting controls whether a page should be indexed by search crawlers. It uses the INDEX/NOINDEX values for ROBOTS meta tag.</target>
+        </trans-unit>
+        <trans-unit id="CacheSettings.Text" translate="yes" xml:space="preserve">
+          <source>Cache Settings</source>
+          <target state="new">Cache Settings</target>
+        </trans-unit>
+        <trans-unit id="OutputCacheProvider.Text" translate="yes" xml:space="preserve">
+          <source>Output Cache Provider</source>
+          <target state="new">Output Cache Provider</target>
+        </trans-unit>
+        <trans-unit id="OutputCacheProvider_tooltip.Text" translate="yes" xml:space="preserve">
+          <source>Select the provider to use for this page.</source>
+          <target state="new">Select the provider to use for this page.</target>
+        </trans-unit>
+        <trans-unit id="CacheDuration.Text" translate="yes" xml:space="preserve">
+          <source>Cache Duration (seconds)</source>
+          <target state="new">Cache Duration (seconds)</target>
+        </trans-unit>
+        <trans-unit id="CacheDuration_tooltip.Text" translate="yes" xml:space="preserve">
+          <source>Enter the duration (in seconds) to cache the page for. This must be an integer.</source>
+          <target state="new">Enter the duration (in seconds) to cache the page for. This must be an integer.</target>
+        </trans-unit>
+        <trans-unit id="IncludeExcludeParams.Text" translate="yes" xml:space="preserve">
+          <source>Include / Exclude Params by default</source>
+          <target state="new">Include / Exclude Params by default</target>
+        </trans-unit>
+        <trans-unit id="IncludeExcludeParams_tooltip.Text" translate="yes" xml:space="preserve">
+          <source>If set to INCLUDE, all querystring parameter value variations will result in a new item in the output cache. If set to EXCLUDE, querystring parameters will not be used to vary the cached page.</source>
+          <target state="new">If set to INCLUDE, all querystring parameter value variations will result in a new item in the output cache. If set to EXCLUDE, querystring parameters will not be used to vary the cached page.</target>
+        </trans-unit>
+        <trans-unit id="IncludeParamsInCacheValidation.Text" translate="yes" xml:space="preserve">
+          <source>Include Params In Cache Validation</source>
+          <target state="new">Include Params In Cache Validation</target>
+        </trans-unit>
+        <trans-unit id="IncludeParamsInCacheValidation_tooltip.Text" translate="yes" xml:space="preserve">
+          <source>A list of querystring parameter names (separated by commas) to be INCLUDED in the variations of cached pages. This setting is only valid when the default above is set to EXCLUDE querystring parameters from cached page variations.</source>
+          <target state="new">A list of querystring parameter names (separated by commas) to be INCLUDED in the variations of cached pages. This setting is only valid when the default above is set to EXCLUDE querystring parameters from cached page variations.</target>
+        </trans-unit>
+        <trans-unit id="ExcludeParamsInCacheValidation.Text" translate="yes" xml:space="preserve">
+          <source>Exclude Params In Cache Validation</source>
+          <target state="new">Exclude Params In Cache Validation</target>
+        </trans-unit>
+        <trans-unit id="ExcludeParamsInCacheValidation_tooltip.Text" translate="yes" xml:space="preserve">
+          <source>A list of querystring parameter names (separated by commas) to be EXCLUDED from the variations of cached pages. This setting is only valid when the default above is set to INCLUDE querystring parameters from cached page variations.</source>
+          <target state="new">A list of querystring parameter names (separated by commas) to be EXCLUDED from the variations of cached pages. This setting is only valid when the default above is set to INCLUDE querystring parameters from cached page variations.</target>
+        </trans-unit>
+        <trans-unit id="VaryByLimit.Text" translate="yes" xml:space="preserve">
+          <source>Vary By Limit</source>
+          <target state="new">Vary By Limit</target>
+        </trans-unit>
+        <trans-unit id="VaryByLimit_tooltip.Text" translate="yes" xml:space="preserve">
+          <source>Enter the maximum number of variations to cache for this page. This must be an integer. (Note, this feature prevents potential denial of service attacks.)</source>
+          <target state="new">Enter the maximum number of variations to cache for this page. This must be an integer. (Note, this feature prevents potential denial of service attacks.)</target>
+        </trans-unit>
+        <trans-unit id="ModulesOnThisPage.Text" translate="yes" xml:space="preserve">
+          <source>Modules on this page</source>
+          <target state="new">Modules on this page</target>
+        </trans-unit>
+        <trans-unit id="NoModules.Text" translate="yes" xml:space="preserve">
+          <source>This page does not have any modules.</source>
+          <target state="new">This page does not have any modules.</target>
+        </trans-unit>
+        <trans-unit id="Advanced.Text" translate="yes" xml:space="preserve">
+          <source>Advanced</source>
+          <target state="new">Advanced</target>
+        </trans-unit>
+        <trans-unit id="Appearance.Text" translate="yes" xml:space="preserve">
+          <source>Appearance</source>
+          <target state="new">Appearance</target>
+        </trans-unit>
+        <trans-unit id="CopyAppearanceToDescendantPages.Text" translate="yes" xml:space="preserve">
+          <source>Copy Appearance to Descendant Pages</source>
+          <target state="new">Copy Appearance to Descendant Pages</target>
+        </trans-unit>
+        <trans-unit id="CopyPermissionsToDescendantPages.Text" translate="yes" xml:space="preserve">
+          <source>Copy Permissions to Descendant Pages</source>
+          <target state="new">Copy Permissions to Descendant Pages</target>
+        </trans-unit>
+        <trans-unit id="Layout.Text" translate="yes" xml:space="preserve">
+          <source>Layout</source>
+          <target state="new">Layout</target>
+        </trans-unit>
+        <trans-unit id="PageContainer.Text" translate="yes" xml:space="preserve">
+          <source>Page Container</source>
+          <target state="new">Page Container</target>
+        </trans-unit>
+        <trans-unit id="PageStyleSheet.Text" translate="yes" xml:space="preserve">
+          <source>Page Stylesheet</source>
+          <target state="new">Page Stylesheet</target>
+        </trans-unit>
+        <trans-unit id="PageTheme.Text" translate="yes" xml:space="preserve">
+          <source>Page Theme</source>
+          <target state="new">Page Theme</target>
+        </trans-unit>
+        <trans-unit id="PageThemeTooltip.Text" translate="yes" xml:space="preserve">
+          <source>The selected theme will be applied to this page.</source>
+          <target state="new">The selected theme will be applied to this page.</target>
+        </trans-unit>
+        <trans-unit id="PageLayoutTooltip.Text" translate="yes" xml:space="preserve">
+          <source>The selected layout will be applied to this page.</source>
+          <target state="new">The selected layout will be applied to this page.</target>
+        </trans-unit>
+        <trans-unit id="PageContainerTooltip.Text" translate="yes" xml:space="preserve">
+          <source>The selected container will be applied to all modules on this page.</source>
+          <target state="new">The selected container will be applied to all modules on this page.</target>
+        </trans-unit>
+        <trans-unit id="PreviewThemeLayoutAndContainer.Text" translate="yes" xml:space="preserve">
+          <source>Preview Theme Layout and Container</source>
+          <target state="new">Preview Theme Layout and Container</target>
+        </trans-unit>
+        <trans-unit id="NotEmptyNameError.Text" translate="yes" xml:space="preserve">
+          <source>This field is required</source>
+          <target state="new">This field is required</target>
+        </trans-unit>
+        <trans-unit id="AddPage.Text" translate="yes" xml:space="preserve">
+          <source>Add Page</source>
+          <target state="new">Add Page</target>
+        </trans-unit>
+        <trans-unit id="PageSettings.Text" translate="yes" xml:space="preserve">
+          <source>Page Settings</source>
+          <target state="new">Page Settings</target>
+        </trans-unit>
+        <trans-unit id="AddMultiplePages.Text" translate="yes" xml:space="preserve">
+          <source>Add Multiple Pages</source>
+          <target state="new">Add Multiple Pages</target>
+        </trans-unit>
+        <trans-unit id="NameTooltip.Text" translate="yes" xml:space="preserve">
+          <source>This is the name of the Page. The text you enter will be displayed in the menu system.</source>
+          <target state="new">This is the name of the Page. The text you enter will be displayed in the menu system.</target>
+        </trans-unit>
+        <trans-unit id="DisplayInMenu.Text" translate="yes" xml:space="preserve">
+          <source>Display in Menu</source>
+          <target state="new">Display in Menu</target>
+        </trans-unit>
+        <trans-unit id="DisplayInMenuTooltip.Text" translate="yes" xml:space="preserve">
+          <source>You have the choice on whether or not to include the page in the main navigation menu. If a page is not included in the menu, you can still link to it based on its page URL.</source>
+          <target state="new">You have the choice on whether or not to include the page in the main navigation menu. If a page is not included in the menu, you can still link to it based on its page URL.</target>
+        </trans-unit>
+        <trans-unit id="Name.Text" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="EnableScheduling.Text" translate="yes" xml:space="preserve">
+          <source>Enable Scheduling</source>
+          <target state="new">Enable Scheduling</target>
+        </trans-unit>
+        <trans-unit id="EnableSchedulingTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Enable scheduling for this page.</source>
+          <target state="new">Enable scheduling for this page.</target>
+        </trans-unit>
+        <trans-unit id="StartDate.Text" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <target state="new">Start Date</target>
+        </trans-unit>
+        <trans-unit id="EndDate.Text" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <target state="new">End Date</target>
+        </trans-unit>
+        <trans-unit id="TitleTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Enter a title for the page. The title will be displayed in the browser window title.</source>
+          <target state="new">Enter a title for the page. The title will be displayed in the browser window title.</target>
+        </trans-unit>
+        <trans-unit id="Keywords.Text" translate="yes" xml:space="preserve">
+          <source>Keywords</source>
+          <target state="new">Keywords</target>
+        </trans-unit>
+        <trans-unit id="Tags.Text" translate="yes" xml:space="preserve">
+          <source>Tags</source>
+          <target state="new">Tags</target>
+        </trans-unit>
+        <trans-unit id="ExistingPage.Text" translate="yes" xml:space="preserve">
+          <source>Existing Page</source>
+          <target state="new">Existing Page</target>
+        </trans-unit>
+        <trans-unit id="ExistingPageTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Redirect to an existing page on your site.</source>
+          <target state="new">Redirect to an existing page on your site.</target>
+        </trans-unit>
+        <trans-unit id="ExternalUrl.Text" translate="yes" xml:space="preserve">
+          <source>External Url</source>
+          <target state="new">External Url</target>
+        </trans-unit>
+        <trans-unit id="ExternalUrlTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Redirect to an External URL Resource.</source>
+          <target state="new">Redirect to an External URL Resource.</target>
+        </trans-unit>
+        <trans-unit id="PermanentRedirect.Text" translate="yes" xml:space="preserve">
+          <source>Permanent Redirect</source>
+          <target state="new">Permanent Redirect</target>
+        </trans-unit>
+        <trans-unit id="PermanentRedirectTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Check this box if you want to notify the client that this page should be considered as permanently moved. This would allow SearchEngines to modify their URLs to directly link to the resource. This is ignored if the LinkType is None.</source>
+          <target state="new">Check this box if you want to notify the client that this page should be considered as permanently moved. This would allow SearchEngines to modify their URLs to directly link to the resource. This is ignored if the LinkType is None.</target>
+        </trans-unit>
+        <trans-unit id="OpenLinkInNewWindow.Text" translate="yes" xml:space="preserve">
+          <source>Open Link In New Window</source>
+          <target state="new">Open Link In New Window</target>
+        </trans-unit>
+        <trans-unit id="OpenLinkInNewWindowTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Open Link in New Browser Window</source>
+          <target state="new">Open Link in New Browser Window</target>
+        </trans-unit>
+        <trans-unit id="Save.Text" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="Details.Text" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <target state="new">Details</target>
+        </trans-unit>
+        <trans-unit id="Permissions.Text" translate="yes" xml:space="preserve">
+          <source>Permissions</source>
+          <target state="new">Permissions</target>
+        </trans-unit>
+        <trans-unit id="Modules.Text" translate="yes" xml:space="preserve">
+          <source>Modules</source>
+          <target state="new">Modules</target>
+        </trans-unit>
+        <trans-unit id="SEO.Text" translate="yes" xml:space="preserve">
+          <source>S.E.O.</source>
+          <target state="new">S.E.O.</target>
+        </trans-unit>
+        <trans-unit id="More.Text" translate="yes" xml:space="preserve">
+          <source>More</source>
+          <target state="new">More</target>
+        </trans-unit>
+        <trans-unit id="Created.Text" translate="yes" xml:space="preserve">
+          <source>Created</source>
+          <target state="new">Created</target>
+        </trans-unit>
+        <trans-unit id="CreatedValue.Text" translate="yes" xml:space="preserve">
+          <source>[CREATEDDATE] by [CREATEDUSER]</source>
+          <target state="new">[CREATEDDATE] by [CREATEDUSER]</target>
+        </trans-unit>
+        <trans-unit id="PageParent.Text" translate="yes" xml:space="preserve">
+          <source>Page Parent</source>
+          <target state="new">Page Parent</target>
+        </trans-unit>
+        <trans-unit id="Status.Text" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target state="new">Status</target>
+        </trans-unit>
+        <trans-unit id="PageType.Text" translate="yes" xml:space="preserve">
+          <source>Page Type</source>
+          <target state="new">Page Type</target>
+        </trans-unit>
+        <trans-unit id="Standard.Text" translate="yes" xml:space="preserve">
+          <source>Standard</source>
+          <target state="new">Standard</target>
+        </trans-unit>
+        <trans-unit id="Existing.Text" translate="yes" xml:space="preserve">
+          <source>Existing</source>
+          <target state="new">Existing</target>
+        </trans-unit>
+        <trans-unit id="File.Text" translate="yes" xml:space="preserve">
+          <source>File</source>
+          <target state="new">File</target>
+        </trans-unit>
+        <trans-unit id="PageStyleSheetTooltip.Text" translate="yes" xml:space="preserve">
+          <source>A stylesheet that will only be loaded for this page. The file must be located in the home directory or a sub folder of the current website.</source>
+          <target state="new">A stylesheet that will only be loaded for this page. The file must be located in the home directory or a sub folder of the current website.</target>
+        </trans-unit>
+        <trans-unit id="SetPageContainer.Text" translate="yes" xml:space="preserve">
+          <source>set page container</source>
+          <target state="new">set page container</target>
+        </trans-unit>
+        <trans-unit id="SetPageLayout.Text" translate="yes" xml:space="preserve">
+          <source>set page layout</source>
+          <target state="new">set page layout</target>
+        </trans-unit>
+        <trans-unit id="SetPageTheme.Text" translate="yes" xml:space="preserve">
+          <source>set page theme</source>
+          <target state="new">set page theme</target>
+        </trans-unit>
+        <trans-unit id="BackToPages.Text" translate="yes" xml:space="preserve">
+          <source>Back to pages</source>
+          <target state="new">Back to pages</target>
+        </trans-unit>
+        <trans-unit id="ChangesNotSaved.Text" translate="yes" xml:space="preserve">
+          <source>Changes have not been saved</source>
+          <target state="new">Changes have not been saved</target>
+        </trans-unit>
+        <trans-unit id="Pages_Seo_GeneratedByAutomatic.Text" translate="yes" xml:space="preserve">
+          <source>Automatic</source>
+          <target state="new">Automatic</target>
+        </trans-unit>
+        <trans-unit id="CopyAppearanceToDescendantPagesSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Appearance has been copy to descendant pages successfully</source>
+          <target state="new">Appearance has been copy to descendant pages successfully</target>
+        </trans-unit>
+        <trans-unit id="CopyPermissionsToDescendantPagesSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Permissions have been copy to descendant pages successfully</source>
+          <target state="new">Permissions have been copy to descendant pages successfully</target>
+        </trans-unit>
+        <trans-unit id="DeletePageModuleSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Module "[MODULETITLE]" has been deleted successfully</source>
+          <target state="new">Module "[MODULETITLE]" has been deleted successfully</target>
+        </trans-unit>
+        <trans-unit id="BulkPageSettings.Text" translate="yes" xml:space="preserve">
+          <source>Bulk page settings</source>
+          <target state="new">Bulk page settings</target>
+        </trans-unit>
+        <trans-unit id="BulkPagesToAdd.Text" translate="yes" xml:space="preserve">
+          <source>Bulk pages to add</source>
+          <target state="new">Bulk pages to add</target>
+        </trans-unit>
+        <trans-unit id="AddPages.Text" translate="yes" xml:space="preserve">
+          <source>Add Pages</source>
+          <target state="new">Add Pages</target>
+        </trans-unit>
+        <trans-unit id="NoContainers.Text" translate="yes" xml:space="preserve">
+          <source>This Theme does not have any Containers</source>
+          <target state="new">This Theme does not have any Containers</target>
+        </trans-unit>
+        <trans-unit id="NoLayouts.Text" translate="yes" xml:space="preserve">
+          <source>This Theme does not have any Layouts</source>
+          <target state="new">This Theme does not have any Layouts</target>
+        </trans-unit>
+        <trans-unit id="NoThemes.Text" translate="yes" xml:space="preserve">
+          <source>Your site does not have any Themes</source>
+          <target state="new">Your site does not have any Themes</target>
+        </trans-unit>
+        <trans-unit id="NoThemeSelectedForContainers.Text" translate="yes" xml:space="preserve">
+          <source>Please, select a theme to load containers</source>
+          <target state="new">Please, select a theme to load containers</target>
+        </trans-unit>
+        <trans-unit id="NoThemeSelectedForLayouts.Text" translate="yes" xml:space="preserve">
+          <source>Please, select a theme to load layouts</source>
+          <target state="new">Please, select a theme to load layouts</target>
+        </trans-unit>
+        <trans-unit id="PleaseSelectLayoutContainer.Text" translate="yes" xml:space="preserve">
+          <source>Please, you must select a layout and a container to perform this operation.</source>
+          <target state="new">Please, you must select a layout and a container to perform this operation.</target>
+        </trans-unit>
+        <trans-unit id="CancelWithoutSaving.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to close? Any changes will be lost.</source>
+          <target state="new">Are you sure you want to close? Any changes will be lost.</target>
+        </trans-unit>
+        <trans-unit id="PathDuplicateWithAlias.Text" translate="yes" xml:space="preserve">
+          <source>There is already a page with the same name, {0} at the same URL path {1}.</source>
+          <target state="new">There is already a page with the same name, {0} at the same URL path {1}.</target>
+        </trans-unit>
+        <trans-unit id="TabExists.Text" translate="yes" xml:space="preserve">
+          <source>The Page Name you chose is already being used for another page at the same level of the page hierarchy.</source>
+          <target state="new">The Page Name you chose is already being used for another page at the same level of the page hierarchy.</target>
+        </trans-unit>
+        <trans-unit id="TabRecycled.Text" translate="yes" xml:space="preserve">
+          <source>A page with this name exists in the Recycle Bin.  To restore this page use the Recycle Bin.</source>
+          <target state="new">A page with this name exists in the Recycle Bin.  To restore this page use the Recycle Bin.</target>
+        </trans-unit>
+        <trans-unit id="BulkPagesLabel.Text" translate="yes" xml:space="preserve">
+          <source>One page per line, prepended with "&gt;" to create hierarchy</source>
+          <target state="new">One page per line, prepended with "&gt;" to create hierarchy</target>
+        </trans-unit>
+        <trans-unit id="BulkPageResponseTotalMessage.Text" translate="yes" xml:space="preserve">
+          <source>[PAGES_CREATED] of [PAGES_TOTAL] pages were created.</source>
+          <target state="new">[PAGES_CREATED] of [PAGES_TOTAL] pages were created.</target>
+        </trans-unit>
+        <trans-unit id="System.Text" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="new">System</target>
+        </trans-unit>
+        <trans-unit id="EmptyTabName.Text" translate="yes" xml:space="preserve">
+          <source>Tab Name is Empty</source>
+          <target state="new">Tab Name is Empty</target>
+        </trans-unit>
+        <trans-unit id="InvalidTabName.Text" translate="yes" xml:space="preserve">
+          <source>{0} is an invalid Page Title.</source>
+          <target state="new">{0} is an invalid Page Title.</target>
+        </trans-unit>
+        <trans-unit id="CustomUrlPathCleaned.Error" translate="yes" xml:space="preserve">
+          <source>The Page URL entered contains characters which cannot be used in a URL or are illegal characters for a URL.   These characters have been removed.  Click the Update button again to accept the modified URL.<it id="1" pos="open">&lt;br&gt;</it>[NOTE: The illegal characters list is the following: <it id="2" pos="open">&lt;&gt;</it>\?:&amp;=+|%# ]</source>
+          <target state="new">The Page URL entered contains characters which cannot be used in a URL or are illegal characters for a URL.   These characters have been removed.  Click the Update button again to accept the modified URL.<it id="1" pos="open">&lt;br&gt;</it>[NOTE: The illegal characters list is the following: <it id="2" pos="open">&lt;&gt;</it>\?:&amp;=+|%# ]</target>
+        </trans-unit>
+        <trans-unit id="DuplicateUrl.Error" translate="yes" xml:space="preserve">
+          <source>The URL is a duplicate of an existing URL.</source>
+          <target state="new">The URL is a duplicate of an existing URL.</target>
+        </trans-unit>
+        <trans-unit id="InvalidRequest.Error" translate="yes" xml:space="preserve">
+          <source>The request is invalid</source>
+          <target state="new">The request is invalid</target>
+        </trans-unit>
+        <trans-unit id="Pages_Seo_QueryString.Help" translate="yes" xml:space="preserve">
+          <source>Add an optional Querystring to the Redirect URL to match on a URL with a Path and any matching Querystring parameters. The Querystring is the segment of the URL to the right of the first ? in the URL. e.g. example.com/url-to-redirect?id=123</source>
+          <target state="new">Add an optional Querystring to the Redirect URL to match on a URL with a Path and any matching Querystring parameters. The Querystring is the segment of the URL to the right of the first ? in the URL. e.g. example.com/url-to-redirect?id=123</target>
+        </trans-unit>
+        <trans-unit id="Pages_Seo_QueryString.Text" translate="yes" xml:space="preserve">
+          <source>Query String</source>
+          <target state="new">Query String</target>
+        </trans-unit>
+        <trans-unit id="Pages_Seo_SelectedAliasUsage.Help" translate="yes" xml:space="preserve">
+          <source>If the selected site alias is different from the primary site alias, select the usage option.</source>
+          <target state="new">If the selected site alias is different from the primary site alias, select the usage option.</target>
+        </trans-unit>
+        <trans-unit id="Pages_Seo_SelectedAliasUsage.Text" translate="yes" xml:space="preserve">
+          <source>Selected Site Alias Usage</source>
+          <target state="new">Selected Site Alias Usage</target>
+        </trans-unit>
+        <trans-unit id="Pages_Seo_SelectedAliasUsageOptionPageAndChildPages.Text" translate="yes" xml:space="preserve">
+          <source>Page and Child Pages</source>
+          <target state="new">Page and Child Pages</target>
+        </trans-unit>
+        <trans-unit id="Pages_Seo_SelectedAliasUsageOptionSameAsParent.Text" translate="yes" xml:space="preserve">
+          <source>Same as Parent Page</source>
+          <target state="new">Same as Parent Page</target>
+        </trans-unit>
+        <trans-unit id="Pages_Seo_SelectedAliasUsageOptionThisPageOnly.Text" translate="yes" xml:space="preserve">
+          <source>This page only</source>
+          <target state="new">This page only</target>
+        </trans-unit>
+        <trans-unit id="Pages_Seo_SiteAlias.Help" translate="yes" xml:space="preserve">
+          <source>Select the alias for the page to use a specific alias.</source>
+          <target state="new">Select the alias for the page to use a specific alias.</target>
+        </trans-unit>
+        <trans-unit id="Pages_Seo_SiteAlias.Text" translate="yes" xml:space="preserve">
+          <source>Site Alias</source>
+          <target state="new">Site Alias</target>
+        </trans-unit>
+        <trans-unit id="Pages_Seo_UrlPath.Help" translate="yes" xml:space="preserve">
+          <source>Specify the path for the URL. Do not enter http:// or the site alias.</source>
+          <target state="new">Specify the path for the URL. Do not enter http:// or the site alias.</target>
+        </trans-unit>
+        <trans-unit id="Pages_Seo_UrlPath.Text" translate="yes" xml:space="preserve">
+          <source>URL Path</source>
+          <target state="new">URL Path</target>
+        </trans-unit>
+        <trans-unit id="Pages_Seo_UrlType.Help" translate="yes" xml:space="preserve">
+          <source>Select 'Active' or 'Redirect'. Active means the URL will be used as the URL for the page, and will return a HTTP status code of 200. 'Redirect' means the entered URL will be redirected to the Active URL for the current page.</source>
+          <target state="new">Select 'Active' or 'Redirect'. Active means the URL will be used as the URL for the page, and will return a HTTP status code of 200. 'Redirect' means the entered URL will be redirected to the Active URL for the current page.</target>
+        </trans-unit>
+        <trans-unit id="Pages_Seo_UrlType.Text" translate="yes" xml:space="preserve">
+          <source>URL Type</source>
+          <target state="new">URL Type</target>
+        </trans-unit>
+        <trans-unit id="UrlPathNotUnique.Error" translate="yes" xml:space="preserve">
+          <source>The submitted URL is not available.  If you wish to accept the suggested alternative, please click Save.</source>
+          <target state="new">The submitted URL is not available.  If you wish to accept the suggested alternative, please click Save.</target>
+        </trans-unit>
+        <trans-unit id="Pages_Seo_DeleteWarningMessage.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to remove this URL?</source>
+          <target state="new">Are you sure you want to remove this URL?</target>
+        </trans-unit>
+        <trans-unit id="NoneSpecified.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt; None Specified &gt;</it> </source>
+          <target state="new"><it id="1" pos="open">&lt; None Specified &gt;</it> </target>
+        </trans-unit>
+        <trans-unit id="CannotCopyPermissionsToDescendantPages.Text" translate="yes" xml:space="preserve">
+          <source>You do not have permission to copy permissions to descendant pages</source>
+          <target state="new">You do not have permission to copy permissions to descendant pages</target>
+        </trans-unit>
+        <trans-unit id="SaveAsTemplate.Text" translate="yes" xml:space="preserve">
+          <source>Save as Template</source>
+          <target state="new">Save as Template</target>
+        </trans-unit>
+        <trans-unit id="BackToPageSettings.Text" translate="yes" xml:space="preserve">
+          <source>Back to page settings</source>
+          <target state="new">Back to page settings</target>
+        </trans-unit>
+        <trans-unit id="DuplicatePage.Text" translate="yes" xml:space="preserve">
+          <source>Duplicate Page</source>
+          <target state="new">Duplicate Page</target>
+        </trans-unit>
+        <trans-unit id="BranchParent.Text" translate="yes" xml:space="preserve">
+          <source>Branch Parent</source>
+          <target state="new">Branch Parent</target>
+        </trans-unit>
+        <trans-unit id="ModuleSettings.Text" translate="yes" xml:space="preserve">
+          <source>Module Settings</source>
+          <target state="new">Module Settings</target>
+        </trans-unit>
+        <trans-unit id="TopPage.Text" translate="yes" xml:space="preserve">
+          <source>Top Page</source>
+          <target state="new">Top Page</target>
+        </trans-unit>
+        <trans-unit id="Folder.Text" translate="yes" xml:space="preserve">
+          <source>Folder</source>
+          <target state="new">Folder</target>
+        </trans-unit>
+        <trans-unit id="TemplateName.Text" translate="yes" xml:space="preserve">
+          <source>Template Name</source>
+          <target state="new">Template Name</target>
+        </trans-unit>
+        <trans-unit id="IncludeContent.Text" translate="yes" xml:space="preserve">
+          <source>Include Content</source>
+          <target state="new">Include Content</target>
+        </trans-unit>
+        <trans-unit id="FolderTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Select the export folder where the template will be saved.</source>
+          <target state="new">Select the export folder where the template will be saved.</target>
+        </trans-unit>
+        <trans-unit id="TemplateNameTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Enter a name for the page template.</source>
+          <target state="new">Enter a name for the page template.</target>
+        </trans-unit>
+        <trans-unit id="TemplateDescriptionTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Enter a description of this template.</source>
+          <target state="new">Enter a description of this template.</target>
+        </trans-unit>
+        <trans-unit id="IncludeContentTooltip.Text" translate="yes" xml:space="preserve">
+          <source>Check this box to include the module content.</source>
+          <target state="new">Check this box to include the module content.</target>
+        </trans-unit>
+        <trans-unit id="SearchFolders.Text" translate="yes" xml:space="preserve">
+          <source>Search Folders</source>
+          <target state="new">Search Folders</target>
+        </trans-unit>
+        <trans-unit id="ExportedMessage.Text" translate="yes" xml:space="preserve">
+          <source>The page template has been created to {0}</source>
+          <target state="new">The page template has been created to {0}</target>
+        </trans-unit>
+        <trans-unit id="MakeNeutral.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Page cannot be converted to a neutral culture, because there are child pages.</source>
+          <target state="new">Page cannot be converted to a neutral culture, because there are child pages.</target>
+        </trans-unit>
+        <trans-unit id="Detached.Text" translate="yes" xml:space="preserve">
+          <source>Detached {0}</source>
+          <target state="new">Detached {0}</target>
+        </trans-unit>
+        <trans-unit id="ModuleDeleted.Text" translate="yes" xml:space="preserve">
+          <source>This module is deleted, and exists in the recycle bin.</source>
+          <target state="new">This module is deleted, and exists in the recycle bin.</target>
+        </trans-unit>
+        <trans-unit id="ModuleInfo.Text" translate="yes" xml:space="preserve">
+          <source>Module: {0}&lt;br/&gt;ModuleTitle: {1}&lt;br/&gt;Pane: {2}</source>
+          <target state="new">Module: {0}&lt;br/&gt;ModuleTitle: {1}&lt;br/&gt;Pane: {2}</target>
+        </trans-unit>
+        <trans-unit id="ModuleInfoForNonAdmins.Text" translate="yes" xml:space="preserve">
+          <source>You do not have enough permissions to edit the title of this module.</source>
+          <target state="new">You do not have enough permissions to edit the title of this module.</target>
+        </trans-unit>
+        <trans-unit id="NotTranslated.Text" translate="yes" xml:space="preserve">
+          <source>Not translated {0}</source>
+          <target state="new">Not translated {0}</target>
+        </trans-unit>
+        <trans-unit id="Reference.Text" translate="yes" xml:space="preserve">
+          <source>Reference {0}</source>
+          <target state="new">Reference {0}</target>
+        </trans-unit>
+        <trans-unit id="ReferenceDefault.Text" translate="yes" xml:space="preserve">
+          <source>Reference Default Language {0}</source>
+          <target state="new">Reference Default Language {0}</target>
+        </trans-unit>
+        <trans-unit id="Translated.Text" translate="yes" xml:space="preserve">
+          <source>Translated {0}</source>
+          <target state="new">Translated {0}</target>
+        </trans-unit>
+        <trans-unit id="Default.Text" translate="yes" xml:space="preserve">
+          <source>[Default Language]</source>
+          <target state="new">[Default Language]</target>
+        </trans-unit>
+        <trans-unit id="NotActive.Text" translate="yes" xml:space="preserve">
+          <source>[Language is not Active]</source>
+          <target state="new">[Language is not Active]</target>
+        </trans-unit>
+        <trans-unit id="TranslationMessageConfirmMessage.Error" translate="yes" xml:space="preserve">
+          <source>Something went wrong notifying the Translators.</source>
+          <target state="new">Something went wrong notifying the Translators.</target>
+        </trans-unit>
+        <trans-unit id="TranslationMessageConfirmMessage.Text" translate="yes" xml:space="preserve">
+          <source>Translators successfully notified.</source>
+          <target state="new">Translators successfully notified.</target>
+        </trans-unit>
+        <trans-unit id="NewContentMessage.Body" translate="yes" xml:space="preserve">
+          <source>The following page has new content ready for translation&lt;br/&gt;Page: <bpt id="1">&lt;a href='{1}'&gt;</bpt>{0}<ept id="1">&lt;/a&gt;</ept>&lt;br/&gt;{2}</source>
+          <target state="new">The following page has new content ready for translation&lt;br/&gt;Page: <bpt id="1">&lt;a href='{1}'&gt;</bpt>{0}<ept id="1">&lt;/a&gt;</ept>&lt;br/&gt;{2}</target>
+        </trans-unit>
+        <trans-unit id="NewContentMessage.Subject" translate="yes" xml:space="preserve">
+          <source>New Content Ready for Translation</source>
+          <target state="new">New Content Ready for Translation</target>
+        </trans-unit>
+        <trans-unit id="MakePagesTranslatable.Text" translate="yes" xml:space="preserve">
+          <source>Make Page Translatable</source>
+          <target state="new">Make Page Translatable</target>
+        </trans-unit>
+        <trans-unit id="MakePageNeutral.Text" translate="yes" xml:space="preserve">
+          <source>Make Page Neutral</source>
+          <target state="new">Make Page Neutral</target>
+        </trans-unit>
+        <trans-unit id="Site.Text" translate="yes" xml:space="preserve">
+          <source>Site</source>
+          <target state="new">Site</target>
+        </trans-unit>
+        <trans-unit id="BadTemplate.Text" translate="yes" xml:space="preserve">
+          <source>The page template is not a valid xml document.  Please select a different template and try again.</source>
+          <target state="new">The page template is not a valid xml document.  Please select a different template and try again.</target>
+        </trans-unit>
+        <trans-unit id="AddMissingLanguages.Text" translate="yes" xml:space="preserve">
+          <source>Add Missing Languages</source>
+          <target state="new">Add Missing Languages</target>
+        </trans-unit>
+        <trans-unit id="NotifyTranslators.Text" translate="yes" xml:space="preserve">
+          <source>Notify Translators</source>
+          <target state="new">Notify Translators</target>
+        </trans-unit>
+        <trans-unit id="UpdateLocalization.Text" translate="yes" xml:space="preserve">
+          <source>Update Localization</source>
+          <target state="new">Update Localization</target>
+        </trans-unit>
+        <trans-unit id="NeutralPageText.Text" translate="yes" xml:space="preserve">
+          <source>This is a "Language Neutral" page, which means that the page will be visible in every language of the site. Language Neutral pages cannot be translated.</source>
+          <target state="new">This is a "Language Neutral" page, which means that the page will be visible in every language of the site. Language Neutral pages cannot be translated.</target>
+        </trans-unit>
+        <trans-unit id="NeutralPageClickButton.Text" translate="yes" xml:space="preserve">
+          <source>To change this to a translatable page, click the button here.</source>
+          <target state="new">To change this to a translatable page, click the button here.</target>
+        </trans-unit>
+        <trans-unit id="NotifyModalHeader.Text" translate="yes" xml:space="preserve">
+          <source>Send a notification to translators</source>
+          <target state="new">Send a notification to translators</target>
+        </trans-unit>
+        <trans-unit id="NotifyModalPlaceholder.Text" translate="yes" xml:space="preserve">
+          <source>Enter a message to send to translators</source>
+          <target state="new">Enter a message to send to translators</target>
+        </trans-unit>
+        <trans-unit id="CopyModule.Text" translate="yes" xml:space="preserve">
+          <source>Copy Module</source>
+          <target state="new">Copy Module</target>
+        </trans-unit>
+        <trans-unit id="TranslatedCheckbox.Text" translate="yes" xml:space="preserve">
+          <source>Translated</source>
+          <target state="new">Translated</target>
+        </trans-unit>
+        <trans-unit id="PublishedCheckbox.Text" translate="yes" xml:space="preserve">
+          <source>Published</source>
+          <target state="new">Published</target>
+        </trans-unit>
+        <trans-unit id="MakeNeutralWarning.Text" translate="yes" xml:space="preserve">
+          <source>This will delete all translated version of the page. Only the default culture version of the page will remain. Are you sure you want to do this?</source>
+          <target state="new">This will delete all translated version of the page. Only the default culture version of the page will remain. Are you sure you want to do this?</target>
+        </trans-unit>
+        <trans-unit id="PageUpdatedMessage.Text" translate="yes" xml:space="preserve">
+          <source>Page updated successfully</source>
+          <target state="new">Page updated successfully</target>
+        </trans-unit>
+        <trans-unit id="PageDeletedMessage.Text" translate="yes" xml:space="preserve">
+          <source>Page deleted successfully</source>
+          <target state="new">Page deleted successfully</target>
+        </trans-unit>
+        <trans-unit id="DisableLink.Text" translate="yes" xml:space="preserve">
+          <source>Disable Page</source>
+          <target state="new">Disable Page</target>
+        </trans-unit>
+        <trans-unit id="DisableLink_tooltip.Text" translate="yes" xml:space="preserve">
+          <source>If the page is disabled it cannot be clicked in any navigation menu. This option is used to provide place-holders for child menu items.</source>
+          <target state="new">If the page is disabled it cannot be clicked in any navigation menu. This option is used to provide place-holders for child menu items.</target>
+        </trans-unit>
+        <trans-unit id="Description.Text" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+        <trans-unit id="Title.Text" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <target state="new">Title</target>
+        </trans-unit>
+        <trans-unit id="AddRole.Text" translate="yes" xml:space="preserve">
+          <source>Add</source>
+          <target state="new">Add</target>
+        </trans-unit>
+        <trans-unit id="AddRolePlaceHolder.Text" translate="yes" xml:space="preserve">
+          <source>Begin typing to add a role</source>
+          <target state="new">Begin typing to add a role</target>
+        </trans-unit>
+        <trans-unit id="AddUser.Text" translate="yes" xml:space="preserve">
+          <source>Add</source>
+          <target state="new">Add</target>
+        </trans-unit>
+        <trans-unit id="AddUserPlaceHolder.Text" translate="yes" xml:space="preserve">
+          <source>Begin typing to add a user</source>
+          <target state="new">Begin typing to add a user</target>
+        </trans-unit>
+        <trans-unit id="AllGroups.Text" translate="yes" xml:space="preserve">
+          <source>[All Roles]</source>
+          <target state="new">[All Roles]</target>
+        </trans-unit>
+        <trans-unit id="EditTab.Text" translate="yes" xml:space="preserve">
+          <source>Edit</source>
+          <target state="new">Edit</target>
+        </trans-unit>
+        <trans-unit id="EmptyRole.Text" translate="yes" xml:space="preserve">
+          <source>Add a role to set permissions by role</source>
+          <target state="new">Add a role to set permissions by role</target>
+        </trans-unit>
+        <trans-unit id="EmptyUser.Text" translate="yes" xml:space="preserve">
+          <source>Add a user to set permissions by user</source>
+          <target state="new">Add a user to set permissions by user</target>
+        </trans-unit>
+        <trans-unit id="FilterByGroup.Text" translate="yes" xml:space="preserve">
+          <source>Filter By Group:</source>
+          <target state="new">Filter By Group:</target>
+        </trans-unit>
+        <trans-unit id="GlobalGroups.Text" translate="yes" xml:space="preserve">
+          <source>[Global Roles]</source>
+          <target state="new">[Global Roles]</target>
+        </trans-unit>
+        <trans-unit id="PermissionsByRole.Text" translate="yes" xml:space="preserve">
+          <source>PERMISSIONS BY ROLE</source>
+          <target state="new">PERMISSIONS BY ROLE</target>
+        </trans-unit>
+        <trans-unit id="PermissionsByUser.Text" translate="yes" xml:space="preserve">
+          <source>PERMISSIONS BY USER</source>
+          <target state="new">PERMISSIONS BY USER</target>
+        </trans-unit>
+        <trans-unit id="Role.Text" translate="yes" xml:space="preserve">
+          <source>Role</source>
+          <target state="new">Role</target>
+        </trans-unit>
+        <trans-unit id="Status_Hidden.Text" translate="yes" xml:space="preserve">
+          <source>Hidden</source>
+          <target state="new">Hidden</target>
+        </trans-unit>
+        <trans-unit id="Status_Visible.Text" translate="yes" xml:space="preserve">
+          <source>Visible</source>
+          <target state="new">Visible</target>
+        </trans-unit>
+        <trans-unit id="User.Text" translate="yes" xml:space="preserve">
+          <source>User</source>
+          <target state="new">User</target>
+        </trans-unit>
+        <trans-unit id="ViewTab.Text" translate="yes" xml:space="preserve">
+          <source>View</source>
+          <target state="new">View</target>
+        </trans-unit>
+        <trans-unit id="SiteDefault.Text" translate="yes" xml:space="preserve">
+          <source>Site Default</source>
+          <target state="new">Site Default</target>
+        </trans-unit>
+        <trans-unit id="ClearPageCache.Text" translate="yes" xml:space="preserve">
+          <source>Clear Cache - This Page</source>
+          <target state="new">Clear Cache - This Page</target>
+        </trans-unit>
+        <trans-unit id="lblCachedItemCount.Text" translate="yes" xml:space="preserve">
+          <source>Current Cache Count: {0} variations for this page</source>
+          <target state="new">Current Cache Count: {0} variations for this page</target>
+        </trans-unit>
+        <trans-unit id="addTagsPlaceholder.Text" translate="yes" xml:space="preserve">
+          <source>Add Tags</source>
+          <target state="new">Add Tags</target>
+        </trans-unit>
+        <trans-unit id="On.Text" translate="yes" xml:space="preserve">
+          <source>On</source>
+          <target state="new">On</target>
+        </trans-unit>
+        <trans-unit id="Off.Text" translate="yes" xml:space="preserve">
+          <source>Off</source>
+          <target state="new">Off</target>
+        </trans-unit>
+        <trans-unit id="ParentPage.Text" translate="yes" xml:space="preserve">
+          <source>Parent Page</source>
+          <target state="new">Parent Page</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Users.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Name.Header" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="new">Name</target>
+        </trans-unit>
+        <trans-unit id="Username.Header" translate="yes" xml:space="preserve">
+          <source>Username</source>
+          <target state="new">Username</target>
+        </trans-unit>
+        <trans-unit id="Address.Header" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <target state="new">Address</target>
+        </trans-unit>
+        <trans-unit id="Telephone.Header" translate="yes" xml:space="preserve">
+          <source>Telephone</source>
+          <target state="new">Telephone</target>
+        </trans-unit>
+        <trans-unit id="Email.Header" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <target state="new">Email</target>
+        </trans-unit>
+        <trans-unit id="LastLogin.Header" translate="yes" xml:space="preserve">
+          <source>Last Login</source>
+          <target state="new">Last Login</target>
+        </trans-unit>
+        <trans-unit id="Authorized.Header" translate="yes" xml:space="preserve">
+          <source>Authorized</source>
+          <target state="new">Authorized</target>
+        </trans-unit>
+        <trans-unit id="DeleteUnauthorized.Text" translate="yes" xml:space="preserve">
+          <source>Delete Unauthorized Users</source>
+          <target state="new">Delete Unauthorized Users</target>
+        </trans-unit>
+        <trans-unit id="AddContent.Action" translate="yes" xml:space="preserve">
+          <source>Add New User</source>
+          <target state="new">Add New User</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_.Text" translate="yes" xml:space="preserve">
+          <source>User Accounts</source>
+          <target state="new">User Accounts</target>
+        </trans-unit>
+        <trans-unit id="Search.Text" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="RecordsPage.Text" translate="yes" xml:space="preserve">
+          <source>Records Per Page:</source>
+          <target state="new">Records Per Page:</target>
+        </trans-unit>
+        <trans-unit id="First.Text" translate="yes" xml:space="preserve">
+          <source>First</source>
+          <target state="new">First</target>
+        </trans-unit>
+        <trans-unit id="Next.Text" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="new">Next</target>
+        </trans-unit>
+        <trans-unit id="Previous.Text" translate="yes" xml:space="preserve">
+          <source>Previous</source>
+          <target state="new">Previous</target>
+        </trans-unit>
+        <trans-unit id="Last.Text" translate="yes" xml:space="preserve">
+          <source>Last</source>
+          <target state="new">Last</target>
+        </trans-unit>
+        <trans-unit id="CreatedDate.Header" translate="yes" xml:space="preserve">
+          <source>Created Date</source>
+          <target state="new">Created Date</target>
+        </trans-unit>
+        <trans-unit id="DisplayDate.Text" translate="yes" xml:space="preserve">
+          <source>Display Date:</source>
+          <target state="new">Display Date:</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;h1&gt;</bpt>About the User Management Module<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Administrators can manage their registered users. This module allows you to add new users, modify existing users, delete users, and manage the security roles for users.<ept id="2">&lt;/p&gt;</ept>
+</source>
+          <target state="new"><bpt id="1">&lt;h1&gt;</bpt>About the User Management Module<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Administrators can manage their registered users. This module allows you to add new users, modify existing users, delete users, and manage the security roles for users.<ept id="2">&lt;/p&gt;</ept>
+</target>
+        </trans-unit>
+        <trans-unit id="ManageProfile.Action" translate="yes" xml:space="preserve">
+          <source>Manage Profile Properties</source>
+          <target state="new">Manage Profile Properties</target>
+        </trans-unit>
+        <trans-unit id="UserRoles.Text" translate="yes" xml:space="preserve">
+          <source>Manage Roles</source>
+          <target state="new">Manage Roles</target>
+        </trans-unit>
+        <trans-unit id="DeleteUnAuthorized.Action" translate="yes" xml:space="preserve">
+          <source>Delete Unauthorized Users</source>
+          <target state="new">Delete Unauthorized Users</target>
+        </trans-unit>
+        <trans-unit id="RemoveDeleted.Action" translate="yes" xml:space="preserve">
+          <source>Remove Deleted Users</source>
+          <target state="new">Remove Deleted Users</target>
+        </trans-unit>
+        <trans-unit id="UserSettings.Action" translate="yes" xml:space="preserve">
+          <source>User Settings</source>
+          <target state="new">User Settings</target>
+        </trans-unit>
+        <trans-unit id="FirstName.Header" translate="yes" xml:space="preserve">
+          <source>First Name</source>
+          <target state="new">First Name</target>
+        </trans-unit>
+        <trans-unit id="LastName.Header" translate="yes" xml:space="preserve">
+          <source>Last Name</source>
+          <target state="new">Last Name</target>
+        </trans-unit>
+        <trans-unit id="DisplayName.Header" translate="yes" xml:space="preserve">
+          <source>Display Name</source>
+          <target state="new">Display Name</target>
+        </trans-unit>
+        <trans-unit id="Filter.Text" translate="yes" xml:space="preserve">
+          <source>A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z</source>
+          <target state="new">A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z</target>
+        </trans-unit>
+        <trans-unit id="UserDeleted.Text" translate="yes" xml:space="preserve">
+          <source>User deleted successfully.</source>
+          <target state="new">User deleted successfully.</target>
+        </trans-unit>
+        <trans-unit id="Delete.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="Remove.Text" translate="yes" xml:space="preserve">
+          <source>Remove</source>
+          <target state="new">Remove</target>
+        </trans-unit>
+        <trans-unit id="Restore.Text" translate="yes" xml:space="preserve">
+          <source>Restore</source>
+          <target state="new">Restore</target>
+        </trans-unit>
+        <trans-unit id="Prefix.Text" translate="yes" xml:space="preserve">
+          <source>Prefix</source>
+          <target state="new">Prefix</target>
+        </trans-unit>
+        <trans-unit id="FirstName.Text" translate="yes" xml:space="preserve">
+          <source>First Name</source>
+          <target state="new">First Name</target>
+        </trans-unit>
+        <trans-unit id="LastName.Text" translate="yes" xml:space="preserve">
+          <source>Last Name</source>
+          <target state="new">Last Name</target>
+        </trans-unit>
+        <trans-unit id="MiddleName.Text" translate="yes" xml:space="preserve">
+          <source>Middle Name</source>
+          <target state="new">Middle Name</target>
+        </trans-unit>
+        <trans-unit id="Suffix.Text" translate="yes" xml:space="preserve">
+          <source>Suffix</source>
+          <target state="new">Suffix</target>
+        </trans-unit>
+        <trans-unit id="Unit.Text" translate="yes" xml:space="preserve">
+          <source>Unit</source>
+          <target state="new">Unit</target>
+        </trans-unit>
+        <trans-unit id="Street.Text" translate="yes" xml:space="preserve">
+          <source>Street</source>
+          <target state="new">Street</target>
+        </trans-unit>
+        <trans-unit id="City.Text" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <target state="new">City</target>
+        </trans-unit>
+        <trans-unit id="Region.Text" translate="yes" xml:space="preserve">
+          <source>Region</source>
+          <target state="new">Region</target>
+        </trans-unit>
+        <trans-unit id="Country.Text" translate="yes" xml:space="preserve">
+          <source>Country</source>
+          <target state="new">Country</target>
+        </trans-unit>
+        <trans-unit id="PostalCode.Text" translate="yes" xml:space="preserve">
+          <source>Postal Code</source>
+          <target state="new">Postal Code</target>
+        </trans-unit>
+        <trans-unit id="Telephone.Text" translate="yes" xml:space="preserve">
+          <source>Telephone</source>
+          <target state="new">Telephone</target>
+        </trans-unit>
+        <trans-unit id="Cell.Text" translate="yes" xml:space="preserve">
+          <source>Cell</source>
+          <target state="new">Cell</target>
+        </trans-unit>
+        <trans-unit id="Fax.Text" translate="yes" xml:space="preserve">
+          <source>Fax</source>
+          <target state="new">Fax</target>
+        </trans-unit>
+        <trans-unit id="IM.Text" translate="yes" xml:space="preserve">
+          <source>IM</source>
+          <target state="new">IM</target>
+        </trans-unit>
+        <trans-unit id="Website.Text" translate="yes" xml:space="preserve">
+          <source>Website</source>
+          <target state="new">Website</target>
+        </trans-unit>
+        <trans-unit id="Biography.Text" translate="yes" xml:space="preserve">
+          <source>Biography</source>
+          <target state="new">Biography</target>
+        </trans-unit>
+        <trans-unit id="TimeZone.Text" translate="yes" xml:space="preserve">
+          <source>Time Zone</source>
+          <target state="new">Time Zone</target>
+        </trans-unit>
+        <trans-unit id="PreferredLocale.Text" translate="yes" xml:space="preserve">
+          <source>Preferred Locale</source>
+          <target state="new">Preferred Locale</target>
+        </trans-unit>
+        <trans-unit id="Email.Text" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <target state="new">Email</target>
+        </trans-unit>
+        <trans-unit id="Username.Text" translate="yes" xml:space="preserve">
+          <source>Username</source>
+          <target state="new">Username</target>
+        </trans-unit>
+        <trans-unit id="Online.Text" translate="yes" xml:space="preserve">
+          <source>Online</source>
+          <target state="new">Online</target>
+        </trans-unit>
+        <trans-unit id="Delete.Confirm" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete this user?</source>
+          <target state="new">Are you sure you want to delete this user?</target>
+        </trans-unit>
+        <trans-unit id="Remove.Confirm" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to permanently remove this user?</source>
+          <target state="new">Are you sure you want to permanently remove this user?</target>
+        </trans-unit>
+        <trans-unit id="PreferredTimeZone.Text" translate="yes" xml:space="preserve">
+          <source>Preferred Time Zone</source>
+          <target state="new">Preferred Time Zone</target>
+        </trans-unit>
+        <trans-unit id="Restore.Confirm" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to restore this user?</source>
+          <target state="new">Are you sure you want to restore this user?</target>
+        </trans-unit>
+        <trans-unit id="DisplayName.Text" translate="yes" xml:space="preserve">
+          <source>Display Name</source>
+          <target state="new">Display Name</target>
+        </trans-unit>
+        <trans-unit id="PagerPageSize.Text" translate="yes" xml:space="preserve">
+          <source>Items per page:</source>
+          <target state="new">Items per page:</target>
+        </trans-unit>
+        <trans-unit id="PagerTextFormat.Text" translate="yes" xml:space="preserve">
+          <source>{4} Page {0} of {1}, users {2} to {3} of {5}</source>
+          <target state="new">{4} Page {0} of {1}, users {2} to {3} of {5}</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

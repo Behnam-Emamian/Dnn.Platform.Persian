@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Tags.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Add.Text" translate="yes" xml:space="preserve">
+          <source>Add Tags</source>
+          <target state="new">Add Tags</target>
+        </trans-unit>
+        <trans-unit id="Add.ToolTip" translate="yes" xml:space="preserve">
+          <source>Click this link to add a tag.</source>
+          <target state="new">Click this link to add a tag.</target>
+        </trans-unit>
+        <trans-unit id="Cancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="Cancel.ToolTip" translate="yes" xml:space="preserve">
+          <source>Click to cancel editing without saving.</source>
+          <target state="new">Click to cancel editing without saving.</target>
+        </trans-unit>
+        <trans-unit id="Category.ToolTip" translate="yes" xml:space="preserve">
+          <source>Categories</source>
+          <target state="new">Categories</target>
+        </trans-unit>
+        <trans-unit id="Save.Text" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="Save.ToolTip" translate="yes" xml:space="preserve">
+          <source>Click to save the tags.</source>
+          <target state="new">Click to save the tags.</target>
+        </trans-unit>
+        <trans-unit id="Tag.ToolTip" translate="yes" xml:space="preserve">
+          <source>Tags</source>
+          <target state="new">Tags</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

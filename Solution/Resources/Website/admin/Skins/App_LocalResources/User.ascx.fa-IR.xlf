@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="User.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="CheckMessages.Text" translate="yes" xml:space="preserve">
+          <source>Check Messages</source>
+          <target state="new">Check Messages</target>
+        </trans-unit>
+        <trans-unit id="CheckNotifications.Text" translate="yes" xml:space="preserve">
+          <source>Check Notifications</source>
+          <target state="new">Check Notifications</target>
+        </trans-unit>
+        <trans-unit id="Messages.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;span&gt;</bpt>{0}<ept id="1">&lt;/span&gt;</ept><bpt id="2">&lt;strong&gt;</bpt> Messages<ept id="2">&lt;/strong&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;span&gt;</bpt>{0}<ept id="1">&lt;/span&gt;</ept><bpt id="2">&lt;strong&gt;</bpt> Messages<ept id="2">&lt;/strong&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="NewMessages.Text" translate="yes" xml:space="preserve">
+          <source> ({0})</source>
+          <target state="new"> ({0})</target>
+        </trans-unit>
+        <trans-unit id="NoMessages.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;strong&gt;</bpt> Messages<ept id="1">&lt;/strong&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;strong&gt;</bpt> Messages<ept id="1">&lt;/strong&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="NoNotifications.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;strong&gt;</bpt> Notifications<ept id="1">&lt;/strong&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;strong&gt;</bpt> Notifications<ept id="1">&lt;/strong&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="Notifications.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;span&gt;</bpt>{0}<ept id="1">&lt;/span&gt;</ept><bpt id="2">&lt;strong&gt;</bpt> Notifications<ept id="2">&lt;/strong&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;span&gt;</bpt>{0}<ept id="1">&lt;/span&gt;</ept><bpt id="2">&lt;strong&gt;</bpt> Notifications<ept id="2">&lt;/strong&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ProfileAvatar.Text" translate="yes" xml:space="preserve">
+          <source>Profile Avatar</source>
+          <target state="new">Profile Avatar</target>
+        </trans-unit>
+        <trans-unit id="Register.Text" translate="yes" xml:space="preserve">
+          <source>Register</source>
+          <target state="new">Register</target>
+        </trans-unit>
+        <trans-unit id="ToolTip.Text" translate="yes" xml:space="preserve">
+          <source>Click here to visit your profile page.</source>
+          <target state="new">Click here to visit your profile page.</target>
+        </trans-unit>
+        <trans-unit id="ToolTipNewMessages.Text" translate="yes" xml:space="preserve">
+          <source>You have {0} new message(s). Click here to visit your profile page.</source>
+          <target state="new">You have {0} new message(s). Click here to visit your profile page.</target>
+        </trans-unit>
+        <trans-unit id="VisitMyProfile.Text" translate="yes" xml:space="preserve">
+          <source>Visit My Profile</source>
+          <target state="new">Visit My Profile</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

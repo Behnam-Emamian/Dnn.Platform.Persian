@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="ExportImport.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="InvalidPortal.Text" translate="yes" xml:space="preserve">
+          <source>Invalid portal.</source>
+          <target state="new">Invalid portal.</target>
+        </trans-unit>
+        <trans-unit id="JobNotExist.Text" translate="yes" xml:space="preserve">
+          <source>No such job!</source>
+          <target state="new">No such job!</target>
+        </trans-unit>
+        <trans-unit id="JobStatus_Cancelled.Text" translate="yes" xml:space="preserve">
+          <source>Cancelled</source>
+          <target state="new">Cancelled</target>
+        </trans-unit>
+        <trans-unit id="JobStatus_DoneFailure.Text" translate="yes" xml:space="preserve">
+          <source>Failed</source>
+          <target state="new">Failed</target>
+        </trans-unit>
+        <trans-unit id="JobStatus_DoneSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Successful</source>
+          <target state="new">Successful</target>
+        </trans-unit>
+        <trans-unit id="JobStatus_InProgress.Text" translate="yes" xml:space="preserve">
+          <source>In Progress</source>
+          <target state="new">In Progress</target>
+        </trans-unit>
+        <trans-unit id="JobStatus_Submitted.Text" translate="yes" xml:space="preserve">
+          <source>Submitted</source>
+          <target state="new">Submitted</target>
+        </trans-unit>
+        <trans-unit id="JobType_Export.Text" translate="yes" xml:space="preserve">
+          <source>Site Export</source>
+          <target state="new">Site Export</target>
+        </trans-unit>
+        <trans-unit id="JobType_Import.Text" translate="yes" xml:space="preserve">
+          <source>Site Import</source>
+          <target state="new">Site Import</target>
+        </trans-unit>
+        <trans-unit id="NotPortalAdmin.Text" translate="yes" xml:space="preserve">
+          <source>User is not a portal administrator</source>
+          <target state="new">User is not a portal administrator</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

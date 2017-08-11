@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="SharedResources.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Accessibility.Text" translate="yes" xml:space="preserve">
+          <source>Accessibility</source>
+          <target state="new">Accessibility</target>
+        </trans-unit>
+        <trans-unit id="Cancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="CreateGroup.Text" translate="yes" xml:space="preserve">
+          <source>Create A Group</source>
+          <target state="new">Create A Group</target>
+        </trans-unit>
+        <trans-unit id="CreateGroupButton.Text" translate="yes" xml:space="preserve">
+          <source>Create Group</source>
+          <target state="new">Create Group</target>
+        </trans-unit>
+        <trans-unit id="Description.Text" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+        <trans-unit id="documents.Text" translate="yes" xml:space="preserve">
+          <source>documents</source>
+          <target state="new">documents</target>
+        </trans-unit>
+        <trans-unit id="GroupName.Required" translate="yes" xml:space="preserve">
+          <source>Group name is required. </source>
+          <target state="new">Group name is required. </target>
+        </trans-unit>
+        <trans-unit id="GroupName.Text" translate="yes" xml:space="preserve">
+          <source>Group Name</source>
+          <target state="new">Group Name</target>
+        </trans-unit>
+        <trans-unit id="GroupPicture.Help" translate="yes" xml:space="preserve">
+          <source>Select an image from your computer, maximum file size is 2.5MB</source>
+          <target state="new">Select an image from your computer, maximum file size is 2.5MB</target>
+        </trans-unit>
+        <trans-unit id="GroupPicture.Text" translate="yes" xml:space="preserve">
+          <source>Group Picture</source>
+          <target state="new">Group Picture</target>
+        </trans-unit>
+        <trans-unit id="GroupViewTemplate.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div class="GroupViewTop"&gt;</bpt>
+    <bpt id="2">&lt;div class="dgdAvatar dnnLeft"&gt;</bpt><bpt id="3">&lt;img src="[groupitem:PhotoURL]" alt="[groupitem:GroupName]"&gt;</bpt><ept id="3">&lt;/img&gt;</ept><ept id="2">&lt;/div&gt;</ept>
+    <bpt id="4">&lt;div class="GroupViewHeader"&gt;</bpt>
+        <bpt id="5">&lt;h1&gt;</bpt>[groupitem:GroupName]<ept id="5">&lt;/h1&gt;</ept>
+        <bpt id="6">&lt;p&gt;</bpt>[groupitem:GroupDescription]<ept id="6">&lt;/p&gt;</ept>
+    <ept id="4">&lt;/div&gt;</ept>
+<bpt id="7">&lt;div class="dnnRight dnnClear"&gt;</bpt>
+[IsOwner]
+[GROUPEDITBUTTON] 
+[/IsOwner]
+[IsMember]
+[IsNotOwner]
+ <bpt id="8">&lt;a href="#" id="LeaveGroup-[groupitem:RoleId]"&gt;</bpt>{resx:LeaveGroup}<ept id="8">&lt;/a&gt;</ept>
+[/IsNotOwner]
+[/IsMember]
+[IsNotMember]
+[AllowJoin]
+ <bpt id="9">&lt;a href="#" id="JoinGroup-[groupitem:RoleId]" groupid="[groupitem:RoleId]" groupViewTabId ="[GroupViewTabId]"&gt;</bpt>{resx:JoinGroup}<ept id="9">&lt;/a&gt;</ept>
+[/AllowJoin]
+[/IsNotMember]
+[IsPendingMember]
+ <bpt id="10">&lt;i&gt;</bpt>Membership Pending<ept id="10">&lt;/i&gt;</ept>
+[/IsPendingMember]
+<ept id="7">&lt;/div&gt;</ept>
+<ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div class="GroupViewTop"&gt;</bpt>
+    <bpt id="2">&lt;div class="dgdAvatar dnnLeft"&gt;</bpt><bpt id="3">&lt;img src="[groupitem:PhotoURL]" alt="[groupitem:GroupName]"&gt;</bpt><ept id="3">&lt;/img&gt;</ept><ept id="2">&lt;/div&gt;</ept>
+    <bpt id="4">&lt;div class="GroupViewHeader"&gt;</bpt>
+        <bpt id="5">&lt;h1&gt;</bpt>[groupitem:GroupName]<ept id="5">&lt;/h1&gt;</ept>
+        <bpt id="6">&lt;p&gt;</bpt>[groupitem:GroupDescription]<ept id="6">&lt;/p&gt;</ept>
+    <ept id="4">&lt;/div&gt;</ept>
+<bpt id="7">&lt;div class="dnnRight dnnClear"&gt;</bpt>
+[IsOwner]
+[GROUPEDITBUTTON] 
+[/IsOwner]
+[IsMember]
+[IsNotOwner]
+ <bpt id="8">&lt;a href="#" id="LeaveGroup-[groupitem:RoleId]"&gt;</bpt>{resx:LeaveGroup}<ept id="8">&lt;/a&gt;</ept>
+[/IsNotOwner]
+[/IsMember]
+[IsNotMember]
+[AllowJoin]
+ <bpt id="9">&lt;a href="#" id="JoinGroup-[groupitem:RoleId]" groupid="[groupitem:RoleId]" groupViewTabId ="[GroupViewTabId]"&gt;</bpt>{resx:JoinGroup}<ept id="9">&lt;/a&gt;</ept>
+[/AllowJoin]
+[/IsNotMember]
+[IsPendingMember]
+ <bpt id="10">&lt;i&gt;</bpt>Membership Pending<ept id="10">&lt;/i&gt;</ept>
+[/IsPendingMember]
+<ept id="7">&lt;/div&gt;</ept>
+<ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="Join.Text" translate="yes" xml:space="preserve">
+          <source>Join</source>
+          <target state="new">Join</target>
+        </trans-unit>
+        <trans-unit id="members.Text" translate="yes" xml:space="preserve">
+          <source>members</source>
+          <target state="new">members</target>
+        </trans-unit>
+        <trans-unit id="photos.Text" translate="yes" xml:space="preserve">
+          <source>photos</source>
+          <target state="new">photos</target>
+        </trans-unit>
+        <trans-unit id="posts.Text" translate="yes" xml:space="preserve">
+          <source>posts</source>
+          <target state="new">posts</target>
+        </trans-unit>
+        <trans-unit id="Private.Help" translate="yes" xml:space="preserve">
+          <source>(no one can see but members)</source>
+          <target state="new">(no one can see but members)</target>
+        </trans-unit>
+        <trans-unit id="Private.Text" translate="yes" xml:space="preserve">
+          <source>Private</source>
+          <target state="new">Private</target>
+        </trans-unit>
+        <trans-unit id="Public.Help" translate="yes" xml:space="preserve">
+          <source>(everyone can see and join)</source>
+          <target state="new">(everyone can see and join)</target>
+        </trans-unit>
+        <trans-unit id="Public.Text" translate="yes" xml:space="preserve">
+          <source>Public</source>
+          <target state="new">Public</target>
+        </trans-unit>
+        <trans-unit id="Remove.Text" translate="yes" xml:space="preserve">
+          <source>Remove</source>
+          <target state="new">Remove</target>
+        </trans-unit>
+        <trans-unit id="RequiredFields.Text" translate="yes" xml:space="preserve">
+          <source>Indicates required fields</source>
+          <target state="new">Indicates required fields</target>
+        </trans-unit>
+        <trans-unit id="GroupListTemplate.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div class="dgdGroupQuickInfoWrap dnnClear"&gt;</bpt>
+                    <bpt id="2">&lt;div class="dgdAvatar dnnLeft"&gt;</bpt><bpt id="3">&lt;a href="[groupviewurl]"&gt;</bpt><bpt id="4">&lt;img src="[groupitem:PhotoURL]" alt="[groupitem:GroupName]"&gt;</bpt><ept id="4">&lt;/img&gt;</ept><ept id="3">&lt;/a&gt;</ept><ept id="2">&lt;/div&gt;</ept>
+                    <bpt id="5">&lt;div class="dgdGroupQuickInfo dnnLeft"&gt;</bpt>
+                        <bpt id="6">&lt;h3&gt;</bpt><bpt id="7">&lt;a href="[groupviewurl]" title="[groupitem:GroupName]"&gt;</bpt>[groupitem:GroupName]<ept id="7">&lt;/a&gt;</ept><ept id="6">&lt;/h3&gt;</ept>
+                        <bpt id="8">&lt;p&gt;</bpt>[groupitem:GroupDescription]<ept id="8">&lt;/p&gt;</ept>
+                        <bpt id="9">&lt;ul&gt;</bpt>
+                            <bpt id="10">&lt;li class="posts-icn"&gt;</bpt>[groupitem:stat_status] {resx:posts}<ept id="10">&lt;/li&gt;</ept>
+                            <bpt id="11">&lt;li class="member-icn"&gt;</bpt>[groupitem:UserCount] {resx:members}<ept id="11">&lt;/li&gt;</ept>
+                            <bpt id="12">&lt;li class="photo-icn"&gt;</bpt>[groupitem:stat_photo] {resx:photos}<ept id="12">&lt;/li&gt;</ept>
+                            <bpt id="13">&lt;li class="docs-icn"&gt;</bpt>[groupitem:stat_file] {resx:documents}<ept id="13">&lt;/li&gt;</ept>
+                            [IsNotMember]
+                            <bpt id="14">&lt;li class="join-group-icn"&gt;</bpt><bpt id="15">&lt;a href="#" title="" class="dnnTertiaryAction" id="groupJoin-[groupitem:RoleId]" groupid="[groupitem:RoleId]" groupViewTabId ="[GroupViewTabId]"&gt;</bpt>{resx:Join}<ept id="15">&lt;/a&gt;</ept><ept id="14">&lt;/li&gt;</ept>[/IsNotMember] 
+[IsPendingMember]<bpt id="16">&lt;li class="join-group-icn"&gt;</bpt><bpt id="17">&lt;a href="#" title="" class="dnnDisabled"&gt;</bpt>{resx:Pending}<ept id="17">&lt;/a&gt;</ept><ept id="16">&lt;/li&gt;</ept>[/IsPendingMember]
+                        <ept id="9">&lt;/ul&gt;</ept>
+                    <ept id="5">&lt;/div&gt;</ept>
+                <ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div class="dgdGroupQuickInfoWrap dnnClear"&gt;</bpt>
+                    <bpt id="2">&lt;div class="dgdAvatar dnnLeft"&gt;</bpt><bpt id="3">&lt;a href="[groupviewurl]"&gt;</bpt><bpt id="4">&lt;img src="[groupitem:PhotoURL]" alt="[groupitem:GroupName]"&gt;</bpt><ept id="4">&lt;/img&gt;</ept><ept id="3">&lt;/a&gt;</ept><ept id="2">&lt;/div&gt;</ept>
+                    <bpt id="5">&lt;div class="dgdGroupQuickInfo dnnLeft"&gt;</bpt>
+                        <bpt id="6">&lt;h3&gt;</bpt><bpt id="7">&lt;a href="[groupviewurl]" title="[groupitem:GroupName]"&gt;</bpt>[groupitem:GroupName]<ept id="7">&lt;/a&gt;</ept><ept id="6">&lt;/h3&gt;</ept>
+                        <bpt id="8">&lt;p&gt;</bpt>[groupitem:GroupDescription]<ept id="8">&lt;/p&gt;</ept>
+                        <bpt id="9">&lt;ul&gt;</bpt>
+                            <bpt id="10">&lt;li class="posts-icn"&gt;</bpt>[groupitem:stat_status] {resx:posts}<ept id="10">&lt;/li&gt;</ept>
+                            <bpt id="11">&lt;li class="member-icn"&gt;</bpt>[groupitem:UserCount] {resx:members}<ept id="11">&lt;/li&gt;</ept>
+                            <bpt id="12">&lt;li class="photo-icn"&gt;</bpt>[groupitem:stat_photo] {resx:photos}<ept id="12">&lt;/li&gt;</ept>
+                            <bpt id="13">&lt;li class="docs-icn"&gt;</bpt>[groupitem:stat_file] {resx:documents}<ept id="13">&lt;/li&gt;</ept>
+                            [IsNotMember]
+                            <bpt id="14">&lt;li class="join-group-icn"&gt;</bpt><bpt id="15">&lt;a href="#" title="" class="dnnTertiaryAction" id="groupJoin-[groupitem:RoleId]" groupid="[groupitem:RoleId]" groupViewTabId ="[GroupViewTabId]"&gt;</bpt>{resx:Join}<ept id="15">&lt;/a&gt;</ept><ept id="14">&lt;/li&gt;</ept>[/IsNotMember] 
+[IsPendingMember]<bpt id="16">&lt;li class="join-group-icn"&gt;</bpt><bpt id="17">&lt;a href="#" title="" class="dnnDisabled"&gt;</bpt>{resx:Pending}<ept id="17">&lt;/a&gt;</ept><ept id="16">&lt;/li&gt;</ept>[/IsPendingMember]
+                        <ept id="9">&lt;/ul&gt;</ept>
+                    <ept id="5">&lt;/div&gt;</ept>
+                <ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="GroupNameDuplicate.Text" translate="yes" xml:space="preserve">
+          <source>The name you have entered is already in use.</source>
+          <target state="new">The name you have entered is already in use.</target>
+        </trans-unit>
+        <trans-unit id="GroupPendingNotification.Body" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;b&gt;</bpt>Group Name:<ept id="1">&lt;/b&gt;</ept> <bpt id="2">&lt;a href="[groupitem:URL]" target="_blank"&gt;</bpt>[groupitem:GroupName]<ept id="2">&lt;/a&gt;</ept><bpt id="3">&lt;br &gt;</bpt><ept id="3">&lt;/br&gt;</ept><bpt id="4">&lt;b&gt;</bpt>Description:<ept id="4">&lt;/b&gt;</ept> [groupitem:Description]<bpt id="5">&lt;br &gt;</bpt><ept id="5">&lt;/br&gt;</ept><bpt id="6">&lt;b&gt;</bpt>Group Type: <ept id="6">&lt;/b&gt;</ept> [groupitem:GroupType]<bpt id="7">&lt;br &gt;</bpt><ept id="7">&lt;/br&gt;</ept><bpt id="8">&lt;b&gt;</bpt>Group Creator:<ept id="8">&lt;/b&gt;</ept> [groupitem:GroupCreatorName]<bpt id="9">&lt;br &gt;</bpt><ept id="9">&lt;/br&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;b&gt;</bpt>Group Name:<ept id="1">&lt;/b&gt;</ept> <bpt id="2">&lt;a href="[groupitem:URL]" target="_blank"&gt;</bpt>[groupitem:GroupName]<ept id="2">&lt;/a&gt;</ept><bpt id="3">&lt;br &gt;</bpt><ept id="3">&lt;/br&gt;</ept><bpt id="4">&lt;b&gt;</bpt>Description:<ept id="4">&lt;/b&gt;</ept> [groupitem:Description]<bpt id="5">&lt;br &gt;</bpt><ept id="5">&lt;/br&gt;</ept><bpt id="6">&lt;b&gt;</bpt>Group Type: <ept id="6">&lt;/b&gt;</ept> [groupitem:GroupType]<bpt id="7">&lt;br &gt;</bpt><ept id="7">&lt;/br&gt;</ept><bpt id="8">&lt;b&gt;</bpt>Group Creator:<ept id="8">&lt;/b&gt;</ept> [groupitem:GroupCreatorName]<bpt id="9">&lt;br &gt;</bpt><ept id="9">&lt;/br&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="GroupPendingNotification.Subject" translate="yes" xml:space="preserve">
+          <source>The [groupitem:GroupName] group is pending approval.</source>
+          <target state="new">The [groupitem:GroupName] group is pending approval.</target>
+        </trans-unit>
+        <trans-unit id="GroupApprovedNotification.Body" translate="yes" xml:space="preserve">
+          <source>Congratulations!  Your group has been approved! Click the link below to access your group.<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept><bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept><bpt id="3">&lt;a href="[groupitem:URL]"&gt;</bpt>[groupitem:GroupName]<ept id="3">&lt;/a&gt;</ept><bpt id="4">&lt;br &gt;</bpt><ept id="4">&lt;/br&gt;</ept><bpt id="5">&lt;br &gt;</bpt><ept id="5">&lt;/br&gt;</ept></source>
+          <target state="new">Congratulations!  Your group has been approved! Click the link below to access your group.<bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept><bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept><bpt id="3">&lt;a href="[groupitem:URL]"&gt;</bpt>[groupitem:GroupName]<ept id="3">&lt;/a&gt;</ept><bpt id="4">&lt;br &gt;</bpt><ept id="4">&lt;/br&gt;</ept><bpt id="5">&lt;br &gt;</bpt><ept id="5">&lt;/br&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="GroupApprovedNotification.Subject" translate="yes" xml:space="preserve">
+          <source>The [groupitem:GroupName] group has been approved.</source>
+          <target state="new">The [groupitem:GroupName] group has been approved.</target>
+        </trans-unit>
+        <trans-unit id="GroupCreatedNotification.Body" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;b&gt;</bpt>Group Name:<ept id="1">&lt;/b&gt;</ept> <bpt id="2">&lt;a href="[groupitem:URL]"&gt;</bpt>[groupitem:GroupName]<ept id="2">&lt;/a&gt;</ept><bpt id="3">&lt;br &gt;</bpt><ept id="3">&lt;/br&gt;</ept><bpt id="4">&lt;b&gt;</bpt>Description:<ept id="4">&lt;/b&gt;</ept> [groupitem:Description]<bpt id="5">&lt;br &gt;</bpt><ept id="5">&lt;/br&gt;</ept><bpt id="6">&lt;b&gt;</bpt>Group Type: <ept id="6">&lt;/b&gt;</ept> [groupitem:GroupType]<bpt id="7">&lt;br &gt;</bpt><ept id="7">&lt;/br&gt;</ept><bpt id="8">&lt;b&gt;</bpt>Group Creator:<ept id="8">&lt;/b&gt;</ept> [groupitem:GroupCreatorName]<bpt id="9">&lt;br &gt;</bpt><ept id="9">&lt;/br&gt;</ept>
+</source>
+          <target state="new"><bpt id="1">&lt;b&gt;</bpt>Group Name:<ept id="1">&lt;/b&gt;</ept> <bpt id="2">&lt;a href="[groupitem:URL]"&gt;</bpt>[groupitem:GroupName]<ept id="2">&lt;/a&gt;</ept><bpt id="3">&lt;br &gt;</bpt><ept id="3">&lt;/br&gt;</ept><bpt id="4">&lt;b&gt;</bpt>Description:<ept id="4">&lt;/b&gt;</ept> [groupitem:Description]<bpt id="5">&lt;br &gt;</bpt><ept id="5">&lt;/br&gt;</ept><bpt id="6">&lt;b&gt;</bpt>Group Type: <ept id="6">&lt;/b&gt;</ept> [groupitem:GroupType]<bpt id="7">&lt;br &gt;</bpt><ept id="7">&lt;/br&gt;</ept><bpt id="8">&lt;b&gt;</bpt>Group Creator:<ept id="8">&lt;/b&gt;</ept> [groupitem:GroupCreatorName]<bpt id="9">&lt;br &gt;</bpt><ept id="9">&lt;/br&gt;</ept>
+</target>
+        </trans-unit>
+        <trans-unit id="GroupCreatedNotification.Subject" translate="yes" xml:space="preserve">
+          <source>The [groupitem:GroupName] group has been created.</source>
+          <target state="new">The [groupitem:GroupName] group has been created.</target>
+        </trans-unit>
+        <trans-unit id="GroupRejectedNotification.Body" translate="yes" xml:space="preserve">
+          <source>You requested to create the <bpt id="1">&lt;b&gt;</bpt>[groupitem:GroupName]<ept id="1">&lt;/b&gt;</ept> group.  We regret to inform you that we are unable to approve your group request at this time.</source>
+          <target state="new">You requested to create the <bpt id="1">&lt;b&gt;</bpt>[groupitem:GroupName]<ept id="1">&lt;/b&gt;</ept> group.  We regret to inform you that we are unable to approve your group request at this time.</target>
+        </trans-unit>
+        <trans-unit id="GroupRejectedNotification.Subject" translate="yes" xml:space="preserve">
+          <source>Your new group request has been rejected.</source>
+          <target state="new">Your new group request has been rejected.</target>
+        </trans-unit>
+        <trans-unit id="CreateNewGroup.Text" translate="yes" xml:space="preserve">
+          <source>Create New Group</source>
+          <target state="new">Create New Group</target>
+        </trans-unit>
+        <trans-unit id="GroupIdNotFound.Text" translate="yes" xml:space="preserve">
+          <source>We were unable to locate the group you requested.  </source>
+          <target state="new">We were unable to locate the group you requested.  </target>
+        </trans-unit>
+        <trans-unit id="NoGroupsFound.Text" translate="yes" xml:space="preserve">
+          <source>No Groups were found.</source>
+          <target state="new">No Groups were found.</target>
+        </trans-unit>
+        <trans-unit id="Sample_RoleDescription.Text" translate="yes" xml:space="preserve">
+          <source>This is the description for the sample group.  This group doesn't really exist.  You are seeing this because you are setting up the module for the first time or you are an administrator and navigated to this page without a group id.</source>
+          <target state="new">This is the description for the sample group.  This group doesn't really exist.  You are seeing this because you are setting up the module for the first time or you are an administrator and navigated to this page without a group id.</target>
+        </trans-unit>
+        <trans-unit id="Sample_RoleName.Text" translate="yes" xml:space="preserve">
+          <source>Sample Social Group</source>
+          <target state="new">Sample Social Group</target>
+        </trans-unit>
+        <trans-unit id="SetupHeader.Text" translate="yes" xml:space="preserve">
+          <source>Setup Social Groups</source>
+          <target state="new">Setup Social Groups</target>
+        </trans-unit>
+        <trans-unit id="SetupIntro.Text" translate="yes" xml:space="preserve">
+          <source>The Social Groups module allows users to browse, view and create groups.  The best way to configure the module is to create a page for listing your groups and another page for viewing the group details.  You can access the module settings to configure the module on your own or you can click the auto configure button below.  <bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept><bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept><bpt id="3">&lt;b&gt;</bpt>We recommend using the Auto Configure option if you are not familiar with the module.<ept id="3">&lt;/b&gt;</ept></source>
+          <target state="new">The Social Groups module allows users to browse, view and create groups.  The best way to configure the module is to create a page for listing your groups and another page for viewing the group details.  You can access the module settings to configure the module on your own or you can click the auto configure button below.  <bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept><bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept><bpt id="3">&lt;b&gt;</bpt>We recommend using the Auto Configure option if you are not familiar with the module.<ept id="3">&lt;/b&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="RejectGroup.Text" translate="yes" xml:space="preserve">
+          <source>Reject this Group</source>
+          <target state="new">Reject this Group</target>
+        </trans-unit>
+        <trans-unit id="MembersMustBeApproved.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;b&gt;</bpt>Review New Members:<ept id="1">&lt;/b&gt;</ept> Users must request to join this group and be approved by a group manager.</source>
+          <target state="new"><bpt id="1">&lt;b&gt;</bpt>Review New Members:<ept id="1">&lt;/b&gt;</ept> Users must request to join this group and be approved by a group manager.</target>
+        </trans-unit>
+        <trans-unit id="GroupMemberApprovedNotification.Body" translate="yes" xml:space="preserve">
+          <source>Your request to join <bpt id="1">&lt;a href="[groupitem:URL]"&gt;</bpt>[groupitem:GroupName]<ept id="1">&lt;/a&gt;</ept> has been approved.</source>
+          <target state="new">Your request to join <bpt id="1">&lt;a href="[groupitem:URL]"&gt;</bpt>[groupitem:GroupName]<ept id="1">&lt;/a&gt;</ept> has been approved.</target>
+        </trans-unit>
+        <trans-unit id="GroupMemberApprovedNotification.Subject" translate="yes" xml:space="preserve">
+          <source>Welcome to [groupitem:GroupName]!</source>
+          <target state="new">Welcome to [groupitem:GroupName]!</target>
+        </trans-unit>
+        <trans-unit id="GroupMemberPendingNotification.Body" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;a href="[ProfileUrl]" target="_blank"&gt;</bpt>[DisplayName]<ept id="1">&lt;/a&gt;</ept> has requested to join [groupitem:GroupName].</source>
+          <target state="new"><bpt id="1">&lt;a href="[ProfileUrl]" target="_blank"&gt;</bpt>[DisplayName]<ept id="1">&lt;/a&gt;</ept> has requested to join [groupitem:GroupName].</target>
+        </trans-unit>
+        <trans-unit id="GroupMemberPendingNotification.Subject" translate="yes" xml:space="preserve">
+          <source>[DisplayName] wants to join [groupitem:GroupName]</source>
+          <target state="new">[DisplayName] wants to join [groupitem:GroupName]</target>
+        </trans-unit>
+        <trans-unit id="GroupMemberRejectedNotification.Body" translate="yes" xml:space="preserve">
+          <source>We regret to inform you that your request to join <bpt id="1">&lt;a href="[groupitem:URL]"&gt;</bpt>[groupitem:GroupName]<ept id="1">&lt;/a&gt;</ept> has been denied.</source>
+          <target state="new">We regret to inform you that your request to join <bpt id="1">&lt;a href="[groupitem:URL]"&gt;</bpt>[groupitem:GroupName]<ept id="1">&lt;/a&gt;</ept> has been denied.</target>
+        </trans-unit>
+        <trans-unit id="GroupMemberRejectedNotification.Subject" translate="yes" xml:space="preserve">
+          <source>Response to your request to join [groupitem:GroupName]</source>
+          <target state="new">Response to your request to join [groupitem:GroupName]</target>
+        </trans-unit>
+        <trans-unit id="LeaveGroup.Text" translate="yes" xml:space="preserve">
+          <source>Leave Group</source>
+          <target state="new">Leave Group</target>
+        </trans-unit>
+        <trans-unit id="Pending.Text" translate="yes" xml:space="preserve">
+          <source>Membership Pending</source>
+          <target state="new">Membership Pending</target>
+        </trans-unit>
+        <trans-unit id="RejectMember.Text" translate="yes" xml:space="preserve">
+          <source>Reject</source>
+          <target state="new">Reject</target>
+        </trans-unit>
+        <trans-unit id="EditGroup.Text" translate="yes" xml:space="preserve">
+          <source>Edit Group</source>
+          <target state="new">Edit Group</target>
+        </trans-unit>
+        <trans-unit id="GroupEditUrl.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;a href="{0}"&gt;</bpt>Edit Group<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;a href="{0}"&gt;</bpt>Edit Group<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="JoinGroup.Text" translate="yes" xml:space="preserve">
+          <source>Join Group</source>
+          <target state="new">Join Group</target>
+        </trans-unit>
+        <trans-unit id="AutoConfigure.Text" translate="yes" xml:space="preserve">
+          <source>Auto Configure</source>
+          <target state="new">Auto Configure</target>
+        </trans-unit>
+        <trans-unit id="SearchButton.Text" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="GroupSearch.Required" translate="yes" xml:space="preserve">
+          <source>Search term required.</source>
+          <target state="new">Search term required.</target>
+        </trans-unit>
+        <trans-unit id="GroupName.Invalid" translate="yes" xml:space="preserve">
+          <source>The Name is invalid - roles can not contain the following characters: &amp; $ + , / ? ~ # <it id="1" pos="open">&lt; &gt;</it> ( ) ¿ ¡ « » !  . :  * ' [ ]</source>
+          <target state="new">The Name is invalid - roles can not contain the following characters: &amp; $ + , / ? ~ # <it id="1" pos="open">&lt; &gt;</it> ( ) ¿ ¡ « » !  . :  * ' [ ]</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

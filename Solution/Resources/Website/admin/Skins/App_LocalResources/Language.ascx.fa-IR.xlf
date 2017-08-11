@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Language.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="AlternateTemplate.Default" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;span class="Language" title="[CULTURE:NATIVENAME]"&gt;</bpt><bpt id="2">&lt;a href="[URL]" &gt;</bpt><bpt id="3">&lt;img src="[I][FLAGSRC]" alt="[CULTURE:NAME]"&gt;</bpt><ept id="3">&lt;/img&gt;</ept><ept id="2">&lt;/a&gt;</ept><ept id="1">&lt;/span&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;span class="Language" title="[CULTURE:NATIVENAME]"&gt;</bpt><bpt id="2">&lt;a href="[URL]" &gt;</bpt><bpt id="3">&lt;img src="[I][FLAGSRC]" alt="[CULTURE:NAME]"&gt;</bpt><ept id="3">&lt;/img&gt;</ept><ept id="2">&lt;/a&gt;</ept><ept id="1">&lt;/span&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="CommonFooterTemplate.Default" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="close">&lt;/div&gt;</it></source>
+          <target state="new"><it id="1" pos="close">&lt;/div&gt;</it></target>
+        </trans-unit>
+        <trans-unit id="CommonHeaderTemplate.Default" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;div class="language-object" &gt;</it></source>
+          <target state="new"><it id="1" pos="open">&lt;div class="language-object" &gt;</it></target>
+        </trans-unit>
+        <trans-unit id="FooterTemplate.Default" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="HeaderTemplate.Default" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="ItemTemplate.Default" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;span class="Language" title="[CULTURE:NATIVENAME]"&gt;</bpt><bpt id="2">&lt;a href="[URL]" &gt;</bpt><bpt id="3">&lt;img src="[I][FLAGSRC]" alt="[CULTURE:NAME]"&gt;</bpt><ept id="3">&lt;/img&gt;</ept><ept id="2">&lt;/a&gt;</ept><ept id="1">&lt;/span&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;span class="Language" title="[CULTURE:NATIVENAME]"&gt;</bpt><bpt id="2">&lt;a href="[URL]" &gt;</bpt><bpt id="3">&lt;img src="[I][FLAGSRC]" alt="[CULTURE:NAME]"&gt;</bpt><ept id="3">&lt;/img&gt;</ept><ept id="2">&lt;/a&gt;</ept><ept id="1">&lt;/span&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="Label.Text" translate="yes" xml:space="preserve">
+          <source>Select Language: </source>
+          <target state="new">Select Language: </target>
+        </trans-unit>
+        <trans-unit id="SelectedItemTemplate.Default" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;span class="Language selected" title="[CULTURE:NATIVENAME]" &gt;</bpt><bpt id="2">&lt;img src="[I][FLAGSRC]" alt="[CULTURE:NAME]"&gt;</bpt><ept id="2">&lt;/img&gt;</ept><ept id="1">&lt;/span&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;span class="Language selected" title="[CULTURE:NATIVENAME]" &gt;</bpt><bpt id="2">&lt;img src="[I][FLAGSRC]" alt="[CULTURE:NAME]"&gt;</bpt><ept id="2">&lt;/img&gt;</ept><ept id="1">&lt;/span&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="SeparatorTemplate.Default" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

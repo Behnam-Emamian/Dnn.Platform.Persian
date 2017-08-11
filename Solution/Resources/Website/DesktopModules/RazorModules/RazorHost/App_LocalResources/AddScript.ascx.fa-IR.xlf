@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="AddScript.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="VBHTML.Text" translate="yes" xml:space="preserve">
+          <source>VBHtml File (VB)</source>
+          <target state="new">VBHtml File (VB)</target>
+        </trans-unit>
+        <trans-unit id="fileTypeLabel.Help" translate="yes" xml:space="preserve">
+          <source>Select which Razor script file type you want to create (CSHtml for C# or VBHtml for VB.Net)</source>
+          <target state="new">Select which Razor script file type you want to create (CSHtml for C# or VBHtml for VB.Net)</target>
+        </trans-unit>
+        <trans-unit id="CSHTML.Text" translate="yes" xml:space="preserve">
+          <source>CSHtml File (C#)</source>
+          <target state="new">CSHtml File (C#)</target>
+        </trans-unit>
+        <trans-unit id="fileTypeLabel.Text" translate="yes" xml:space="preserve">
+          <source>File Type:</source>
+          <target state="new">File Type:</target>
+        </trans-unit>
+        <trans-unit id="fileNameLabel.Help" translate="yes" xml:space="preserve">
+          <source>Enter a file name for the Script file.  The file name will be prefixed with an underscore "_".</source>
+          <target state="new">Enter a file name for the Script file.  The file name will be prefixed with an underscore "_".</target>
+        </trans-unit>
+        <trans-unit id="fileNameLabel.Text" translate="yes" xml:space="preserve">
+          <source>File Name:</source>
+          <target state="new">File Name:</target>
+        </trans-unit>
+        <trans-unit id="createNewScript.Text" translate="yes" xml:space="preserve">
+          <source>To create a new Razor script file, select the file type and enter a file name.  The file will be created in the Scripts folder.</source>
+          <target state="new">To create a new Razor script file, select the file type and enter a file name.  The file will be created in the Scripts folder.</target>
+        </trans-unit>
+        <trans-unit id="NewScript.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;h2&gt;</bpt>New Razor Script<ept id="1">&lt;/h2&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;h2&gt;</bpt>New Razor Script<ept id="1">&lt;/h2&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="cmdAdd.Text" translate="yes" xml:space="preserve">
+          <source>Add New Script</source>
+          <target state="new">Add New Script</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

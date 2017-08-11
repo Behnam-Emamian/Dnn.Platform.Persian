@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Options.aspx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="$this.DefaultModifiers" translate="yes" extype="System.CodeDom.MemberAttributes, System" xml:space="preserve">
+          <source>Private</source>
+          <target state="needs-review-translation">Private</target>
+        </trans-unit>
+        <trans-unit id="$this.TrayLargeIcon" translate="yes" extype="System.Boolean, mscorlib" xml:space="preserve">
+          <source>False</source>
+          <target state="needs-review-translation">False</target>
+        </trans-unit>
+        <trans-unit id="$this.TrayAutoArrange" translate="yes" extype="System.Boolean, mscorlib" xml:space="preserve">
+          <source>True</source>
+          <target state="needs-review-translation">True</target>
+        </trans-unit>
+        <trans-unit id="lblHeader.Text" translate="yes" xml:space="preserve">
+          <source>Informations</source>
+          <target state="new">Informations</target>
+        </trans-unit>
+        <trans-unit id="lblModType.Text" translate="yes" xml:space="preserve">
+          <source>Module Type:</source>
+          <target state="new">Module Type:</target>
+        </trans-unit>
+        <trans-unit id="lblModName.Text" translate="yes" xml:space="preserve">
+          <source>Module Name:</source>
+          <target state="new">Module Name:</target>
+        </trans-unit>
+        <trans-unit id="lblModInst.Text" translate="yes" xml:space="preserve">
+          <source>Module Instance:</source>
+          <target state="new">Module Instance:</target>
+        </trans-unit>
+        <trans-unit id="lblUName.Text" translate="yes" xml:space="preserve">
+          <source>User Name:</source>
+          <target state="new">User Name:</target>
+        </trans-unit>
+        <trans-unit id="lblSettings.Text" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="new">Settings</target>
+        </trans-unit>
+        <trans-unit id="btnOK.Text" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="btnCancel.Text" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <target state="new">Close</target>
+        </trans-unit>
+        <trans-unit id="Error1.Text" translate="yes" xml:space="preserve">
+          <source>The user does not have permissions to view this page.</source>
+          <target state="new">The user does not have permissions to view this page.</target>
+        </trans-unit>
+        <trans-unit id="lblPage.Text" translate="yes" xml:space="preserve">
+          <source>Page:</source>
+          <target state="new">Page:</target>
+        </trans-unit>
+        <trans-unit id="lblSetFor.Text" translate="yes" xml:space="preserve">
+          <source>Modify Settings for ...</source>
+          <target state="new">Modify Settings for ...</target>
+        </trans-unit>
+        <trans-unit id="lblBrowAllow.Text" translate="yes" xml:space="preserve">
+          <source>Allowed Roles:</source>
+          <target state="new">Allowed Roles:</target>
+        </trans-unit>
+        <trans-unit id="lblBrowser.Text" translate="yes" xml:space="preserve">
+          <source>File Browser:</source>
+          <target state="new">File Browser:</target>
+        </trans-unit>
+        <trans-unit id="lblBrowsSec.Text" translate="yes" xml:space="preserve">
+          <source>File Browser Settings</source>
+          <target state="new">File Browser Settings</target>
+        </trans-unit>
+        <trans-unit id="lblCSSURL.Text" translate="yes" xml:space="preserve">
+          <source>Editor Area CSS:</source>
+          <target state="new">Editor Area CSS:</target>
+        </trans-unit>
+        <trans-unit id="lblPortal.Text" translate="yes" xml:space="preserve">
+          <source>Site Name:</source>
+          <target state="new">Site Name:</target>
+        </trans-unit>
+        <trans-unit id="lblStyles.Text" translate="yes" xml:space="preserve">
+          <source>Editor Styles</source>
+          <target state="new">Editor Styles</target>
+        </trans-unit>
+        <trans-unit id="lblToolbars.Text" translate="yes" xml:space="preserve">
+          <source>Toolbars:</source>
+          <target state="new">Toolbars:</target>
+        </trans-unit>
+        <trans-unit id="lnkRemove.Text" translate="yes" xml:space="preserve">
+          <source>Remove Settings</source>
+          <target state="new">Remove Settings</target>
+        </trans-unit>
+        <trans-unit id="lblInfo.Text" translate="yes" xml:space="preserve">
+          <source>Settings saved. Refresh the Editor or reload the page to see the changes.</source>
+          <target state="new">Settings saved. Refresh the Editor or reload the page to see the changes.</target>
+        </trans-unit>
+        <trans-unit id="lblInfoDel.Text" translate="yes" xml:space="preserve">
+          <source>Settings deleted</source>
+          <target state="new">Settings deleted</target>
+        </trans-unit>
+        <trans-unit id="lblBlanktext.Text" translate="yes" xml:space="preserve">
+          <source>Blank Text:</source>
+          <target state="new">Blank Text:</target>
+        </trans-unit>
+        <trans-unit id="lblRole.Text" translate="yes" xml:space="preserve">
+          <source>Role</source>
+          <target state="new">Role</target>
+        </trans-unit>
+        <trans-unit id="lblSelToolb.Text" translate="yes" xml:space="preserve">
+          <source>Select a Toolbar</source>
+          <target state="new">Select a Toolbar</target>
+        </trans-unit>
+        <trans-unit id="Options.Text" translate="yes" xml:space="preserve">
+          <source>Custom Editor Options</source>
+          <target state="new">Custom Editor Options</target>
+        </trans-unit>
+        <trans-unit id="lblMainSet.Text" translate="yes" xml:space="preserve">
+          <source>Main Settings</source>
+          <target state="new">Main Settings</target>
+        </trans-unit>
+        <trans-unit id="lblBrowserDirs.Text" translate="yes" xml:space="preserve">
+          <source>Use Subdirs for non Admins (..\Portals\0\userfiles\username):</source>
+          <target state="new">Use Subdirs for non Admins (..\Portals\0\userfiles\username):</target>
+        </trans-unit>
+        <trans-unit id="lblTemplates.Text" translate="yes" xml:space="preserve">
+          <source>Editor Templates</source>
+          <target state="new">Editor Templates</target>
+        </trans-unit>
+        <trans-unit id="lblTemplFiles.Text" translate="yes" xml:space="preserve">
+          <source>Editor Templates File:</source>
+          <target state="new">Editor Templates File:</target>
+        </trans-unit>
+        <trans-unit id="lblCustomConfig.Text" translate="yes" xml:space="preserve">
+          <source>Custom Config File:</source>
+          <target state="new">Custom Config File:</target>
+        </trans-unit>
+        <trans-unit id="AddToolbar.Text" translate="yes" xml:space="preserve">
+          <source>Add a new Toolbar Set</source>
+          <target state="new">Add a new Toolbar Set</target>
+        </trans-unit>
+        <trans-unit id="CancelToolbar.Text" translate="yes" xml:space="preserve">
+          <source>Cancel Edit</source>
+          <target state="new">Cancel Edit</target>
+        </trans-unit>
+        <trans-unit id="DeleteToolbar.Text" translate="yes" xml:space="preserve">
+          <source>Delete the selected Toolbar Set</source>
+          <target state="new">Delete the selected Toolbar Set</target>
+        </trans-unit>
+        <trans-unit id="EditToolbar.Text" translate="yes" xml:space="preserve">
+          <source>Edit the selected Toolbar Set</source>
+          <target state="new">Edit the selected Toolbar Set</target>
+        </trans-unit>
+        <trans-unit id="lblCustomToolbars.Text" translate="yes" xml:space="preserve">
+          <source>Custom Toolbars</source>
+          <target state="new">Custom Toolbars</target>
+        </trans-unit>
+        <trans-unit id="lblToolbarList.Text" translate="yes" xml:space="preserve">
+          <source>Custom Toolbars List:</source>
+          <target state="new">Custom Toolbars List:</target>
+        </trans-unit>
+        <trans-unit id="lblToolbName.Text" translate="yes" xml:space="preserve">
+          <source>Toolbar Name:</source>
+          <target state="new">Toolbar Name:</target>
+        </trans-unit>
+        <trans-unit id="lblToolbSet.Text" translate="yes" xml:space="preserve">
+          <source>Available Toolbar Buttons</source>
+          <target state="new">Available Toolbar Buttons</target>
+        </trans-unit>
+        <trans-unit id="SaveToolbar.Text" translate="yes" xml:space="preserve">
+          <source>Save the Toolbar Set</source>
+          <target state="new">Save the Toolbar Set</target>
+        </trans-unit>
+        <trans-unit id="lblUseJquery.Text" translate="yes" xml:space="preserve">
+          <source>Use jQuery Adapter?</source>
+          <target state="new">Use jQuery Adapter?</target>
+        </trans-unit>
+        <trans-unit id="lblHeight.Text" translate="yes" xml:space="preserve">
+          <source>Editor Height (px' or '%') :</source>
+          <target state="new">Editor Height (px' or '%') :</target>
+        </trans-unit>
+        <trans-unit id="lblWidth.Text" translate="yes" xml:space="preserve">
+          <source>Editor Width ('px' or '%') :</source>
+          <target state="new">Editor Width ('px' or '%') :</target>
+        </trans-unit>
+        <trans-unit id="lblImExport.Text" translate="yes" xml:space="preserve">
+          <source>Import/Export Current Settings...</source>
+          <target state="new">Import/Export Current Settings...</target>
+        </trans-unit>
+        <trans-unit id="lblResizeHeight.Text" translate="yes" xml:space="preserve">
+          <source>Default Image Resize Height:</source>
+          <target state="new">Default Image Resize Height:</target>
+        </trans-unit>
+        <trans-unit id="lblResizeWidth.Text" translate="yes" xml:space="preserve">
+          <source>Default Image Resize Width:</source>
+          <target state="new">Default Image Resize Width:</target>
+        </trans-unit>
+        <trans-unit id="lnkExport.Text" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <target state="new">Export</target>
+        </trans-unit>
+        <trans-unit id="lnkImport.Text" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <target state="new">Import</target>
+        </trans-unit>
+        <trans-unit id="BadImportXml.Text" translate="yes" xml:space="preserve">
+          <source>Incorrect or bad XML file.</source>
+          <target state="new">Incorrect or bad XML file.</target>
+        </trans-unit>
+        <trans-unit id="Export.Text" translate="yes" xml:space="preserve">
+          <source>Current Editor Settings Exported</source>
+          <target state="new">Current Editor Settings Exported</target>
+        </trans-unit>
+        <trans-unit id="Imported.Text" translate="yes" xml:space="preserve">
+          <source>Editor Settings Imported for</source>
+          <target state="new">Editor Settings Imported for</target>
+        </trans-unit>
+        <trans-unit id="lblInjectSyntaxJs.Text" translate="yes" xml:space="preserve">
+          <source>Inject Link to SyntaxHighlighter JS:</source>
+          <target state="new">Inject Link to SyntaxHighlighter JS:</target>
+        </trans-unit>
+        <trans-unit id="UploadFolderLabel.Text" translate="yes" xml:space="preserve">
+          <source>Default Upload Folder:</source>
+          <target state="new">Default Upload Folder:</target>
+        </trans-unit>
+        <trans-unit id="BrowserRootFolder.Text" translate="yes" xml:space="preserve">
+          <source>Browser Root Folder:</source>
+          <target state="new">Browser Root Folder:</target>
+        </trans-unit>
+        <trans-unit id="lblAutoCreateFileThumbNails.Text" translate="yes" xml:space="preserve">
+          <source>Auto Create Image Thumbnails for Preview:</source>
+          <target state="new">Auto Create Image Thumbnails for Preview:</target>
+        </trans-unit>
+        <trans-unit id="lblShowPageLinksTabFirst.Text" translate="yes" xml:space="preserve">
+          <source>Show Page Links Tab First:</source>
+          <target state="new">Show Page Links Tab First:</target>
+        </trans-unit>
+        <trans-unit id="lblUseAnchorSelector.Text" translate="yes" xml:space="preserve">
+          <source>Use Anchor Selector (Automatically Finds All Anchors on the Selected Page):</source>
+          <target state="new">Use Anchor Selector (Automatically Finds All Anchors on the Selected Page):</target>
+        </trans-unit>
+        <trans-unit id="FileListViewModeLabel.Text" translate="yes" xml:space="preserve">
+          <source>Default File List View Mode:</source>
+          <target state="new">Default File List View Mode:</target>
+        </trans-unit>
+        <trans-unit id="SettingsExportTitle.Text" translate="yes" xml:space="preserve">
+          <source>Settings Exporter</source>
+          <target state="new">Settings Exporter</target>
+        </trans-unit>
+        <trans-unit id="SettingsImportTitle.Text" translate="yes" xml:space="preserve">
+          <source>Settings Importer</source>
+          <target state="new">Settings Importer</target>
+        </trans-unit>
+        <trans-unit id="ExportNow.Text" translate="yes" xml:space="preserve">
+          <source>Export Now</source>
+          <target state="new">Export Now</target>
+        </trans-unit>
+        <trans-unit id="ImportNow.Text" translate="yes" xml:space="preserve">
+          <source>Import Now</source>
+          <target state="new">Import Now</target>
+        </trans-unit>
+        <trans-unit id="FileListPageSizeLabel.Text" translate="yes" xml:space="preserve">
+          <source>File List Page Size (0=Non Paging):</source>
+          <target state="new">File List Page Size (0=Non Paging):</target>
+        </trans-unit>
+        <trans-unit id="Remove.Help" translate="yes" xml:space="preserve">
+          <source>Removes the Setting for the Current {0} only.</source>
+          <target state="new">Removes the Setting for the Current {0} only.</target>
+        </trans-unit>
+        <trans-unit id="Remove.Text" translate="yes" xml:space="preserve">
+          <source>Remove {0} Settings</source>
+          <target state="new">Remove {0} Settings</target>
+        </trans-unit>
+        <trans-unit id="RemoveAll.Help" translate="yes" xml:space="preserve">
+          <source>Removes the {0} settings of the entire site.</source>
+          <target state="new">Removes the {0} settings of the entire site.</target>
+        </trans-unit>
+        <trans-unit id="RemoveAll.Text" translate="yes" xml:space="preserve">
+          <source>Remove All {0} Settings</source>
+          <target state="new">Remove All {0} Settings</target>
+        </trans-unit>
+        <trans-unit id="CreateGroupLabel.Text" translate="yes" xml:space="preserve">
+          <source>Create New Group</source>
+          <target state="new">Create New Group</target>
+        </trans-unit>
+        <trans-unit id="CreateGroupTitle.Text" translate="yes" xml:space="preserve">
+          <source>Add New Group to Toolbar Set?</source>
+          <target state="new">Add New Group to Toolbar Set?</target>
+        </trans-unit>
+        <trans-unit id="DeleteGroup.Text" translate="yes" xml:space="preserve">
+          <source>Delete this Toolbar Group?</source>
+          <target state="new">Delete this Toolbar Group?</target>
+        </trans-unit>
+        <trans-unit id="DeleteToolbarButton.Text" translate="yes" xml:space="preserve">
+          <source>Remove this Toolbar Button?</source>
+          <target state="new">Remove this Toolbar Button?</target>
+        </trans-unit>
+        <trans-unit id="EditGroupName.Text" translate="yes" xml:space="preserve">
+          <source>Click to Edit this Group Name</source>
+          <target state="new">Click to Edit this Group Name</target>
+        </trans-unit>
+        <trans-unit id="NewGroupName.Text" translate="yes" xml:space="preserve">
+          <source>New Group</source>
+          <target state="new">New Group</target>
+        </trans-unit>
+        <trans-unit id="SaveGroupName.Text" translate="yes" xml:space="preserve">
+          <source>Save Group Name</source>
+          <target state="new">Save Group Name</target>
+        </trans-unit>
+        <trans-unit id="lblToolbarPriority.Text" translate="yes" xml:space="preserve">
+          <source>Toolbar Set Priority:</source>
+          <target state="new">Toolbar Set Priority:</target>
+        </trans-unit>
+        <trans-unit id="ToolbarGroupsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Toolbar Groups</source>
+          <target state="new">Toolbar Groups</target>
+        </trans-unit>
+        <trans-unit id="CodeMirrorLabel.Text" translate="yes" xml:space="preserve">
+          <source>CodeMirror Theme (for Source Syntax Highlighting):</source>
+          <target state="new">CodeMirror Theme (for Source Syntax Highlighting):</target>
+        </trans-unit>
+        <trans-unit id="lblSkin.Text" translate="yes" xml:space="preserve">
+          <source>Skin:</source>
+          <target state="new">Skin:</target>
+        </trans-unit>
+        <trans-unit id="NoJava.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;strong&gt;</bpt>CKEditor requires JavaScript to run<ept id="1">&lt;/strong&gt;</ept>. In a browser with no JavaScript support, like yours, you should still see the contents (HTML data) and you should be able to edit it normally, without a rich editor interface.</source>
+          <target state="new"><bpt id="1">&lt;strong&gt;</bpt>CKEditor requires JavaScript to run<ept id="1">&lt;/strong&gt;</ept>. In a browser with no JavaScript support, like yours, you should still see the contents (HTML data) and you should be able to edit it normally, without a rich editor interface.</target>
+        </trans-unit>
+        <trans-unit id="lblEditorConfig.Text" translate="yes" xml:space="preserve">
+          <source>Editor Config</source>
+          <target state="new">Editor Config</target>
+        </trans-unit>
+        <trans-unit id="ModuleError.Text" translate="yes" xml:space="preserve">
+          <source>The Editor Settings for an Module Instance can only be viewed and loaded from within the Module Instance.</source>
+          <target state="new">The Editor Settings for an Module Instance can only be viewed and loaded from within the Module Instance.</target>
+        </trans-unit>
+        <trans-unit id="ModuleHeader.Text" translate="yes" xml:space="preserve">
+          <source>CKEditor Provider Config Manager</source>
+          <target state="new">CKEditor Provider Config Manager</target>
+        </trans-unit>
+        <trans-unit id="PortalOnlyLabel.Text" translate="yes" xml:space="preserve">
+          <source>Show Settings Only for This Site or for All Sites?</source>
+          <target state="new">Show Settings Only for This Site or for All Sites?</target>
+        </trans-unit>
+        <trans-unit id="PortalOnly.Text" translate="yes" xml:space="preserve">
+          <source>This Site Only</source>
+          <target state="new">This Site Only</target>
+        </trans-unit>
+        <trans-unit id="Wait.Text" translate="yes" xml:space="preserve">
+          <source>Please Wait...</source>
+          <target state="new">Please Wait...</target>
+        </trans-unit>
+        <trans-unit id="WaitMessage.Text" translate="yes" xml:space="preserve">
+          <source>Loading Options Page.</source>
+          <target state="new">Loading Options Page.</target>
+        </trans-unit>
+        <trans-unit id="ModuleHasSettingLabel.Text" translate="yes" xml:space="preserve">
+          <source>Contains Module Settings</source>
+          <target state="new">Contains Module Settings</target>
+        </trans-unit>
+        <trans-unit id="ModuleNoSettingLabel.Text" translate="yes" xml:space="preserve">
+          <source>Contains No Module Settings</source>
+          <target state="new">Contains No Module Settings</target>
+        </trans-unit>
+        <trans-unit id="PageHasSettingLabel.Text" translate="yes" xml:space="preserve">
+          <source>Contains Page Settings</source>
+          <target state="new">Contains Page Settings</target>
+        </trans-unit>
+        <trans-unit id="PageNoSettingLabel.Text" translate="yes" xml:space="preserve">
+          <source>Contains No Page Settings</source>
+          <target state="new">Contains No Page Settings</target>
+        </trans-unit>
+        <trans-unit id="PortalHasSettingLabel.Text" translate="yes" xml:space="preserve">
+          <source>Contains Site Settings</source>
+          <target state="new">Contains Site Settings</target>
+        </trans-unit>
+        <trans-unit id="PortalNoSettingLabel.Text" translate="yes" xml:space="preserve">
+          <source>Contains No Site Settings</source>
+          <target state="new">Contains No Site Settings</target>
+        </trans-unit>
+        <trans-unit id="IconLegendLabel.Text" translate="yes" xml:space="preserve">
+          <source>Icon Legend</source>
+          <target state="new">Icon Legend</target>
+        </trans-unit>
+        <trans-unit id="EditorConfigWarning.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;strong&gt;</bpt>Information:<ept id="1">&lt;/strong&gt;</ept> The Settings below are only for Experts, please modify them only if you are know what you are doing. To find out more about the Settings below visit the <bpt id="2">&lt;a href="http://docs.cksource.com/ckeditor_api/symbols/CKEDITOR.config.html"&gt;</bpt><bpt id="3">&lt;strong&gt;</bpt>CKEditor JavaScript API Documentation Page<ept id="3">&lt;/strong&gt;</ept><ept id="2">&lt;/a&gt;</ept>. You can leave the Settings blank to load the default Settings, when the Editor is loaded.</source>
+          <target state="new"><bpt id="1">&lt;strong&gt;</bpt>Information:<ept id="1">&lt;/strong&gt;</ept> The Settings below are only for Experts, please modify them only if you are know what you are doing. To find out more about the Settings below visit the <bpt id="2">&lt;a href="http://docs.cksource.com/ckeditor_api/symbols/CKEDITOR.config.html"&gt;</bpt><bpt id="3">&lt;strong&gt;</bpt>CKEditor JavaScript API Documentation Page<ept id="3">&lt;/strong&gt;</ept><ept id="2">&lt;/a&gt;</ept>. You can leave the Settings blank to load the default Settings, when the Editor is loaded.</target>
+        </trans-unit>
+        <trans-unit id="ModuleInstance.Text" translate="yes" xml:space="preserve">
+          <source>Module</source>
+          <target state="new">Module</target>
+        </trans-unit>
+        <trans-unit id="Page.Text" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target state="new">Page</target>
+        </trans-unit>
+        <trans-unit id="Portal.Text" translate="yes" xml:space="preserve">
+          <source>Site</source>
+          <target state="new">Site</target>
+        </trans-unit>
+        <trans-unit id="RemoveModuleChild.Help" translate="yes" xml:space="preserve">
+          <source>Remove Settings of all Modules on the Current Page</source>
+          <target state="new">Remove Settings of all Modules on the Current Page</target>
+        </trans-unit>
+        <trans-unit id="RemoveModuleChild.Text" translate="yes" xml:space="preserve">
+          <source>Remove All Module Settings on Page</source>
+          <target state="new">Remove All Module Settings on Page</target>
+        </trans-unit>
+        <trans-unit id="RemovePageChild.Help" translate="yes" xml:space="preserve">
+          <source>Removes all child page settings for the current page.</source>
+          <target state="new">Removes all child page settings for the current page.</target>
+        </trans-unit>
+        <trans-unit id="RemovePageChild.Text" translate="yes" xml:space="preserve">
+          <source>Remove All Child Page Settings</source>
+          <target state="new">Remove All Child Page Settings</target>
+        </trans-unit>
+        <trans-unit id="RowBreak.Text" translate="yes" xml:space="preserve">
+          <source>Row Break</source>
+          <target state="new">Row Break</target>
+        </trans-unit>
+        <trans-unit id="AddRowBreakLabel.Text" translate="yes" xml:space="preserve">
+          <source>Add Row Break</source>
+          <target state="new">Add Row Break</target>
+        </trans-unit>
+        <trans-unit id="AddRowBreakTitle.Text" translate="yes" xml:space="preserve">
+          <source>Add New Row Break to the Toolbar Set</source>
+          <target state="new">Add New Row Break to the Toolbar Set</target>
+        </trans-unit>
+        <trans-unit id="DefaultLinkMode0.Text" translate="yes" xml:space="preserve">
+          <source>Relative URL</source>
+          <target state="new">Relative URL</target>
+        </trans-unit>
+        <trans-unit id="DefaultLinkMode1.Text" translate="yes" xml:space="preserve">
+          <source>Absolute URL</source>
+          <target state="new">Absolute URL</target>
+        </trans-unit>
+        <trans-unit id="DefaultLinkMode2.Text" translate="yes" xml:space="preserve">
+          <source>Relative Secured URL</source>
+          <target state="new">Relative Secured URL</target>
+        </trans-unit>
+        <trans-unit id="DefaultLinkMode3.Text" translate="yes" xml:space="preserve">
+          <source>Absolute Secured URL</source>
+          <target state="new">Absolute Secured URL</target>
+        </trans-unit>
+        <trans-unit id="DefaultLinkModeLabel.Text" translate="yes" xml:space="preserve">
+          <source>Default Link Mode:</source>
+          <target state="new">Default Link Mode:</target>
+        </trans-unit>
+        <trans-unit id="DetailView.Text" translate="yes" xml:space="preserve">
+          <source>Detail View</source>
+          <target state="new">Detail View</target>
+        </trans-unit>
+        <trans-unit id="IconsView.Text" translate="yes" xml:space="preserve">
+          <source>Icons View</source>
+          <target state="new">Icons View</target>
+        </trans-unit>
+        <trans-unit id="ListView.Text" translate="yes" xml:space="preserve">
+          <source>List View</source>
+          <target state="new">List View</target>
+        </trans-unit>
+        <trans-unit id="BlanktextTT.Text" translate="yes" xml:space="preserve">
+          <source>This is the default text displayed when the content of the module is empty.</source>
+          <target state="new">This is the default text displayed when the content of the module is empty.</target>
+        </trans-unit>
+        <trans-unit id="NewsArcticlesArticlesList.Text" translate="yes" xml:space="preserve">
+          <source>Select an Article:</source>
+          <target state="new">Select an Article:</target>
+        </trans-unit>
+        <trans-unit id="NewsArcticlesModuleList.Text" translate="yes" xml:space="preserve">
+          <source>Select the Page and the News Articles Module Instance:</source>
+          <target state="new">Select the Page and the News Articles Module Instance:</target>
+        </trans-unit>
+        <trans-unit id="ToolbarNameMissing.Text" translate="yes" xml:space="preserve">
+          <source>You must enter a toolbar name.</source>
+          <target state="new">You must enter a toolbar name.</target>
+        </trans-unit>
+        <trans-unit id="ToolbarSetCreated.Text" translate="yes" xml:space="preserve">
+          <source>New toolbar set "{0}" created.</source>
+          <target state="new">New toolbar set "{0}" created.</target>
+        </trans-unit>
+        <trans-unit id="ToolbarSetDeleted.Text" translate="yes" xml:space="preserve">
+          <source>Selected toolbar set deleted.</source>
+          <target state="new">Selected toolbar set deleted.</target>
+        </trans-unit>
+        <trans-unit id="ToolbarSetSaved.Text" translate="yes" xml:space="preserve">
+          <source>Toolbar set saved.</source>
+          <target state="new">Toolbar set saved.</target>
+        </trans-unit>
+        <trans-unit id="CustomJsFileLabel.Text" translate="yes" xml:space="preserve">
+          <source>Custom JS File:</source>
+          <target state="new">Custom JS File:</target>
+        </trans-unit>
+        <trans-unit id="OverrideFileOnUploadLabel.Text" translate="yes" xml:space="preserve">
+          <source>Override File If Exists on Upload, Otherwise a New File With Underscore _1 Will Be Created:</source>
+          <target state="new">Override File If Exists on Upload, Otherwise a New File With Underscore _1 Will Be Created:</target>
+        </trans-unit>
+        <trans-unit id="CopyPageChild.Help" translate="yes" xml:space="preserve">
+          <source>Copy current page dettings to all child pages.</source>
+          <target state="new">Copy current page dettings to all child pages.</target>
+        </trans-unit>
+        <trans-unit id="CopyPageChild.Text" translate="yes" xml:space="preserve">
+          <source>Copy Settings to Child Pages</source>
+          <target state="new">Copy Settings to Child Pages</target>
+        </trans-unit>
+        <trans-unit id="lblInfoCopyAll.Text" translate="yes" xml:space="preserve">
+          <source>Settings copied to all child pages.</source>
+          <target state="new">Settings copied to all child pages.</target>
+        </trans-unit>
+        <trans-unit id="SizeLimitLabel.Text" translate="yes" xml:space="preserve">
+          <source>Upload File Size Limit</source>
+          <target state="new">Upload File Size Limit</target>
+        </trans-unit>
+        <trans-unit id="UploadFileLimitLabel.Text" translate="yes" xml:space="preserve">
+          <source>Upload File Limits</source>
+          <target state="new">Upload File Limits</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

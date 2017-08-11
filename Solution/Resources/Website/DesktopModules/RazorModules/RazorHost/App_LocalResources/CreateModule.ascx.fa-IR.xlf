@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="CreateModule.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="ControlTitle_createmodule.Text" translate="yes" xml:space="preserve">
+          <source>Create Module</source>
+          <target state="new">Create Module</target>
+        </trans-unit>
+        <trans-unit id="SourceFile.Text" translate="yes" xml:space="preserve">
+          <source>Source Script - {0}</source>
+          <target state="new">Source Script - {0}</target>
+        </trans-unit>
+        <trans-unit id="plSource.Text" translate="yes" xml:space="preserve">
+          <source>Script Source:</source>
+          <target state="new">Script Source:</target>
+        </trans-unit>
+        <trans-unit id="scriptsLabel.Help" translate="yes" xml:space="preserve">
+          <source>Select the script you would like to use from the list.</source>
+          <target state="new">Select the script you would like to use from the list.</target>
+        </trans-unit>
+        <trans-unit id="scriptsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Select Script:</source>
+          <target state="new">Select Script:</target>
+        </trans-unit>
+        <trans-unit id="plAddPage.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to create a test page for your new module.</source>
+          <target state="new">Check this box to create a test page for your new module.</target>
+        </trans-unit>
+        <trans-unit id="plAddPage.Text" translate="yes" xml:space="preserve">
+          <source>Add Test Page?</source>
+          <target state="new">Add Test Page?</target>
+        </trans-unit>
+        <trans-unit id="plDescription.Help" translate="yes" xml:space="preserve">
+          <source>Enter a description for the module.</source>
+          <target state="new">Enter a description for the module.</target>
+        </trans-unit>
+        <trans-unit id="plDescription.Text" translate="yes" xml:space="preserve">
+          <source>Description:</source>
+          <target state="new">Description:</target>
+        </trans-unit>
+        <trans-unit id="plFolder.Help" translate="yes" xml:space="preserve">
+          <source>Enter the name of the Folder for the new module.  This folder will be a child of "DesktopModules/RazorModules"</source>
+          <target state="new">Enter the name of the Folder for the new module.  This folder will be a child of "DesktopModules/RazorModules"</target>
+        </trans-unit>
+        <trans-unit id="plFolder.Text" translate="yes" xml:space="preserve">
+          <source>Folder:</source>
+          <target state="new">Folder:</target>
+        </trans-unit>
+        <trans-unit id="plName.Help" translate="yes" xml:space="preserve">
+          <source>Enter a friendly name for the module.</source>
+          <target state="new">Enter a friendly name for the module.</target>
+        </trans-unit>
+        <trans-unit id="plName.Text" translate="yes" xml:space="preserve">
+          <source>Module Name:</source>
+          <target state="new">Module Name:</target>
+        </trans-unit>
+        <trans-unit id="cmdCreate.Text" translate="yes" xml:space="preserve">
+          <source>Create Module</source>
+          <target state="new">Create Module</target>
+        </trans-unit>
+        <trans-unit id="SourceControl.Text" translate="yes" xml:space="preserve">
+          <source>Module Control - {0}</source>
+          <target state="new">Module Control - {0}</target>
+        </trans-unit>
+        <trans-unit id="valFolder.Text" translate="yes" xml:space="preserve">
+          <source>The folder is required.&lt;br/&gt;</source>
+          <target state="new">The folder is required.&lt;br/&gt;</target>
+        </trans-unit>
+        <trans-unit id="valName.Text" translate="yes" xml:space="preserve">
+          <source>The name is required.&lt;br/&gt;</source>
+          <target state="new">The name is required.&lt;br/&gt;</target>
+        </trans-unit>
+        <trans-unit id="FolderExists.Text" translate="yes" xml:space="preserve">
+          <source>The folder you selected already exists.  Please select another name.</source>
+          <target state="new">The folder you selected already exists.  Please select another name.</target>
+        </trans-unit>
+        <trans-unit id="ManifestCreationError.Text" translate="yes" xml:space="preserve">
+          <source>There was an unexpected error creating the manifest.  Please check the Event Viewer for more information.</source>
+          <target state="new">There was an unexpected error creating the manifest.  Please check the Event Viewer for more information.</target>
+        </trans-unit>
+        <trans-unit id="ManifestText.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;dotnetnuke type="Package" version="5.0"&gt;</bpt>
+  <bpt id="2">&lt;packages&gt;</bpt>
+    <bpt id="3">&lt;package name="{0}" type="Module" version="01.00.00"&gt;</bpt>
+      <bpt id="4">&lt;friendlyName&gt;</bpt>{0}<ept id="4">&lt;/friendlyName&gt;</ept>
+      <bpt id="5">&lt;description&gt;</bpt>{1}<ept id="5">&lt;/description&gt;</ept>
+      <bpt id="6">&lt;owner&gt;</bpt>
+        &lt;name/&gt;
+        &lt;organization/&gt;
+        &lt;url/&gt;
+        &lt;email/&gt;
+      <ept id="6">&lt;/owner&gt;</ept>
+      <bpt id="7">&lt;license src="license.txt"&gt;</bpt><ept id="7">&lt;/license&gt;</ept>
+      <bpt id="8">&lt;releaseNotes src="releaseNotes.txt"&gt;</bpt><ept id="8">&lt;/releaseNotes&gt;</ept>
+      <bpt id="9">&lt;dependencies&gt;</bpt>
+        <bpt id="10">&lt;dependency type="coreversion"&gt;</bpt>07.00.00<ept id="10">&lt;/dependency&gt;</ept>
+        <bpt id="11">&lt;dependency type="type"&gt;</bpt>System.Tuple<ept id="11">&lt;/dependency&gt;</ept>
+      <ept id="9">&lt;/dependencies&gt;</ept>
+      <bpt id="12">&lt;components&gt;</bpt>
+        <bpt id="13">&lt;component type="Module"&gt;</bpt>
+          <bpt id="14">&lt;desktopModule&gt;</bpt>
+            <bpt id="15">&lt;moduleName&gt;</bpt>{0}<ept id="15">&lt;/moduleName&gt;</ept>
+            <bpt id="16">&lt;foldername&gt;</bpt>RazorModules/{2}<ept id="16">&lt;/foldername&gt;</ept>
+            <bpt id="17">&lt;businessControllerClass &gt;</bpt><ept id="17">&lt;/businessControllerClass&gt;</ept>
+            <bpt id="18">&lt;supportedFeatures &gt;</bpt><ept id="18">&lt;/supportedFeatures&gt;</ept>
+            <bpt id="19">&lt;moduleDefinitions&gt;</bpt>
+              <bpt id="20">&lt;moduleDefinition&gt;</bpt>
+                <bpt id="21">&lt;friendlyName&gt;</bpt>{0}<ept id="21">&lt;/friendlyName&gt;</ept>
+                <bpt id="22">&lt;defaultCacheTime&gt;</bpt>0<ept id="22">&lt;/defaultCacheTime&gt;</ept>
+                <bpt id="23">&lt;moduleControls&gt;</bpt>
+                  <bpt id="24">&lt;moduleControl&gt;</bpt>
+                    <bpt id="25">&lt;controlKey &gt;</bpt><ept id="25">&lt;/controlKey&gt;</ept>
+                    <bpt id="26">&lt;controlSrc&gt;</bpt>DesktopModules/RazorModules/{2}/{3}<ept id="26">&lt;/controlSrc&gt;</ept>
+                    <bpt id="27">&lt;supportsPartialRendering&gt;</bpt>False<ept id="27">&lt;/supportsPartialRendering&gt;</ept>
+                    <bpt id="28">&lt;controlTitle &gt;</bpt><ept id="28">&lt;/controlTitle&gt;</ept>
+                    <bpt id="29">&lt;controlType&gt;</bpt>View<ept id="29">&lt;/controlType&gt;</ept>
+                    <bpt id="30">&lt;iconFile &gt;</bpt><ept id="30">&lt;/iconFile&gt;</ept>
+                    <bpt id="31">&lt;helpUrl &gt;</bpt><ept id="31">&lt;/helpUrl&gt;</ept>
+                    <bpt id="32">&lt;viewOrder&gt;</bpt>0<ept id="32">&lt;/viewOrder&gt;</ept>
+                  <ept id="24">&lt;/moduleControl&gt;</ept>
+                <ept id="23">&lt;/moduleControls&gt;</ept>
+              <ept id="20">&lt;/moduleDefinition&gt;</ept>
+            <ept id="19">&lt;/moduleDefinitions&gt;</ept>
+          <ept id="14">&lt;/desktopModule&gt;</ept>
+        <ept id="13">&lt;/component&gt;</ept>
+        <bpt id="33">&lt;component type="File"&gt;</bpt>
+          <bpt id="34">&lt;files&gt;</bpt>
+            <bpt id="35">&lt;basePath&gt;</bpt>DesktopModules\RazorModules\{2}<ept id="35">&lt;/basePath&gt;</ept>
+            <bpt id="36">&lt;file&gt;</bpt>
+              <bpt id="37">&lt;name&gt;</bpt>{3}<ept id="37">&lt;/name&gt;</ept>
+            <ept id="36">&lt;/file&gt;</ept>
+            <bpt id="38">&lt;file&gt;</bpt>
+              <bpt id="39">&lt;name&gt;</bpt>{4}<ept id="39">&lt;/name&gt;</ept>
+            <ept id="38">&lt;/file&gt;</ept>
+          <ept id="34">&lt;/files&gt;</ept>
+        <ept id="33">&lt;/component&gt;</ept>
+      <ept id="12">&lt;/components&gt;</ept>
+    <ept id="3">&lt;/package&gt;</ept>
+  <ept id="2">&lt;/packages&gt;</ept>
+<ept id="1">&lt;/dotnetnuke&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;dotnetnuke type="Package" version="5.0"&gt;</bpt>
+  <bpt id="2">&lt;packages&gt;</bpt>
+    <bpt id="3">&lt;package name="{0}" type="Module" version="01.00.00"&gt;</bpt>
+      <bpt id="4">&lt;friendlyName&gt;</bpt>{0}<ept id="4">&lt;/friendlyName&gt;</ept>
+      <bpt id="5">&lt;description&gt;</bpt>{1}<ept id="5">&lt;/description&gt;</ept>
+      <bpt id="6">&lt;owner&gt;</bpt>
+        &lt;name/&gt;
+        &lt;organization/&gt;
+        &lt;url/&gt;
+        &lt;email/&gt;
+      <ept id="6">&lt;/owner&gt;</ept>
+      <bpt id="7">&lt;license src="license.txt"&gt;</bpt><ept id="7">&lt;/license&gt;</ept>
+      <bpt id="8">&lt;releaseNotes src="releaseNotes.txt"&gt;</bpt><ept id="8">&lt;/releaseNotes&gt;</ept>
+      <bpt id="9">&lt;dependencies&gt;</bpt>
+        <bpt id="10">&lt;dependency type="coreversion"&gt;</bpt>07.00.00<ept id="10">&lt;/dependency&gt;</ept>
+        <bpt id="11">&lt;dependency type="type"&gt;</bpt>System.Tuple<ept id="11">&lt;/dependency&gt;</ept>
+      <ept id="9">&lt;/dependencies&gt;</ept>
+      <bpt id="12">&lt;components&gt;</bpt>
+        <bpt id="13">&lt;component type="Module"&gt;</bpt>
+          <bpt id="14">&lt;desktopModule&gt;</bpt>
+            <bpt id="15">&lt;moduleName&gt;</bpt>{0}<ept id="15">&lt;/moduleName&gt;</ept>
+            <bpt id="16">&lt;foldername&gt;</bpt>RazorModules/{2}<ept id="16">&lt;/foldername&gt;</ept>
+            <bpt id="17">&lt;businessControllerClass &gt;</bpt><ept id="17">&lt;/businessControllerClass&gt;</ept>
+            <bpt id="18">&lt;supportedFeatures &gt;</bpt><ept id="18">&lt;/supportedFeatures&gt;</ept>
+            <bpt id="19">&lt;moduleDefinitions&gt;</bpt>
+              <bpt id="20">&lt;moduleDefinition&gt;</bpt>
+                <bpt id="21">&lt;friendlyName&gt;</bpt>{0}<ept id="21">&lt;/friendlyName&gt;</ept>
+                <bpt id="22">&lt;defaultCacheTime&gt;</bpt>0<ept id="22">&lt;/defaultCacheTime&gt;</ept>
+                <bpt id="23">&lt;moduleControls&gt;</bpt>
+                  <bpt id="24">&lt;moduleControl&gt;</bpt>
+                    <bpt id="25">&lt;controlKey &gt;</bpt><ept id="25">&lt;/controlKey&gt;</ept>
+                    <bpt id="26">&lt;controlSrc&gt;</bpt>DesktopModules/RazorModules/{2}/{3}<ept id="26">&lt;/controlSrc&gt;</ept>
+                    <bpt id="27">&lt;supportsPartialRendering&gt;</bpt>False<ept id="27">&lt;/supportsPartialRendering&gt;</ept>
+                    <bpt id="28">&lt;controlTitle &gt;</bpt><ept id="28">&lt;/controlTitle&gt;</ept>
+                    <bpt id="29">&lt;controlType&gt;</bpt>View<ept id="29">&lt;/controlType&gt;</ept>
+                    <bpt id="30">&lt;iconFile &gt;</bpt><ept id="30">&lt;/iconFile&gt;</ept>
+                    <bpt id="31">&lt;helpUrl &gt;</bpt><ept id="31">&lt;/helpUrl&gt;</ept>
+                    <bpt id="32">&lt;viewOrder&gt;</bpt>0<ept id="32">&lt;/viewOrder&gt;</ept>
+                  <ept id="24">&lt;/moduleControl&gt;</ept>
+                <ept id="23">&lt;/moduleControls&gt;</ept>
+              <ept id="20">&lt;/moduleDefinition&gt;</ept>
+            <ept id="19">&lt;/moduleDefinitions&gt;</ept>
+          <ept id="14">&lt;/desktopModule&gt;</ept>
+        <ept id="13">&lt;/component&gt;</ept>
+        <bpt id="33">&lt;component type="File"&gt;</bpt>
+          <bpt id="34">&lt;files&gt;</bpt>
+            <bpt id="35">&lt;basePath&gt;</bpt>DesktopModules\RazorModules\{2}<ept id="35">&lt;/basePath&gt;</ept>
+            <bpt id="36">&lt;file&gt;</bpt>
+              <bpt id="37">&lt;name&gt;</bpt>{3}<ept id="37">&lt;/name&gt;</ept>
+            <ept id="36">&lt;/file&gt;</ept>
+            <bpt id="38">&lt;file&gt;</bpt>
+              <bpt id="39">&lt;name&gt;</bpt>{4}<ept id="39">&lt;/name&gt;</ept>
+            <ept id="38">&lt;/file&gt;</ept>
+          <ept id="34">&lt;/files&gt;</ept>
+        <ept id="33">&lt;/component&gt;</ept>
+      <ept id="12">&lt;/components&gt;</ept>
+    <ept id="3">&lt;/package&gt;</ept>
+  <ept id="2">&lt;/packages&gt;</ept>
+<ept id="1">&lt;/dotnetnuke&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ModuleControlCreationError.Text" translate="yes" xml:space="preserve">
+          <source>There was an unexpected error creating the module control.  Please check the Event Viewer for more information.</source>
+          <target state="new">There was an unexpected error creating the module control.  Please check the Event Viewer for more information.</target>
+        </trans-unit>
+        <trans-unit id="ModuleControlText.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;%@ Control AutoEventWireup="false" Inherits="DotNetNuke.Web.Razor.RazorModuleBase" %&gt;</it></source>
+          <target state="new"><it id="1" pos="open">&lt;%@ Control AutoEventWireup="false" Inherits="DotNetNuke.Web.Razor.RazorModuleBase" %&gt;</it></target>
+        </trans-unit>
+        <trans-unit id="ScriptCopyError.Text" translate="yes" xml:space="preserve">
+          <source>There was an unexpected error copying the script to the target folder.  Please check the Event Viewer for more information.</source>
+          <target state="new">There was an unexpected error copying the script to the target folder.  Please check the Event Viewer for more information.</target>
+        </trans-unit>
+        <trans-unit id="ImportControl.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>There was an error importing the module control, please see the event log for further details</source>
+          <target state="new">There was an error importing the module control, please see the event log for further details</target>
+        </trans-unit>
+        <trans-unit id="TabExists.Text" translate="yes" xml:space="preserve">
+          <source>The page name exists for this module name.  The module was created but the test page was not generated.</source>
+          <target state="new">The page name exists for this module name.  The module was created but the test page was not generated.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

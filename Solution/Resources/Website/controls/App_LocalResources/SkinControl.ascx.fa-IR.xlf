@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="SkinControl.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Host.Text" translate="yes" xml:space="preserve">
+          <source>Host</source>
+          <target state="new">Host</target>
+        </trans-unit>
+        <trans-unit id="Site.Text" translate="yes" xml:space="preserve">
+          <source>Site</source>
+          <target state="new">Site</target>
+        </trans-unit>
+        <trans-unit id="Preview.Text" translate="yes" xml:space="preserve">
+          <source>Preview</source>
+          <target state="new">Preview</target>
+        </trans-unit>
+        <trans-unit id="Application.Text" translate="yes" xml:space="preserve">
+          <source>Use Application Default</source>
+          <target state="new">Use Application Default</target>
+        </trans-unit>
+        <trans-unit id="Page.Text" translate="yes" xml:space="preserve">
+          <source>Use Page Default</source>
+          <target state="new">Use Page Default</target>
+        </trans-unit>
+        <trans-unit id="Portal.Text" translate="yes" xml:space="preserve">
+          <source>Use Site Default</source>
+          <target state="new">Use Site Default</target>
+        </trans-unit>
+        <trans-unit id="System.Text" translate="yes" xml:space="preserve">
+          <source>Use System Default</source>
+          <target state="new">Use System Default</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

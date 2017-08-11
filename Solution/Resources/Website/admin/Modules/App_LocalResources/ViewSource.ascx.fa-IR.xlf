@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="ViewSource.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="cmdUpdate.Text" translate="yes" xml:space="preserve">
+          <source>Update Source</source>
+          <target state="new">Update Source</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_viewsource.Text" translate="yes" xml:space="preserve">
+          <source>View Module Control Source</source>
+          <target state="new">View Module Control Source</target>
+        </trans-unit>
+        <trans-unit id="plSource.Help" translate="yes" xml:space="preserve">
+          <source>You can view the module control's source in the text box below.  If you are running on a local machine then you can also edit and modify the source.</source>
+          <target state="new">You can view the module control's source in the text box below.  If you are running on a local machine then you can also edit and modify the source.</target>
+        </trans-unit>
+        <trans-unit id="plSource.Text" translate="yes" xml:space="preserve">
+          <source>Module Control Source:</source>
+          <target state="new">Module Control Source:</target>
+        </trans-unit>
+        <trans-unit id="SourceFile.Text" translate="yes" xml:space="preserve">
+          <source>Source File - {0}</source>
+          <target state="new">Source File - {0}</target>
+        </trans-unit>
+        <trans-unit id="plFile.Help" translate="yes" xml:space="preserve">
+          <source>Select the File whose source you want to view.</source>
+          <target state="new">Select the File whose source you want to view.</target>
+        </trans-unit>
+        <trans-unit id="plFile.Text" translate="yes" xml:space="preserve">
+          <source>Select File:</source>
+          <target state="new">Select File:</target>
+        </trans-unit>
+        <trans-unit id="NoFileTypeSelected.Text" translate="yes" xml:space="preserve">
+          <source>You must select a File Type to edit before clicking the Update button.</source>
+          <target state="new">You must select a File Type to edit before clicking the Update button.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

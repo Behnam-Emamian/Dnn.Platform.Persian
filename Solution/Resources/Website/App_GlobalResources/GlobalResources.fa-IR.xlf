@@ -1,0 +1,2562 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="GlobalResources.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="SyndicateModule.Action" translate="yes" xml:space="preserve">
+          <source>Syndicate</source>
+          <target state="new">Syndicate</target>
+        </trans-unit>
+        <trans-unit id="ExportModule.Action" translate="yes" xml:space="preserve">
+          <source>Export Content</source>
+          <target state="new">Export Content</target>
+        </trans-unit>
+        <trans-unit id="ImportModule.Action" translate="yes" xml:space="preserve">
+          <source>Import Content</source>
+          <target state="new">Import Content</target>
+        </trans-unit>
+        <trans-unit id="OnlineHelp.Action" translate="yes" xml:space="preserve">
+          <source>Online Help</source>
+          <target state="new">Online Help</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Action" translate="yes" xml:space="preserve">
+          <source>Help</source>
+          <target state="new">Help</target>
+        </trans-unit>
+        <trans-unit id="ModuleSettings.Action" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="new">Settings</target>
+        </trans-unit>
+        <trans-unit id="DeleteModule.Action" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="PrintModule.Action" translate="yes" xml:space="preserve">
+          <source>Print</source>
+          <target state="new">Print</target>
+        </trans-unit>
+        <trans-unit id="ClearCache.Action" translate="yes" xml:space="preserve">
+          <source>Refresh</source>
+          <target state="new">Refresh</target>
+        </trans-unit>
+        <trans-unit id="MoveTop.Action" translate="yes" xml:space="preserve">
+          <source>Top</source>
+          <target state="new">Top</target>
+        </trans-unit>
+        <trans-unit id="MoveUp.Action" translate="yes" xml:space="preserve">
+          <source>Up</source>
+          <target state="new">Up</target>
+        </trans-unit>
+        <trans-unit id="MoveDown.Action" translate="yes" xml:space="preserve">
+          <source>Down</source>
+          <target state="new">Down</target>
+        </trans-unit>
+        <trans-unit id="MoveBottom.Action" translate="yes" xml:space="preserve">
+          <source>Bottom</source>
+          <target state="new">Bottom</target>
+        </trans-unit>
+        <trans-unit id="MovePane.Action" translate="yes" xml:space="preserve">
+          <source>To</source>
+          <target state="new">To</target>
+        </trans-unit>
+        <trans-unit id="MoveRoot.Action" translate="yes" xml:space="preserve">
+          <source>Move</source>
+          <target state="new">Move</target>
+        </trans-unit>
+        <trans-unit id="//Admin.String" translate="yes" xml:space="preserve">
+          <source>Admin</source>
+          <target state="new">Admin</target>
+        </trans-unit>
+        <trans-unit id="//Admin//SiteSettings.String" translate="yes" xml:space="preserve">
+          <source>Site Settings</source>
+          <target state="new">Site Settings</target>
+        </trans-unit>
+        <trans-unit id="//Admin//Tabs.String" translate="yes" xml:space="preserve">
+          <source>Pages</source>
+          <target state="new">Pages</target>
+        </trans-unit>
+        <trans-unit id="//Admin//SecurityRoles.String" translate="yes" xml:space="preserve">
+          <source>Security Roles</source>
+          <target state="new">Security Roles</target>
+        </trans-unit>
+        <trans-unit id="//Admin//UserAccounts.String" translate="yes" xml:space="preserve">
+          <source>User Accounts</source>
+          <target state="new">User Accounts</target>
+        </trans-unit>
+        <trans-unit id="//Admin//Vendors.String" translate="yes" xml:space="preserve">
+          <source>Vendors</source>
+          <target state="new">Vendors</target>
+        </trans-unit>
+        <trans-unit id="//Admin//Newsletters.String" translate="yes" xml:space="preserve">
+          <source>Newsletters</source>
+          <target state="new">Newsletters</target>
+        </trans-unit>
+        <trans-unit id="//Admin//FileManager.String" translate="yes" xml:space="preserve">
+          <source>File Manager</source>
+          <target state="new">File Manager</target>
+        </trans-unit>
+        <trans-unit id="//Admin//RecycleBin.String" translate="yes" xml:space="preserve">
+          <source>Recycle Bin</source>
+          <target state="new">Recycle Bin</target>
+        </trans-unit>
+        <trans-unit id="//Admin//LogViewer.String" translate="yes" xml:space="preserve">
+          <source>Event Viewer</source>
+          <target state="new">Event Viewer</target>
+        </trans-unit>
+        <trans-unit id="//Host//Skins.String" translate="yes" xml:space="preserve">
+          <source>Themes</source>
+          <target state="new">Themes</target>
+        </trans-unit>
+        <trans-unit id="//Host.String" translate="yes" xml:space="preserve">
+          <source>Host</source>
+          <target state="new">Host</target>
+        </trans-unit>
+        <trans-unit id="//Host//HostSettings.String" translate="yes" xml:space="preserve">
+          <source>Host Settings</source>
+          <target state="new">Host Settings</target>
+        </trans-unit>
+        <trans-unit id="//Host//SiteManagement.String" translate="yes" xml:space="preserve">
+          <source>Site Management</source>
+          <target state="new">Site Management</target>
+        </trans-unit>
+        <trans-unit id="//Host//ModuleDefinitions.String" translate="yes" xml:space="preserve">
+          <source>Module Definitions</source>
+          <target state="new">Module Definitions</target>
+        </trans-unit>
+        <trans-unit id="//Host//SQL.String" translate="yes" xml:space="preserve">
+          <source>SQL</source>
+          <target state="new">SQL</target>
+        </trans-unit>
+        <trans-unit id="//Host//Schedule.String" translate="yes" xml:space="preserve">
+          <source>Schedule</source>
+          <target state="new">Schedule</target>
+        </trans-unit>
+        <trans-unit id="//Host//Languages.String" translate="yes" xml:space="preserve">
+          <source>Languages</source>
+          <target state="new">Languages</target>
+        </trans-unit>
+        <trans-unit id="BannerType.Banner.String" translate="yes" xml:space="preserve">
+          <source>Banner</source>
+          <target state="new">Banner</target>
+        </trans-unit>
+        <trans-unit id="BannerType.MicroButton.String" translate="yes" xml:space="preserve">
+          <source>MicroButton</source>
+          <target state="new">MicroButton</target>
+        </trans-unit>
+        <trans-unit id="BannerType.Button.String" translate="yes" xml:space="preserve">
+          <source>Button</source>
+          <target state="new">Button</target>
+        </trans-unit>
+        <trans-unit id="BannerType.Block.String" translate="yes" xml:space="preserve">
+          <source>Block</source>
+          <target state="new">Block</target>
+        </trans-unit>
+        <trans-unit id="BannerType.Skyscraper.String" translate="yes" xml:space="preserve">
+          <source>Skyscraper</source>
+          <target state="new">Skyscraper</target>
+        </trans-unit>
+        <trans-unit id="BannerType.Text.String" translate="yes" xml:space="preserve">
+          <source>Text</source>
+          <target state="new">Text</target>
+        </trans-unit>
+        <trans-unit id="BannerType.Script.String" translate="yes" xml:space="preserve">
+          <source>Script</source>
+          <target state="new">Script</target>
+        </trans-unit>
+        <trans-unit id="//Host//SearchAdmin.String" translate="yes" xml:space="preserve">
+          <source>Search Admin</source>
+          <target state="new">Search Admin</target>
+        </trans-unit>
+        <trans-unit id="//Host//Lists.String" translate="yes" xml:space="preserve">
+          <source>Lists</source>
+          <target state="new">Lists</target>
+        </trans-unit>
+        <trans-unit id="//Host//SuperuserAccounts.String" translate="yes" xml:space="preserve">
+          <source>SuperUser Accounts</source>
+          <target state="new">SuperUser Accounts</target>
+        </trans-unit>
+        <trans-unit id="View.Permission" translate="yes" xml:space="preserve">
+          <source>View Module</source>
+          <target state="new">View Module</target>
+        </trans-unit>
+        <trans-unit id="Edit.Permission" translate="yes" xml:space="preserve">
+          <source>Edit Module</source>
+          <target state="new">Edit Module</target>
+        </trans-unit>
+        <trans-unit id="View Tab.Permission" translate="yes" xml:space="preserve">
+          <source>View Page</source>
+          <target state="new">View Page</target>
+        </trans-unit>
+        <trans-unit id="Edit Tab.Permission" translate="yes" xml:space="preserve">
+          <source>Edit Page</source>
+          <target state="new">Edit Page</target>
+        </trans-unit>
+        <trans-unit id="View Folder.Permission" translate="yes" xml:space="preserve">
+          <source>Open Files in Folder</source>
+          <target state="new">Open Files in Folder</target>
+        </trans-unit>
+        <trans-unit id="Write to Folder.Permission" translate="yes" xml:space="preserve">
+          <source>Write to Folder</source>
+          <target state="new">Write to Folder</target>
+        </trans-unit>
+        <trans-unit id="Browse Folder.Permission" translate="yes" xml:space="preserve">
+          <source>Browse Files in Folder</source>
+          <target state="new">Browse Files in Folder</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_SMTP_TEST_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Host:HostTitle] SMTP Configuration Test</source>
+          <target state="new">[Host:HostTitle] SMTP Configuration Test</target>
+        </trans-unit>
+        <trans-unit id="MESSAGE_PORTAL_PRIVACY.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div align="left"&gt;</bpt>
+        <bpt id="2">&lt;p&gt;</bpt>[Portal:PortalName] is committed to protecting your privacy and developing technology
+        that gives you the most powerful and safe online experience. This Statement of Privacy
+        applies to the [Portal:PortalName] site and governs data collection and usage.
+        By using the [Portal:PortalName] site, you consent to the data practices described
+        in this statement.<ept id="2">&lt;/p&gt;</ept>
+        <bpt id="3">&lt;p&gt;</bpt><bpt id="4">&lt;span class="SubHead"&gt;</bpt>Collection of your Personal Information<ept id="4">&lt;/span&gt;</ept><ept id="3">&lt;/p&gt;</ept>
+        <bpt id="5">&lt;p&gt;</bpt>[Portal:PortalName] collects personally identifiable information, such as your email
+        address, name, home or work address or telephone number. [Portal:PortalName] also
+        collects anonymous demographic information, which is not unique to you, such as
+        your ZIP code, age, gender, preferences, interests and favorites.<ept id="5">&lt;/p&gt;</ept>
+        <bpt id="6">&lt;p&gt;</bpt>There is also information about your computer hardware and software that is automatically
+        collected by [Portal:PortalName]. This information can include: your IP address,
+        browser type, domain names, access times and referring website addresses. This
+        information is used by [Portal:PortalName] for the operation of the service, to
+        maintain quality of the service, and to provide general statistics regarding use
+        of the [Portal:PortalName] site.<ept id="6">&lt;/p&gt;</ept>
+        <bpt id="7">&lt;p&gt;</bpt>Please keep in mind that if you directly disclose personally identifiable information
+        or personally sensitive data through [Portal:PortalName] public message boards,
+        this information may be collected and used by others. Note: [Portal:PortalName]
+        does not read any of your private online communications.<ept id="7">&lt;/p&gt;</ept>
+        <bpt id="8">&lt;p&gt;</bpt>[Portal:PortalName] encourages you to review the privacy statements of Web sites
+        you choose to link to from [Portal:PortalName] so that you can understand how those
+        Web sites collect, use and share your information. [Portal:PortalName] is not responsible
+        for the privacy statements or other content on Web sites outside of the [Portal:PortalName]
+        and [Portal:PortalName] family of Web sites.<ept id="8">&lt;/p&gt;</ept>
+        <bpt id="9">&lt;p&gt;</bpt><bpt id="10">&lt;span class="SubHead"&gt;</bpt>Use of your Personal Information<ept id="10">&lt;/span&gt;</ept><ept id="9">&lt;/p&gt;</ept>
+        <bpt id="11">&lt;p&gt;</bpt>[Portal:PortalName] collects and uses your personal information to operate the [Portal:PortalName]
+        Web site and deliver the services you have requested. [Portal:PortalName] also uses
+        your personally identifiable information to inform you of other products or services
+        available from [Portal:PortalName] and its affiliates. [Portal:PortalName] may also
+        contact you via surveys to conduct research about your opinion of current services
+        or of potential new services that may be offered.<ept id="11">&lt;/p&gt;</ept>
+        <bpt id="12">&lt;p&gt;</bpt>[Portal:PortalName] does not sell, rent or lease its customer lists to third parties.
+        [Portal:PortalName] may, from time to time, contact you on behalf of external business
+        partners about a particular offering that may be of interest to you. In those cases,
+        your unique personally identifiable information (e-mail, name, address, telephone
+        number) is not transferred to the third party. In addition, [Portal:PortalName]
+        may share data with trusted partners to help us perform statistical analysis, send
+        you email or postal mail, provide customer support, or arrange for deliveries. All
+        such third parties are prohibited from using your personal information except to
+        provide these services to [Portal:PortalName], and they are required to maintain
+        the confidentiality of your information.<ept id="12">&lt;/p&gt;</ept>
+        <bpt id="13">&lt;p&gt;</bpt>[Portal:PortalName] does not use or disclose sensitive personal information, such
+        as race, religion, or political affiliations, without your explicit consent.<ept id="13">&lt;/p&gt;</ept>
+        <bpt id="14">&lt;p&gt;</bpt>[Portal:PortalName] keeps track of the Web sites and pages our customers visit within
+        [Portal:PortalName], in order to determine what [Portal:PortalName] services are
+        the most popular. This data is used to deliver customized content and advertising
+        within [Portal:PortalName] to customers whose behavior indicates that they are interested
+        in a particular subject area.<ept id="14">&lt;/p&gt;</ept>
+        <bpt id="15">&lt;p&gt;</bpt>[Portal:PortalName] Web sites will disclose your personal information, without notice,
+        only if required to do so by law or in the good faith belief that such action is
+        necessary to: (a) conform to the edicts of the law or comply with legal process
+        served on [Portal:PortalName] or the site; (b) protect and defend the rights or
+        property of [Portal:PortalName]; and, (c) act under exigent circumstances to protect
+        the personal safety of users of [Portal:PortalName], or the public.<ept id="15">&lt;/p&gt;</ept>
+        <bpt id="16">&lt;p&gt;</bpt><bpt id="17">&lt;span class="SubHead"&gt;</bpt>Use of Cookies<ept id="17">&lt;/span&gt;</ept><ept id="16">&lt;/p&gt;</ept>
+        <bpt id="18">&lt;p&gt;</bpt>The [Portal:PortalName] Web site use "cookies" to help you personalize your online
+        experience. A cookie is a text file that is placed on your hard disk by a Web page
+        server. Cookies cannot be used to run programs or deliver viruses to your computer.
+        Cookies are uniquely assigned to you, and can only be read by a web server in the
+        domain that issued the cookie to you.<ept id="18">&lt;/p&gt;</ept>
+        <bpt id="19">&lt;p&gt;</bpt>One of the primary purposes of cookies is to provide a convenience feature to save
+        you time. The purpose of a cookie is to tell the Web server that you have returned
+        to a specific page. For example, if you personalize [Portal:PortalName] pages, or
+        register with [Portal:PortalName] site or services, a cookie helps [Portal:PortalName]
+        to recall your specific information on subsequent visits. This simplifies the process
+        of recording your personal information, such as billing addresses, shipping addresses,
+        and so on. When you return to the same [Portal:PortalName] Web site, the information
+        you previously provided can be retrieved, so you can easily use the [Portal:PortalName]
+        features that you customized.<ept id="19">&lt;/p&gt;</ept>
+        <bpt id="20">&lt;p&gt;</bpt>You have the ability to accept or decline cookies. Most Web browsers automatically
+        accept cookies, but you can usually modify your browser setting to decline cookies
+        if you prefer. If you choose to decline cookies, you may not be able to fully experience
+        the interactive features of the [Portal:PortalName] services or Web sites you visit.<ept id="20">&lt;/p&gt;</ept>
+        <bpt id="21">&lt;p&gt;</bpt><bpt id="22">&lt;span class="SubHead"&gt;</bpt>Security of your Personal Information<ept id="22">&lt;/span&gt;</ept><ept id="21">&lt;/p&gt;</ept>
+        <bpt id="23">&lt;p&gt;</bpt>[Portal:PortalName] secures your personal information from unauthorized access,
+        use or disclosure. [Portal:PortalName] secures the personally identifiable information
+        you provide on computer servers in a controlled, secure environment, protected from
+        unauthorized access, use or disclosure. When personal information (such as a credit
+        card number) is transmitted to other Web sites, it is protected through the use
+        of encryption, such as the Secure Socket Layer (SSL) protocol.<ept id="23">&lt;/p&gt;</ept>
+        <bpt id="24">&lt;p&gt;</bpt><bpt id="25">&lt;span class="SubHead"&gt;</bpt>Changes to this Statement<ept id="25">&lt;/span&gt;</ept><ept id="24">&lt;/p&gt;</ept>
+        <bpt id="26">&lt;p&gt;</bpt>[Portal:PortalName] will occasionally update this Statement of Privacy to reflect
+company and customer feedback. [Portal:PortalName] encourages you to periodically 
+        review this Statement to be informed of how [Portal:PortalName] is protecting your
+        information.<ept id="26">&lt;/p&gt;</ept>
+        <bpt id="27">&lt;p&gt;</bpt><bpt id="28">&lt;span class="SubHead"&gt;</bpt>Contact Information<ept id="28">&lt;/span&gt;</ept><ept id="27">&lt;/p&gt;</ept>
+        <bpt id="29">&lt;p&gt;</bpt>[Portal:PortalName] welcomes your comments regarding this Statement of Privacy.
+        If you believe that [Portal:PortalName] has not adhered to this Statement, please
+        contact [Portal:PortalName] at <bpt id="30">&lt;a href="mailto:[Portal:Email]"&gt;</bpt>[Portal:Email]<ept id="30">&lt;/a&gt;</ept>.
+        We will use commercially reasonable efforts to promptly determine and remedy the
+        problem.<ept id="29">&lt;/p&gt;</ept>
+    <ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div align="left"&gt;</bpt>
+        <bpt id="2">&lt;p&gt;</bpt>[Portal:PortalName] is committed to protecting your privacy and developing technology
+        that gives you the most powerful and safe online experience. This Statement of Privacy
+        applies to the [Portal:PortalName] site and governs data collection and usage.
+        By using the [Portal:PortalName] site, you consent to the data practices described
+        in this statement.<ept id="2">&lt;/p&gt;</ept>
+        <bpt id="3">&lt;p&gt;</bpt><bpt id="4">&lt;span class="SubHead"&gt;</bpt>Collection of your Personal Information<ept id="4">&lt;/span&gt;</ept><ept id="3">&lt;/p&gt;</ept>
+        <bpt id="5">&lt;p&gt;</bpt>[Portal:PortalName] collects personally identifiable information, such as your email
+        address, name, home or work address or telephone number. [Portal:PortalName] also
+        collects anonymous demographic information, which is not unique to you, such as
+        your ZIP code, age, gender, preferences, interests and favorites.<ept id="5">&lt;/p&gt;</ept>
+        <bpt id="6">&lt;p&gt;</bpt>There is also information about your computer hardware and software that is automatically
+        collected by [Portal:PortalName]. This information can include: your IP address,
+        browser type, domain names, access times and referring website addresses. This
+        information is used by [Portal:PortalName] for the operation of the service, to
+        maintain quality of the service, and to provide general statistics regarding use
+        of the [Portal:PortalName] site.<ept id="6">&lt;/p&gt;</ept>
+        <bpt id="7">&lt;p&gt;</bpt>Please keep in mind that if you directly disclose personally identifiable information
+        or personally sensitive data through [Portal:PortalName] public message boards,
+        this information may be collected and used by others. Note: [Portal:PortalName]
+        does not read any of your private online communications.<ept id="7">&lt;/p&gt;</ept>
+        <bpt id="8">&lt;p&gt;</bpt>[Portal:PortalName] encourages you to review the privacy statements of Web sites
+        you choose to link to from [Portal:PortalName] so that you can understand how those
+        Web sites collect, use and share your information. [Portal:PortalName] is not responsible
+        for the privacy statements or other content on Web sites outside of the [Portal:PortalName]
+        and [Portal:PortalName] family of Web sites.<ept id="8">&lt;/p&gt;</ept>
+        <bpt id="9">&lt;p&gt;</bpt><bpt id="10">&lt;span class="SubHead"&gt;</bpt>Use of your Personal Information<ept id="10">&lt;/span&gt;</ept><ept id="9">&lt;/p&gt;</ept>
+        <bpt id="11">&lt;p&gt;</bpt>[Portal:PortalName] collects and uses your personal information to operate the [Portal:PortalName]
+        Web site and deliver the services you have requested. [Portal:PortalName] also uses
+        your personally identifiable information to inform you of other products or services
+        available from [Portal:PortalName] and its affiliates. [Portal:PortalName] may also
+        contact you via surveys to conduct research about your opinion of current services
+        or of potential new services that may be offered.<ept id="11">&lt;/p&gt;</ept>
+        <bpt id="12">&lt;p&gt;</bpt>[Portal:PortalName] does not sell, rent or lease its customer lists to third parties.
+        [Portal:PortalName] may, from time to time, contact you on behalf of external business
+        partners about a particular offering that may be of interest to you. In those cases,
+        your unique personally identifiable information (e-mail, name, address, telephone
+        number) is not transferred to the third party. In addition, [Portal:PortalName]
+        may share data with trusted partners to help us perform statistical analysis, send
+        you email or postal mail, provide customer support, or arrange for deliveries. All
+        such third parties are prohibited from using your personal information except to
+        provide these services to [Portal:PortalName], and they are required to maintain
+        the confidentiality of your information.<ept id="12">&lt;/p&gt;</ept>
+        <bpt id="13">&lt;p&gt;</bpt>[Portal:PortalName] does not use or disclose sensitive personal information, such
+        as race, religion, or political affiliations, without your explicit consent.<ept id="13">&lt;/p&gt;</ept>
+        <bpt id="14">&lt;p&gt;</bpt>[Portal:PortalName] keeps track of the Web sites and pages our customers visit within
+        [Portal:PortalName], in order to determine what [Portal:PortalName] services are
+        the most popular. This data is used to deliver customized content and advertising
+        within [Portal:PortalName] to customers whose behavior indicates that they are interested
+        in a particular subject area.<ept id="14">&lt;/p&gt;</ept>
+        <bpt id="15">&lt;p&gt;</bpt>[Portal:PortalName] Web sites will disclose your personal information, without notice,
+        only if required to do so by law or in the good faith belief that such action is
+        necessary to: (a) conform to the edicts of the law or comply with legal process
+        served on [Portal:PortalName] or the site; (b) protect and defend the rights or
+        property of [Portal:PortalName]; and, (c) act under exigent circumstances to protect
+        the personal safety of users of [Portal:PortalName], or the public.<ept id="15">&lt;/p&gt;</ept>
+        <bpt id="16">&lt;p&gt;</bpt><bpt id="17">&lt;span class="SubHead"&gt;</bpt>Use of Cookies<ept id="17">&lt;/span&gt;</ept><ept id="16">&lt;/p&gt;</ept>
+        <bpt id="18">&lt;p&gt;</bpt>The [Portal:PortalName] Web site use "cookies" to help you personalize your online
+        experience. A cookie is a text file that is placed on your hard disk by a Web page
+        server. Cookies cannot be used to run programs or deliver viruses to your computer.
+        Cookies are uniquely assigned to you, and can only be read by a web server in the
+        domain that issued the cookie to you.<ept id="18">&lt;/p&gt;</ept>
+        <bpt id="19">&lt;p&gt;</bpt>One of the primary purposes of cookies is to provide a convenience feature to save
+        you time. The purpose of a cookie is to tell the Web server that you have returned
+        to a specific page. For example, if you personalize [Portal:PortalName] pages, or
+        register with [Portal:PortalName] site or services, a cookie helps [Portal:PortalName]
+        to recall your specific information on subsequent visits. This simplifies the process
+        of recording your personal information, such as billing addresses, shipping addresses,
+        and so on. When you return to the same [Portal:PortalName] Web site, the information
+        you previously provided can be retrieved, so you can easily use the [Portal:PortalName]
+        features that you customized.<ept id="19">&lt;/p&gt;</ept>
+        <bpt id="20">&lt;p&gt;</bpt>You have the ability to accept or decline cookies. Most Web browsers automatically
+        accept cookies, but you can usually modify your browser setting to decline cookies
+        if you prefer. If you choose to decline cookies, you may not be able to fully experience
+        the interactive features of the [Portal:PortalName] services or Web sites you visit.<ept id="20">&lt;/p&gt;</ept>
+        <bpt id="21">&lt;p&gt;</bpt><bpt id="22">&lt;span class="SubHead"&gt;</bpt>Security of your Personal Information<ept id="22">&lt;/span&gt;</ept><ept id="21">&lt;/p&gt;</ept>
+        <bpt id="23">&lt;p&gt;</bpt>[Portal:PortalName] secures your personal information from unauthorized access,
+        use or disclosure. [Portal:PortalName] secures the personally identifiable information
+        you provide on computer servers in a controlled, secure environment, protected from
+        unauthorized access, use or disclosure. When personal information (such as a credit
+        card number) is transmitted to other Web sites, it is protected through the use
+        of encryption, such as the Secure Socket Layer (SSL) protocol.<ept id="23">&lt;/p&gt;</ept>
+        <bpt id="24">&lt;p&gt;</bpt><bpt id="25">&lt;span class="SubHead"&gt;</bpt>Changes to this Statement<ept id="25">&lt;/span&gt;</ept><ept id="24">&lt;/p&gt;</ept>
+        <bpt id="26">&lt;p&gt;</bpt>[Portal:PortalName] will occasionally update this Statement of Privacy to reflect
+company and customer feedback. [Portal:PortalName] encourages you to periodically 
+        review this Statement to be informed of how [Portal:PortalName] is protecting your
+        information.<ept id="26">&lt;/p&gt;</ept>
+        <bpt id="27">&lt;p&gt;</bpt><bpt id="28">&lt;span class="SubHead"&gt;</bpt>Contact Information<ept id="28">&lt;/span&gt;</ept><ept id="27">&lt;/p&gt;</ept>
+        <bpt id="29">&lt;p&gt;</bpt>[Portal:PortalName] welcomes your comments regarding this Statement of Privacy.
+        If you believe that [Portal:PortalName] has not adhered to this Statement, please
+        contact [Portal:PortalName] at <bpt id="30">&lt;a href="mailto:[Portal:Email]"&gt;</bpt>[Portal:Email]<ept id="30">&lt;/a&gt;</ept>.
+        We will use commercially reasonable efforts to promptly determine and remedy the
+        problem.<ept id="29">&lt;/p&gt;</ept>
+    <ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="EMAIL_PORTAL_SIGNUP_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Host:HostTitle] Portal Signup</source>
+          <target state="new">[Host:HostTitle] Portal Signup</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_PORTAL_SIGNUP_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Dear [User:DisplayName],
+
+Your Website Has Been Created. Please read the following information carefully and be sure to save this message in a safe location for future reference.
+
+Website Address: [Portal:URL]
+Username: [User:UserName]
+Verification Code: [User:VerificationCode]
+
+Please take the opportunity to visit the website to review its content and take advantage of its many features.
+
+Thank you, we appreciate your support...
+
+[Host:HostTitle]
+
+</source>
+          <target state="new">Dear [User:DisplayName],
+
+Your Website Has Been Created. Please read the following information carefully and be sure to save this message in a safe location for future reference.
+
+Website Address: [Portal:URL]
+Username: [User:UserName]
+Verification Code: [User:VerificationCode]
+
+Please take the opportunity to visit the website to review its content and take advantage of its many features.
+
+Thank you, we appreciate your support...
+
+[Host:HostTitle]
+
+</target>
+        </trans-unit>
+        <trans-unit id="MESSAGE_PORTAL_TERMS.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div align="left"&gt;</bpt>
+        <bpt id="2">&lt;p&gt;</bpt><bpt id="3">&lt;span class="SubHead"&gt;</bpt>AGREEMENT BETWEEN USER AND [Portal:PortalName]<ept id="3">&lt;/span&gt;</ept><bpt id="4">&lt;p&gt;</bpt>
+        <bpt id="5">&lt;p&gt;</bpt>The [Portal:PortalName] Web Site is comprised of various Web pages operated by [Portal:PortalName].<ept id="2">&lt;/p&gt;</ept>
+        <bpt id="6">&lt;p&gt;</bpt>The [Portal:PortalName] Web Site is offered to you conditioned on your acceptance
+        without modification of the terms, conditions, and notices contained herein. Your
+        use of the [Portal:PortalName] Web Site constitutes your agreement to all such terms,
+        conditions, and notices.<bpt id="7">&lt;p&gt;</bpt>
+        <bpt id="8">&lt;p&gt;</bpt><bpt id="9">&lt;span class="SubHead"&gt;</bpt>MODIFICATION OF THESE TERMS OF USE<ept id="9">&lt;/span&gt;</ept><ept id="4">&lt;/p&gt;</ept>
+        <bpt id="10">&lt;p&gt;</bpt>[Portal:PortalName] reserves the right to change the terms, conditions, and notices
+        under which the [Portal:PortalName] Web Site is offered, including but not limited
+        to the charges associated with the use of the [Portal:PortalName] Web Site.<ept id="5">&lt;/p&gt;</ept>
+        <bpt id="11">&lt;p&gt;</bpt><bpt id="12">&lt;span class="SubHead"&gt;</bpt>LINKS TO THIRD PARTY SITES<ept id="12">&lt;/span&gt;</ept><ept id="6">&lt;/p&gt;</ept>
+        <bpt id="13">&lt;p&gt;</bpt>The [Portal:PortalName] Web Site may contain links to other Web Sites ("Linked Sites").
+        The Linked Sites are not under the control of [Portal:PortalName] and [Portal:PortalName]
+        is not responsible for the contents of any Linked Site, including without limitation
+        any link contained in a Linked Site, or any changes or updates to a Linked Site.
+        [Portal:PortalName] is not responsible for webcasting or any other form of transmission
+        received from any Linked Site. [Portal:PortalName] is providing these links to you
+        only as a convenience, and the inclusion of any link does not imply endorsement
+        by [Portal:PortalName] of the site or any association with its operators.<ept id="7">&lt;/p&gt;</ept>
+        <bpt id="14">&lt;p&gt;</bpt><bpt id="15">&lt;span class="SubHead"&gt;</bpt>NO UNLAWFUL OR PROHIBITED USE<ept id="15">&lt;/span&gt;</ept><ept id="8">&lt;/p&gt;</ept>
+        <bpt id="16">&lt;p&gt;</bpt>As a condition of your use of the [Portal:PortalName] Web Site, you warrant to [Portal:PortalName]
+        that you will not use the [Portal:PortalName] Web Site for any purpose that is unlawful
+        or prohibited by these terms, conditions, and notices. You may not use the [Portal:PortalName]
+        Web Site in any manner which could damage, disable, overburden, or impair the [Portal:PortalName]
+        Web Site or interfere with any other party's use and enjoyment of the [Portal:PortalName]
+        Web Site. You may not obtain or attempt to obtain any materials or information through
+        any means not intentionally made available or provided for through the [Portal:PortalName]
+        Web Sites.<ept id="10">&lt;/p&gt;</ept>
+        <bpt id="17">&lt;p&gt;</bpt><bpt id="18">&lt;span class="SubHead"&gt;</bpt>USE OF COMMUNICATION SERVICES<ept id="18">&lt;/span&gt;</ept><ept id="11">&lt;/p&gt;</ept>
+        <bpt id="19">&lt;p&gt;</bpt>The [Portal:PortalName] Web Site may contain bulletin board services, chat areas,
+        news groups, forums, communities, personal web pages, calendars, and/or other message
+        or communication facilities designed to enable you to communicate with the public
+        at large or with a group (collectively, "Communication Services"), you agree to
+        use the Communication Services only to post, send and receive messages and material
+        that are proper and related to the particular Communication Service. By way of example,
+        and not as a limitation, you agree that when using a Communication Service, you
+        will not:<ept id="13">&lt;/p&gt;</ept>
+<bpt id="20">&lt;ul&gt;</bpt>
+            <bpt id="21">&lt;li&gt;</bpt>Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such
+                as rights of privacy and publicity) of others.<ept id="21">&lt;/li&gt;</ept>
+            <bpt id="22">&lt;li&gt;</bpt>Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory,
+                infringing, obscene, indecent or unlawful topic, name, material or information.<ept id="22">&lt;/li&gt;</ept>
+            <bpt id="23">&lt;li&gt;</bpt>Upload files that contain software or other material protected by intellectual property
+                laws (or by rights of privacy of publicity) unless you own or control the rights
+                thereto or have received all necessary consents.<ept id="23">&lt;/li&gt;</ept>
+            <bpt id="24">&lt;li&gt;</bpt>Upload files that contain viruses, corrupted files, or any other similar software
+                or programs that may damage the operation of another's computer.<ept id="24">&lt;/li&gt;</ept>
+            <bpt id="25">&lt;li&gt;</bpt>Advertise or offer to sell or buy any goods or services for any business purpose,
+                unless such Communication Service specifically allows such messages.<ept id="25">&lt;/li&gt;</ept>
+            <bpt id="26">&lt;li&gt;</bpt>Conduct or forward surveys, contests, pyramid schemes or chain letters.<ept id="26">&lt;/li&gt;</ept>
+            <bpt id="27">&lt;li&gt;</bpt>Download any file posted by another user of a Communication Service that you know,
+                or reasonably should know, cannot be legally distributed in such manner.<ept id="27">&lt;/li&gt;</ept>
+            <bpt id="28">&lt;li&gt;</bpt>Falsify or delete any author attributions, legal or other proper notices or proprietary
+                designations or labels of the origin or source of software or other material contained
+                in a file that is uploaded.<ept id="28">&lt;/li&gt;</ept>
+            <bpt id="29">&lt;li&gt;</bpt>Restrict or inhibit any other user from using and enjoying the Communication Services.<ept id="29">&lt;/li&gt;</ept>
+            <bpt id="30">&lt;li&gt;</bpt>Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.<ept id="30">&lt;/li&gt;</ept>
+            <bpt id="31">&lt;li&gt;</bpt>Harvest or otherwise collect information about others, including e-mail addresses, without their consent.<ept id="31">&lt;/li&gt;</ept>
+            <bpt id="32">&lt;li&gt;</bpt>Violate any applicable laws or regulations.<ept id="32">&lt;/li&gt;</ept>
+<ept id="20">&lt;/ul&gt;</ept>
+        <bpt id="33">&lt;p&gt;</bpt>[Portal:PortalName] has no obligation to monitor the Communication Services. However,
+        [Portal:PortalName] reserves the right to review materials posted to a Communication
+        Service and to remove any materials in its sole discretion. [Portal:PortalName]
+        reserves the right to terminate your access to any or all of the Communication Services
+        at any time without notice for any reason whatsoever.<ept id="14">&lt;/p&gt;</ept>
+        <bpt id="34">&lt;p&gt;</bpt>[Portal:PortalName] reserves the right at all times to disclose any information
+        as necessary to satisfy any applicable law, regulation, legal process or governmental
+        request, or to edit, refuse to post or to remove any information or materials, in
+        whole or in part, in [Portal:PortalName]'s sole discretion.<ept id="16">&lt;/p&gt;</ept>
+        <bpt id="35">&lt;p&gt;</bpt>Always use caution when giving out any personally identifying information about
+        yourself or your children in any Communication Service. [Portal:PortalName] does
+        not control or endorse the content, messages or information found in any Communication
+        Service and, therefore, [Portal:PortalName] specifically disclaims any liability
+        with regard to the Communication Services and any actions resulting from your participation
+        in any Communication Service. Managers and hosts are not authorized [Portal:PortalName]
+        spokespersons, and their views do not necessarily reflect those of [Portal:PortalName].<ept id="17">&lt;/p&gt;</ept>
+        <bpt id="36">&lt;p&gt;</bpt>Materials uploaded to a Communication Service may be subject to posted limitations
+        on usage, reproduction and/or dissemination. You are responsible for adhering to
+        such limitations if you download the materials.<ept id="19">&lt;/p&gt;</ept>
+        <bpt id="37">&lt;p&gt;</bpt><bpt id="38">&lt;span class="SubHead"&gt;</bpt>MATERIALS PROVIDED TO [Portal:PortalName] OR POSTED AT ANY [Portal:PortalName]
+            WEB SITE<ept id="38">&lt;/span&gt;</ept><ept id="33">&lt;/p&gt;</ept>
+        <bpt id="39">&lt;p&gt;</bpt>[Portal:PortalName] does not claim ownership of the materials you provide to [Portal:PortalName]
+        (including feedback and suggestions) or post, upload, input or submit to any [Portal:PortalName]
+        Web Site or its associated services (collectively "Submissions"). However, by posting,
+        uploading, inputting, providing or submitting your Submission you are granting [Portal:PortalName],
+        its affiliated companies and necessary sublicensees permission to use your Submission
+        in connection with the operation of their Internet businesses including, without
+        limitation, the rights to: copy, distribute, transmit, publicly display, publicly
+        perform, reproduce, edit, translate and reformat your Submission; and to publish
+        your name in connection with your Submission.<ept id="34">&lt;/p&gt;</ept>
+        <bpt id="40">&lt;p&gt;</bpt>No compensation will be paid with respect to the use of your Submission, as provided
+        herein. [Portal:PortalName] is under no obligation to post or use any Submission
+        you may provide and may remove any Submission at any time in [Portal:PortalName]'s
+        sole discretion.<ept id="35">&lt;/p&gt;</ept>
+        <bpt id="41">&lt;p&gt;</bpt>By posting, uploading, inputting, providing or submitting your Submission you warrant
+        and represent that you own or otherwise control all of the rights to your Submission
+        as described in this section including, without limitation, all the rights necessary
+        for you to provide, post, upload, input or submit the Submissions.<ept id="36">&lt;/p&gt;</ept>
+        <bpt id="42">&lt;p&gt;</bpt><bpt id="43">&lt;span class="SubHead"&gt;</bpt>LIABILITY DISCLAIMER<ept id="43">&lt;/span&gt;</ept><ept id="37">&lt;/p&gt;</ept>
+        <bpt id="44">&lt;p&gt;</bpt>THE INFORMATION, SOFTWARE, PRODUCTS, AND SERVICES INCLUDED IN OR AVAILABLE THROUGH
+        THE [Portal:PortalName] WEB SITE MAY INCLUDE INACCURACIES OR TYPOGRAPHICAL ERRORS.
+        CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION HEREIN. [Portal:PortalName] AND/OR
+        ITS SUPPLIERS MAY MAKE IMPROVEMENTS AND/OR CHANGES IN THE [Portal:PortalName] WEB
+        SITE AT ANY TIME. ADVICE RECEIVED VIA THE [Portal:PortalName] WEB SITE SHOULD NOT
+        BE RELIED UPON FOR PERSONAL, MEDICAL, LEGAL OR FINANCIAL DECISIONS AND YOU SHOULD
+        CONSULT AN APPROPRIATE PROFESSIONAL FOR SPECIFIC ADVICE TAILORED TO YOUR SITUATION.<ept id="39">&lt;/p&gt;</ept>
+        <bpt id="45">&lt;p&gt;</bpt>[Portal:PortalName] AND/OR ITS SUPPLIERS MAKE NO REPRESENTATIONS ABOUT THE SUITABILITY,
+        RELIABILITY, AVAILABILITY, TIMELINESS, AND ACCURACY OF THE INFORMATION, SOFTWARE,
+        PRODUCTS, SERVICES AND RELATED GRAPHICS CONTAINED ON THE [Portal:PortalName] WEB
+        SITE FOR ANY PURPOSE. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ALL SUCH
+        INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS ARE PROVIDED "AS
+        IS" WITHOUT WARRANTY OR CONDITION OF ANY KIND. [Portal:PortalName] AND/OR ITS SUPPLIERS
+        HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH REGARD TO THIS INFORMATION, SOFTWARE,
+        PRODUCTS, SERVICES AND RELATED GRAPHICS, INCLUDING ALL IMPLIED WARRANTIES OR CONDITIONS
+        OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.<ept id="40">&lt;/p&gt;</ept>
+        <bpt id="46">&lt;p&gt;</bpt>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL [Portal:PortalName]
+        AND/OR ITS SUPPLIERS BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL,
+        CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER INCLUDING, WITHOUT LIMITATION, DAMAGES
+        FOR LOSS OF USE, DATA OR PROFITS, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE
+        USE OR PERFORMANCE OF THE [Portal:PortalName] WEB SITE, WITH THE DELAY OR INABILITY
+        TO USE THE [Portal:PortalName] WEB SITE OR RELATED SERVICES, THE PROVISION OF OR
+        FAILURE TO PROVIDE SERVICES, OR FOR ANY INFORMATION, SOFTWARE, PRODUCTS, SERVICES
+        AND RELATED GRAPHICS OBTAINED THROUGH THE [Portal:PortalName] WEB SITE, OR OTHERWISE
+        ARISING OUT OF THE USE OF THE [Portal:PortalName] WEB SITE, WHETHER BASED ON CONTRACT,
+        TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE, EVEN IF [Portal:PortalName] OR
+        ANY OF ITS SUPPLIERS HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES. BECAUSE SOME
+        STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL
+        OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. IF YOU ARE DISSATISFIED
+        WITH ANY PORTION OF THE [Portal:PortalName] WEB SITE, OR WITH ANY OF THESE TERMS
+        OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE [Portal:PortalName]
+        WEB SITE.<ept id="41">&lt;/p&gt;</ept>
+        <bpt id="47">&lt;p&gt;</bpt>SERVICE CONTACT : [Portal:Email]<ept id="42">&lt;/p&gt;</ept>
+        <bpt id="48">&lt;p&gt;</bpt><bpt id="49">&lt;span class="SubHead"&gt;</bpt>TERMINATION/ACCESS RESTRICTION<ept id="49">&lt;/span&gt;</ept><ept id="44">&lt;/p&gt;</ept>
+        <bpt id="50">&lt;p&gt;</bpt>[Portal:PortalName] reserves the right, in its sole discretion, to terminate your
+        access to the [Portal:PortalName] Web Site and the related services or any portion
+        thereof at any time, without notice. GENERAL To the maximum extent permitted by
+        law, this agreement is governed by the laws of the State of Washington, U.S.A. and
+        you hereby consent to the exclusive jurisdiction and venue of courts in San Mateo County,
+        California, U.S.A. in all disputes arising out of or relating to the use of the
+        [Portal:PortalName] Web Site. Use of the [Portal:PortalName] Web Site is unauthorized
+        in any jurisdiction that does not give effect to all provisions of these terms and
+        conditions, including without limitation this paragraph. You agree that no joint
+        venture, partnership, employment, or agency relationship exists between you and
+        [Portal:PortalName] as a result of this agreement or use of the [Portal:PortalName]
+        Web Site. [Portal:PortalName]'s performance of this agreement is subject to existing
+        laws and legal process, and nothing contained in this agreement is in derogation
+        of [Portal:PortalName]'s right to comply with governmental, court and law enforcement
+        requests or requirements relating to your use of the [Portal:PortalName] Web Site
+        or information provided to or gathered by [Portal:PortalName] with respect to such
+        use. If any part of this agreement is determined to be invalid or unenforceable
+        pursuant to applicable law including, but not limited to, the warranty disclaimers
+        and liability limitations set forth above, then the invalid or unenforceable provision
+        will be deemed superseded by a valid, enforceable provision that most closely matches
+        the intent of the original provision and the remainder of the agreement shall continue
+        in effect. Unless otherwise specified herein, this agreement constitutes the entire
+        agreement between the user and [Portal:PortalName] with respect to the [Portal:PortalName]
+        Web Site and it supersedes all prior or contemporaneous communications and proposals,
+        whether electronic, oral or written, between the user and [Portal:PortalName] with
+        respect to the [Portal:PortalName] Web Site. A printed version of this agreement
+        and of any notice given in electronic form shall be admissible in judicial or administrative
+        proceedings based upon or relating to this agreement to the same extent an d subject
+        to the same conditions as other business documents and records originally generated
+        and maintained in printed form. It is the express wish to the parties that this
+        agreement and all related documents be drawn up in English.<ept id="45">&lt;/p&gt;</ept>
+        <bpt id="51">&lt;p&gt;</bpt><bpt id="52">&lt;span class="SubHead"&gt;</bpt>COPYRIGHT AND TRADEMARK NOTICES:<ept id="52">&lt;/span&gt;</ept><ept id="46">&lt;/p&gt;</ept>
+        <bpt id="53">&lt;p&gt;</bpt>All contents of the [Portal:PortalName] Web Site are: [Portal:FooterText] and/or
+        its suppliers. All rights reserved.<ept id="47">&lt;/p&gt;</ept>
+        <bpt id="54">&lt;p&gt;</bpt><bpt id="55">&lt;span class="SubHead"&gt;</bpt>TRADEMARKS<ept id="55">&lt;/span&gt;</ept><ept id="48">&lt;/p&gt;</ept>
+        <bpt id="56">&lt;p&gt;</bpt>The names of actual companies and products mentioned herein may be the trademarks
+        of their respective owners.<ept id="50">&lt;/p&gt;</ept>
+        <it id="57" pos="open">&lt;p&gt;</it>The example companies, organizations, products, people and events depicted herein
+        are fictitious. No association with any real company, organization, product, person,
+        or event is intended or should be inferred.<ept id="51">&lt;/p&gt;</ept>
+        <it id="58" pos="open">&lt;p&gt;</it>Any rights not expressly granted herein are reserved.<ept id="53">&lt;/p&gt;</ept>
+        <it id="59" pos="open">&lt;p&gt;</it><bpt id="60">&lt;span class="SubHead"&gt;</bpt>NOTICES AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT<ept id="60">&lt;/span&gt;</ept><ept id="54">&lt;/p&gt;</ept>
+        <it id="61" pos="open">&lt;p&gt;</it>Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed
+        copyright infringement under United States copyright law should be sent to Service
+        Provider's Designated Agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE
+        WILL RECEIVE NO RESPONSE. See Notice and Procedure for Making Claims of Copyright
+        Infringement.<ept id="56">&lt;/p&gt;</ept>
+    <ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div align="left"&gt;</bpt>
+        <bpt id="2">&lt;p&gt;</bpt><bpt id="3">&lt;span class="SubHead"&gt;</bpt>AGREEMENT BETWEEN USER AND [Portal:PortalName]<ept id="3">&lt;/span&gt;</ept><bpt id="4">&lt;p&gt;</bpt>
+        <bpt id="5">&lt;p&gt;</bpt>The [Portal:PortalName] Web Site is comprised of various Web pages operated by [Portal:PortalName].<ept id="2">&lt;/p&gt;</ept>
+        <bpt id="6">&lt;p&gt;</bpt>The [Portal:PortalName] Web Site is offered to you conditioned on your acceptance
+        without modification of the terms, conditions, and notices contained herein. Your
+        use of the [Portal:PortalName] Web Site constitutes your agreement to all such terms,
+        conditions, and notices.<bpt id="7">&lt;p&gt;</bpt>
+        <bpt id="8">&lt;p&gt;</bpt><bpt id="9">&lt;span class="SubHead"&gt;</bpt>MODIFICATION OF THESE TERMS OF USE<ept id="9">&lt;/span&gt;</ept><ept id="4">&lt;/p&gt;</ept>
+        <bpt id="10">&lt;p&gt;</bpt>[Portal:PortalName] reserves the right to change the terms, conditions, and notices
+        under which the [Portal:PortalName] Web Site is offered, including but not limited
+        to the charges associated with the use of the [Portal:PortalName] Web Site.<ept id="5">&lt;/p&gt;</ept>
+        <bpt id="11">&lt;p&gt;</bpt><bpt id="12">&lt;span class="SubHead"&gt;</bpt>LINKS TO THIRD PARTY SITES<ept id="12">&lt;/span&gt;</ept><ept id="6">&lt;/p&gt;</ept>
+        <bpt id="13">&lt;p&gt;</bpt>The [Portal:PortalName] Web Site may contain links to other Web Sites ("Linked Sites").
+        The Linked Sites are not under the control of [Portal:PortalName] and [Portal:PortalName]
+        is not responsible for the contents of any Linked Site, including without limitation
+        any link contained in a Linked Site, or any changes or updates to a Linked Site.
+        [Portal:PortalName] is not responsible for webcasting or any other form of transmission
+        received from any Linked Site. [Portal:PortalName] is providing these links to you
+        only as a convenience, and the inclusion of any link does not imply endorsement
+        by [Portal:PortalName] of the site or any association with its operators.<ept id="7">&lt;/p&gt;</ept>
+        <bpt id="14">&lt;p&gt;</bpt><bpt id="15">&lt;span class="SubHead"&gt;</bpt>NO UNLAWFUL OR PROHIBITED USE<ept id="15">&lt;/span&gt;</ept><ept id="8">&lt;/p&gt;</ept>
+        <bpt id="16">&lt;p&gt;</bpt>As a condition of your use of the [Portal:PortalName] Web Site, you warrant to [Portal:PortalName]
+        that you will not use the [Portal:PortalName] Web Site for any purpose that is unlawful
+        or prohibited by these terms, conditions, and notices. You may not use the [Portal:PortalName]
+        Web Site in any manner which could damage, disable, overburden, or impair the [Portal:PortalName]
+        Web Site or interfere with any other party's use and enjoyment of the [Portal:PortalName]
+        Web Site. You may not obtain or attempt to obtain any materials or information through
+        any means not intentionally made available or provided for through the [Portal:PortalName]
+        Web Sites.<ept id="10">&lt;/p&gt;</ept>
+        <bpt id="17">&lt;p&gt;</bpt><bpt id="18">&lt;span class="SubHead"&gt;</bpt>USE OF COMMUNICATION SERVICES<ept id="18">&lt;/span&gt;</ept><ept id="11">&lt;/p&gt;</ept>
+        <bpt id="19">&lt;p&gt;</bpt>The [Portal:PortalName] Web Site may contain bulletin board services, chat areas,
+        news groups, forums, communities, personal web pages, calendars, and/or other message
+        or communication facilities designed to enable you to communicate with the public
+        at large or with a group (collectively, "Communication Services"), you agree to
+        use the Communication Services only to post, send and receive messages and material
+        that are proper and related to the particular Communication Service. By way of example,
+        and not as a limitation, you agree that when using a Communication Service, you
+        will not:<ept id="13">&lt;/p&gt;</ept>
+<bpt id="20">&lt;ul&gt;</bpt>
+            <bpt id="21">&lt;li&gt;</bpt>Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such
+                as rights of privacy and publicity) of others.<ept id="21">&lt;/li&gt;</ept>
+            <bpt id="22">&lt;li&gt;</bpt>Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory,
+                infringing, obscene, indecent or unlawful topic, name, material or information.<ept id="22">&lt;/li&gt;</ept>
+            <bpt id="23">&lt;li&gt;</bpt>Upload files that contain software or other material protected by intellectual property
+                laws (or by rights of privacy of publicity) unless you own or control the rights
+                thereto or have received all necessary consents.<ept id="23">&lt;/li&gt;</ept>
+            <bpt id="24">&lt;li&gt;</bpt>Upload files that contain viruses, corrupted files, or any other similar software
+                or programs that may damage the operation of another's computer.<ept id="24">&lt;/li&gt;</ept>
+            <bpt id="25">&lt;li&gt;</bpt>Advertise or offer to sell or buy any goods or services for any business purpose,
+                unless such Communication Service specifically allows such messages.<ept id="25">&lt;/li&gt;</ept>
+            <bpt id="26">&lt;li&gt;</bpt>Conduct or forward surveys, contests, pyramid schemes or chain letters.<ept id="26">&lt;/li&gt;</ept>
+            <bpt id="27">&lt;li&gt;</bpt>Download any file posted by another user of a Communication Service that you know,
+                or reasonably should know, cannot be legally distributed in such manner.<ept id="27">&lt;/li&gt;</ept>
+            <bpt id="28">&lt;li&gt;</bpt>Falsify or delete any author attributions, legal or other proper notices or proprietary
+                designations or labels of the origin or source of software or other material contained
+                in a file that is uploaded.<ept id="28">&lt;/li&gt;</ept>
+            <bpt id="29">&lt;li&gt;</bpt>Restrict or inhibit any other user from using and enjoying the Communication Services.<ept id="29">&lt;/li&gt;</ept>
+            <bpt id="30">&lt;li&gt;</bpt>Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.<ept id="30">&lt;/li&gt;</ept>
+            <bpt id="31">&lt;li&gt;</bpt>Harvest or otherwise collect information about others, including e-mail addresses, without their consent.<ept id="31">&lt;/li&gt;</ept>
+            <bpt id="32">&lt;li&gt;</bpt>Violate any applicable laws or regulations.<ept id="32">&lt;/li&gt;</ept>
+<ept id="20">&lt;/ul&gt;</ept>
+        <bpt id="33">&lt;p&gt;</bpt>[Portal:PortalName] has no obligation to monitor the Communication Services. However,
+        [Portal:PortalName] reserves the right to review materials posted to a Communication
+        Service and to remove any materials in its sole discretion. [Portal:PortalName]
+        reserves the right to terminate your access to any or all of the Communication Services
+        at any time without notice for any reason whatsoever.<ept id="14">&lt;/p&gt;</ept>
+        <bpt id="34">&lt;p&gt;</bpt>[Portal:PortalName] reserves the right at all times to disclose any information
+        as necessary to satisfy any applicable law, regulation, legal process or governmental
+        request, or to edit, refuse to post or to remove any information or materials, in
+        whole or in part, in [Portal:PortalName]'s sole discretion.<ept id="16">&lt;/p&gt;</ept>
+        <bpt id="35">&lt;p&gt;</bpt>Always use caution when giving out any personally identifying information about
+        yourself or your children in any Communication Service. [Portal:PortalName] does
+        not control or endorse the content, messages or information found in any Communication
+        Service and, therefore, [Portal:PortalName] specifically disclaims any liability
+        with regard to the Communication Services and any actions resulting from your participation
+        in any Communication Service. Managers and hosts are not authorized [Portal:PortalName]
+        spokespersons, and their views do not necessarily reflect those of [Portal:PortalName].<ept id="17">&lt;/p&gt;</ept>
+        <bpt id="36">&lt;p&gt;</bpt>Materials uploaded to a Communication Service may be subject to posted limitations
+        on usage, reproduction and/or dissemination. You are responsible for adhering to
+        such limitations if you download the materials.<ept id="19">&lt;/p&gt;</ept>
+        <bpt id="37">&lt;p&gt;</bpt><bpt id="38">&lt;span class="SubHead"&gt;</bpt>MATERIALS PROVIDED TO [Portal:PortalName] OR POSTED AT ANY [Portal:PortalName]
+            WEB SITE<ept id="38">&lt;/span&gt;</ept><ept id="33">&lt;/p&gt;</ept>
+        <bpt id="39">&lt;p&gt;</bpt>[Portal:PortalName] does not claim ownership of the materials you provide to [Portal:PortalName]
+        (including feedback and suggestions) or post, upload, input or submit to any [Portal:PortalName]
+        Web Site or its associated services (collectively "Submissions"). However, by posting,
+        uploading, inputting, providing or submitting your Submission you are granting [Portal:PortalName],
+        its affiliated companies and necessary sublicensees permission to use your Submission
+        in connection with the operation of their Internet businesses including, without
+        limitation, the rights to: copy, distribute, transmit, publicly display, publicly
+        perform, reproduce, edit, translate and reformat your Submission; and to publish
+        your name in connection with your Submission.<ept id="34">&lt;/p&gt;</ept>
+        <bpt id="40">&lt;p&gt;</bpt>No compensation will be paid with respect to the use of your Submission, as provided
+        herein. [Portal:PortalName] is under no obligation to post or use any Submission
+        you may provide and may remove any Submission at any time in [Portal:PortalName]'s
+        sole discretion.<ept id="35">&lt;/p&gt;</ept>
+        <bpt id="41">&lt;p&gt;</bpt>By posting, uploading, inputting, providing or submitting your Submission you warrant
+        and represent that you own or otherwise control all of the rights to your Submission
+        as described in this section including, without limitation, all the rights necessary
+        for you to provide, post, upload, input or submit the Submissions.<ept id="36">&lt;/p&gt;</ept>
+        <bpt id="42">&lt;p&gt;</bpt><bpt id="43">&lt;span class="SubHead"&gt;</bpt>LIABILITY DISCLAIMER<ept id="43">&lt;/span&gt;</ept><ept id="37">&lt;/p&gt;</ept>
+        <bpt id="44">&lt;p&gt;</bpt>THE INFORMATION, SOFTWARE, PRODUCTS, AND SERVICES INCLUDED IN OR AVAILABLE THROUGH
+        THE [Portal:PortalName] WEB SITE MAY INCLUDE INACCURACIES OR TYPOGRAPHICAL ERRORS.
+        CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION HEREIN. [Portal:PortalName] AND/OR
+        ITS SUPPLIERS MAY MAKE IMPROVEMENTS AND/OR CHANGES IN THE [Portal:PortalName] WEB
+        SITE AT ANY TIME. ADVICE RECEIVED VIA THE [Portal:PortalName] WEB SITE SHOULD NOT
+        BE RELIED UPON FOR PERSONAL, MEDICAL, LEGAL OR FINANCIAL DECISIONS AND YOU SHOULD
+        CONSULT AN APPROPRIATE PROFESSIONAL FOR SPECIFIC ADVICE TAILORED TO YOUR SITUATION.<ept id="39">&lt;/p&gt;</ept>
+        <bpt id="45">&lt;p&gt;</bpt>[Portal:PortalName] AND/OR ITS SUPPLIERS MAKE NO REPRESENTATIONS ABOUT THE SUITABILITY,
+        RELIABILITY, AVAILABILITY, TIMELINESS, AND ACCURACY OF THE INFORMATION, SOFTWARE,
+        PRODUCTS, SERVICES AND RELATED GRAPHICS CONTAINED ON THE [Portal:PortalName] WEB
+        SITE FOR ANY PURPOSE. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ALL SUCH
+        INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS ARE PROVIDED "AS
+        IS" WITHOUT WARRANTY OR CONDITION OF ANY KIND. [Portal:PortalName] AND/OR ITS SUPPLIERS
+        HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH REGARD TO THIS INFORMATION, SOFTWARE,
+        PRODUCTS, SERVICES AND RELATED GRAPHICS, INCLUDING ALL IMPLIED WARRANTIES OR CONDITIONS
+        OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.<ept id="40">&lt;/p&gt;</ept>
+        <bpt id="46">&lt;p&gt;</bpt>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL [Portal:PortalName]
+        AND/OR ITS SUPPLIERS BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL,
+        CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER INCLUDING, WITHOUT LIMITATION, DAMAGES
+        FOR LOSS OF USE, DATA OR PROFITS, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE
+        USE OR PERFORMANCE OF THE [Portal:PortalName] WEB SITE, WITH THE DELAY OR INABILITY
+        TO USE THE [Portal:PortalName] WEB SITE OR RELATED SERVICES, THE PROVISION OF OR
+        FAILURE TO PROVIDE SERVICES, OR FOR ANY INFORMATION, SOFTWARE, PRODUCTS, SERVICES
+        AND RELATED GRAPHICS OBTAINED THROUGH THE [Portal:PortalName] WEB SITE, OR OTHERWISE
+        ARISING OUT OF THE USE OF THE [Portal:PortalName] WEB SITE, WHETHER BASED ON CONTRACT,
+        TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE, EVEN IF [Portal:PortalName] OR
+        ANY OF ITS SUPPLIERS HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES. BECAUSE SOME
+        STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL
+        OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. IF YOU ARE DISSATISFIED
+        WITH ANY PORTION OF THE [Portal:PortalName] WEB SITE, OR WITH ANY OF THESE TERMS
+        OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE [Portal:PortalName]
+        WEB SITE.<ept id="41">&lt;/p&gt;</ept>
+        <bpt id="47">&lt;p&gt;</bpt>SERVICE CONTACT : [Portal:Email]<ept id="42">&lt;/p&gt;</ept>
+        <bpt id="48">&lt;p&gt;</bpt><bpt id="49">&lt;span class="SubHead"&gt;</bpt>TERMINATION/ACCESS RESTRICTION<ept id="49">&lt;/span&gt;</ept><ept id="44">&lt;/p&gt;</ept>
+        <bpt id="50">&lt;p&gt;</bpt>[Portal:PortalName] reserves the right, in its sole discretion, to terminate your
+        access to the [Portal:PortalName] Web Site and the related services or any portion
+        thereof at any time, without notice. GENERAL To the maximum extent permitted by
+        law, this agreement is governed by the laws of the State of Washington, U.S.A. and
+        you hereby consent to the exclusive jurisdiction and venue of courts in San Mateo County,
+        California, U.S.A. in all disputes arising out of or relating to the use of the
+        [Portal:PortalName] Web Site. Use of the [Portal:PortalName] Web Site is unauthorized
+        in any jurisdiction that does not give effect to all provisions of these terms and
+        conditions, including without limitation this paragraph. You agree that no joint
+        venture, partnership, employment, or agency relationship exists between you and
+        [Portal:PortalName] as a result of this agreement or use of the [Portal:PortalName]
+        Web Site. [Portal:PortalName]'s performance of this agreement is subject to existing
+        laws and legal process, and nothing contained in this agreement is in derogation
+        of [Portal:PortalName]'s right to comply with governmental, court and law enforcement
+        requests or requirements relating to your use of the [Portal:PortalName] Web Site
+        or information provided to or gathered by [Portal:PortalName] with respect to such
+        use. If any part of this agreement is determined to be invalid or unenforceable
+        pursuant to applicable law including, but not limited to, the warranty disclaimers
+        and liability limitations set forth above, then the invalid or unenforceable provision
+        will be deemed superseded by a valid, enforceable provision that most closely matches
+        the intent of the original provision and the remainder of the agreement shall continue
+        in effect. Unless otherwise specified herein, this agreement constitutes the entire
+        agreement between the user and [Portal:PortalName] with respect to the [Portal:PortalName]
+        Web Site and it supersedes all prior or contemporaneous communications and proposals,
+        whether electronic, oral or written, between the user and [Portal:PortalName] with
+        respect to the [Portal:PortalName] Web Site. A printed version of this agreement
+        and of any notice given in electronic form shall be admissible in judicial or administrative
+        proceedings based upon or relating to this agreement to the same extent an d subject
+        to the same conditions as other business documents and records originally generated
+        and maintained in printed form. It is the express wish to the parties that this
+        agreement and all related documents be drawn up in English.<ept id="45">&lt;/p&gt;</ept>
+        <bpt id="51">&lt;p&gt;</bpt><bpt id="52">&lt;span class="SubHead"&gt;</bpt>COPYRIGHT AND TRADEMARK NOTICES:<ept id="52">&lt;/span&gt;</ept><ept id="46">&lt;/p&gt;</ept>
+        <bpt id="53">&lt;p&gt;</bpt>All contents of the [Portal:PortalName] Web Site are: [Portal:FooterText] and/or
+        its suppliers. All rights reserved.<ept id="47">&lt;/p&gt;</ept>
+        <bpt id="54">&lt;p&gt;</bpt><bpt id="55">&lt;span class="SubHead"&gt;</bpt>TRADEMARKS<ept id="55">&lt;/span&gt;</ept><ept id="48">&lt;/p&gt;</ept>
+        <bpt id="56">&lt;p&gt;</bpt>The names of actual companies and products mentioned herein may be the trademarks
+        of their respective owners.<ept id="50">&lt;/p&gt;</ept>
+        <it id="57" pos="open">&lt;p&gt;</it>The example companies, organizations, products, people and events depicted herein
+        are fictitious. No association with any real company, organization, product, person,
+        or event is intended or should be inferred.<ept id="51">&lt;/p&gt;</ept>
+        <it id="58" pos="open">&lt;p&gt;</it>Any rights not expressly granted herein are reserved.<ept id="53">&lt;/p&gt;</ept>
+        <it id="59" pos="open">&lt;p&gt;</it><bpt id="60">&lt;span class="SubHead"&gt;</bpt>NOTICES AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT<ept id="60">&lt;/span&gt;</ept><ept id="54">&lt;/p&gt;</ept>
+        <it id="61" pos="open">&lt;p&gt;</it>Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed
+        copyright infringement under United States copyright law should be sent to Service
+        Provider's Designated Agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE
+        WILL RECEIVE NO RESPONSE. See Notice and Procedure for Making Claims of Copyright
+        Infringement.<ept id="56">&lt;/p&gt;</ept>
+    <ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_REGISTRATION_ADMINISTRATOR_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] New User Registration</source>
+          <target state="new">[Portal:PortalName] New User Registration</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_REGISTRATION_ADMINISTRATOR_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Date: [Date:Current]
+Display Name: [User:DisplayName]
+Email: [User:Email]
+</source>
+          <target state="new">Date: [Date:Current]
+Display Name: [User:DisplayName]
+Email: [User:Email]
+</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_REGISTRATION_PRIVATE_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] New User Registration</source>
+          <target state="new">[Portal:PortalName] New User Registration</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_REGISTRATION_PRIVATE_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Dear [User:DisplayName],
+
+Thank you for registering at [Portal:PortalName]. Please read the following information carefully and be sure to save this message in a safe location for future reference.
+
+Website Address: [Portal:URL]
+Username: [User:UserName]
+
+Your account details will be reviewed by the website Administrator and you will receive a notification upon account activation.
+
+Thank you, we appreciate your support...
+
+[Portal:PortalName]
+
+</source>
+          <target state="new">Dear [User:DisplayName],
+
+Thank you for registering at [Portal:PortalName]. Please read the following information carefully and be sure to save this message in a safe location for future reference.
+
+Website Address: [Portal:URL]
+Username: [User:UserName]
+
+Your account details will be reviewed by the website Administrator and you will receive a notification upon account activation.
+
+Thank you, we appreciate your support...
+
+[Portal:PortalName]
+
+</target>
+        </trans-unit>
+        <trans-unit id="MESSAGE_REGISTRATION_INSTRUCTIONS.Text" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="EMAIL_ROLE_ASSIGNMENT_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] User Account Update</source>
+          <target state="new">[Portal:PortalName] User Account Update</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_ROLE_ASSIGNMENT_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Dear [User:DisplayName],
+
+Your user account at [Portal:PortalName] has been recently updated to include access to the following Security Role:
+
+Role: [Custom:0]
+Description: [Custom:1]
+Effective Date: [Custom:2]
+Expiry Date: [Custom:3]
+
+Thank you, we appreciate your support...
+[Portal:PortalName]
+</source>
+          <target state="new">Dear [User:DisplayName],
+
+Your user account at [Portal:PortalName] has been recently updated to include access to the following Security Role:
+
+Role: [Custom:0]
+Description: [Custom:1]
+Effective Date: [Custom:2]
+Expiry Date: [Custom:3]
+
+Thank you, we appreciate your support...
+[Portal:PortalName]
+</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_ROLE_UNASSIGNMENT_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] User Account Update</source>
+          <target state="new">[Portal:PortalName] User Account Update</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_ROLE_UNASSIGNMENT_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Dear [User:DisplayName],
+
+Your user account at [Portal:PortalName] has been recently updated to restrict access to the following Security Role:
+
+Role: [Custom:0]
+Description: [Custom:1]
+
+Thank you, we appreciate your support...
+[Portal:PortalName]
+</source>
+          <target state="new">Dear [User:DisplayName],
+
+Your user account at [Portal:PortalName] has been recently updated to restrict access to the following Security Role:
+
+Role: [Custom:0]
+Description: [Custom:1]
+
+Thank you, we appreciate your support...
+[Portal:PortalName]
+</target>
+        </trans-unit>
+        <trans-unit id="MESSAGE_LOGIN_INSTRUCTIONS.Text" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text" translate="yes" xml:space="preserve">
+          <source>In order to retrieve your password, you will need to provide your user name, and the
+			answer to the Password Question.		
+		</source>
+          <target state="new">In order to retrieve your password, you will need to provide your user name, and the
+			answer to the Password Question.		
+		</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_PASSWORD_REMINDER_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] Password Reminder</source>
+          <target state="new">[Portal:PortalName] Password Reminder</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_PASSWORD_REMINDER_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Dear [User:DisplayName],
+
+You have requested a Password Reset Token from [Portal:PortalName].
+
+Please login using the following information:
+
+Website Address: [Portal:URL]
+Username:   [User:Username]
+
+Link to reset password: [Portal:PASSWORDREMINDERURL]?ctl=PasswordReset&amp;resetToken=[Membership:PasswordResetToken]
+
+Sincerely,
+[Portal:PortalName]
+
+*Note: If you did not request a Password Reset Token, please disregard this Message.
+</source>
+          <target state="new">Dear [User:DisplayName],
+
+You have requested a Password Reset Token from [Portal:PortalName].
+
+Please login using the following information:
+
+Website Address: [Portal:URL]
+Username:   [User:Username]
+
+Link to reset password: [Portal:PASSWORDREMINDERURL]?ctl=PasswordReset&amp;resetToken=[Membership:PasswordResetToken]
+
+Sincerely,
+[Portal:PortalName]
+
+*Note: If you did not request a Password Reset Token, please disregard this Message.
+</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_AUTHORIZED_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>Registration has been approved for [Portal:URL]</source>
+          <target state="new">Registration has been approved for [Portal:URL]</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_AUTHORIZED_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Dear [User:DisplayName],
+
+Thank you for registering at [Portal:PortalName]. Your registration has been approved, and your account is now active. 
+
+Website Address: [Portal:URL]
+Username: [User:UserName]
+
+Thank you, we appreciate your support.
+
+[Portal:PortalName]
+    </source>
+          <target state="new">Dear [User:DisplayName],
+
+Thank you for registering at [Portal:PortalName]. Your registration has been approved, and your account is now active. 
+
+Website Address: [Portal:URL]
+Username: [User:UserName]
+
+Thank you, we appreciate your support.
+
+[Portal:PortalName]
+    </target>
+        </trans-unit>
+        <trans-unit id="EMAIL_PROFILE_UPDATED_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] Profile Update Notice</source>
+          <target state="new">[Portal:PortalName] Profile Update Notice</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_PROFILE_UPDATED_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Dear [User:DisplayName],
+
+Your profile on [Portal:PortalName] has been successfully updated.
+
+Sincerely,
+[Portal:PortalName]
+
+</source>
+          <target state="new">Dear [User:DisplayName],
+
+Your profile on [Portal:PortalName] has been successfully updated.
+
+Sincerely,
+[Portal:PortalName]
+
+</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_UNREGISTER_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] Unregister User</source>
+          <target state="new">[Portal:PortalName] Unregister User</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_UNREGISTER_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Date: [Date:Current]
+First Name: [Profile:FirstName]
+Last Name: [Profile:LastName]
+Unit: [Profile:Unit]
+Street: [Profile:Street]
+City: [Profile:City]
+Region: [Profile:Region]
+Country: [Profile:Country]
+Postal Code: [Profile:PostalCode]
+Telephone: [Profile:Telephone]
+Email: [User:Email]
+		</source>
+          <target state="new">Date: [Date:Current]
+First Name: [Profile:FirstName]
+Last Name: [Profile:LastName]
+Unit: [Profile:Unit]
+Street: [Profile:Street]
+City: [Profile:City]
+Region: [Profile:Region]
+Country: [Profile:Country]
+Postal Code: [Profile:PostalCode]
+Telephone: [Profile:Telephone]
+Email: [User:Email]
+		</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_REGISTRATION_VERIFIED_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] New User Registration</source>
+          <target state="new">[Portal:PortalName] New User Registration</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_REGISTRATION_VERIFIED_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Dear [User:DisplayName],
+
+We are pleased to advise that you have been added as a Registered User to [Portal:PortalName]. Please read the following information carefully and be sure to save this message in a safe location for future reference.
+
+Portal Website Address: [Portal:URL]
+Username: [User:UserName]
+
+You can use the following link to complete your verified registration:
+
+http://[Portal:URL]/default.aspx?ctl=Login&amp;username=[Custom:0]&amp;verificationcode=[Custom:1]
+
+Thank you, we appreciate your support...
+
+[Portal:PortalName]
+
+    </source>
+          <target state="new">Dear [User:DisplayName],
+
+We are pleased to advise that you have been added as a Registered User to [Portal:PortalName]. Please read the following information carefully and be sure to save this message in a safe location for future reference.
+
+Portal Website Address: [Portal:URL]
+Username: [User:UserName]
+
+You can use the following link to complete your verified registration:
+
+http://[Portal:URL]/default.aspx?ctl=Login&amp;username=[Custom:0]&amp;verificationcode=[Custom:1]
+
+Thank you, we appreciate your support...
+
+[Portal:PortalName]
+
+    </target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_REGISTRATION_PUBLIC_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] New User Registration</source>
+          <target state="new">[Portal:PortalName] New User Registration</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_REGISTRATION_PUBLIC_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Dear [User:DisplayName],
+
+We are pleased to advise that you have been added as a Registered User to [Portal:PortalName]. Please read the following information carefully and be sure to save this message in a safe location for future reference.
+
+Portal Website Address: [Portal:URL]
+Username: [User:UserName]
+
+If you do not know, or cannot remember, your password, please go to http://[Portal:URL]/default.aspx?ctl=PasswordReset&amp;resetToken=[Membership:PasswordResetToken] to reset it.
+Thank you, we appreciate your support...
+
+[Portal:PortalName]
+
+</source>
+          <target state="new">Dear [User:DisplayName],
+
+We are pleased to advise that you have been added as a Registered User to [Portal:PortalName]. Please read the following information carefully and be sure to save this message in a safe location for future reference.
+
+Portal Website Address: [Portal:URL]
+Username: [User:UserName]
+
+If you do not know, or cannot remember, your password, please go to http://[Portal:URL]/default.aspx?ctl=PasswordReset&amp;resetToken=[Membership:PasswordResetToken] to reset it.
+Thank you, we appreciate your support...
+
+[Portal:PortalName]
+
+</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_AFFILIATE_NOTIFICATION_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] Affiliate Notification</source>
+          <target state="new">[Portal:PortalName] Affiliate Notification</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_AFFILIATE_NOTIFICATION_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Dear [Custom:0],
+
+Your account for the [Portal:PortalName] Affiliate Program has been created.
+
+To begin earning rewards, please use the following URL to link to our site:
+
+[Custom:1]
+
+Thank you,
+[Portal:PortalName]
+
+</source>
+          <target state="new">Dear [Custom:0],
+
+Your account for the [Portal:PortalName] Affiliate Program has been created.
+
+To begin earning rewards, please use the following URL to link to our site:
+
+[Custom:1]
+
+Thank you,
+[Portal:PortalName]
+
+</target>
+        </trans-unit>
+        <trans-unit id="//Admin//SiteWizard.String" translate="yes" xml:space="preserve">
+          <source>Site Wizard</source>
+          <target state="new">Site Wizard</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_BANNER_NOTIFICATION_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Banner: [Custom:0]
+Description: [Custom:1]
+Image: [Custom:2]
+CPM/Cost: [Custom:3]
+Impressions: [Custom:4]
+StartDate: [Custom:5]
+EndDate: [Custom:6]
+Views: [Custom:7]
+Click Throughs: [Custom:8]</source>
+          <target state="new">Banner: [Custom:0]
+Description: [Custom:1]
+Image: [Custom:2]
+CPM/Cost: [Custom:3]
+Impressions: [Custom:4]
+StartDate: [Custom:5]
+EndDate: [Custom:6]
+Views: [Custom:7]
+Click Throughs: [Custom:8]</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_BANNER_NOTIFICATION_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Custom:0]</source>
+          <target state="new">[Custom:0]</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Date: [Custom:0]
+Vendor Name: [Custom:1]
+First Name: [Custom:2]
+Last Name: [Custom:3]
+Unit: [Custom:4]
+Street: [Custom:5]
+City: [Custom:6]
+Region: [Custom:7]
+Country: [Custom:8]
+Postal Code: [Custom:9]
+Telephone: [Custom:10]
+Fax: [Custom:11]
+Cell: [Custom:12]
+Email: [Custom:13]
+Website: [Custom:14]</source>
+          <target state="new">Date: [Custom:0]
+Vendor Name: [Custom:1]
+First Name: [Custom:2]
+Last Name: [Custom:3]
+Unit: [Custom:4]
+Street: [Custom:5]
+City: [Custom:6]
+Region: [Custom:7]
+Country: [Custom:8]
+Postal Code: [Custom:9]
+Telephone: [Custom:10]
+Fax: [Custom:11]
+Cell: [Custom:12]
+Email: [Custom:13]
+Website: [Custom:14]</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] Vendor Application</source>
+          <target state="new">[Portal:PortalName] Vendor Application</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_VENDOR_REGISTRATION_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Dear [Custom:0] [Custom:1],
+ 
+ [Custom:2], has been successfully registered at [Portal:PortalName].
+ 
+ Thank you,
+ 
+ [Portal:PortalName]</source>
+          <target state="new">Dear [Custom:0] [Custom:1],
+ 
+ [Custom:2], has been successfully registered at [Portal:PortalName].
+ 
+ Thank you,
+ 
+ [Portal:PortalName]</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_VENDOR_REGISTRATION_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] Vendor Application</source>
+          <target state="new">[Portal:PortalName] Vendor Application</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_LOCKOUT_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] User Account Lockout Alert</source>
+          <target state="new">[Portal:PortalName] User Account Lockout Alert</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_LOCKOUT_BODY.Text" translate="yes" xml:space="preserve">
+          <source>An attempt was made to access a locked out user account ( username: [Custom:0] ) on [Date:Current]. You may wish to investigate this matter further...
+
+Thank you,
+[Portal:PortalName]
+</source>
+          <target state="new">An attempt was made to access a locked out user account ( username: [Custom:0] ) on [Date:Current]. You may wish to investigate this matter further...
+
+Thank you,
+[Portal:PortalName]
+</target>
+        </trans-unit>
+        <trans-unit id="404.Error" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div style="height: 100%; width: 90%;"&gt;</bpt>
+        <bpt id="2">&lt;p style="color:red; font-weight:bold;"&gt;</bpt>Domain Name {0} Does Not Exist In The Database<ept id="2">&lt;/p&gt;</ept>
+        <bpt id="3">&lt;p&gt;</bpt>DotNetNuke supports multiple websites from a single database/codebase. It accomplishes
+    this by converting the URL of the client browser Request to a valid PortalID in
+        the Portals database table. The following steps describe the process:<ept id="3">&lt;/p&gt;</ept>
+    <bpt id="4">&lt;ol style="text-align: left; list-style-type: decimal; list-style-position: outside;"&gt;</bpt>
+        <bpt id="5">&lt;li&gt;</bpt><bpt id="6">&lt;strong&gt;</bpt>Web Server Processing<ept id="6">&lt;/strong&gt;</ept><bpt id="7">&lt;br &gt;</bpt><ept id="7">&lt;/br&gt;</ept>
+            <bpt id="8">&lt;ul style="list-style-type: disc;"&gt;</bpt>
+                <bpt id="9">&lt;li&gt;</bpt>When a web server receives a Request from a client browser, it compares the file
+                    name extension on the target URL resource to its Application Extension Mappings
+                    defined in IIS.<ept id="9">&lt;/li&gt;</ept>
+                <bpt id="10">&lt;li&gt;</bpt>Based on the corresponding match, IIS then sends the Request to the defined Executable
+                    Path ( aspnet_asapi.dll in the case of ASP.NET Requests ).<ept id="10">&lt;/li&gt;</ept>
+                <bpt id="11">&lt;li&gt;</bpt>The aspnet_isapi.dll engine processes the Request in an ordered series of events
+                    beginning with Application_BeginRequest.<ept id="11">&lt;/li&gt;</ept>
+            <ept id="8">&lt;/ul&gt;</ept>
+        <ept id="5">&lt;/li&gt;</ept>
+        <bpt id="12">&lt;li&gt;</bpt><bpt id="13">&lt;strong&gt;</bpt>HttpModule.URLRewrite OnBeginRequest ( UrlRewriteModule.vb )<ept id="13">&lt;/strong&gt;</ept><bpt id="14">&lt;br &gt;</bpt><ept id="14">&lt;/br&gt;</ept>
+            <bpt id="15">&lt;ul style="list-style-type: disc;"&gt;</bpt>
+                <bpt id="16">&lt;li&gt;</bpt>The Request URL is parsed based on the "/" character<ept id="16">&lt;/li&gt;</ept>
+                <bpt id="17">&lt;li&gt;</bpt>A Domain Name is constructed using each of the relevant parsed URL segments.
+                    <bpt id="18">&lt;br &gt;</bpt><ept id="18">&lt;/br&gt;</ept>
+                    <bpt id="19">&lt;br &gt;</bpt><ept id="19">&lt;/br&gt;</ept>
+                    Examples:
+                    <bpt id="20">&lt;br &gt;</bpt><ept id="20">&lt;/br&gt;</ept>
+                    <bpt id="21">&lt;br &gt;</bpt><ept id="21">&lt;/br&gt;</ept>
+                    URL: http://www.domain.com/default.aspx = Domain Name: www.domain.com<bpt id="22">&lt;br &gt;</bpt><ept id="22">&lt;/br&gt;</ept>
+                    URL: http://209.75.24.131/default.aspx = Domain Name: 209.75.24.131<bpt id="23">&lt;br &gt;</bpt><ept id="23">&lt;/br&gt;</ept>
+                    URL: http://localhost/DotNetNuke/default.aspx = Domain Name: localhost/DotNetNuke<bpt id="24">&lt;br &gt;</bpt><ept id="24">&lt;/br&gt;</ept>
+                    URL: http://www.domain.com/virtualdirectory/default.aspx = Domain Name: www.domain.com/virtualdirectory<bpt id="25">&lt;br &gt;</bpt><ept id="25">&lt;/br&gt;</ept>
+                    URL: http://www.domain.com/directory/default.aspx = Domain Name: www.domain.com/directory<bpt id="26">&lt;br &gt;</bpt><ept id="26">&lt;/br&gt;</ept>
+                    <bpt id="27">&lt;br &gt;</bpt><ept id="27">&lt;/br&gt;</ept>
+                <ept id="17">&lt;/li&gt;</ept>
+                <bpt id="28">&lt;li&gt;</bpt>Using the Domain Name, the application queries the database ( Portals table - PortalAlias
+                    field ) to locate a matching record.
+                    <bpt id="29">&lt;br &gt;</bpt><ept id="29">&lt;/br&gt;</ept>
+                    <bpt id="30">&lt;br &gt;</bpt><ept id="30">&lt;/br&gt;</ept>
+                    Note: If there are multiple URLs which correspond to the same website then the website alias
+                    field must contain each valid Domain Name in a comma separated list.
+                    <bpt id="31">&lt;br &gt;</bpt><ept id="31">&lt;/br&gt;</ept>
+                    <bpt id="32">&lt;br &gt;</bpt><ept id="32">&lt;/br&gt;</ept>
+                    Example:
+                    <bpt id="33">&lt;br &gt;</bpt><ept id="33">&lt;/br&gt;</ept>
+                    <bpt id="34">&lt;br &gt;</bpt><ept id="34">&lt;/br&gt;</ept>
+                    URL: http://localhost/DotNetNuke/default.aspx<bpt id="35">&lt;br &gt;</bpt><ept id="35">&lt;/br&gt;</ept>
+                    URL: http://MACHINENAME/DotNetNuke/default.aspx<bpt id="36">&lt;br &gt;</bpt><ept id="36">&lt;/br&gt;</ept>
+                    URL: http://209.32.134.65/DotNetNuke/default.aspx<bpt id="37">&lt;br &gt;</bpt><ept id="37">&lt;/br&gt;</ept>
+                    PortalAlias: localhost/DotNetNuke,MACHINENAME/DotNetNuke,209.32.134.65/DotNetNuke
+                    <bpt id="38">&lt;br &gt;</bpt><ept id="38">&lt;/br&gt;</ept>
+                    <bpt id="39">&lt;br &gt;</bpt><ept id="39">&lt;/br&gt;</ept>
+                    Note: If you are installing the application to a remote server you must modify the
+                    PortalAlias field value for the default record in the Portals table according to
+                    the rules defined above. <ept id="28">&lt;/li&gt;</ept>
+            <ept id="15">&lt;/ul&gt;</ept>
+        <ept id="12">&lt;/li&gt;</ept>
+    <ept id="4">&lt;/ol&gt;</ept>
+<ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div style="height: 100%; width: 90%;"&gt;</bpt>
+        <bpt id="2">&lt;p style="color:red; font-weight:bold;"&gt;</bpt>Domain Name {0} Does Not Exist In The Database<ept id="2">&lt;/p&gt;</ept>
+        <bpt id="3">&lt;p&gt;</bpt>DotNetNuke supports multiple websites from a single database/codebase. It accomplishes
+    this by converting the URL of the client browser Request to a valid PortalID in
+        the Portals database table. The following steps describe the process:<ept id="3">&lt;/p&gt;</ept>
+    <bpt id="4">&lt;ol style="text-align: left; list-style-type: decimal; list-style-position: outside;"&gt;</bpt>
+        <bpt id="5">&lt;li&gt;</bpt><bpt id="6">&lt;strong&gt;</bpt>Web Server Processing<ept id="6">&lt;/strong&gt;</ept><bpt id="7">&lt;br &gt;</bpt><ept id="7">&lt;/br&gt;</ept>
+            <bpt id="8">&lt;ul style="list-style-type: disc;"&gt;</bpt>
+                <bpt id="9">&lt;li&gt;</bpt>When a web server receives a Request from a client browser, it compares the file
+                    name extension on the target URL resource to its Application Extension Mappings
+                    defined in IIS.<ept id="9">&lt;/li&gt;</ept>
+                <bpt id="10">&lt;li&gt;</bpt>Based on the corresponding match, IIS then sends the Request to the defined Executable
+                    Path ( aspnet_asapi.dll in the case of ASP.NET Requests ).<ept id="10">&lt;/li&gt;</ept>
+                <bpt id="11">&lt;li&gt;</bpt>The aspnet_isapi.dll engine processes the Request in an ordered series of events
+                    beginning with Application_BeginRequest.<ept id="11">&lt;/li&gt;</ept>
+            <ept id="8">&lt;/ul&gt;</ept>
+        <ept id="5">&lt;/li&gt;</ept>
+        <bpt id="12">&lt;li&gt;</bpt><bpt id="13">&lt;strong&gt;</bpt>HttpModule.URLRewrite OnBeginRequest ( UrlRewriteModule.vb )<ept id="13">&lt;/strong&gt;</ept><bpt id="14">&lt;br &gt;</bpt><ept id="14">&lt;/br&gt;</ept>
+            <bpt id="15">&lt;ul style="list-style-type: disc;"&gt;</bpt>
+                <bpt id="16">&lt;li&gt;</bpt>The Request URL is parsed based on the "/" character<ept id="16">&lt;/li&gt;</ept>
+                <bpt id="17">&lt;li&gt;</bpt>A Domain Name is constructed using each of the relevant parsed URL segments.
+                    <bpt id="18">&lt;br &gt;</bpt><ept id="18">&lt;/br&gt;</ept>
+                    <bpt id="19">&lt;br &gt;</bpt><ept id="19">&lt;/br&gt;</ept>
+                    Examples:
+                    <bpt id="20">&lt;br &gt;</bpt><ept id="20">&lt;/br&gt;</ept>
+                    <bpt id="21">&lt;br &gt;</bpt><ept id="21">&lt;/br&gt;</ept>
+                    URL: http://www.domain.com/default.aspx = Domain Name: www.domain.com<bpt id="22">&lt;br &gt;</bpt><ept id="22">&lt;/br&gt;</ept>
+                    URL: http://209.75.24.131/default.aspx = Domain Name: 209.75.24.131<bpt id="23">&lt;br &gt;</bpt><ept id="23">&lt;/br&gt;</ept>
+                    URL: http://localhost/DotNetNuke/default.aspx = Domain Name: localhost/DotNetNuke<bpt id="24">&lt;br &gt;</bpt><ept id="24">&lt;/br&gt;</ept>
+                    URL: http://www.domain.com/virtualdirectory/default.aspx = Domain Name: www.domain.com/virtualdirectory<bpt id="25">&lt;br &gt;</bpt><ept id="25">&lt;/br&gt;</ept>
+                    URL: http://www.domain.com/directory/default.aspx = Domain Name: www.domain.com/directory<bpt id="26">&lt;br &gt;</bpt><ept id="26">&lt;/br&gt;</ept>
+                    <bpt id="27">&lt;br &gt;</bpt><ept id="27">&lt;/br&gt;</ept>
+                <ept id="17">&lt;/li&gt;</ept>
+                <bpt id="28">&lt;li&gt;</bpt>Using the Domain Name, the application queries the database ( Portals table - PortalAlias
+                    field ) to locate a matching record.
+                    <bpt id="29">&lt;br &gt;</bpt><ept id="29">&lt;/br&gt;</ept>
+                    <bpt id="30">&lt;br &gt;</bpt><ept id="30">&lt;/br&gt;</ept>
+                    Note: If there are multiple URLs which correspond to the same website then the website alias
+                    field must contain each valid Domain Name in a comma separated list.
+                    <bpt id="31">&lt;br &gt;</bpt><ept id="31">&lt;/br&gt;</ept>
+                    <bpt id="32">&lt;br &gt;</bpt><ept id="32">&lt;/br&gt;</ept>
+                    Example:
+                    <bpt id="33">&lt;br &gt;</bpt><ept id="33">&lt;/br&gt;</ept>
+                    <bpt id="34">&lt;br &gt;</bpt><ept id="34">&lt;/br&gt;</ept>
+                    URL: http://localhost/DotNetNuke/default.aspx<bpt id="35">&lt;br &gt;</bpt><ept id="35">&lt;/br&gt;</ept>
+                    URL: http://MACHINENAME/DotNetNuke/default.aspx<bpt id="36">&lt;br &gt;</bpt><ept id="36">&lt;/br&gt;</ept>
+                    URL: http://209.32.134.65/DotNetNuke/default.aspx<bpt id="37">&lt;br &gt;</bpt><ept id="37">&lt;/br&gt;</ept>
+                    PortalAlias: localhost/DotNetNuke,MACHINENAME/DotNetNuke,209.32.134.65/DotNetNuke
+                    <bpt id="38">&lt;br &gt;</bpt><ept id="38">&lt;/br&gt;</ept>
+                    <bpt id="39">&lt;br &gt;</bpt><ept id="39">&lt;/br&gt;</ept>
+                    Note: If you are installing the application to a remote server you must modify the
+                    PortalAlias field value for the default record in the Portals table according to
+                    the rules defined above. <ept id="28">&lt;/li&gt;</ept>
+            <ept id="15">&lt;/ul&gt;</ept>
+        <ept id="12">&lt;/li&gt;</ept>
+    <ept id="4">&lt;/ol&gt;</ept>
+<ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="500.Error" translate="yes" xml:space="preserve">
+          <source>{0}</source>
+          <target state="new">{0}</target>
+        </trans-unit>
+        <trans-unit id="403_3.Error" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div style="height: 100%; width: 90%;"&gt;</bpt>
+        <bpt id="2">&lt;h3&gt;</bpt>DotNetNuke Configuration Error<ept id="2">&lt;/h3&gt;</ept>
+        <bpt id="3">&lt;p&gt;</bpt>{0}<ept id="3">&lt;/p&gt;</ept>
+        <bpt id="4">&lt;p&gt;</bpt>Your DotNetNuke installation appears to have a security settings problem (most likely
+        permissions). DotNetNuke has extensive file upload capabilities for content, modules,
+        and themes. These features require custom security settings so that the application
+        is able to create and remove files in your website.<ept id="4">&lt;/p&gt;</ept>
+        <bpt id="5">&lt;p&gt;</bpt>Using Windows Explorer, browse to the root folder of the website ( C:\DotNetNuke
+        by default ). Right-click the folder and select Sharing and Security from the popup
+        menu ( please note that if you are using Windows XP you may need to <bpt id="6">&lt;a href="http://support.microsoft.com/default.aspx/kb/307874"
+            target="_blank"&gt;</bpt>Disable Simple File Sharing<ept id="6">&lt;/a&gt;</ept> before these options are displayed
+        ). Select the Security tab. Add the appropriate User Account and set the Permissions.<ept id="5">&lt;/p&gt;</ept>
+		<bpt id="7">&lt;ul style="text-align: left; list-style-type: none; list-style-position: outside;"&gt;</bpt>
+            <bpt id="8">&lt;li&gt;</bpt><bpt id="9">&lt;strong&gt;</bpt>If using Windows 2000 - IIS5<ept id="9">&lt;/strong&gt;</ept>
+		    &lt;br/&gt;
+		    <bpt id="10">&lt;ol style="list-style-type: circle;"&gt;</bpt>
+		      <bpt id="11">&lt;li&gt;</bpt>the [SERVER]\ASPNET User Account must have Read, Write, and Change Control of the virtual root of your website.<ept id="11">&lt;/li&gt;</ept>
+		    <ept id="10">&lt;/ol&gt;</ept>
+		    &lt;br/&gt;
+		  <ept id="8">&lt;/li&gt;</ept>
+            <bpt id="12">&lt;li&gt;</bpt><bpt id="13">&lt;strong&gt;</bpt>If using Windows 2003 - IIS6 or Vista/Windows 2008 - IIS7<ept id="13">&lt;/strong&gt;</ept>
+		    &lt;br/&gt;
+		    <bpt id="14">&lt;ol style="list-style-type: circle;"&gt;</bpt>
+		      <bpt id="15">&lt;li&gt;</bpt>the NT AUTHORITY\NETWORK SERVICE User Account must have Read, Write, and Change Control of the virtual root of your website.<ept id="15">&lt;/li&gt;</ept>
+		    <ept id="14">&lt;/ol&gt;</ept>
+		  <ept id="12">&lt;/li&gt;</ept>
+		<ept id="7">&lt;/ul&gt;</ept>
+        <bpt id="16">&lt;p&gt;</bpt><it id="17" pos="open">&lt;img alt="Image showing the security settings for the root folder of the website must be set to Read, Write and Change Control for the ASPNET or NT AUTHORITY/NETWORK SERVICE accounts." src="images/403-3.gif"&gt;</it><ept id="16">&lt;/p&gt;</ept>
+  <ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div style="height: 100%; width: 90%;"&gt;</bpt>
+        <bpt id="2">&lt;h3&gt;</bpt>DotNetNuke Configuration Error<ept id="2">&lt;/h3&gt;</ept>
+        <bpt id="3">&lt;p&gt;</bpt>{0}<ept id="3">&lt;/p&gt;</ept>
+        <bpt id="4">&lt;p&gt;</bpt>Your DotNetNuke installation appears to have a security settings problem (most likely
+        permissions). DotNetNuke has extensive file upload capabilities for content, modules,
+        and themes. These features require custom security settings so that the application
+        is able to create and remove files in your website.<ept id="4">&lt;/p&gt;</ept>
+        <bpt id="5">&lt;p&gt;</bpt>Using Windows Explorer, browse to the root folder of the website ( C:\DotNetNuke
+        by default ). Right-click the folder and select Sharing and Security from the popup
+        menu ( please note that if you are using Windows XP you may need to <bpt id="6">&lt;a href="http://support.microsoft.com/default.aspx/kb/307874"
+            target="_blank"&gt;</bpt>Disable Simple File Sharing<ept id="6">&lt;/a&gt;</ept> before these options are displayed
+        ). Select the Security tab. Add the appropriate User Account and set the Permissions.<ept id="5">&lt;/p&gt;</ept>
+		<bpt id="7">&lt;ul style="text-align: left; list-style-type: none; list-style-position: outside;"&gt;</bpt>
+            <bpt id="8">&lt;li&gt;</bpt><bpt id="9">&lt;strong&gt;</bpt>If using Windows 2000 - IIS5<ept id="9">&lt;/strong&gt;</ept>
+		    &lt;br/&gt;
+		    <bpt id="10">&lt;ol style="list-style-type: circle;"&gt;</bpt>
+		      <bpt id="11">&lt;li&gt;</bpt>the [SERVER]\ASPNET User Account must have Read, Write, and Change Control of the virtual root of your website.<ept id="11">&lt;/li&gt;</ept>
+		    <ept id="10">&lt;/ol&gt;</ept>
+		    &lt;br/&gt;
+		  <ept id="8">&lt;/li&gt;</ept>
+            <bpt id="12">&lt;li&gt;</bpt><bpt id="13">&lt;strong&gt;</bpt>If using Windows 2003 - IIS6 or Vista/Windows 2008 - IIS7<ept id="13">&lt;/strong&gt;</ept>
+		    &lt;br/&gt;
+		    <bpt id="14">&lt;ol style="list-style-type: circle;"&gt;</bpt>
+		      <bpt id="15">&lt;li&gt;</bpt>the NT AUTHORITY\NETWORK SERVICE User Account must have Read, Write, and Change Control of the virtual root of your website.<ept id="15">&lt;/li&gt;</ept>
+		    <ept id="14">&lt;/ol&gt;</ept>
+		  <ept id="12">&lt;/li&gt;</ept>
+		<ept id="7">&lt;/ul&gt;</ept>
+        <bpt id="16">&lt;p&gt;</bpt><it id="17" pos="open">&lt;img alt="Image showing the security settings for the root folder of the website must be set to Read, Write and Change Control for the ASPNET or NT AUTHORITY/NETWORK SERVICE accounts." src="images/403-3.gif"&gt;</it><ept id="16">&lt;/p&gt;</ept>
+  <ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="Error.Text" translate="yes" xml:space="preserve">
+          <source>An error has occurred.</source>
+          <target state="new">An error has occurred.</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_BulkMailConf_Subject.Text" translate="yes" xml:space="preserve">
+          <source>Bulk Email Report for '{0}'.</source>
+          <target state="new">Bulk Email Report for '{0}'.</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_BulkMailConf_Html_Body.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;h1&gt;</bpt>Bulkmail Report<ept id="1">&lt;/h1&gt;</ept>
+    Operation started at: [Custom:0]<bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>
+    EmailRecipients: [Custom:1]<bpt id="3">&lt;br &gt;</bpt><ept id="3">&lt;/br&gt;</ept>
+    EmailMessages: [Custom:2]<bpt id="4">&lt;br &gt;</bpt><ept id="4">&lt;/br&gt;</ept>
+    Operation completed: [Custom:3]<bpt id="5">&lt;br &gt;</bpt><ept id="5">&lt;/br&gt;</ept>
+    [Custom:4|Number of errors:{0}<bpt id="6">&lt;br &gt;</bpt><ept id="6">&lt;/br&gt;</ept>]
+    <bpt id="7">&lt;br &gt;</bpt><ept id="7">&lt;/br&gt;</ept>
+    Status Report: <bpt id="8">&lt;br &gt;</bpt><ept id="8">&lt;/br&gt;</ept>
+           <bpt id="9">&lt;pre&gt;</bpt>[Custom:5]<ept id="9">&lt;/pre&gt;</ept>
+    [Custom:6|<bpt id="10">&lt;hr &gt;</bpt><ept id="10">&lt;/hr&gt;</ept><bpt id="11">&lt;strong&gt;</bpt>Recipients:<ept id="11">&lt;/strong&gt;</ept><bpt id="12">&lt;br &gt;</bpt><ept id="12">&lt;/br&gt;</ept>{0}]</source>
+          <target state="new"><bpt id="1">&lt;h1&gt;</bpt>Bulkmail Report<ept id="1">&lt;/h1&gt;</ept>
+    Operation started at: [Custom:0]<bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>
+    EmailRecipients: [Custom:1]<bpt id="3">&lt;br &gt;</bpt><ept id="3">&lt;/br&gt;</ept>
+    EmailMessages: [Custom:2]<bpt id="4">&lt;br &gt;</bpt><ept id="4">&lt;/br&gt;</ept>
+    Operation completed: [Custom:3]<bpt id="5">&lt;br &gt;</bpt><ept id="5">&lt;/br&gt;</ept>
+    [Custom:4|Number of errors:{0}<bpt id="6">&lt;br &gt;</bpt><ept id="6">&lt;/br&gt;</ept>]
+    <bpt id="7">&lt;br &gt;</bpt><ept id="7">&lt;/br&gt;</ept>
+    Status Report: <bpt id="8">&lt;br &gt;</bpt><ept id="8">&lt;/br&gt;</ept>
+           <bpt id="9">&lt;pre&gt;</bpt>[Custom:5]<ept id="9">&lt;/pre&gt;</ept>
+    [Custom:6|<bpt id="10">&lt;hr &gt;</bpt><ept id="10">&lt;/hr&gt;</ept><bpt id="11">&lt;strong&gt;</bpt>Recipients:<ept id="11">&lt;/strong&gt;</ept><bpt id="12">&lt;br &gt;</bpt><ept id="12">&lt;/br&gt;</ept>{0}]</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_BulkMailConf_Text_Body.Text" translate="yes" xml:space="preserve">
+          <source>Operation started at: [Custom:0]
+EmailRecipients:      [Custom:1]
+EmailMessages:        [Custom:2]
+Operation Completed:  [Custom:3]
+
+[Custom:4|Number of errors:     {0}
+]Status Report:
+[Custom:5]
+--------------------------------
+[Custom:6|Recipients:
+===========
+{0}]
+    </source>
+          <target state="new">Operation started at: [Custom:0]
+EmailRecipients:      [Custom:1]
+EmailMessages:        [Custom:2]
+Operation Completed:  [Custom:3]
+
+[Custom:4|Number of errors:     {0}
+]Status Report:
+[Custom:5]
+--------------------------------
+[Custom:6|Recipients:
+===========
+{0}]
+    </target>
+        </trans-unit>
+        <trans-unit id="NoErrorsSending.Text" translate="yes" xml:space="preserve">
+          <source>No errors occured during sending.</source>
+          <target state="new">No errors occured during sending.</target>
+        </trans-unit>
+        <trans-unit id="Return.Text" translate="yes" xml:space="preserve">
+          <source>Return to Site</source>
+          <target state="new">Return to Site</target>
+        </trans-unit>
+        <trans-unit id="UnhandledError.Text" translate="yes" xml:space="preserve">
+          <source>An unhandled error has occurred.</source>
+          <target state="new">An unhandled error has occurred.</target>
+        </trans-unit>
+        <trans-unit id="TokenReplaceUnknownObject.Text" translate="yes" xml:space="preserve">
+          <source>Error accessing [{0}:{1}], {0} is an unknown object source token.</source>
+          <target state="new">Error accessing [{0}:{1}], {0} is an unknown object source token.</target>
+        </trans-unit>
+        <trans-unit id="TokenReplaceRestrictedProperty.Text" translate="yes" xml:space="preserve">
+          <source>Error accessing [{0}:{1}], access to {1} is restricted for datasource {0}.</source>
+          <target state="new">Error accessing [{0}:{1}], access to {1} is restricted for datasource {0}.</target>
+        </trans-unit>
+        <trans-unit id="TokenReplaceUnknownProperty.Text" translate="yes" xml:space="preserve">
+          <source>Error accessing [{0}:{1}], {1} is unknown for datasource {0}.</source>
+          <target state="new">Error accessing [{0}:{1}], {1} is unknown for datasource {0}.</target>
+        </trans-unit>
+        <trans-unit id="Can Deploy.Permission" translate="yes" xml:space="preserve">
+          <source>Deploy Module</source>
+          <target state="new">Deploy Module</target>
+        </trans-unit>
+        <trans-unit id="//Admin//Languages.String" translate="yes" xml:space="preserve">
+          <source>Languages</source>
+          <target state="new">Languages</target>
+        </trans-unit>
+        <trans-unit id="//Admin//Skins.String" translate="yes" xml:space="preserve">
+          <source>Themes</source>
+          <target state="new">Themes</target>
+        </trans-unit>
+        <trans-unit id="//Host//Vendors.String" translate="yes" xml:space="preserve">
+          <source>Vendors</source>
+          <target state="new">Vendors</target>
+        </trans-unit>
+        <trans-unit id="Authentication.String" translate="yes" xml:space="preserve">
+          <source>Authentication</source>
+          <target state="new">Authentication</target>
+        </trans-unit>
+        <trans-unit id="License.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>DotNetNuke&amp;reg; - http://www.dotnetnuke.com<bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>
+Copyright (c) 2002-2017&lt;br/&gt;
+    by DotNetNuke Corporation<ept id="1">&lt;/p&gt;</ept>
+    <bpt id="3">&lt;p&gt;</bpt>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation 
+the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and 
+    to permit persons to whom the Software is furnished to do so, subject to the following conditions:<ept id="3">&lt;/p&gt;</ept>
+    <bpt id="4">&lt;p&gt;</bpt>The above copyright notice and this permission notice shall be included in all copies or substantial portions 
+    of the Software.<ept id="4">&lt;/p&gt;</ept>
+    <bpt id="5">&lt;p&gt;</bpt>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+    DEALINGS IN THE SOFTWARE.<ept id="5">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>DotNetNuke&amp;reg; - http://www.dotnetnuke.com<bpt id="2">&lt;br &gt;</bpt><ept id="2">&lt;/br&gt;</ept>
+Copyright (c) 2002-2017&lt;br/&gt;
+    by DotNetNuke Corporation<ept id="1">&lt;/p&gt;</ept>
+    <bpt id="3">&lt;p&gt;</bpt>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation 
+the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and 
+    to permit persons to whom the Software is furnished to do so, subject to the following conditions:<ept id="3">&lt;/p&gt;</ept>
+    <bpt id="4">&lt;p&gt;</bpt>The above copyright notice and this permission notice shall be included in all copies or substantial portions 
+    of the Software.<ept id="4">&lt;/p&gt;</ept>
+    <bpt id="5">&lt;p&gt;</bpt>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+    DEALINGS IN THE SOFTWARE.<ept id="5">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="//Admin//Extensions.String" translate="yes" xml:space="preserve">
+          <source>Extensions</source>
+          <target state="new">Extensions</target>
+        </trans-unit>
+        <trans-unit id="//Host//Extensions.String" translate="yes" xml:space="preserve">
+          <source>Extensions</source>
+          <target state="new">Extensions</target>
+        </trans-unit>
+        <trans-unit id="SkinLoadError.Text" translate="yes" xml:space="preserve">
+          <source>Could Not Load Theme: {0},  Error: {1}&lt;br/&gt;</source>
+          <target state="new">Could Not Load Theme: {0},  Error: {1}&lt;br/&gt;</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_ROLE_UPDATE_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] User Account Update</source>
+          <target state="new">[Portal:PortalName] User Account Update</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_ROLE_UPDATE_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Dear [User:DisplayName],
+
+Your user account at [Portal:PortalName] has been recently updated to modify access to the following Security Role:
+
+Role: [Custom:0]
+Description: [Custom:1]
+Effective Date: [Custom:2]
+Expiry Date: [Custom:3]
+
+Thank you, we appreciate your support...
+[Portal:PortalName]
+</source>
+          <target state="new">Dear [User:DisplayName],
+
+Your user account at [Portal:PortalName] has been recently updated to modify access to the following Security Role:
+
+Role: [Custom:0]
+Description: [Custom:1]
+Effective Date: [Custom:2]
+Expiry Date: [Custom:3]
+
+Thank you, we appreciate your support...
+[Portal:PortalName]
+</target>
+        </trans-unit>
+        <trans-unit id="PurgeCacheUnsupported.Text" translate="yes" xml:space="preserve">
+          <source>This Caching Provider does not require the PurgeCache feature.</source>
+          <target state="new">This Caching Provider does not require the PurgeCache feature.</target>
+        </trans-unit>
+        <trans-unit id="NoLoginControl.Text" translate="yes" xml:space="preserve">
+          <source>You have been redirected to this default Login Page because the Login Page set for this website does not contain a valid DotNetNuke Account Login module, or the permissions have not been set correctly.</source>
+          <target state="new">You have been redirected to this default Login Page because the Login Page set for this website does not contain a valid DotNetNuke Account Login module, or the permissions have not been set correctly.</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_UPDATED_OWN_PASSWORD_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Dear [User:DisplayName],
+
+You have changed your Password on [Portal:PortalName].
+
+Please login using the following information:
+
+Website Address: [Portal:URL]
+Username:   [User:Username]
+
+Sincerely,
+[Portal:PortalName]</source>
+          <target state="new">Dear [User:DisplayName],
+
+You have changed your Password on [Portal:PortalName].
+
+Please login using the following information:
+
+Website Address: [Portal:URL]
+Username:   [User:Username]
+
+Sincerely,
+[Portal:PortalName]</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_UPDATED_OWN_PASSWORD_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] Password Updated</source>
+          <target state="new">[Portal:PortalName] Password Updated</target>
+        </trans-unit>
+        <trans-unit id="ViewSource.Action" translate="yes" xml:space="preserve">
+          <source>Develop</source>
+          <target state="new">Develop</target>
+        </trans-unit>
+        <trans-unit id="EnglishName.Text" translate="yes" xml:space="preserve">
+          <source>English Name</source>
+          <target state="new">English Name</target>
+        </trans-unit>
+        <trans-unit id="NativeName.Text" translate="yes" xml:space="preserve">
+          <source>Native Name</source>
+          <target state="new">Native Name</target>
+        </trans-unit>
+        <trans-unit id="NeutralCulture.Text" translate="yes" xml:space="preserve">
+          <source>Neutral Culture</source>
+          <target state="new">Neutral Culture</target>
+        </trans-unit>
+        <trans-unit id="DeLocalize.Action" translate="yes" xml:space="preserve">
+          <source>DeLocalize</source>
+          <target state="new">DeLocalize</target>
+        </trans-unit>
+        <trans-unit id="Localize.Action" translate="yes" xml:space="preserve">
+          <source>Localize</source>
+          <target state="new">Localize</target>
+        </trans-unit>
+        <trans-unit id="Translate.Action" translate="yes" xml:space="preserve">
+          <source>Mark Translated</source>
+          <target state="new">Mark Translated</target>
+        </trans-unit>
+        <trans-unit id="UnTranslate.Action" translate="yes" xml:space="preserve">
+          <source>Mark Not Translated</source>
+          <target state="new">Mark Not Translated</target>
+        </trans-unit>
+        <trans-unit id="SearchCrawler Admin.String" translate="yes" xml:space="preserve">
+          <source>SearchCrawler Admin</source>
+          <target state="new">SearchCrawler Admin</target>
+        </trans-unit>
+        <trans-unit id="Manage.Text" translate="yes" xml:space="preserve">
+          <source>Manage</source>
+          <target state="new">Manage</target>
+        </trans-unit>
+        <trans-unit id="ModuleGenericActions.Action" translate="yes" xml:space="preserve">
+          <source>Admin</source>
+          <target state="new">Admin</target>
+        </trans-unit>
+        <trans-unit id="ModuleSpecificActions.Action" translate="yes" xml:space="preserve">
+          <source>Edit</source>
+          <target state="new">Edit</target>
+        </trans-unit>
+        <trans-unit id="//AboutUs.String" translate="yes" xml:space="preserve">
+          <source>About Us</source>
+          <target state="new">About Us</target>
+        </trans-unit>
+        <trans-unit id="//Admin//ContentStaging.String" translate="yes" xml:space="preserve">
+          <source>Content Staging</source>
+          <target state="new">Content Staging</target>
+        </trans-unit>
+        <trans-unit id="//Admin//GoogleAnalytics.String" translate="yes" xml:space="preserve">
+          <source>Google Analytics</source>
+          <target state="new">Google Analytics</target>
+        </trans-unit>
+        <trans-unit id="//Admin//Pages.String" translate="yes" xml:space="preserve">
+          <source>Page Management</source>
+          <target state="new">Page Management</target>
+        </trans-unit>
+        <trans-unit id="//Admin//SearchEngineSiteMap.String" translate="yes" xml:space="preserve">
+          <source>Search Engine Site Map</source>
+          <target state="new">Search Engine Site Map</target>
+        </trans-unit>
+        <trans-unit id="//Admin//Taxonomy.String" translate="yes" xml:space="preserve">
+          <source>Taxonomy</source>
+          <target state="new">Taxonomy</target>
+        </trans-unit>
+        <trans-unit id="//Home.String" translate="yes" xml:space="preserve">
+          <source>Home</source>
+          <target state="new">Home</target>
+        </trans-unit>
+        <trans-unit id="//Host//ConfigurationManager.String" translate="yes" xml:space="preserve">
+          <source>Configuration Manager</source>
+          <target state="new">Configuration Manager</target>
+        </trans-unit>
+        <trans-unit id="//Host//Dashboard.String" translate="yes" xml:space="preserve">
+          <source>Dashboard</source>
+          <target state="new">Dashboard</target>
+        </trans-unit>
+        <trans-unit id="//Host//HTMLEditorManager.String" translate="yes" xml:space="preserve">
+          <source>HTML Editor Manager</source>
+          <target state="new">HTML Editor Manager</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures.String" translate="yes" xml:space="preserve">
+          <source>Professional Features</source>
+          <target state="new">Professional Features</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures//ActivateyourLicense.String" translate="yes" xml:space="preserve">
+          <source>Activate Your License</source>
+          <target state="new">Activate Your License</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures//ApplicationIntegrity.String" translate="yes" xml:space="preserve">
+          <source>Application Integrity</source>
+          <target state="new">Application Integrity</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures//HealthMonitoring.String" translate="yes" xml:space="preserve">
+          <source>Health Monitoring</source>
+          <target state="new">Health Monitoring</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures//KnowledgeBase.String" translate="yes" xml:space="preserve">
+          <source>Knowledge Base</source>
+          <target state="new">Knowledge Base</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures//LicenseManagement.String" translate="yes" xml:space="preserve">
+          <source>License Management</source>
+          <target state="new">License Management</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures//ManageWebServers.String" translate="yes" xml:space="preserve">
+          <source>Manage Web Servers</source>
+          <target state="new">Manage Web Servers</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures//MySupportTickets.String" translate="yes" xml:space="preserve">
+          <source>My Support Tickets</source>
+          <target state="new">My Support Tickets</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures//SearchCrawlerAdmin.String" translate="yes" xml:space="preserve">
+          <source>Search Crawler Admin</source>
+          <target state="new">Search Crawler Admin</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures//SecurityCenter.String" translate="yes" xml:space="preserve">
+          <source>Security Center</source>
+          <target state="new">Security Center</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures//SharePointConnector.String" translate="yes" xml:space="preserve">
+          <source>SharePoint Connector</source>
+          <target state="new">SharePoint Connector</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures//SoftwareandDocumentation.String" translate="yes" xml:space="preserve">
+          <source>Software and Documentation</source>
+          <target state="new">Software and Documentation</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures//SpecialOffers.String" translate="yes" xml:space="preserve">
+          <source>Special Offers</source>
+          <target state="new">Special Offers</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures//TechnicalSupport.String" translate="yes" xml:space="preserve">
+          <source>Technical Support</source>
+          <target state="new">Technical Support</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures//UserSwitcher.String" translate="yes" xml:space="preserve">
+          <source>User Switcher</source>
+          <target state="new">User Switcher</target>
+        </trans-unit>
+        <trans-unit id="//SearchResults.String" translate="yes" xml:space="preserve">
+          <source>Search Results</source>
+          <target state="new">Search Results</target>
+        </trans-unit>
+        <trans-unit id="//UserProfile.String" translate="yes" xml:space="preserve">
+          <source>User Profile</source>
+          <target state="new">User Profile</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_BulkMailStart_Body.Text" translate="yes" xml:space="preserve">
+          <source>User {1} submitted Bulkmail '{0}' to {2} recipients. Please review the sendout report for failed transmissions and the senders inbox for returns.</source>
+          <target state="new">User {1} submitted Bulkmail '{0}' to {2} recipients. Please review the sendout report for failed transmissions and the senders inbox for returns.</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_BulkMailStart_Subject.Text" translate="yes" xml:space="preserve">
+          <source>Bulkmail '{0}' submitted</source>
+          <target state="new">Bulkmail '{0}' submitted</target>
+        </trans-unit>
+        <trans-unit id="//NewsPromotions.String" translate="yes" xml:space="preserve">
+          <source>News &amp; Promotions</source>
+          <target state="new">News &amp; Promotions</target>
+        </trans-unit>
+        <trans-unit id="//OurProducts.String" translate="yes" xml:space="preserve">
+          <source>Our Products</source>
+          <target state="new">Our Products</target>
+        </trans-unit>
+        <trans-unit id="//Modules.Text" translate="yes" xml:space="preserve">
+          <source>Modules</source>
+          <target state="new">Modules</target>
+        </trans-unit>
+        <trans-unit id="//Pages.Text" translate="yes" xml:space="preserve">
+          <source>Pages</source>
+          <target state="new">Pages</target>
+        </trans-unit>
+        <trans-unit id="//Tools.Text" translate="yes" xml:space="preserve">
+          <source>Tools</source>
+          <target state="new">Tools</target>
+        </trans-unit>
+        <trans-unit id="//Admin//GoogleAnalyticsPro.String" translate="yes" xml:space="preserve">
+          <source>Google Analytics Pro</source>
+          <target state="new">Google Analytics Pro</target>
+        </trans-unit>
+        <trans-unit id="//Admin//DevicePreviewManagement.String" translate="yes" xml:space="preserve">
+          <source>Device Preview Management</source>
+          <target state="new">Device Preview Management</target>
+        </trans-unit>
+        <trans-unit id="//Admin//SiteRedirectionManagement.String" translate="yes" xml:space="preserve">
+          <source>Site Redirection Management</source>
+          <target state="new">Site Redirection Management</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures//SiteGroups.String" translate="yes" xml:space="preserve">
+          <source>Site Groups</source>
+          <target state="new">Site Groups</target>
+        </trans-unit>
+        <trans-unit id="//Admin//Lists.String" translate="yes" xml:space="preserve">
+          <source>Lists</source>
+          <target state="new">Lists</target>
+        </trans-unit>
+        <trans-unit id="RelationshipType_Added.Text" translate="yes" xml:space="preserve">
+          <source>Added RelationshipType {0}</source>
+          <target state="new">Added RelationshipType {0}</target>
+        </trans-unit>
+        <trans-unit id="RelationshipType_Deleted.Text" translate="yes" xml:space="preserve">
+          <source>Deleted RelationshipType {0} : ID {1}</source>
+          <target state="new">Deleted RelationshipType {0} : ID {1}</target>
+        </trans-unit>
+        <trans-unit id="RelationshipType_Updated.Text" translate="yes" xml:space="preserve">
+          <source>Updated RelationshipType {0}</source>
+          <target state="new">Updated RelationshipType {0}</target>
+        </trans-unit>
+        <trans-unit id="Relationship_Added.Text" translate="yes" xml:space="preserve">
+          <source>Added Relationship {0}</source>
+          <target state="new">Added Relationship {0}</target>
+        </trans-unit>
+        <trans-unit id="Relationship_Deleted.Text" translate="yes" xml:space="preserve">
+          <source>Deleted Relationship {0} : ID {1}</source>
+          <target state="new">Deleted Relationship {0} : ID {1}</target>
+        </trans-unit>
+        <trans-unit id="Relationship_Updated.Text" translate="yes" xml:space="preserve">
+          <source>Updated Relationship {0}</source>
+          <target state="new">Updated Relationship {0}</target>
+        </trans-unit>
+        <trans-unit id="UserRelationshipPreference_Added.Text" translate="yes" xml:space="preserve">
+          <source>Added UserRelationshipPreference ID {0} for User ID {1} and Relationship ID {2}</source>
+          <target state="new">Added UserRelationshipPreference ID {0} for User ID {1} and Relationship ID {2}</target>
+        </trans-unit>
+        <trans-unit id="UserRelationshipPreference_Deleted.Text" translate="yes" xml:space="preserve">
+          <source>Deleted UserRelationshipPreference ID {0} for User ID {1} and Relationship ID {2}</source>
+          <target state="new">Deleted UserRelationshipPreference ID {0} for User ID {1} and Relationship ID {2}</target>
+        </trans-unit>
+        <trans-unit id="UserRelationshipPreference_Updated.Text" translate="yes" xml:space="preserve">
+          <source>Updated UserRelationshipPreference ID {0} for User ID {1} and Relationship ID {2}</source>
+          <target state="new">Updated UserRelationshipPreference ID {0} for User ID {1} and Relationship ID {2}</target>
+        </trans-unit>
+        <trans-unit id="UserRelationship_Added.Text" translate="yes" xml:space="preserve">
+          <source>Added UserRelationship ID {0} for UserID {1}, RelatedUserID {2}</source>
+          <target state="new">Added UserRelationship ID {0} for UserID {1}, RelatedUserID {2}</target>
+        </trans-unit>
+        <trans-unit id="UserRelationship_Deleted.Text" translate="yes" xml:space="preserve">
+          <source>Deleted UserRelationship ID {0} for UserID {1}, RelatedUserID {2}</source>
+          <target state="new">Deleted UserRelationship ID {0} for UserID {1}, RelatedUserID {2}</target>
+        </trans-unit>
+        <trans-unit id="UserRelationship_Updated.Text" translate="yes" xml:space="preserve">
+          <source>Updated UserRelationship ID {0} for UserID {1}, RelatedUserID {2}</source>
+          <target state="new">Updated UserRelationship ID {0} for UserID {1}, RelatedUserID {2}</target>
+        </trans-unit>
+        <trans-unit id="AddFriendRequestSubject.Text" translate="yes" xml:space="preserve">
+          <source>{0} wants to be friends</source>
+          <target state="new">{0} wants to be friends</target>
+        </trans-unit>
+        <trans-unit id="AddFriendRequestBody.Text" translate="yes" xml:space="preserve">
+          <source>{0} wants to be friends with you</source>
+          <target state="new">{0} wants to be friends with you</target>
+        </trans-unit>
+        <trans-unit id="AddFollowerRequestSubject.Text" translate="yes" xml:space="preserve">
+          <source>{0} is now following you</source>
+          <target state="new">{0} is now following you</target>
+        </trans-unit>
+        <trans-unit id="AddFollowerRequestBody.Text" translate="yes" xml:space="preserve">
+          <source>You are now being followed by {0}</source>
+          <target state="new">You are now being followed by {0}</target>
+        </trans-unit>
+        <trans-unit id="//Host//DeviceDetectionManagement.String" translate="yes" xml:space="preserve">
+          <source>Device Detection Management</source>
+          <target state="new">Device Detection Management</target>
+        </trans-unit>
+        <trans-unit id="//ActivityFeed.String" translate="yes" xml:space="preserve">
+          <source>Activity Feed</source>
+          <target state="new">Activity Feed</target>
+        </trans-unit>
+        <trans-unit id="//ActivityFeed//Friends.String" translate="yes" xml:space="preserve">
+          <source>Friends</source>
+          <target state="new">Friends</target>
+        </trans-unit>
+        <trans-unit id="//ActivityFeed//Messages.String" translate="yes" xml:space="preserve">
+          <source>Messages</source>
+          <target state="new">Messages</target>
+        </trans-unit>
+        <trans-unit id="//ActivityFeed//MyProfile.String" translate="yes" xml:space="preserve">
+          <source>My Profile</source>
+          <target state="new">My Profile</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_SUBJECT_FORMAT.Text" translate="yes" xml:space="preserve">
+          <source>New message from {0}</source>
+          <target state="new">New message from {0}</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_BODY_FORMAT.Text" translate="yes" xml:space="preserve">
+          <source>Subject: {0}
+    
+{1}
+
+Please do not reply to this email.</source>
+          <target state="new">Subject: {0}
+    
+{1}
+
+Please do not reply to this email.</target>
+        </trans-unit>
+        <trans-unit id="PortalLinks.Text" translate="yes" xml:space="preserve">
+          <source>Portal Links</source>
+          <target state="new">Portal Links</target>
+        </trans-unit>
+        <trans-unit id="LogClicks.Text" translate="yes" xml:space="preserve">
+          <source>Log the user, date and time for each click</source>
+          <target state="new">Log the user, date and time for each click</target>
+        </trans-unit>
+        <trans-unit id="TrackClicks.Text" translate="yes" xml:space="preserve">
+          <source>Track the number of times this link is clicked</source>
+          <target state="new">Track the number of times this link is clicked</target>
+        </trans-unit>
+        <trans-unit id="//Admin//SharePointConnector.String" translate="yes" xml:space="preserve">
+          <source>SharePoint Connector</source>
+          <target state="new">SharePoint Connector</target>
+        </trans-unit>
+        <trans-unit id="ApplicationUpgrades.Text" translate="yes" xml:space="preserve">
+          <source>Application Upgrades</source>
+          <target state="new">Application Upgrades</target>
+        </trans-unit>
+        <trans-unit id="GeneralUpgrades.Text" translate="yes" xml:space="preserve">
+          <source>Performing General Upgrades</source>
+          <target state="new">Performing General Upgrades</target>
+        </trans-unit>
+        <trans-unit id="ExecutingScript.Text" translate="yes" xml:space="preserve">
+          <source>Executing Script</source>
+          <target state="new">Executing Script</target>
+        </trans-unit>
+        <trans-unit id="LogStart.Text" translate="yes" xml:space="preserve">
+          <source>Start </source>
+          <target state="new">Start </target>
+        </trans-unit>
+        <trans-unit id="LogEnd.Text" translate="yes" xml:space="preserve">
+          <source>End </source>
+          <target state="new">End </target>
+        </trans-unit>
+        <trans-unit id="ActivatingLicense.Text" translate="yes" xml:space="preserve">
+          <source>Activating License</source>
+          <target state="new">Activating License</target>
+        </trans-unit>
+        <trans-unit id="ModulePermissions.Action" translate="yes" xml:space="preserve">
+          <source>Permissions</source>
+          <target state="new">Permissions</target>
+        </trans-unit>
+        <trans-unit id="MoveToPane.Action" translate="yes" xml:space="preserve">
+          <source>To {0}</source>
+          <target state="new">To {0}</target>
+        </trans-unit>
+        <trans-unit id="DropModuleTarget.Text" translate="yes" xml:space="preserve">
+          <source>Drop Module Here</source>
+          <target state="new">Drop Module Here</target>
+        </trans-unit>
+        <trans-unit id="DragModuleHint.Text" translate="yes" xml:space="preserve">
+          <source>Drag this Module to a new Location</source>
+          <target state="new">Drag this Module to a new Location</target>
+        </trans-unit>
+        <trans-unit id="DraggingHintText.Text" translate="yes" xml:space="preserve">
+          <source>Move mouse over a drop zone.</source>
+          <target state="new">Move mouse over a drop zone.</target>
+        </trans-unit>
+        <trans-unit id="DropModuleHint.Text" translate="yes" xml:space="preserve">
+          <source>Release mouse button to drop Module here.</source>
+          <target state="new">Release mouse button to drop Module here.</target>
+        </trans-unit>
+        <trans-unit id="//AboutUs//StyleGuide.String" translate="yes" xml:space="preserve">
+          <source>Style Guide</source>
+          <target state="new">Style Guide</target>
+        </trans-unit>
+        <trans-unit id="//Admin//AdvancedSettings.String" translate="yes" xml:space="preserve">
+          <source>Advanced Configuration Settings</source>
+          <target state="new">Advanced Configuration Settings</target>
+        </trans-unit>
+        <trans-unit id="//ContactUs.String" translate="yes" xml:space="preserve">
+          <source>Contact Us</source>
+          <target state="new">Contact Us</target>
+        </trans-unit>
+        <trans-unit id="//Admin//AdvancedURLManagement.String" translate="yes" xml:space="preserve">
+          <source>Advanced URL Management</source>
+          <target state="new">Advanced URL Management</target>
+        </trans-unit>
+        <trans-unit id="//Admin//FileManagement.String" translate="yes" xml:space="preserve">
+          <source>File Management</source>
+          <target state="new">File Management</target>
+        </trans-unit>
+        <trans-unit id="CustomUrlPathCleaned.Error" translate="yes" xml:space="preserve">
+          <source>The Page URL entered contains characters which cannot be used in a URL or are illegal characters for a URL.   These characters have been removed.  Click the 'Update' button again to accept the modified URL.<it id="1" pos="open">&lt;br&gt;</it>[NOTE: The illegal characters list is the following: <it id="2" pos="open">&lt;&gt;</it>\?:&amp;=+|%# ]</source>
+          <target state="new">The Page URL entered contains characters which cannot be used in a URL or are illegal characters for a URL.   These characters have been removed.  Click the 'Update' button again to accept the modified URL.<it id="1" pos="open">&lt;br&gt;</it>[NOTE: The illegal characters list is the following: <it id="2" pos="open">&lt;&gt;</it>\?:&amp;=+|%# ]</target>
+        </trans-unit>
+        <trans-unit id="UrlPathNotUnique.Error" translate="yes" xml:space="preserve">
+          <source>The submitted URL is not available.  If you wish to accept the suggested alternative, please click Save.</source>
+          <target state="new">The submitted URL is not available.  If you wish to accept the suggested alternative, please click Save.</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_MESSAGING_DISPATCH_BODY.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;</it>
+<bpt id="2">&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;</bpt>
+<bpt id="3">&lt;head&gt;</bpt>
+    <bpt id="4">&lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;</bpt><ept id="4">&lt;/meta&gt;</ept>
+    <bpt id="5">&lt;style type="text/css"&gt;</bpt>
+            /* Reset Styles */
+        html, body{height:100%;width:100%;}
+        body{
+            margin:0; padding:0;
+            font-family:sans-serif;
+            font-size:0.83em;
+            color:#333;
+        }
+        img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+        table td{border-collapse:collapse;}
+        p{margin: 0 0 1.6em 0;}
+        a{color:#417CD3;}
+        #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+        body{ background-color:#fafafa; }        
+
+        #templateContainer{
+            border: 1px solid #eeeeee;
+            box-shadow: 0px 0px 3px 0px #eee;
+        }
+
+            /* Pre Header Styles */
+        .preheaderContent{
+            padding:15px 0 5px 0;
+            font-size:0.9em;
+            color:#999;
+        }
+        .headerContent {background-color:#bbb;}
+        .headerContent a{display:block;}
+        .headerContent img{ margin-bottom:0;}
+
+            /* Sub Header Styles */
+        #templateSubHeader{ color:#ffffff; }
+        #templateSubHeader td{ padding:5px 20px; }
+
+            /* Template Footer Styles */
+        .footerContent table td{
+            padding-top:20px;
+            border-top:1px solid #ddd;
+            font-size:0.8em;
+        }
+
+            /* Body Template Footer Styles */
+        #bodyTemplateFooter{
+            padding:15px 0 5px 0;
+            font-size:0.9em;
+            color:#999;
+        }
+    <ept id="5">&lt;/style&gt;</ept>
+<ept id="3">&lt;/head&gt;</ept>
+
+<bpt id="6">&lt;body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"&gt;</bpt>
+<bpt id="7">&lt;table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" id="backgroundTable"&gt;</bpt>
+    <bpt id="8">&lt;tr&gt;</bpt>
+        <bpt id="9">&lt;td align="center" valign="top"&gt;</bpt>
+            <!-- // Begin Template Preheader \\ -->
+            <bpt id="10">&lt;table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" width="600"&gt;</bpt>
+                <bpt id="11">&lt;tr align="right"&gt;</bpt>
+                    <bpt id="12">&lt;td valign="top" class="preheaderContent" style="border-top:5px solid #417CD3;"&gt;</bpt>
+
+                        <!-- // Begin Module: Standard Preheader \ -->
+                        <bpt id="13">&lt;table border="0" cellpadding="0" cellspacing="0" &gt;</bpt>
+                            <bpt id="14">&lt;tr&gt;</bpt>
+                                <bpt id="15">&lt;td align="right"&gt;</bpt>
+                                    <bpt id="16">&lt;p&gt;</bpt>Problem viewing email? <bpt id="17">&lt;a href="[NOTIFICATIONURL]"&gt;</bpt><bpt id="18">&lt;span&gt;</bpt>Click here to view online.<ept id="18">&lt;/span&gt;</ept><ept id="17">&lt;/a&gt;</ept><ept id="16">&lt;/p&gt;</ept>
+                                <ept id="15">&lt;/td&gt;</ept>
+                            <ept id="14">&lt;/tr&gt;</ept>
+                        <ept id="13">&lt;/table&gt;</ept>
+                        <!-- // End Module: Standard Preheader \ -->
+                    <ept id="12">&lt;/td&gt;</ept>
+                <ept id="11">&lt;/tr&gt;</ept>
+            <ept id="10">&lt;/table&gt;</ept>
+            <!-- // End Template Preheader \\ -->
+            <!-- // Begin Template body \\ -->
+            <bpt id="19">&lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="border:1px solid #eeeeee; " &gt;</bpt>
+                <bpt id="20">&lt;tr &gt;</bpt>
+                    <bpt id="21">&lt;td align="center" valign="top"&gt;</bpt>
+                        <!-- // Begin Template Header \\ -->
+                        <bpt id="22">&lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateHeader"&gt;</bpt>
+                            <bpt id="23">&lt;tr&gt;</bpt>
+                                <bpt id="24">&lt;td class="headerContent"&gt;</bpt>
+                                    <bpt id="25">&lt;a href="[SITEURL]"&gt;</bpt>
+                                        <!--<bpt id="26">&lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon"&gt;</bpt><ept id="26">&lt;/img&gt;</ept>-->
+                                        <bpt id="27">&lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" width="200"&gt;</bpt><ept id="27">&lt;/img&gt;</ept>
+                                    <ept id="25">&lt;/a&gt;</ept>
+
+                                <ept id="24">&lt;/td&gt;</ept>
+                            <ept id="23">&lt;/tr&gt;</ept>
+                        <ept id="22">&lt;/table&gt;</ept>
+                        <!-- // End Template Header \\ -->
+                    <ept id="21">&lt;/td&gt;</ept>
+                <ept id="20">&lt;/tr&gt;</ept>
+                <bpt id="28">&lt;tr &gt;</bpt>
+                    <bpt id="29">&lt;td align="center" valign="top"&gt;</bpt>
+                        <!-- // Begin Template Sub Header \\ -->
+                        <bpt id="30">&lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateSubHeader"&gt;</bpt>
+                            <bpt id="31">&lt;tr&gt;</bpt>
+                                <bpt id="32">&lt;td class="subHeaderContent" bgcolor="#417CD3" width="66%" align="left"&gt;</bpt>
+                                    <bpt id="33">&lt;h2 style="color:#fff; font-weight:100; font-size:24px;"&gt;</bpt>Notifications<ept id="33">&lt;/h2&gt;</ept>
+                                <ept id="32">&lt;/td&gt;</ept><!--close subHeaderContent-->
+                                <bpt id="34">&lt;td width="33%" bgcolor="#417CD3" align="right"&gt;</bpt>
+                                    <bpt id="35">&lt;p style="color:#fff;"&gt;</bpt><ept id="35">&lt;/p&gt;</ept>
+                                <ept id="34">&lt;/td&gt;</ept>
+                            <ept id="31">&lt;/tr&gt;</ept>
+                        <ept id="30">&lt;/table&gt;</ept>
+                        <!-- // End Template Sub Header \\ -->
+                    <ept id="29">&lt;/td&gt;</ept>
+                <ept id="28">&lt;/tr&gt;</ept>
+                <bpt id="36">&lt;tr&gt;</bpt>
+                    <bpt id="37">&lt;td align="center" valign="top" bgcolor="#ffffff"&gt;</bpt>
+                        <!-- // Begin Template Body \\ -->
+                        <bpt id="38">&lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody"&gt;</bpt>
+                            <bpt id="39">&lt;tr&gt;</bpt>
+                                <bpt id="40">&lt;td valign="top" class="bodyContent"&gt;</bpt>
+                                    <!-- // Begin Module: Standard Content \\ -->
+                                    <bpt id="41">&lt;table border="0" cellpadding="30" cellspacing="0" width="100%"&gt;</bpt>
+                                        <bpt id="42">&lt;tr&gt;</bpt>
+                                            <bpt id="43">&lt;td valign="top"&gt;</bpt>
+                                                [MESSAGEBODY]
+                                            <ept id="43">&lt;/td&gt;</ept>
+                                        <ept id="42">&lt;/tr&gt;</ept>
+                                    <ept id="41">&lt;/table&gt;</ept>
+                                    <!-- // End Module: Standard Content \\ -->
+                                <ept id="40">&lt;/td&gt;</ept>
+                            <ept id="39">&lt;/tr&gt;</ept>
+                        <ept id="38">&lt;/table&gt;</ept>
+                        <!-- // End Template Body \\ -->
+                    <ept id="37">&lt;/td&gt;</ept>
+                <ept id="36">&lt;/tr&gt;</ept>
+                <bpt id="44">&lt;tr&gt;</bpt>
+                    <bpt id="45">&lt;td align="center" valign="top"&gt;</bpt>
+                        <bpt id="46">&lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateFooter"&gt;</bpt>
+                            <bpt id="47">&lt;tr&gt;</bpt>
+                                <bpt id="48">&lt;td valign="top" class="footerContent"&gt;</bpt>
+                                    <bpt id="49">&lt;table border="0" cellpadding="0" cellspacing="0" width="100%"&gt;</bpt>
+                                        <bpt id="50">&lt;tr&gt;</bpt>
+                                            <bpt id="51">&lt;td align="center"&gt;</bpt>
+                                                <bpt id="52">&lt;a href="[UNSUBSCRIBEURL]" &gt;</bpt> Manage your Subscriptions<ept id="52">&lt;/a&gt;</ept> &amp;nbsp; |  &amp;nbsp;<bpt id="53">&lt;a href="[NOTIFICATIONURL]" &gt;</bpt> View online<ept id="53">&lt;/a&gt;</ept>
+                                            <ept id="51">&lt;/td&gt;</ept>
+                                        <ept id="50">&lt;/tr&gt;</ept>
+                                    <ept id="49">&lt;/table&gt;</ept>
+                                <ept id="48">&lt;/td&gt;</ept>
+                            <ept id="47">&lt;/tr&gt;</ept>
+                        <ept id="46">&lt;/table&gt;</ept>
+                    <ept id="45">&lt;/td&gt;</ept>
+                <ept id="44">&lt;/tr&gt;</ept>
+            <ept id="19">&lt;/table&gt;</ept><!-- // End Template Body \\ -->
+            <!-- // Begin Template footer \\ -->
+            <bpt id="54">&lt;table border="0" cellpadding="0" cellspacing="0" id="bodyTemplateFooter" width="600"&gt;</bpt>
+                <bpt id="55">&lt;tr&gt;</bpt>
+                    <bpt id="56">&lt;td valign="top" class="bodyFooterContent"&gt;</bpt>
+
+                        <!-- // Begin Module: Standard Preheader \ -->
+                        <bpt id="57">&lt;table border="0" cellpadding="0" cellspacing="0" align="center" &gt;</bpt>
+
+                            <bpt id="58">&lt;tr&gt;</bpt>
+                                <bpt id="59">&lt;td align="center"&gt;</bpt>
+                                    <bpt id="60">&lt;p&gt;</bpt>Copyright 2013 <bpt id="61">&lt;a href="[SITEURL]"&gt;</bpt>[PORTALNAME]<ept id="61">&lt;/a&gt;</ept> All rights reserved.<ept id="60">&lt;/p&gt;</ept>
+                                    <bpt id="62">&lt;p&gt;</bpt>If you wish to no longer receive emails in the future, please <bpt id="63">&lt;a href="[UNSUBSCRIBEURL]"&gt;</bpt>unsubscribe<ept id="63">&lt;/a&gt;</ept> here.<ept id="62">&lt;/p&gt;</ept>
+                                <ept id="59">&lt;/td&gt;</ept>
+                            <ept id="58">&lt;/tr&gt;</ept>
+                        <ept id="57">&lt;/table&gt;</ept>
+                        <!-- // End Module: Standard Preheader \ -->
+                    <ept id="56">&lt;/td&gt;</ept>
+                <ept id="55">&lt;/tr&gt;</ept>
+            <ept id="54">&lt;/table&gt;</ept>
+            <!-- // End Template footer \\ -->
+        <ept id="9">&lt;/td&gt;</ept>
+    <ept id="8">&lt;/tr&gt;</ept>
+<ept id="7">&lt;/table&gt;</ept><!-- wrapper table -->
+<ept id="6">&lt;/body&gt;</ept>
+<ept id="2">&lt;/html&gt;</ept></source>
+          <target state="new"><it id="1" pos="open">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;</it>
+<bpt id="2">&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;</bpt>
+<bpt id="3">&lt;head&gt;</bpt>
+    <bpt id="4">&lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;</bpt><ept id="4">&lt;/meta&gt;</ept>
+    <bpt id="5">&lt;style type="text/css"&gt;</bpt>
+            /* Reset Styles */
+        html, body{height:100%;width:100%;}
+        body{
+            margin:0; padding:0;
+            font-family:sans-serif;
+            font-size:0.83em;
+            color:#333;
+        }
+        img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+        table td{border-collapse:collapse;}
+        p{margin: 0 0 1.6em 0;}
+        a{color:#417CD3;}
+        #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+        body{ background-color:#fafafa; }        
+
+        #templateContainer{
+            border: 1px solid #eeeeee;
+            box-shadow: 0px 0px 3px 0px #eee;
+        }
+
+            /* Pre Header Styles */
+        .preheaderContent{
+            padding:15px 0 5px 0;
+            font-size:0.9em;
+            color:#999;
+        }
+        .headerContent {background-color:#bbb;}
+        .headerContent a{display:block;}
+        .headerContent img{ margin-bottom:0;}
+
+            /* Sub Header Styles */
+        #templateSubHeader{ color:#ffffff; }
+        #templateSubHeader td{ padding:5px 20px; }
+
+            /* Template Footer Styles */
+        .footerContent table td{
+            padding-top:20px;
+            border-top:1px solid #ddd;
+            font-size:0.8em;
+        }
+
+            /* Body Template Footer Styles */
+        #bodyTemplateFooter{
+            padding:15px 0 5px 0;
+            font-size:0.9em;
+            color:#999;
+        }
+    <ept id="5">&lt;/style&gt;</ept>
+<ept id="3">&lt;/head&gt;</ept>
+
+<bpt id="6">&lt;body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"&gt;</bpt>
+<bpt id="7">&lt;table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" id="backgroundTable"&gt;</bpt>
+    <bpt id="8">&lt;tr&gt;</bpt>
+        <bpt id="9">&lt;td align="center" valign="top"&gt;</bpt>
+            <!-- // Begin Template Preheader \\ -->
+            <bpt id="10">&lt;table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" width="600"&gt;</bpt>
+                <bpt id="11">&lt;tr align="right"&gt;</bpt>
+                    <bpt id="12">&lt;td valign="top" class="preheaderContent" style="border-top:5px solid #417CD3;"&gt;</bpt>
+
+                        <!-- // Begin Module: Standard Preheader \ -->
+                        <bpt id="13">&lt;table border="0" cellpadding="0" cellspacing="0" &gt;</bpt>
+                            <bpt id="14">&lt;tr&gt;</bpt>
+                                <bpt id="15">&lt;td align="right"&gt;</bpt>
+                                    <bpt id="16">&lt;p&gt;</bpt>Problem viewing email? <bpt id="17">&lt;a href="[NOTIFICATIONURL]"&gt;</bpt><bpt id="18">&lt;span&gt;</bpt>Click here to view online.<ept id="18">&lt;/span&gt;</ept><ept id="17">&lt;/a&gt;</ept><ept id="16">&lt;/p&gt;</ept>
+                                <ept id="15">&lt;/td&gt;</ept>
+                            <ept id="14">&lt;/tr&gt;</ept>
+                        <ept id="13">&lt;/table&gt;</ept>
+                        <!-- // End Module: Standard Preheader \ -->
+                    <ept id="12">&lt;/td&gt;</ept>
+                <ept id="11">&lt;/tr&gt;</ept>
+            <ept id="10">&lt;/table&gt;</ept>
+            <!-- // End Template Preheader \\ -->
+            <!-- // Begin Template body \\ -->
+            <bpt id="19">&lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="border:1px solid #eeeeee; " &gt;</bpt>
+                <bpt id="20">&lt;tr &gt;</bpt>
+                    <bpt id="21">&lt;td align="center" valign="top"&gt;</bpt>
+                        <!-- // Begin Template Header \\ -->
+                        <bpt id="22">&lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateHeader"&gt;</bpt>
+                            <bpt id="23">&lt;tr&gt;</bpt>
+                                <bpt id="24">&lt;td class="headerContent"&gt;</bpt>
+                                    <bpt id="25">&lt;a href="[SITEURL]"&gt;</bpt>
+                                        <!--<bpt id="26">&lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon"&gt;</bpt><ept id="26">&lt;/img&gt;</ept>-->
+                                        <bpt id="27">&lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" width="200"&gt;</bpt><ept id="27">&lt;/img&gt;</ept>
+                                    <ept id="25">&lt;/a&gt;</ept>
+
+                                <ept id="24">&lt;/td&gt;</ept>
+                            <ept id="23">&lt;/tr&gt;</ept>
+                        <ept id="22">&lt;/table&gt;</ept>
+                        <!-- // End Template Header \\ -->
+                    <ept id="21">&lt;/td&gt;</ept>
+                <ept id="20">&lt;/tr&gt;</ept>
+                <bpt id="28">&lt;tr &gt;</bpt>
+                    <bpt id="29">&lt;td align="center" valign="top"&gt;</bpt>
+                        <!-- // Begin Template Sub Header \\ -->
+                        <bpt id="30">&lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateSubHeader"&gt;</bpt>
+                            <bpt id="31">&lt;tr&gt;</bpt>
+                                <bpt id="32">&lt;td class="subHeaderContent" bgcolor="#417CD3" width="66%" align="left"&gt;</bpt>
+                                    <bpt id="33">&lt;h2 style="color:#fff; font-weight:100; font-size:24px;"&gt;</bpt>Notifications<ept id="33">&lt;/h2&gt;</ept>
+                                <ept id="32">&lt;/td&gt;</ept><!--close subHeaderContent-->
+                                <bpt id="34">&lt;td width="33%" bgcolor="#417CD3" align="right"&gt;</bpt>
+                                    <bpt id="35">&lt;p style="color:#fff;"&gt;</bpt><ept id="35">&lt;/p&gt;</ept>
+                                <ept id="34">&lt;/td&gt;</ept>
+                            <ept id="31">&lt;/tr&gt;</ept>
+                        <ept id="30">&lt;/table&gt;</ept>
+                        <!-- // End Template Sub Header \\ -->
+                    <ept id="29">&lt;/td&gt;</ept>
+                <ept id="28">&lt;/tr&gt;</ept>
+                <bpt id="36">&lt;tr&gt;</bpt>
+                    <bpt id="37">&lt;td align="center" valign="top" bgcolor="#ffffff"&gt;</bpt>
+                        <!-- // Begin Template Body \\ -->
+                        <bpt id="38">&lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody"&gt;</bpt>
+                            <bpt id="39">&lt;tr&gt;</bpt>
+                                <bpt id="40">&lt;td valign="top" class="bodyContent"&gt;</bpt>
+                                    <!-- // Begin Module: Standard Content \\ -->
+                                    <bpt id="41">&lt;table border="0" cellpadding="30" cellspacing="0" width="100%"&gt;</bpt>
+                                        <bpt id="42">&lt;tr&gt;</bpt>
+                                            <bpt id="43">&lt;td valign="top"&gt;</bpt>
+                                                [MESSAGEBODY]
+                                            <ept id="43">&lt;/td&gt;</ept>
+                                        <ept id="42">&lt;/tr&gt;</ept>
+                                    <ept id="41">&lt;/table&gt;</ept>
+                                    <!-- // End Module: Standard Content \\ -->
+                                <ept id="40">&lt;/td&gt;</ept>
+                            <ept id="39">&lt;/tr&gt;</ept>
+                        <ept id="38">&lt;/table&gt;</ept>
+                        <!-- // End Template Body \\ -->
+                    <ept id="37">&lt;/td&gt;</ept>
+                <ept id="36">&lt;/tr&gt;</ept>
+                <bpt id="44">&lt;tr&gt;</bpt>
+                    <bpt id="45">&lt;td align="center" valign="top"&gt;</bpt>
+                        <bpt id="46">&lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateFooter"&gt;</bpt>
+                            <bpt id="47">&lt;tr&gt;</bpt>
+                                <bpt id="48">&lt;td valign="top" class="footerContent"&gt;</bpt>
+                                    <bpt id="49">&lt;table border="0" cellpadding="0" cellspacing="0" width="100%"&gt;</bpt>
+                                        <bpt id="50">&lt;tr&gt;</bpt>
+                                            <bpt id="51">&lt;td align="center"&gt;</bpt>
+                                                <bpt id="52">&lt;a href="[UNSUBSCRIBEURL]" &gt;</bpt> Manage your Subscriptions<ept id="52">&lt;/a&gt;</ept> &amp;nbsp; |  &amp;nbsp;<bpt id="53">&lt;a href="[NOTIFICATIONURL]" &gt;</bpt> View online<ept id="53">&lt;/a&gt;</ept>
+                                            <ept id="51">&lt;/td&gt;</ept>
+                                        <ept id="50">&lt;/tr&gt;</ept>
+                                    <ept id="49">&lt;/table&gt;</ept>
+                                <ept id="48">&lt;/td&gt;</ept>
+                            <ept id="47">&lt;/tr&gt;</ept>
+                        <ept id="46">&lt;/table&gt;</ept>
+                    <ept id="45">&lt;/td&gt;</ept>
+                <ept id="44">&lt;/tr&gt;</ept>
+            <ept id="19">&lt;/table&gt;</ept><!-- // End Template Body \\ -->
+            <!-- // Begin Template footer \\ -->
+            <bpt id="54">&lt;table border="0" cellpadding="0" cellspacing="0" id="bodyTemplateFooter" width="600"&gt;</bpt>
+                <bpt id="55">&lt;tr&gt;</bpt>
+                    <bpt id="56">&lt;td valign="top" class="bodyFooterContent"&gt;</bpt>
+
+                        <!-- // Begin Module: Standard Preheader \ -->
+                        <bpt id="57">&lt;table border="0" cellpadding="0" cellspacing="0" align="center" &gt;</bpt>
+
+                            <bpt id="58">&lt;tr&gt;</bpt>
+                                <bpt id="59">&lt;td align="center"&gt;</bpt>
+                                    <bpt id="60">&lt;p&gt;</bpt>Copyright 2013 <bpt id="61">&lt;a href="[SITEURL]"&gt;</bpt>[PORTALNAME]<ept id="61">&lt;/a&gt;</ept> All rights reserved.<ept id="60">&lt;/p&gt;</ept>
+                                    <bpt id="62">&lt;p&gt;</bpt>If you wish to no longer receive emails in the future, please <bpt id="63">&lt;a href="[UNSUBSCRIBEURL]"&gt;</bpt>unsubscribe<ept id="63">&lt;/a&gt;</ept> here.<ept id="62">&lt;/p&gt;</ept>
+                                <ept id="59">&lt;/td&gt;</ept>
+                            <ept id="58">&lt;/tr&gt;</ept>
+                        <ept id="57">&lt;/table&gt;</ept>
+                        <!-- // End Module: Standard Preheader \ -->
+                    <ept id="56">&lt;/td&gt;</ept>
+                <ept id="55">&lt;/tr&gt;</ept>
+            <ept id="54">&lt;/table&gt;</ept>
+            <!-- // End Template footer \\ -->
+        <ept id="9">&lt;/td&gt;</ept>
+    <ept id="8">&lt;/tr&gt;</ept>
+<ept id="7">&lt;/table&gt;</ept><!-- wrapper table -->
+<ept id="6">&lt;/body&gt;</ept>
+<ept id="2">&lt;/html&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="EMAIL_MESSAGING_DISPATCH_ITEM.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div style="width:100%;"&gt;</bpt><bpt id="2">&lt;h5&gt;</bpt>[TITLE]<ept id="2">&lt;/h5&gt;</ept><bpt id="3">&lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&gt;</bpt>
+    <bpt id="4">&lt;tr&gt;</bpt>
+        <bpt id="5">&lt;td&gt;</bpt>
+            <bpt id="6">&lt;table width="80" border="0" cellspacing="0" cellpadding="8" align="left"&gt;</bpt>
+                <bpt id="7">&lt;tr&gt;</bpt>
+                    <bpt id="8">&lt;td&gt;</bpt><bpt id="9">&lt;a href="PROFILEURL"&gt;</bpt><bpt id="10">&lt;img src="[PROFILEPICURL]"&gt;</bpt><ept id="10">&lt;/img&gt;</ept><ept id="9">&lt;/a&gt;</ept>&lt;br/&gt;[DISPLAYNAME]<ept id="8">&lt;/td&gt;</ept>
+                <ept id="7">&lt;/tr&gt;</ept>
+            <ept id="6">&lt;/table&gt;</ept>
+            <bpt id="11">&lt;table width="350" border="0" cellspacing="0" cellpadding="8" align="left"&gt;</bpt>
+                <bpt id="12">&lt;tr&gt;</bpt>
+                    <bpt id="13">&lt;td&gt;</bpt>[CONTENT][FRIENDREQUESTACTIONS][FOLLOWREQUESTACTIONS]<ept id="13">&lt;/td&gt;</ept>
+                <ept id="12">&lt;/tr&gt;</ept>
+            <ept id="11">&lt;/table&gt;</ept>
+        <ept id="5">&lt;/td&gt;</ept>
+    <ept id="4">&lt;/tr&gt;</ept>
+<ept id="3">&lt;/table&gt;</ept><ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div style="width:100%;"&gt;</bpt><bpt id="2">&lt;h5&gt;</bpt>[TITLE]<ept id="2">&lt;/h5&gt;</ept><bpt id="3">&lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&gt;</bpt>
+    <bpt id="4">&lt;tr&gt;</bpt>
+        <bpt id="5">&lt;td&gt;</bpt>
+            <bpt id="6">&lt;table width="80" border="0" cellspacing="0" cellpadding="8" align="left"&gt;</bpt>
+                <bpt id="7">&lt;tr&gt;</bpt>
+                    <bpt id="8">&lt;td&gt;</bpt><bpt id="9">&lt;a href="PROFILEURL"&gt;</bpt><bpt id="10">&lt;img src="[PROFILEPICURL]"&gt;</bpt><ept id="10">&lt;/img&gt;</ept><ept id="9">&lt;/a&gt;</ept>&lt;br/&gt;[DISPLAYNAME]<ept id="8">&lt;/td&gt;</ept>
+                <ept id="7">&lt;/tr&gt;</ept>
+            <ept id="6">&lt;/table&gt;</ept>
+            <bpt id="11">&lt;table width="350" border="0" cellspacing="0" cellpadding="8" align="left"&gt;</bpt>
+                <bpt id="12">&lt;tr&gt;</bpt>
+                    <bpt id="13">&lt;td&gt;</bpt>[CONTENT][FRIENDREQUESTACTIONS][FOLLOWREQUESTACTIONS]<ept id="13">&lt;/td&gt;</ept>
+                <ept id="12">&lt;/tr&gt;</ept>
+            <ept id="11">&lt;/table&gt;</ept>
+        <ept id="5">&lt;/td&gt;</ept>
+    <ept id="4">&lt;/tr&gt;</ept>
+<ept id="3">&lt;/table&gt;</ept><ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="EMAIL_PASSWORD_UPDATED_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Dear [User:DisplayName],
+
+Your Password on [Portal:PortalName] has been changed.
+
+Please contact the site administrator at the following email address - [Portal:Email]
+
+Sincerely,
+[Portal:PortalName]</source>
+          <target state="new">Dear [User:DisplayName],
+
+Your Password on [Portal:PortalName] has been changed.
+
+Please contact the site administrator at the following email address - [Portal:Email]
+
+Sincerely,
+[Portal:PortalName]</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_PASSWORD_UPDATED_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] Password Updated</source>
+          <target state="new">[Portal:PortalName] Password Updated</target>
+        </trans-unit>
+        <trans-unit id="//Admin//SearchAdmin.String" translate="yes" xml:space="preserve">
+          <source>Search Admin</source>
+          <target state="new">Search Admin</target>
+        </trans-unit>
+        <trans-unit id="//Host//FileManagement.String" translate="yes" xml:space="preserve">
+          <source>File Management</source>
+          <target state="new">File Management</target>
+        </trans-unit>
+        <trans-unit id="//Host//ProfessionalFeatures//AdvancedURLManagement.String" translate="yes" xml:space="preserve">
+          <source>Advanced URL Management</source>
+          <target state="new">Advanced URL Management</target>
+        </trans-unit>
+        <trans-unit id="//Admin//UserSwitcher.String" translate="yes" xml:space="preserve">
+          <source>User Switcher</source>
+          <target state="new">User Switcher</target>
+        </trans-unit>
+        <trans-unit id="AspNetHostingPermission.Text" translate="yes" xml:space="preserve">
+          <source>This extension requires Full Trust.</source>
+          <target state="new">This extension requires Full Trust.</target>
+        </trans-unit>
+        <trans-unit id="ReflectionPermission.Text" translate="yes" xml:space="preserve">
+          <source>This extension requries Reflection permission.</source>
+          <target state="new">This extension requries Reflection permission.</target>
+        </trans-unit>
+        <trans-unit id="WebPermission.Text" translate="yes" xml:space="preserve">
+          <source>This extension requires Web permission.</source>
+          <target state="new">This extension requires Web permission.</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_SOCIAL_FRIENDREQUESTACTIONS.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt><bpt id="2">&lt;a href="{0}"&gt;</bpt>Accept<ept id="2">&lt;/a&gt;</ept> | <bpt id="3">&lt;a href="{1}"&gt;</bpt>View Profile<ept id="3">&lt;/a&gt;</ept><ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt><bpt id="2">&lt;a href="{0}"&gt;</bpt>Accept<ept id="2">&lt;/a&gt;</ept> | <bpt id="3">&lt;a href="{1}"&gt;</bpt>View Profile<ept id="3">&lt;/a&gt;</ept><ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="EMAIL_SOCIAL_FOLLOWREQUESTACTIONS.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt><bpt id="2">&lt;a href="{0}"&gt;</bpt>Follow back<ept id="2">&lt;/a&gt;</ept> | <bpt id="3">&lt;a href="{1}"&gt;</bpt>View Profile<ept id="3">&lt;/a&gt;</ept><ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt><bpt id="2">&lt;a href="{0}"&gt;</bpt>Follow back<ept id="2">&lt;/a&gt;</ept> | <bpt id="3">&lt;a href="{1}"&gt;</bpt>View Profile<ept id="3">&lt;/a&gt;</ept><ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="MESSAGE_USERNAME_CHANGED_INSTRUCTIONS.Text" translate="yes" xml:space="preserve">
+          <source>Please verify your e-mail address change by re-entering your password.</source>
+          <target state="new">Please verify your e-mail address change by re-entering your password.</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Dear [User:DisplayName],
+
+You have requested a Password Reset Token from [Portal:PortalName], but Your account is pending approval.
+
+Password can be reset after account is approved.
+
+Sincerely,
+[Portal:PortalName]
+
+*Note: If you did not request a Password Reset Token, please disregard this Message.
+    </source>
+          <target state="new">Dear [User:DisplayName],
+
+You have requested a Password Reset Token from [Portal:PortalName], but Your account is pending approval.
+
+Password can be reset after account is approved.
+
+Sincerely,
+[Portal:PortalName]
+
+*Note: If you did not request a Password Reset Token, please disregard this Message.
+    </target>
+        </trans-unit>
+        <trans-unit id="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>[Portal:PortalName] Password Reminder</source>
+          <target state="new">[Portal:PortalName] Password Reminder</target>
+        </trans-unit>
+        <trans-unit id="503.Error" translate="yes" xml:space="preserve">
+          <source>{0} - 503 Service Unavailable</source>
+          <target state="new">{0} - 503 Service Unavailable</target>
+        </trans-unit>
+        <trans-unit id="NoSitesForThisInstallation.Error" translate="yes" xml:space="preserve">
+          <source>No sites currently exist for this installation.</source>
+          <target state="new">No sites currently exist for this installation.</target>
+        </trans-unit>
+        <trans-unit id="SiteAccessedWhileInstallationWasInProgress.Error" translate="yes" xml:space="preserve">
+          <source>The site was accessed while an installation/upgrade was in progress.</source>
+          <target state="new">The site was accessed while an installation/upgrade was in progress.</target>
+        </trans-unit>
+        <trans-unit id="ThereIsAInstallationCurrentlyInProgress.Error" translate="yes" xml:space="preserve">
+          <source>There is an installation currently in progress. Please try again later.</source>
+          <target state="new">There is an installation currently in progress. Please try again later.</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_UNAUTHORIZED_BODY.Text" translate="yes" xml:space="preserve">
+          <source>Dear [User:DisplayName],
+
+Your account for [Portal:PortalName] has been un-authorized.
+
+Website Address: [Portal:URL]
+Username: [User:UserName]
+
+If you have any questions, feel free to contact the admin at [Portal:Email]
+
+Sincerely,
+[Portal:PortalName]</source>
+          <target state="new">Dear [User:DisplayName],
+
+Your account for [Portal:PortalName] has been un-authorized.
+
+Website Address: [Portal:URL]
+Username: [User:UserName]
+
+If you have any questions, feel free to contact the admin at [Portal:Email]
+
+Sincerely,
+[Portal:PortalName]</target>
+        </trans-unit>
+        <trans-unit id="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" translate="yes" xml:space="preserve">
+          <source>Your account has been un-authorized for [Portal:URL]</source>
+          <target state="new">Your account has been un-authorized for [Portal:URL]</target>
+        </trans-unit>
+        <trans-unit id="DefaultStopwordGroup.Text" translate="yes" xml:space="preserve">
+          <source>and,are,but,for,into,not,such,that,the,their,then,there,these,they,this,was,will,with</source>
+          <target state="new">and,are,but,for,into,not,such,that,the,their,then,there,these,they,this,was,will,with</target>
+        </trans-unit>
+        <trans-unit id="DefaultSynonymGroup.Text" translate="yes" xml:space="preserve">
+          <source>dnn,dotnetnuke</source>
+          <target state="new">dnn,dotnetnuke</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

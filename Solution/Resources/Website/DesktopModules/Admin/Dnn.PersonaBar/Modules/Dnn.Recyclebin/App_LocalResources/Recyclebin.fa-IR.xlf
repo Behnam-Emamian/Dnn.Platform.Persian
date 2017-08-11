@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Recyclebin.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="nav_Recyclebin.Text" translate="yes" xml:space="preserve">
+          <source>Recycle Bin</source>
+          <target state="new">Recycle Bin</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_Actions.Text" translate="yes" xml:space="preserve">
+          <source>Actions</source>
+          <target state="new">Actions</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_CancelConfirm.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_Delete.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="new">Delete</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_DeleteConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_DeletedDate.Text" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target state="new">Date</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_EmptyRecycleBin.Text" translate="yes" xml:space="preserve">
+          <source>Empty Recycle Bin</source>
+          <target state="new">Empty Recycle Bin</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_EmptyRecycleBinConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Do you want to empty all files in the recycle bin?</source>
+          <target state="new">Do you want to empty all files in the recycle bin?</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_Modules.Text" translate="yes" xml:space="preserve">
+          <source>Modules</source>
+          <target state="new">Modules</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_Users.Text" translate="yes" xml:space="preserve">
+          <source>Users</source>
+          <target state="new">Users</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_ModuleTitle.Text" translate="yes" xml:space="preserve">
+          <source>Module Title</source>
+          <target state="new">Module Title</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_Username.Text" translate="yes" xml:space="preserve">
+          <source>Username</source>
+          <target state="new">Username</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_UserDisplayName.Text" translate="yes" xml:space="preserve">
+          <source>Display Name</source>
+          <target state="new">Display Name</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_NoConfirm.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_NoItems.Text" translate="yes" xml:space="preserve">
+          <source>The recycle bin is currently empty</source>
+          <target state="new">The recycle bin is currently empty</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_NoModules.Text" translate="yes" xml:space="preserve">
+          <source>No Modules In Recycle Bin</source>
+          <target state="new">No Modules In Recycle Bin</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_NoPages.Text" translate="yes" xml:space="preserve">
+          <source>No Pages In Recycle Bin</source>
+          <target state="new">No Pages In Recycle Bin</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_NoUsers.Text" translate="yes" xml:space="preserve">
+          <source>No Users In Recycle Bin</source>
+          <target state="new">No Users In Recycle Bin</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_Page.Text" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target state="new">Page</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_Pages.Text" translate="yes" xml:space="preserve">
+          <source>Pages</source>
+          <target state="new">Pages</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_RemoveModuleConfirm.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to delete this module.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to delete this module.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="recyclebin_RemoveModulesConfirm.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to delete selected modules.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to delete selected modules.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="recyclebin_RemovePageConfirm.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to delete this page.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to delete this page.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="recyclebin_RemovePagesConfirm.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to delete selected pages.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to delete selected pages.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="recyclebin_Restore.Text" translate="yes" xml:space="preserve">
+          <source>Restore</source>
+          <target state="new">Restore</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_RestoreModuleConfirm.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to restore this module.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to restore this module.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="recyclebin_RestoreModulesConfirm.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to restore selected modules.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to restore selected modules.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="recyclebin_RestorePageConfirm.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to restore this page.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to restore this page.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="recyclebin_RestorePageInvalid.Text" translate="yes" xml:space="preserve">
+          <source>You need restore this page's parent at first.</source>
+          <target state="new">You need restore this page's parent at first.</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_RestorePagesConfirm.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to restore selected pages.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to restore selected pages.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="recyclebin_RestorePagesInvalid.Text" translate="yes" xml:space="preserve">
+          <source>The page(s) you tried to restore should select their parent in same time.</source>
+          <target state="new">The page(s) you tried to restore should select their parent in same time.</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_RestoreUserConfirm.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to restore this user.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to restore this user.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="recyclebin_RestoreUsersConfirm.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to restore selected users.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to restore selected users.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="recyclebin_RemoveUserConfirm.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to delete this user.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to delete this user.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="recyclebin_RemoveUsersConfirm.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to delete selected users.<ept id="1">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Please confirm you wish to delete selected users.<ept id="1">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="recyclebin_Title.Text" translate="yes" xml:space="preserve">
+          <source>Recycle Bin</source>
+          <target state="new">Recycle Bin</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_UnableToSelectAllModules.Text" translate="yes" xml:space="preserve">
+          <source>Cannot permanently delete or restore a module's who's page is in the Recycle Bin.</source>
+          <target state="new">Cannot permanently delete or restore a module's who's page is in the Recycle Bin.</target>
+        </trans-unit>
+        <trans-unit id="recyclebin_YesConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="Service_RemoveTabError.Text" translate="yes" xml:space="preserve">
+          <source>Page {0} cannot be deleted until its children have been deleted first.&lt;br/&gt;</source>
+          <target state="new">Page {0} cannot be deleted until its children have been deleted first.&lt;br/&gt;</target>
+        </trans-unit>
+        <trans-unit id="Service_RemoveTabModuleError.Text" translate="yes" xml:space="preserve">
+          <source>Error removing page has occurred:&lt;br/&gt;{0}</source>
+          <target state="new">Error removing page has occurred:&lt;br/&gt;{0}</target>
+        </trans-unit>
+        <trans-unit id="Service_RemoveUserError.Text" translate="yes" xml:space="preserve">
+          <source>Error removing user has occurred:&lt;br/&gt;{0}</source>
+          <target state="new">Error removing user has occurred:&lt;br/&gt;{0}</target>
+        </trans-unit>
+        <trans-unit id="Service_RestoreModuleError.Text" translate="yes" xml:space="preserve">
+          <source>Error restoring module {0} on page {1}. Page is deleted.</source>
+          <target state="new">Error restoring module {0} on page {1}. Page is deleted.</target>
+        </trans-unit>
+        <trans-unit id="Service_RestoreTabError.Text" translate="yes" xml:space="preserve">
+          <source>Page {0} cannot be restored until its parent is restored first.&lt;br/&gt;</source>
+          <target state="new">Page {0} cannot be restored until its parent is restored first.&lt;br/&gt;</target>
+        </trans-unit>
+        <trans-unit id="Service_RestoreTabModuleError.Text" translate="yes" xml:space="preserve">
+          <source>Error restoring page has occurred:&lt;br/&gt;{0}</source>
+          <target state="new">Error restoring page has occurred:&lt;br/&gt;{0}</target>
+        </trans-unit>
+        <trans-unit id="Service_EmptyRecycleBinError.Text" translate="yes" xml:space="preserve">
+          <source>Some of the items were not deleted.</source>
+          <target state="new">Some of the items were not deleted.</target>
+        </trans-unit>
+        <trans-unit id="Service_RestoreUserError.Text" translate="yes" xml:space="preserve">
+          <source>Error restoring user.</source>
+          <target state="new">Error restoring user.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

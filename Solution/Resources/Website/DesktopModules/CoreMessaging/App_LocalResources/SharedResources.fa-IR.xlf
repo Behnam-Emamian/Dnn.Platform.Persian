@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="SharedResources.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Activity.Text" translate="yes" xml:space="preserve">
+          <source>Activity</source>
+          <target state="new">Activity</target>
+        </trans-unit>
+        <trans-unit id="Actions.Text" translate="yes" xml:space="preserve">
+          <source>Actions</source>
+          <target state="new">Actions</target>
+        </trans-unit>
+        <trans-unit id="ViewedActivites_desc.Text" translate="yes" xml:space="preserve">
+          <source>Viewed a page on the site which lists various scoring activities available on the site.</source>
+          <target state="new">Viewed a page on the site which lists various scoring activities available on the site.</target>
+        </trans-unit>
+        <trans-unit id="ViewedActivities.Text" translate="yes" xml:space="preserve">
+          <source>Viewed activities</source>
+          <target state="new">Viewed activities</target>
+        </trans-unit>
+        <trans-unit id="ViewedBadges.Text" translate="yes" xml:space="preserve">
+          <source>Viewed badges</source>
+          <target state="new">Viewed badges</target>
+        </trans-unit>
+        <trans-unit id="ViewedBadges_desc.Text" translate="yes" xml:space="preserve">
+          <source>Viewed a page on the site which lists various badges available on the site.</source>
+          <target state="new">Viewed a page on the site which lists various badges available on the site.</target>
+        </trans-unit>
+        <trans-unit id="Next.Text" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="new">Next</target>
+        </trans-unit>
+        <trans-unit id="NoResults.Text" translate="yes" xml:space="preserve">
+          <source>No results found</source>
+          <target state="new">No results found</target>
+        </trans-unit>
+        <trans-unit id="Of.Text" translate="yes" xml:space="preserve">
+          <source>of</source>
+          <target state="new">of</target>
+        </trans-unit>
+        <trans-unit id="Prev.Text" translate="yes" xml:space="preserve">
+          <source>Prev</source>
+          <target state="new">Prev</target>
+        </trans-unit>
+        <trans-unit id="Search.Text" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="Searching.Text" translate="yes" xml:space="preserve">
+          <source>Searching...</source>
+          <target state="new">Searching...</target>
+        </trans-unit>
+        <trans-unit id="Instant.Text" translate="yes" xml:space="preserve">
+          <source>Instant</source>
+          <target state="new">Instant</target>
+        </trans-unit>
+        <trans-unit id="Never.Text" translate="yes" xml:space="preserve">
+          <source>Never</source>
+          <target state="new">Never</target>
+        </trans-unit>
+        <trans-unit id="ResultCount.Text" translate="yes" xml:space="preserve">
+          <source>{0}</source>
+          <target state="new">{0}</target>
+        </trans-unit>
+        <trans-unit id="SingleResultCount.Text" translate="yes" xml:space="preserve">
+          <source>{0}</source>
+          <target state="new">{0}</target>
+        </trans-unit>
+        <trans-unit id="Items.Text" translate="yes" xml:space="preserve">
+          <source>[ITEMS] items</source>
+          <target state="new">[ITEMS] items</target>
+        </trans-unit>
+        <trans-unit id="ItemsOnPage.Text" translate="yes" xml:space="preserve">
+          <source>[ITEMS] items on [PAGES] pages</source>
+          <target state="new">[ITEMS] items on [PAGES] pages</target>
+        </trans-unit>
+        <trans-unit id="OneItem.Text" translate="yes" xml:space="preserve">
+          <source>1 item</source>
+          <target state="new">1 item</target>
+        </trans-unit>
+        <trans-unit id="No.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="UnsubscribeConfirm.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to unsubscribe?</source>
+          <target state="new">Are you sure you want to unsubscribe?</target>
+        </trans-unit>
+        <trans-unit id="UnsubscribeConfirmTitle.Text" translate="yes" xml:space="preserve">
+          <source>Unsubscribe</source>
+          <target state="new">Unsubscribe</target>
+        </trans-unit>
+        <trans-unit id="Yes.Text" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="ItemsPerPage.Text" translate="yes" xml:space="preserve">
+          <source>Items per Page:</source>
+          <target state="new">Items per Page:</target>
+        </trans-unit>
+        <trans-unit id="Save.Text" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="Daily.Text" translate="yes" xml:space="preserve">
+          <source>Daily</source>
+          <target state="new">Daily</target>
+        </trans-unit>
+        <trans-unit id="Hourly.Text" translate="yes" xml:space="preserve">
+          <source>Hourly</source>
+          <target state="new">Hourly</target>
+        </trans-unit>
+        <trans-unit id="Weekly.Text" translate="yes" xml:space="preserve">
+          <source>Weekly</source>
+          <target state="new">Weekly</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

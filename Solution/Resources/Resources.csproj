@@ -53,7 +53,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Website\Install\App_LocalResources\Locales.xml" />
+    <XliffResource Include="Website\Install\App_LocalResources\Installwizard.aspx.fa-IR.xlf" />
+    <XliffResource Include="Website\Install\App_LocalResources\UpgradeWizard.aspx.fa-IR.xlf" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\Multilingual App Toolkit\Microsoft.Multilingual.ResxResources.targets" Label="MultilingualAppToolkit" Condition="Exists('$(MSBuildExtensionsPath)\Microsoft\Multilingual App Toolkit\v$(MultilingualAppToolkitVersion)\Microsoft.Multilingual.ResxResources.targets')" />

@@ -1,0 +1,1362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Security.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="nav_Security.Text" translate="yes" xml:space="preserve">
+          <source>Security</source>
+          <target state="new">Security</target>
+        </trans-unit>
+        <trans-unit id="cmdAdd.Text" translate="yes" xml:space="preserve">
+          <source>Add New Filter</source>
+          <target state="new">Add New Filter</target>
+        </trans-unit>
+        <trans-unit id="cmdCancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel Edit</source>
+          <target state="new">Cancel Edit</target>
+        </trans-unit>
+        <trans-unit id="Delete.Text" translate="yes" xml:space="preserve">
+          <source>Delete Filter</source>
+          <target state="new">Delete Filter</target>
+        </trans-unit>
+        <trans-unit id="Edit.Text" translate="yes" xml:space="preserve">
+          <source>Edit Filter</source>
+          <target state="new">Edit Filter</target>
+        </trans-unit>
+        <trans-unit id="saveRule.Text" translate="yes" xml:space="preserve">
+          <source>Update Filter</source>
+          <target state="new">Update Filter</target>
+        </trans-unit>
+        <trans-unit id="Actions.Header" translate="yes" xml:space="preserve">
+          <source>Actions</source>
+          <target state="new">Actions</target>
+        </trans-unit>
+        <trans-unit id="IPFilter.Header" translate="yes" xml:space="preserve">
+          <source>IP Filter</source>
+          <target state="new">IP Filter</target>
+        </trans-unit>
+        <trans-unit id="AllowIP.Text" translate="yes" xml:space="preserve">
+          <source>Allow</source>
+          <target state="new">Allow</target>
+        </trans-unit>
+        <trans-unit id="DenyIP.Text" translate="yes" xml:space="preserve">
+          <source>Deny</source>
+          <target state="new">Deny</target>
+        </trans-unit>
+        <trans-unit id="CannotDelete.Text" translate="yes" xml:space="preserve">
+          <source>You cannot delete that rule, as it would cause the current IP address to be locked out.</source>
+          <target state="new">You cannot delete that rule, as it would cause the current IP address to be locked out.</target>
+        </trans-unit>
+        <trans-unit id="TabLoginSettings.Text" translate="yes" xml:space="preserve">
+          <source>Login Settings</source>
+          <target state="new">Login Settings</target>
+        </trans-unit>
+        <trans-unit id="TabMoreSecuritySettings.Text" translate="yes" xml:space="preserve">
+          <source>MORE SECURITY SETTINGS</source>
+          <target state="new">MORE SECURITY SETTINGS</target>
+        </trans-unit>
+        <trans-unit id="TabMore.Text" translate="yes" xml:space="preserve">
+          <source>More</source>
+          <target state="new">More</target>
+        </trans-unit>
+        <trans-unit id="TabSecurityBulletins.Text" translate="yes" xml:space="preserve">
+          <source>Security Bulletins</source>
+          <target state="new">Security Bulletins</target>
+        </trans-unit>
+        <trans-unit id="TabSecurityAnalyzer.Text" translate="yes" xml:space="preserve">
+          <source>Security Analyzer</source>
+          <target state="new">Security Analyzer</target>
+        </trans-unit>
+        <trans-unit id="TabSslSettings.Text" translate="yes" xml:space="preserve">
+          <source>SSL SETTINGS</source>
+          <target state="new">SSL SETTINGS</target>
+        </trans-unit>
+        <trans-unit id="TabMemberAccounts.Text" translate="yes" xml:space="preserve">
+          <source>Member Accounts</source>
+          <target state="new">Member Accounts</target>
+        </trans-unit>
+        <trans-unit id="TabBasicLoginSettings.Text" translate="yes" xml:space="preserve">
+          <source>BASIC LOGIN SETTINGS</source>
+          <target state="new">BASIC LOGIN SETTINGS</target>
+        </trans-unit>
+        <trans-unit id="TabMemberSettings.Text" translate="yes" xml:space="preserve">
+          <source>MEMBER MANAGEMENT</source>
+          <target state="new">MEMBER MANAGEMENT</target>
+        </trans-unit>
+        <trans-unit id="TabRegistrationSettings.Text" translate="yes" xml:space="preserve">
+          <source>REGISTRATION SETTINGS</source>
+          <target state="new">REGISTRATION SETTINGS</target>
+        </trans-unit>
+        <trans-unit id="TabIpFilters.Text" translate="yes" xml:space="preserve">
+          <source>LOGIN IP FILTERS</source>
+          <target state="new">LOGIN IP FILTERS</target>
+        </trans-unit>
+        <trans-unit id="DefaultAuthProvider.Text" translate="yes" xml:space="preserve">
+          <source>Default Authentication Provider</source>
+          <target state="new">Default Authentication Provider</target>
+        </trans-unit>
+        <trans-unit id="DefaultAuthProvider.Help" translate="yes" xml:space="preserve">
+          <source>You can select a default authentication provider for user login.  Only providers that support forms authentication can be selected.</source>
+          <target state="new">You can select a default authentication provider for user login.  Only providers that support forms authentication can be selected.</target>
+        </trans-unit>
+        <trans-unit id="plAdministrator.Text" translate="yes" xml:space="preserve">
+          <source>Primary Administrator</source>
+          <target state="new">Primary Administrator</target>
+        </trans-unit>
+        <trans-unit id="plAdministrator.Help" translate="yes" xml:space="preserve">
+          <source>The Primary Administrator who will receive email notification of member activities.</source>
+          <target state="new">The Primary Administrator who will receive email notification of member activities.</target>
+        </trans-unit>
+        <trans-unit id="Redirect_AfterLogin.Help" translate="yes" xml:space="preserve">
+          <source>Optional select the page that users will be redirected to upon successful login.</source>
+          <target state="new">Optional select the page that users will be redirected to upon successful login.</target>
+        </trans-unit>
+        <trans-unit id="Redirect_AfterLogin.Text" translate="yes" xml:space="preserve">
+          <source>Redirect After Login</source>
+          <target state="new">Redirect After Login</target>
+        </trans-unit>
+        <trans-unit id="Redirect_AfterLogout.Help" translate="yes" xml:space="preserve">
+          <source>Optional select the page that users will be redirected to upon logout.</source>
+          <target state="new">Optional select the page that users will be redirected to upon logout.</target>
+        </trans-unit>
+        <trans-unit id="Redirect_AfterLogout.Text" translate="yes" xml:space="preserve">
+          <source>Redirect After Logout</source>
+          <target state="new">Redirect After Logout</target>
+        </trans-unit>
+        <trans-unit id="Security_RequireValidProfileAtLogin.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to require users to update their profile prior to login if the fields required for a valid profile have been modified.</source>
+          <target state="new">Check this box to require users to update their profile prior to login if the fields required for a valid profile have been modified.</target>
+        </trans-unit>
+        <trans-unit id="Security_RequireValidProfileAtLogin.Text" translate="yes" xml:space="preserve">
+          <source>Require a valid Profile for Login</source>
+          <target state="new">Require a valid Profile for Login</target>
+        </trans-unit>
+        <trans-unit id="Security_CaptchaLogin.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to use CAPTCHA for associating logins. E.g. OpenID, LiveID, CardSpace</source>
+          <target state="new">Check this box to use CAPTCHA for associating logins. E.g. OpenID, LiveID, CardSpace</target>
+        </trans-unit>
+        <trans-unit id="Security_CaptchaLogin.Text" translate="yes" xml:space="preserve">
+          <source>Use CAPTCHA for Associating Logins</source>
+          <target state="new">Use CAPTCHA for Associating Logins</target>
+        </trans-unit>
+        <trans-unit id="Security_CaptchaRetrivePassword.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to use CAPTCHA when retrieving passwords.</source>
+          <target state="new">Check this box to use CAPTCHA when retrieving passwords.</target>
+        </trans-unit>
+        <trans-unit id="Security_CaptchaRetrivePassword.Text" translate="yes" xml:space="preserve">
+          <source>Use CAPTCHA to Retrieve Password</source>
+          <target state="new">Use CAPTCHA to Retrieve Password</target>
+        </trans-unit>
+        <trans-unit id="Security_CaptchaChangePassword.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to use CAPTCHA to change passwords.</source>
+          <target state="new">Check this box to use CAPTCHA to change passwords.</target>
+        </trans-unit>
+        <trans-unit id="Security_CaptchaChangePassword.Text" translate="yes" xml:space="preserve">
+          <source>Use CAPTCHA to Change Password</source>
+          <target state="new">Use CAPTCHA to Change Password</target>
+        </trans-unit>
+        <trans-unit id="plHideLoginControl.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to hide the login link in page.</source>
+          <target state="new">Check this box to hide the login link in page.</target>
+        </trans-unit>
+        <trans-unit id="plHideLoginControl.Text" translate="yes" xml:space="preserve">
+          <source>Hide Login Control</source>
+          <target state="new">Hide Login Control</target>
+        </trans-unit>
+        <trans-unit id="BasicLoginSettingsUpdateSuccess" translate="yes" xml:space="preserve">
+          <source>Login settings have been updated.</source>
+          <target state="new">Login settings have been updated.</target>
+        </trans-unit>
+        <trans-unit id="BasicLoginSettingsError" translate="yes" xml:space="preserve">
+          <source>Could not update login settings. Please try later.</source>
+          <target state="new">Could not update login settings. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="Save.Text" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="new">Save</target>
+        </trans-unit>
+        <trans-unit id="Cancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="FilterType.Header" translate="yes" xml:space="preserve">
+          <source>FILTER TYPE</source>
+          <target state="new">FILTER TYPE</target>
+        </trans-unit>
+        <trans-unit id="IpAddress.Header" translate="yes" xml:space="preserve">
+          <source>IP ADDRESS</source>
+          <target state="new">IP ADDRESS</target>
+        </trans-unit>
+        <trans-unit id="DeleteSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The IP filter has been deleted.</source>
+          <target state="new">The IP filter has been deleted.</target>
+        </trans-unit>
+        <trans-unit id="DeleteError.Text" translate="yes" xml:space="preserve">
+          <source>Could not delete the IP filter. Please try later.</source>
+          <target state="new">Could not delete the IP filter. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="IpFilterDeletedWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete this IP filter?</source>
+          <target state="new">Are you sure you want to delete this IP filter?</target>
+        </trans-unit>
+        <trans-unit id="Yes.Text" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="No.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="plRuleSpecifity.Help" translate="yes" xml:space="preserve">
+          <source>Determines whether the rule applies to a single IP address or a range of IP addresses.</source>
+          <target state="new">Determines whether the rule applies to a single IP address or a range of IP addresses.</target>
+        </trans-unit>
+        <trans-unit id="plRuleSpecifity.Text" translate="yes" xml:space="preserve">
+          <source>Rule Specificity</source>
+          <target state="new">Rule Specificity</target>
+        </trans-unit>
+        <trans-unit id="plRuleType.Help" translate="yes" xml:space="preserve">
+          <source>Determines whether this rule allows or denies access.</source>
+          <target state="new">Determines whether this rule allows or denies access.</target>
+        </trans-unit>
+        <trans-unit id="plRuleType.Text" translate="yes" xml:space="preserve">
+          <source>Rule Type</source>
+          <target state="new">Rule Type</target>
+        </trans-unit>
+        <trans-unit id="SingleIP.Text" translate="yes" xml:space="preserve">
+          <source>Single IP</source>
+          <target state="new">Single IP</target>
+        </trans-unit>
+        <trans-unit id="IPRange.Text" translate="yes" xml:space="preserve">
+          <source>IP Range</source>
+          <target state="new">IP Range</target>
+        </trans-unit>
+        <trans-unit id="plFirstIP.Text" translate="yes" xml:space="preserve">
+          <source>First IP</source>
+          <target state="new">First IP</target>
+        </trans-unit>
+        <trans-unit id="plFirstIP.Help" translate="yes" xml:space="preserve">
+          <source>This will either be the single IP to filter, or else will be used with the subnet mask to calculate a range of IP addresses.</source>
+          <target state="new">This will either be the single IP to filter, or else will be used with the subnet mask to calculate a range of IP addresses.</target>
+        </trans-unit>
+        <trans-unit id="plSubnet.Text" translate="yes" xml:space="preserve">
+          <source>Mask</source>
+          <target state="new">Mask</target>
+        </trans-unit>
+        <trans-unit id="plSubnet.Help" translate="yes" xml:space="preserve">
+          <source>The subnet mask will be combined with the first IP address to calculate a range of IP addresses for filtering.</source>
+          <target state="new">The subnet mask will be combined with the first IP address to calculate a range of IP addresses for filtering.</target>
+        </trans-unit>
+        <trans-unit id="IpFilterUpdateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The IP filter has been updated.</source>
+          <target state="new">The IP filter has been updated.</target>
+        </trans-unit>
+        <trans-unit id="IpFilterUpdateError.Text" translate="yes" xml:space="preserve">
+          <source>Could not update the IP filter. Please try later.</source>
+          <target state="new">Could not update the IP filter. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="IPFiltersDisabled.Text" translate="yes" xml:space="preserve">
+          <source>Login IP filtering is current disabled. Enable IP address checking under Member Accounts to activate</source>
+          <target state="new">Login IP filtering is current disabled. Enable IP address checking under Member Accounts to activate</target>
+        </trans-unit>
+        <trans-unit id="IPValidation.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Please use a valid IP address/mask.</source>
+          <target state="new">Please use a valid IP address/mask.</target>
+        </trans-unit>
+        <trans-unit id="LoginSettingsRestoreWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to cancel your changes?</source>
+          <target state="new">Are you sure you want to cancel your changes?</target>
+        </trans-unit>
+        <trans-unit id="SslSettingsRestoreWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to cancel your changes?</source>
+          <target state="new">Are you sure you want to cancel your changes?</target>
+        </trans-unit>
+        <trans-unit id="plResetLinkValidity.Text" translate="yes" xml:space="preserve">
+          <source>Reset Link Timeout (in Minutes)</source>
+          <target state="new">Reset Link Timeout (in Minutes)</target>
+        </trans-unit>
+        <trans-unit id="plResetLinkValidity.Help" translate="yes" xml:space="preserve">
+          <source>Password reset links are only valid for (in minutes).</source>
+          <target state="new">Password reset links are only valid for (in minutes).</target>
+        </trans-unit>
+        <trans-unit id="plAdminResetLinkValidity.Text" translate="yes" xml:space="preserve">
+          <source>Administrator Reset Link Timeout (in Minutes)</source>
+          <target state="new">Administrator Reset Link Timeout (in Minutes)</target>
+        </trans-unit>
+        <trans-unit id="plAdminResetLinkValidity.Help" translate="yes" xml:space="preserve">
+          <source>Time in minutes that password reset links sent by the Site Administrator will be valid for.</source>
+          <target state="new">Time in minutes that password reset links sent by the Site Administrator will be valid for.</target>
+        </trans-unit>
+        <trans-unit id="plEnablePasswordHistory.Help" translate="yes" xml:space="preserve">
+          <source>Sets whether a list of recently used passwords is maintained and checked to prevent re-use.</source>
+          <target state="new">Sets whether a list of recently used passwords is maintained and checked to prevent re-use.</target>
+        </trans-unit>
+        <trans-unit id="plEnablePasswordHistory.Text" translate="yes" xml:space="preserve">
+          <source>Enable Password History</source>
+          <target state="new">Enable Password History</target>
+        </trans-unit>
+        <trans-unit id="plNumberPasswords.Text" translate="yes" xml:space="preserve">
+          <source>Number of Passwords to Store</source>
+          <target state="new">Number of Passwords to Store</target>
+        </trans-unit>
+        <trans-unit id="plNumberPasswords.Help" translate="yes" xml:space="preserve">
+          <source>Enter the number of passwords to store for reuse check</source>
+          <target state="new">Enter the number of passwords to store for reuse check</target>
+        </trans-unit>
+        <trans-unit id="plEnableBannedList.Text" translate="yes" xml:space="preserve">
+          <source>Enable Password Banned List</source>
+          <target state="new">Enable Password Banned List</target>
+        </trans-unit>
+        <trans-unit id="plEnableBannedList.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to check passwords against a list of banned items.</source>
+          <target state="new">Check this box to check passwords against a list of banned items.</target>
+        </trans-unit>
+        <trans-unit id="plEnableStrengthMeter.Text" translate="yes" xml:space="preserve">
+          <source>Enable Password Strength Checking</source>
+          <target state="new">Enable Password Strength Checking</target>
+        </trans-unit>
+        <trans-unit id="plEnableStrengthMeter.Help" translate="yes" xml:space="preserve">
+          <source>Sets whether the password strength meter is shown on registration screen</source>
+          <target state="new">Sets whether the password strength meter is shown on registration screen</target>
+        </trans-unit>
+        <trans-unit id="plEnableIPChecking.Text" translate="yes" xml:space="preserve">
+          <source>Enable IP Address Checking</source>
+          <target state="new">Enable IP Address Checking</target>
+        </trans-unit>
+        <trans-unit id="plEnableIPChecking.Help" translate="yes" xml:space="preserve">
+          <source>Sets whether IP address is checked during login</source>
+          <target state="new">Sets whether IP address is checked during login</target>
+        </trans-unit>
+        <trans-unit id="PasswordConfig_PasswordExpiry.Help" translate="yes" xml:space="preserve">
+          <source>Enter the number of days before a user must change their password.  Enter 0 (zero) if the password should never expire.</source>
+          <target state="new">Enter the number of days before a user must change their password.  Enter 0 (zero) if the password should never expire.</target>
+        </trans-unit>
+        <trans-unit id="PasswordConfig_PasswordExpiry.Text" translate="yes" xml:space="preserve">
+          <source>Password Expiry (in Days)</source>
+          <target state="new">Password Expiry (in Days)</target>
+        </trans-unit>
+        <trans-unit id="PasswordConfig_PasswordExpiryReminder.Help" translate="yes" xml:space="preserve">
+          <source>Enter the number of days warning users will receive that their password is about to expires.</source>
+          <target state="new">Enter the number of days warning users will receive that their password is about to expires.</target>
+        </trans-unit>
+        <trans-unit id="PasswordConfig_PasswordExpiryReminder.Text" translate="yes" xml:space="preserve">
+          <source>Password Expiry Reminder (in Days)</source>
+          <target state="new">Password Expiry Reminder (in Days)</target>
+        </trans-unit>
+        <trans-unit id="MemberSettingsUpdateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The member settings has been updated.</source>
+          <target state="new">The member settings has been updated.</target>
+        </trans-unit>
+        <trans-unit id="MemberSettingsError.Text" translate="yes" xml:space="preserve">
+          <source>Could not update the member settings. Please try later.</source>
+          <target state="new">Could not update the member settings. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="SslSettingsUpdateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The SSl settings has been updated.</source>
+          <target state="new">The SSl settings has been updated.</target>
+        </trans-unit>
+        <trans-unit id="SslSettingsError.Text" translate="yes" xml:space="preserve">
+          <source>Could not update the SSL settings. Please try later.</source>
+          <target state="new">Could not update the SSL settings. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="MemberSettingsRestoreWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to cancel your changes?</source>
+          <target state="new">Are you sure you want to cancel your changes?</target>
+        </trans-unit>
+        <trans-unit id="MembershipResetLinkValidity.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Reset link timeouts must be an integer greater than 0 and less than 10000</source>
+          <target state="new">Reset link timeouts must be an integer greater than 0 and less than 10000</target>
+        </trans-unit>
+        <trans-unit id="AdminMembershipResetLinkValidity.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Administrator reset link timeouts must be an integer greater than 0 and less than 10000.</source>
+          <target state="new">Administrator reset link timeouts must be an integer greater than 0 and less than 10000.</target>
+        </trans-unit>
+        <trans-unit id="MembershipNumberPasswords.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Number of passwords to store must be an integer greater than or equal to 0 and less than 10000.</source>
+          <target state="new">Number of passwords to store must be an integer greater than or equal to 0 and less than 10000.</target>
+        </trans-unit>
+        <trans-unit id="AutoAccountUnlockDuration.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Auto account unlock duration must be an integer greater than or equal to 0 and less than 1000.</source>
+          <target state="new">Auto account unlock duration must be an integer greater than or equal to 0 and less than 1000.</target>
+        </trans-unit>
+        <trans-unit id="AsyncTimeout.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Time before timeout must be an integer greater than or equal to 90 and less than 10000.</source>
+          <target state="new">Time before timeout must be an integer greater than or equal to 90 and less than 10000.</target>
+        </trans-unit>
+        <trans-unit id="PasswordExpiry.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Password expiry must be an integer greater than or equal to 0 and less than 10000.</source>
+          <target state="new">Password expiry must be an integer greater than or equal to 0 and less than 10000.</target>
+        </trans-unit>
+        <trans-unit id="PasswordExpiryReminder.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Password expiry reminder must be an integer greater than or equal to 0 and less than 10000.</source>
+          <target state="new">Password expiry reminder must be an integer greater than or equal to 0 and less than 10000.</target>
+        </trans-unit>
+        <trans-unit id="None.Text" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <target state="new">None</target>
+        </trans-unit>
+        <trans-unit id="Private.Text" translate="yes" xml:space="preserve">
+          <source>Private</source>
+          <target state="new">Private</target>
+        </trans-unit>
+        <trans-unit id="Public.Text" translate="yes" xml:space="preserve">
+          <source>Public</source>
+          <target state="new">Public</target>
+        </trans-unit>
+        <trans-unit id="Verified.Text" translate="yes" xml:space="preserve">
+          <source>Verified</source>
+          <target state="new">Verified</target>
+        </trans-unit>
+        <trans-unit id="Standard.Text" translate="yes" xml:space="preserve">
+          <source>Standard</source>
+          <target state="new">Standard</target>
+        </trans-unit>
+        <trans-unit id="Custom.Text" translate="yes" xml:space="preserve">
+          <source>Custom</source>
+          <target state="new">Custom</target>
+        </trans-unit>
+        <trans-unit id="plUserRegistration.Text" translate="yes" xml:space="preserve">
+          <source>User Registration</source>
+          <target state="new">User Registration</target>
+        </trans-unit>
+        <trans-unit id="plUserRegistration.Help" translate="yes" xml:space="preserve">
+          <source>Select the type of user registration, if any, allowed for this site. Private registration requires users to be authorized by the Site Administrator before gaining access to the Registered Users role. Public registration provides immediate access and Verified registration requires verification of the email address provided.</source>
+          <target state="new">Select the type of user registration, if any, allowed for this site. Private registration requires users to be authorized by the Site Administrator before gaining access to the Registered Users role. Public registration provides immediate access and Verified registration requires verification of the email address provided.</target>
+        </trans-unit>
+        <trans-unit id="NoEmail.Text" translate="yes" xml:space="preserve">
+          <source>The "Email" field, at minimum, must be included.</source>
+          <target state="new">The "Email" field, at minimum, must be included.</target>
+        </trans-unit>
+        <trans-unit id="NoDisplayName.Text" translate="yes" xml:space="preserve">
+          <source>You have selected the Require Unique Display Name option but you have not included the Display Name in the list of fields.</source>
+          <target state="new">You have selected the Require Unique Display Name option but you have not included the Display Name in the list of fields.</target>
+        </trans-unit>
+        <trans-unit id="ContainsDuplicateAddresses.Text" translate="yes" xml:space="preserve">
+          <source>The user base of this site contains duplicate email addresses. If you want to use email addresses as user names you must fix those entries first.</source>
+          <target state="new">The user base of this site contains duplicate email addresses. If you want to use email addresses as user names you must fix those entries first.</target>
+        </trans-unit>
+        <trans-unit id="registrationFormTypeLabel.Help" translate="yes" xml:space="preserve">
+          <source>Select the type of Registration Form that you want to use.</source>
+          <target state="new">Select the type of Registration Form that you want to use.</target>
+        </trans-unit>
+        <trans-unit id="registrationFormTypeLabel.Text" translate="yes" xml:space="preserve">
+          <source>Registration Form Type</source>
+          <target state="new">Registration Form Type</target>
+        </trans-unit>
+        <trans-unit id="Security_DisplayNameFormat.Help" translate="yes" xml:space="preserve">
+          <source>Optionally specify a format for display names.  The format can include tokens for dynamic substitution such as [FIRSTNAME] [LASTNAME].  If a display name format is specified, the display name will no longer be editable through the user interface.</source>
+          <target state="new">Optionally specify a format for display names.  The format can include tokens for dynamic substitution such as [FIRSTNAME] [LASTNAME].  If a display name format is specified, the display name will no longer be editable through the user interface.</target>
+        </trans-unit>
+        <trans-unit id="Security_DisplayNameFormat.Text" translate="yes" xml:space="preserve">
+          <source>Display Name Format</source>
+          <target state="new">Display Name Format</target>
+        </trans-unit>
+        <trans-unit id="Security_UserNameValidation.Help" translate="yes" xml:space="preserve">
+          <source>Add your own Validation Expression, which is used to check the validity of the user name provided.  If you change this from the default you should update the message that a user would see when they enter an invalid user name using the localization editor. (SharedResources.resx - Username.RegExError)</source>
+          <target state="new">Add your own Validation Expression, which is used to check the validity of the user name provided.  If you change this from the default you should update the message that a user would see when they enter an invalid user name using the localization editor. (SharedResources.resx - Username.RegExError)</target>
+        </trans-unit>
+        <trans-unit id="Security_UserNameValidation.Text" translate="yes" xml:space="preserve">
+          <source>User Name Validation</source>
+          <target state="new">User Name Validation</target>
+        </trans-unit>
+        <trans-unit id="Security_EmailValidation.Help" translate="yes" xml:space="preserve">
+          <source>Optionally modify the Email Validation Expression which is used to check the validity of the email address provided.</source>
+          <target state="new">Optionally modify the Email Validation Expression which is used to check the validity of the email address provided.</target>
+        </trans-unit>
+        <trans-unit id="Security_EmailValidation.Text" translate="yes" xml:space="preserve">
+          <source>Email Address Validation</source>
+          <target state="new">Email Address Validation</target>
+        </trans-unit>
+        <trans-unit id="Registration_ExcludeTerms.Help" translate="yes" xml:space="preserve">
+          <source>You can define a comma-delimited list of terms that a user cannot use in their user name or display name.</source>
+          <target state="new">You can define a comma-delimited list of terms that a user cannot use in their user name or display name.</target>
+        </trans-unit>
+        <trans-unit id="Registration_ExcludeTerms.Text" translate="yes" xml:space="preserve">
+          <source>Excluded Terms</source>
+          <target state="new">Excluded Terms</target>
+        </trans-unit>
+        <trans-unit id="Redirect_AfterRegistration.Help" translate="yes" xml:space="preserve">
+          <source>Optional select the page that users will be redirected to upon successful registration.</source>
+          <target state="new">Optional select the page that users will be redirected to upon successful registration.</target>
+        </trans-unit>
+        <trans-unit id="Redirect_AfterRegistration.Text" translate="yes" xml:space="preserve">
+          <source>Redirect After Registration</source>
+          <target state="new">Redirect After Registration</target>
+        </trans-unit>
+        <trans-unit id="plEnableRegisterNotification.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to send email notification of new user registrations to the Primary Administrator.</source>
+          <target state="new">Check this box to send email notification of new user registrations to the Primary Administrator.</target>
+        </trans-unit>
+        <trans-unit id="plEnableRegisterNotification.Text" translate="yes" xml:space="preserve">
+          <source>Receive User Registration Notification</source>
+          <target state="new">Receive User Registration Notification</target>
+        </trans-unit>
+        <trans-unit id="Registration_UseAuthProviders.Help" translate="yes" xml:space="preserve">
+          <source>Select this option to use authentication providers during registration.  Note that not all providers support this option.</source>
+          <target state="new">Select this option to use authentication providers during registration.  Note that not all providers support this option.</target>
+        </trans-unit>
+        <trans-unit id="Registration_UseAuthProviders.Text" translate="yes" xml:space="preserve">
+          <source>Use Authentication Providers</source>
+          <target state="new">Use Authentication Providers</target>
+        </trans-unit>
+        <trans-unit id="Registration_UseProfanityFilter.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to enforce the profanity filter for the user name and display name fields during registration.</source>
+          <target state="new">Check this box to enforce the profanity filter for the user name and display name fields during registration.</target>
+        </trans-unit>
+        <trans-unit id="Registration_UseProfanityFilter.Text" translate="yes" xml:space="preserve">
+          <source>Use Profanity Filter</source>
+          <target state="new">Use Profanity Filter</target>
+        </trans-unit>
+        <trans-unit id="Registration_UseEmailAsUserName.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to use the email address as the user name.  If this option is enabled then the user name entry field will not be shown in the registration form.</source>
+          <target state="new">Check this box to use the email address as the user name.  If this option is enabled then the user name entry field will not be shown in the registration form.</target>
+        </trans-unit>
+        <trans-unit id="Registration_UseEmailAsUserName.Text" translate="yes" xml:space="preserve">
+          <source>Use Email Address as Username</source>
+          <target state="new">Use Email Address as Username</target>
+        </trans-unit>
+        <trans-unit id="Registration_RequireUniqueDisplayName.Help" translate="yes" xml:space="preserve">
+          <source>Optionally require users to use a unique display name.  If a user chooses a name that already exists then a modified name will be suggested.</source>
+          <target state="new">Optionally require users to use a unique display name.  If a user chooses a name that already exists then a modified name will be suggested.</target>
+        </trans-unit>
+        <trans-unit id="Registration_RequireUniqueDisplayName.Text" translate="yes" xml:space="preserve">
+          <source>Require Unique Display Name</source>
+          <target state="new">Require Unique Display Name</target>
+        </trans-unit>
+        <trans-unit id="Registration_RandomPassword.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to generate random passwords during registration, rather than displaying a password entry field.</source>
+          <target state="new">Check this box to generate random passwords during registration, rather than displaying a password entry field.</target>
+        </trans-unit>
+        <trans-unit id="Registration_RandomPassword.Text" translate="yes" xml:space="preserve">
+          <source>Use Random Password</source>
+          <target state="new">Use Random Password</target>
+        </trans-unit>
+        <trans-unit id="Registration_RequireConfirmPassword.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to display a password confirmation box on the registration form.</source>
+          <target state="new">Check this box to display a password confirmation box on the registration form.</target>
+        </trans-unit>
+        <trans-unit id="Registration_RequireConfirmPassword.Text" translate="yes" xml:space="preserve">
+          <source>Require Password Confirmation</source>
+          <target state="new">Require Password Confirmation</target>
+        </trans-unit>
+        <trans-unit id="Security_RequireValidProfile.Help" translate="yes" xml:space="preserve">
+          <source>Check this box if users must complete all required fields including the User Name, First Name, Last Name, Display Name, Email Address and Password fields during registration.</source>
+          <target state="new">Check this box if users must complete all required fields including the User Name, First Name, Last Name, Display Name, Email Address and Password fields during registration.</target>
+        </trans-unit>
+        <trans-unit id="Security_RequireValidProfile.Text" translate="yes" xml:space="preserve">
+          <source>Require a Valid Profile for Registration</source>
+          <target state="new">Require a Valid Profile for Registration</target>
+        </trans-unit>
+        <trans-unit id="Security_CaptchaRegister.Help" translate="yes" xml:space="preserve">
+          <source>Indicate whether this site should use CAPTCHA for registration.</source>
+          <target state="new">Indicate whether this site should use CAPTCHA for registration.</target>
+        </trans-unit>
+        <trans-unit id="Security_CaptchaRegister.Text" translate="yes" xml:space="preserve">
+          <source>Use CAPTCHA for Registration</source>
+          <target state="new">Use CAPTCHA for Registration</target>
+        </trans-unit>
+        <trans-unit id="RequiresUniqueEmail.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to require each user to provide a unique email address.  This prevents users from registering  multiple times with the same email address.</source>
+          <target state="new">Check this box to require each user to provide a unique email address.  This prevents users from registering  multiple times with the same email address.</target>
+        </trans-unit>
+        <trans-unit id="RequiresUniqueEmail.Text" translate="yes" xml:space="preserve">
+          <source>Requires Unique Email</source>
+          <target state="new">Requires Unique Email</target>
+        </trans-unit>
+        <trans-unit id="PasswordFormat.Help" translate="yes" xml:space="preserve">
+          <source>The password format.</source>
+          <target state="new">The password format.</target>
+        </trans-unit>
+        <trans-unit id="PasswordFormat.Text" translate="yes" xml:space="preserve">
+          <source>Password Format</source>
+          <target state="new">Password Format</target>
+        </trans-unit>
+        <trans-unit id="PasswordRetrievalEnabled.Help" translate="yes" xml:space="preserve">
+          <source>Indicates whether users can retrieve their password.</source>
+          <target state="new">Indicates whether users can retrieve their password.</target>
+        </trans-unit>
+        <trans-unit id="PasswordRetrievalEnabled.Text" translate="yes" xml:space="preserve">
+          <source>Password Retrieval Enabled</source>
+          <target state="new">Password Retrieval Enabled</target>
+        </trans-unit>
+        <trans-unit id="PasswordResetEnabledTitle.Help" translate="yes" xml:space="preserve">
+          <source>Specifies whether or not a user can request their password to be reset.  This can only be changed in web.config file.</source>
+          <target state="new">Specifies whether or not a user can request their password to be reset.  This can only be changed in web.config file.</target>
+        </trans-unit>
+        <trans-unit id="PasswordResetEnabledTitle.Text" translate="yes" xml:space="preserve">
+          <source>Password Reset Enabled</source>
+          <target state="new">Password Reset Enabled</target>
+        </trans-unit>
+        <trans-unit id="MinNonAlphanumericCharactersTitle.Help" translate="yes" xml:space="preserve">
+          <source>Specifies the minimum number of special characters in the password.  This can only be changed in web.config file.</source>
+          <target state="new">Specifies the minimum number of special characters in the password.  This can only be changed in web.config file.</target>
+        </trans-unit>
+        <trans-unit id="MinNonAlphanumericCharactersTitle.Text" translate="yes" xml:space="preserve">
+          <source>Min Non Alphanumeric Characters</source>
+          <target state="new">Min Non Alphanumeric Characters</target>
+        </trans-unit>
+        <trans-unit id="RequiresQuestionAndAnswerTitle.Help" translate="yes" xml:space="preserve">
+          <source>Indicates whether a question and answer system is used as part of the registration process.  Can only be changed in web.config file.</source>
+          <target state="new">Indicates whether a question and answer system is used as part of the registration process.  Can only be changed in web.config file.</target>
+        </trans-unit>
+        <trans-unit id="RequiresQuestionAndAnswerTitle.Text" translate="yes" xml:space="preserve">
+          <source>Requires Question and Answer</source>
+          <target state="new">Requires Question and Answer</target>
+        </trans-unit>
+        <trans-unit id="PasswordStrengthRegularExpressionTitle.Help" translate="yes" xml:space="preserve">
+          <source>The regular expression used to evaluate password complexity from the provider specified in the Provider property. This can only be changed in web.config file by adding/altering the passwordStrengthRegularExpression node of AspNetSqlMembershipProvider. Note: this server validation is different from the password strength meter introduced in 7.1.0 which only advises on password strength, whereas this expression is a requirement for new passwords (if it is defined).</source>
+          <target state="new">The regular expression used to evaluate password complexity from the provider specified in the Provider property. This can only be changed in web.config file by adding/altering the passwordStrengthRegularExpression node of AspNetSqlMembershipProvider. Note: this server validation is different from the password strength meter introduced in 7.1.0 which only advises on password strength, whereas this expression is a requirement for new passwords (if it is defined).</target>
+        </trans-unit>
+        <trans-unit id="PasswordStrengthRegularExpressionTitle.Text" translate="yes" xml:space="preserve">
+          <source>Password Strength Regular Expression</source>
+          <target state="new">Password Strength Regular Expression</target>
+        </trans-unit>
+        <trans-unit id="MaxInvalidPasswordAttemptsTitle.Help" translate="yes" xml:space="preserve">
+          <source>Specifies the number of times the wrong password can be entered before account is locked.  This can only be changed in web.config file.</source>
+          <target state="new">Specifies the number of times the wrong password can be entered before account is locked.  This can only be changed in web.config file.</target>
+        </trans-unit>
+        <trans-unit id="MaxInvalidPasswordAttemptsTitle.Text" translate="yes" xml:space="preserve">
+          <source>Max Invalid Password Attempts</source>
+          <target state="new">Max Invalid Password Attempts</target>
+        </trans-unit>
+        <trans-unit id="PasswordAttemptWindowTitle.Help" translate="yes" xml:space="preserve">
+          <source>Specifies the length of time an account is locked after failed login attempts.  Can only be changed in web.config file.</source>
+          <target state="new">Specifies the length of time an account is locked after failed login attempts.  Can only be changed in web.config file.</target>
+        </trans-unit>
+        <trans-unit id="PasswordAttemptWindowTitle.Text" translate="yes" xml:space="preserve">
+          <source>Password Attempt Window</source>
+          <target state="new">Password Attempt Window</target>
+        </trans-unit>
+        <trans-unit id="RegistrationSettingsUpdateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The registration settings has been updated.</source>
+          <target state="new">The registration settings has been updated.</target>
+        </trans-unit>
+        <trans-unit id="RegistrationSettingsError.Text" translate="yes" xml:space="preserve">
+          <source>Could not update the registration settings. Please try later.</source>
+          <target state="new">Could not update the registration settings. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="RegistrationSettingsRestoreWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to cancel your changes?</source>
+          <target state="new">Are you sure you want to cancel your changes?</target>
+        </trans-unit>
+        <trans-unit id="registrationFieldsLabel.Help" translate="yes" xml:space="preserve">
+          <source>You can specify the list of fields you want to include as a comma-delimited list.  If this setting is used, this will take precedence over the other settings.  The possible fields include user name, email, password, confirm password, display name and all the Profile Properties.</source>
+          <target state="new">You can specify the list of fields you want to include as a comma-delimited list.  If this setting is used, this will take precedence over the other settings.  The possible fields include user name, email, password, confirm password, display name and all the Profile Properties.</target>
+        </trans-unit>
+        <trans-unit id="registrationFieldsLabel.Text" translate="yes" xml:space="preserve">
+          <source>Registration Fields:</source>
+          <target state="new">Registration Fields:</target>
+        </trans-unit>
+        <trans-unit id="GlobalSettingsTab.Text" translate="yes" xml:space="preserve">
+          <source>This is a global settings Tab. Changes to the settings will affect all of your sites.</source>
+          <target state="new">This is a global settings Tab. Changes to the settings will affect all of your sites.</target>
+        </trans-unit>
+        <trans-unit id="GlobalSetting.Text" translate="yes" xml:space="preserve">
+          <source>This is a global setting. Changes to this setting will affect all of your sites.</source>
+          <target state="new">This is a global setting. Changes to this setting will affect all of your sites.</target>
+        </trans-unit>
+        <trans-unit id="plSSLEnabled.Text" translate="yes" xml:space="preserve">
+          <source>SSL Enabled</source>
+          <target state="new">SSL Enabled</target>
+        </trans-unit>
+        <trans-unit id="plSSLEnabled.Help" translate="yes" xml:space="preserve">
+          <source>Check the box if an SSL certificate has been installed for use on this site.</source>
+          <target state="new">Check the box if an SSL certificate has been installed for use on this site.</target>
+        </trans-unit>
+        <trans-unit id="plSSLEnforced.Text" translate="yes" xml:space="preserve">
+          <source>SSL Enforced</source>
+          <target state="new">SSL Enforced</target>
+        </trans-unit>
+        <trans-unit id="plSSLEnforced.Help" translate="yes" xml:space="preserve">
+          <source>Check the box if unsecure pages will not be accessible with SSL (HTTPS).</source>
+          <target state="new">Check the box if unsecure pages will not be accessible with SSL (HTTPS).</target>
+        </trans-unit>
+        <trans-unit id="plSSLURL.Text" translate="yes" xml:space="preserve">
+          <source>SSL URL</source>
+          <target state="new">SSL URL</target>
+        </trans-unit>
+        <trans-unit id="plSSLURL.Help" translate="yes" xml:space="preserve">
+          <source>Optionally specify a URL which will be used for secure connections for this site. This is only necessary if you do not have an SSL Certificate installed for your standard site URL. An example would be a shared hosting account where the host provides you with a Shared SSL URL.</source>
+          <target state="new">Optionally specify a URL which will be used for secure connections for this site. This is only necessary if you do not have an SSL Certificate installed for your standard site URL. An example would be a shared hosting account where the host provides you with a Shared SSL URL.</target>
+        </trans-unit>
+        <trans-unit id="plSTDURL.Text" translate="yes" xml:space="preserve">
+          <source>Standard URL</source>
+          <target state="new">Standard URL</target>
+        </trans-unit>
+        <trans-unit id="plSTDURL.Help" translate="yes" xml:space="preserve">
+          <source>If an SSL URL is specified above, then specify the Standard URL for unsecure connections.</source>
+          <target state="new">If an SSL URL is specified above, then specify the Standard URL for unsecure connections.</target>
+        </trans-unit>
+        <trans-unit id="plShowCriticalErrors.Help" translate="yes" xml:space="preserve">
+          <source>This setting determines if error messages sent via the error querystring parameter should be shown inline in the page.</source>
+          <target state="new">This setting determines if error messages sent via the error querystring parameter should be shown inline in the page.</target>
+        </trans-unit>
+        <trans-unit id="plShowCriticalErrors.Text" translate="yes" xml:space="preserve">
+          <source>Show Critical Errors on Screen</source>
+          <target state="new">Show Critical Errors on Screen</target>
+        </trans-unit>
+        <trans-unit id="plDebugMode.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to run the installation in "debug mode". This causes various parts of the application to write more verbose error logs etc. Note: This may lead to performance degradation.</source>
+          <target state="new">Check this box to run the installation in "debug mode". This causes various parts of the application to write more verbose error logs etc. Note: This may lead to performance degradation.</target>
+        </trans-unit>
+        <trans-unit id="plDebugMode.Text" translate="yes" xml:space="preserve">
+          <source>Debug Mode</source>
+          <target state="new">Debug Mode</target>
+        </trans-unit>
+        <trans-unit id="plRememberMe.Text" translate="yes" xml:space="preserve">
+          <source>Enable Remember Me on Login Control</source>
+          <target state="new">Enable Remember Me on Login Control</target>
+        </trans-unit>
+        <trans-unit id="plRememberMe.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to display the Remember Login check box on the login control that allows users to stay logged in for multiple visits.</source>
+          <target state="new">Check this box to display the Remember Login check box on the login control that allows users to stay logged in for multiple visits.</target>
+        </trans-unit>
+        <trans-unit id="plAutoAccountUnlock.Text" translate="yes" xml:space="preserve">
+          <source>Auto-Unlock Accounts After (Minutes)</source>
+          <target state="new">Auto-Unlock Accounts After (Minutes)</target>
+        </trans-unit>
+        <trans-unit id="plAutoAccountUnlock.Help" translate="yes" xml:space="preserve">
+          <source>After an account is locked out due to unsuccessful login attempts, it can be automatically unlocked with a successful authentication after a certain period of time has elapsed. Enter the number of minutes to wait until the account can be automatically unlocked. Enter "0" to disable the auto-unlock feature.</source>
+          <target state="new">After an account is locked out due to unsuccessful login attempts, it can be automatically unlocked with a successful authentication after a certain period of time has elapsed. Enter the number of minutes to wait until the account can be automatically unlocked. Enter "0" to disable the auto-unlock feature.</target>
+        </trans-unit>
+        <trans-unit id="plAsyncTimeout.Help" translate="yes" xml:space="preserve">
+          <source>Set a value that indicates the time, in seconds, before asynchronous postbacks time out if no response is received, the value should between 90-9999 seconds.</source>
+          <target state="new">Set a value that indicates the time, in seconds, before asynchronous postbacks time out if no response is received, the value should between 90-9999 seconds.</target>
+        </trans-unit>
+        <trans-unit id="plAsyncTimeout.Text" translate="yes" xml:space="preserve">
+          <source>Time Before Timeout (Seconds)</source>
+          <target state="new">Time Before Timeout (Seconds)</target>
+        </trans-unit>
+        <trans-unit id="plMaxUploadSize.Help" translate="yes" xml:space="preserve">
+          <source>Maximum size of file that can be uploaded to the site.  The minimum is 12 MB.</source>
+          <target state="new">Maximum size of file that can be uploaded to the site.  The minimum is 12 MB.</target>
+        </trans-unit>
+        <trans-unit id="plMaxUploadSize.Text" translate="yes" xml:space="preserve">
+          <source>Max Upload Size (MB)</source>
+          <target state="new">Max Upload Size (MB)</target>
+        </trans-unit>
+        <trans-unit id="maxUploadSize.Error" translate="yes" xml:space="preserve">
+          <source>Maximum upload size must be between 12 and {0}</source>
+          <target state="new">Maximum upload size must be between 12 and {0}</target>
+        </trans-unit>
+        <trans-unit id="plFileExtensions.Help" translate="yes" xml:space="preserve">
+          <source>Enter the file extensions (separated by commas) that can be uploaded to the site.</source>
+          <target state="new">Enter the file extensions (separated by commas) that can be uploaded to the site.</target>
+        </trans-unit>
+        <trans-unit id="plFileExtensions.Text" translate="yes" xml:space="preserve">
+          <source>Allowable File Extensions:</source>
+          <target state="new">Allowable File Extensions:</target>
+        </trans-unit>
+        <trans-unit id="OtherSettingsUpdateSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Settings has been updated.</source>
+          <target state="new">Settings has been updated.</target>
+        </trans-unit>
+        <trans-unit id="OtherSettingsError.Text" translate="yes" xml:space="preserve">
+          <source>Could not update settings. Please try later.</source>
+          <target state="new">Could not update settings. Please try later.</target>
+        </trans-unit>
+        <trans-unit id="OtherSettingsRestoreWarning.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to cancel your changes?</source>
+          <target state="new">Are you sure you want to cancel your changes?</target>
+        </trans-unit>
+        <trans-unit id="Bulletins.Text" translate="yes" xml:space="preserve">
+          <source>BULLETINS</source>
+          <target state="new">BULLETINS</target>
+        </trans-unit>
+        <trans-unit id="BulletinsDoNotExist.Text" translate="yes" xml:space="preserve">
+          <source>There are currently no Security Bulletins for DotNetNuke Platform version {0}.</source>
+          <target state="new">There are currently no Security Bulletins for DotNetNuke Platform version {0}.</target>
+        </trans-unit>
+        <trans-unit id="BulletinsExist.Text" translate="yes" xml:space="preserve">
+          <source>There are currently {0} Security Bulletins for DotNetNuke Platform version {1}:</source>
+          <target state="new">There are currently {0} Security Bulletins for DotNetNuke Platform version {1}:</target>
+        </trans-unit>
+        <trans-unit id="RequestFailed_Admin.Text" translate="yes" xml:space="preserve">
+          <source>Could Not Connect To {0}. You Should Verify The Source Address Is Valid And That Your Hosting Provider Has Configured Their Proxy Server Settings Correctly.</source>
+          <target state="new">Could Not Connect To {0}. You Should Verify The Source Address Is Valid And That Your Hosting Provider Has Configured Their Proxy Server Settings Correctly.</target>
+        </trans-unit>
+        <trans-unit id="RequestFailed_User.Text" translate="yes" xml:space="preserve">
+          <source>News Feed Is Not Available At This Time. Error message: </source>
+          <target state="new">News Feed Is Not Available At This Time. Error message: </target>
+        </trans-unit>
+        <trans-unit id="TabAuditChecks.Text" translate="yes" xml:space="preserve">
+          <source>AUDIT CHECKS</source>
+          <target state="new">AUDIT CHECKS</target>
+        </trans-unit>
+        <trans-unit id="TabScannerCheck.Text" translate="yes" xml:space="preserve">
+          <source>SCANNER CHECK</source>
+          <target state="new">SCANNER CHECK</target>
+        </trans-unit>
+        <trans-unit id="TabSuperuserActivity.Text" translate="yes" xml:space="preserve">
+          <source>SUPERUSER ACTIVITY</source>
+          <target state="new">SUPERUSER ACTIVITY</target>
+        </trans-unit>
+        <trans-unit id="SuperUserActivityExplaination.Text" translate="yes" xml:space="preserve">
+          <source>Below are the SuperUser activities. Look for suspicious activities here. Pay close attention to the Creation and Last Login Dates. </source>
+          <target state="new">Below are the SuperUser activities. Look for suspicious activities here. Pay close attention to the Creation and Last Login Dates. </target>
+        </trans-unit>
+        <trans-unit id="Username.Text" translate="yes" xml:space="preserve">
+          <source>USERNAME</source>
+          <target state="new">USERNAME</target>
+        </trans-unit>
+        <trans-unit id="CreatedDate.Text" translate="yes" xml:space="preserve">
+          <source>CREATED DATE</source>
+          <target state="new">CREATED DATE</target>
+        </trans-unit>
+        <trans-unit id="LastLogin.Text" translate="yes" xml:space="preserve">
+          <source>LAST LOGIN</source>
+          <target state="new">LAST LOGIN</target>
+        </trans-unit>
+        <trans-unit id="LastActivityDate.Text" translate="yes" xml:space="preserve">
+          <source>LAST ACTIVITY DATE</source>
+          <target state="new">LAST ACTIVITY DATE</target>
+        </trans-unit>
+        <trans-unit id="SecurityCheck.Text" translate="yes" xml:space="preserve">
+          <source>SECURITY CHECK</source>
+          <target state="new">SECURITY CHECK</target>
+        </trans-unit>
+        <trans-unit id="Result.Text" translate="yes" xml:space="preserve">
+          <source>RESULT</source>
+          <target state="new">RESULT</target>
+        </trans-unit>
+        <trans-unit id="Notes.Text" translate="yes" xml:space="preserve">
+          <source>NOTES</source>
+          <target state="new">NOTES</target>
+        </trans-unit>
+        <trans-unit id="AuditChecks.Text" translate="yes" xml:space="preserve">
+          <source>Audit Checks</source>
+          <target state="new">Audit Checks</target>
+        </trans-unit>
+        <trans-unit id="SuperuserActivity.Text" translate="yes" xml:space="preserve">
+          <source>Super User Activity</source>
+          <target state="new">Super User Activity</target>
+        </trans-unit>
+        <trans-unit id="CheckDebugFailure.Text" translate="yes" xml:space="preserve">
+          <source>debug is set to true - consider editing web.config and setting it to false (or use the configuration manager)</source>
+          <target state="new">debug is set to true - consider editing web.config and setting it to false (or use the configuration manager)</target>
+        </trans-unit>
+        <trans-unit id="CheckDebugReason.Text" translate="yes" xml:space="preserve">
+          <source>If the debug attribute is set to true it impacts performance and can reveal security exception details useful to hackers</source>
+          <target state="new">If the debug attribute is set to true it impacts performance and can reveal security exception details useful to hackers</target>
+        </trans-unit>
+        <trans-unit id="CheckDebugSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Not in debug mode. This setting depends on debug value in web.config file.</source>
+          <target state="new">Not in debug mode. This setting depends on debug value in web.config file.</target>
+        </trans-unit>
+        <trans-unit id="cmdCheck.Text" translate="yes" xml:space="preserve">
+          <source>Check</source>
+          <target state="new">Check</target>
+        </trans-unit>
+        <trans-unit id="cmdSearch.Text" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="plSearchTerm.Text" translate="yes" xml:space="preserve">
+          <source>Search term</source>
+          <target state="new">Search term</target>
+        </trans-unit>
+        <trans-unit id="cmdModifiedFiles.Text" translate="yes" xml:space="preserve">
+          <source>Find Recently Modified Files</source>
+          <target state="new">Find Recently Modified Files</target>
+        </trans-unit>
+        <trans-unit id="ScannerChecks.Text" translate="yes" xml:space="preserve">
+          <source>Search Filesystem and Database</source>
+          <target state="new">Search Filesystem and Database</target>
+        </trans-unit>
+        <trans-unit id="AuditExplanation.Text" translate="yes" xml:space="preserve">
+          <source>Note: the system automatically perform scans for security best practices</source>
+          <target state="new">Note: the system automatically perform scans for security best practices</target>
+        </trans-unit>
+        <trans-unit id="Authorized.Header" translate="yes" xml:space="preserve">
+          <source>Authorized</source>
+          <target state="new">Authorized</target>
+        </trans-unit>
+        <trans-unit id="CheckTracing.Text" translate="yes" xml:space="preserve">
+          <source>Tracing is set to true - consider editing web.config and setting it to false (or use the configuration manager)</source>
+          <target state="new">Tracing is set to true - consider editing web.config and setting it to false (or use the configuration manager)</target>
+        </trans-unit>
+        <trans-unit id="CheckTracingReason.Text" translate="yes" xml:space="preserve">
+          <source>If the tracing attribute is set to true it allows potential hackers to view site activity</source>
+          <target state="new">If the tracing attribute is set to true it allows potential hackers to view site activity</target>
+        </trans-unit>
+        <trans-unit id="CheckTracingSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Tracing is not enabled</source>
+          <target state="new">Tracing is not enabled</target>
+        </trans-unit>
+        <trans-unit id="CreatedDate.Header" translate="yes" xml:space="preserve">
+          <source>Created date</source>
+          <target state="new">Created date</target>
+        </trans-unit>
+        <trans-unit id="DisplayName.Header" translate="yes" xml:space="preserve">
+          <source>Display name</source>
+          <target state="new">Display name</target>
+        </trans-unit>
+        <trans-unit id="Email.Header" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <target state="new">Email</target>
+        </trans-unit>
+        <trans-unit id="FirstName.Header" translate="yes" xml:space="preserve">
+          <source>First name</source>
+          <target state="new">First name</target>
+        </trans-unit>
+        <trans-unit id="LastActivityDate.Header" translate="yes" xml:space="preserve">
+          <source>Last Activity Date</source>
+          <target state="new">Last Activity Date</target>
+        </trans-unit>
+        <trans-unit id="LastLogin.Header" translate="yes" xml:space="preserve">
+          <source>Last login</source>
+          <target state="new">Last login</target>
+        </trans-unit>
+        <trans-unit id="LastName.Header" translate="yes" xml:space="preserve">
+          <source>Last name</source>
+          <target state="new">Last name</target>
+        </trans-unit>
+        <trans-unit id="ScannerExplanation.Text" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="Username.Header" translate="yes" xml:space="preserve">
+          <source>Username</source>
+          <target state="new">Username</target>
+        </trans-unit>
+        <trans-unit id="CheckBiographyFailure.Text" translate="yes" xml:space="preserve">
+          <source>The field is richtext. Spammers may put links to their website in their biography field.</source>
+          <target state="new">The field is richtext. Spammers may put links to their website in their biography field.</target>
+        </trans-unit>
+        <trans-unit id="CheckBiographyReason.Text" translate="yes" xml:space="preserve">
+          <source>The biography field is a common target for spammers as they can add links/html to it. In DNN 7.2.0 this was changed to a multiline textbox which removes this risk.</source>
+          <target state="new">The biography field is a common target for spammers as they can add links/html to it. In DNN 7.2.0 this was changed to a multiline textbox which removes this risk.</target>
+        </trans-unit>
+        <trans-unit id="CheckBiographySuccess.Text" translate="yes" xml:space="preserve">
+          <source>The field is a multiline textbox</source>
+          <target state="new">The field is a multiline textbox</target>
+        </trans-unit>
+        <trans-unit id="CheckRarelyUsedSuperuserFailure.Text" translate="yes" xml:space="preserve">
+          <source>We have found 1 or more superuser accounts that have not been logged in or had activity in six months. Consider deleting them as a best practice</source>
+          <target state="new">We have found 1 or more superuser accounts that have not been logged in or had activity in six months. Consider deleting them as a best practice</target>
+        </trans-unit>
+        <trans-unit id="CheckRarelyUsedSuperuserReason.Text" translate="yes" xml:space="preserve">
+          <source>Superuser accounts are the most powerful DNN accounts. As a best practice these should be limited.</source>
+          <target state="new">Superuser accounts are the most powerful DNN accounts. As a best practice these should be limited.</target>
+        </trans-unit>
+        <trans-unit id="CheckRarelyUsedSuperuserSuccess.Text" translate="yes" xml:space="preserve">
+          <source>All superusers are regular users of the system.</source>
+          <target state="new">All superusers are regular users of the system.</target>
+        </trans-unit>
+        <trans-unit id="CheckSiteRegistrationFailure.Text" translate="yes" xml:space="preserve">
+          <source>One or more websites are using public registration</source>
+          <target state="new">One or more websites are using public registration</target>
+        </trans-unit>
+        <trans-unit id="CheckSiteRegistrationReason.Text" translate="yes" xml:space="preserve">
+          <source>Sites that have public registration enabled are a prime target for spammers.</source>
+          <target state="new">Sites that have public registration enabled are a prime target for spammers.</target>
+        </trans-unit>
+        <trans-unit id="CheckSiteRegistrationSuccess.Text" translate="yes" xml:space="preserve">
+          <source>All the websites are using non-public registration</source>
+          <target state="new">All the websites are using non-public registration</target>
+        </trans-unit>
+        <trans-unit id="CheckSuperuserOldPasswordFailure.Text" translate="yes" xml:space="preserve">
+          <source>At least one superuser account has a password that has not been changed in more than 6 months.</source>
+          <target state="new">At least one superuser account has a password that has not been changed in more than 6 months.</target>
+        </trans-unit>
+        <trans-unit id="CheckSuperuserOldPasswordReason.Text" translate="yes" xml:space="preserve">
+          <source>Superuser accounts are the most powerful DNN accounts. As a best practice these accounts should have their passwords changed regularly.</source>
+          <target state="new">Superuser accounts are the most powerful DNN accounts. As a best practice these accounts should have their passwords changed regularly.</target>
+        </trans-unit>
+        <trans-unit id="CheckSuperuserOldPasswordSuccess.Text" translate="yes" xml:space="preserve">
+          <source>No superuser has a password older than 6 months.</source>
+          <target state="new">No superuser has a password older than 6 months.</target>
+        </trans-unit>
+        <trans-unit id="CheckUnexpectedExtensionsFailure.Text" translate="yes" xml:space="preserve">
+          <source>An asp or php extension was found - these may be harmless, but sometimes indicate a site has been exploited and these files are tools. We recommend you evaluate these files carefully.</source>
+          <target state="new">An asp or php extension was found - these may be harmless, but sometimes indicate a site has been exploited and these files are tools. We recommend you evaluate these files carefully.</target>
+        </trans-unit>
+        <trans-unit id="CheckUnexpectedExtensionsReason.Text" translate="yes" xml:space="preserve">
+          <source>DNN is an asp.net web application. Under normal circumstances other server application extensions such as asp and php should not be in use.</source>
+          <target state="new">DNN is an asp.net web application. Under normal circumstances other server application extensions such as asp and php should not be in use.</target>
+        </trans-unit>
+        <trans-unit id="CheckUnexpectedExtensionsSuccess.Text" translate="yes" xml:space="preserve">
+          <source>No unexpected extensions found</source>
+          <target state="new">No unexpected extensions found</target>
+        </trans-unit>
+        <trans-unit id="CheckViewstatemacFailure.Text" translate="yes" xml:space="preserve">
+          <source>viewstatemac validation is not enabled</source>
+          <target state="new">viewstatemac validation is not enabled</target>
+        </trans-unit>
+        <trans-unit id="CheckViewstatemacReason.Text" translate="yes" xml:space="preserve">
+          <source>A view-state MAC is an encrypted version of the hidden variable that a page's view state is persisted to when the page is sent to the browser. When this property is set to true, the encrypted view state is checked to verify that it has not been tampered with on the client. 
+</source>
+          <target state="new">A view-state MAC is an encrypted version of the hidden variable that a page's view state is persisted to when the page is sent to the browser. When this property is set to true, the encrypted view state is checked to verify that it has not been tampered with on the client. 
+</target>
+        </trans-unit>
+        <trans-unit id="CheckViewstatemacSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The viewstate is protected via the usage of a MAC</source>
+          <target state="new">The viewstate is protected via the usage of a MAC</target>
+        </trans-unit>
+        <trans-unit id="CheckPurpose.Header" translate="yes" xml:space="preserve">
+          <source>Purpose of the check</source>
+          <target state="new">Purpose of the check</target>
+        </trans-unit>
+        <trans-unit id="Result.Header" translate="yes" xml:space="preserve">
+          <source>Result</source>
+          <target state="new">Result</target>
+        </trans-unit>
+        <trans-unit id="Severity.Header" translate="yes" xml:space="preserve">
+          <source>Severity</source>
+          <target state="new">Severity</target>
+        </trans-unit>
+        <trans-unit id="CheckBiographyName.Text" translate="yes" xml:space="preserve">
+          <source>Check if public profile fields use richtext</source>
+          <target state="new">Check if public profile fields use richtext</target>
+        </trans-unit>
+        <trans-unit id="CheckDebugName.Text" translate="yes" xml:space="preserve">
+          <source>Check Debug status</source>
+          <target state="new">Check Debug status</target>
+        </trans-unit>
+        <trans-unit id="CheckRarelyUsedSuperuserName.Text" translate="yes" xml:space="preserve">
+          <source>Check if superuser accounts are rarely active</source>
+          <target state="new">Check if superuser accounts are rarely active</target>
+        </trans-unit>
+        <trans-unit id="CheckSiteRegistrationName.Text" translate="yes" xml:space="preserve">
+          <source>Check if site(s) use public registration</source>
+          <target state="new">Check if site(s) use public registration</target>
+        </trans-unit>
+        <trans-unit id="CheckSuperuserOldPasswordName.Text" translate="yes" xml:space="preserve">
+          <source>Check if superusers are not regularly changing passwords</source>
+          <target state="new">Check if superusers are not regularly changing passwords</target>
+        </trans-unit>
+        <trans-unit id="CheckTracingName.Text" translate="yes" xml:space="preserve">
+          <source>Check if asp.net tracing is enabled</source>
+          <target state="new">Check if asp.net tracing is enabled</target>
+        </trans-unit>
+        <trans-unit id="CheckUnexpectedExtensionsName.Text" translate="yes" xml:space="preserve">
+          <source>Check if asp/php files are found</source>
+          <target state="new">Check if asp/php files are found</target>
+        </trans-unit>
+        <trans-unit id="CheckDefaultPageName.Text" translate="yes" xml:space="preserve">
+          <source>Check if default.aspx or default.aspx.cs files have been modified</source>
+          <target state="new">Check if default.aspx or default.aspx.cs files have been modified</target>
+        </trans-unit>
+        <trans-unit id="CheckDefaultPageFailure.Text" translate="yes" xml:space="preserve">
+          <source>The default page(s) have been modified. We recommend you evaluate these files carefully, they may be modified by a hacker and may contain malicious code. It is best to compare these files with that from a standard install of your product. Ensure that the DNN or Evoq version of your current site matches with the standard site prior to comparison. Either remove the malicious code or restore these files from standard installation.</source>
+          <target state="new">The default page(s) have been modified. We recommend you evaluate these files carefully, they may be modified by a hacker and may contain malicious code. It is best to compare these files with that from a standard install of your product. Ensure that the DNN or Evoq version of your current site matches with the standard site prior to comparison. Either remove the malicious code or restore these files from standard installation.</target>
+        </trans-unit>
+        <trans-unit id="CheckDefaultPageReason.Text" translate="yes" xml:space="preserve">
+          <source>DNN use default.aspx to load everything, so all requests will load this file when user browse the site, if someone modify this file, it may cause huge risk.</source>
+          <target state="new">DNN use default.aspx to load everything, so all requests will load this file when user browse the site, if someone modify this file, it may cause huge risk.</target>
+        </trans-unit>
+        <trans-unit id="CheckDefaultPageSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The default.aspx and default.aspx.cs pages haven't been modified.</source>
+          <target state="new">The default.aspx and default.aspx.cs pages haven't been modified.</target>
+        </trans-unit>
+        <trans-unit id="CheckViewstatemacName.Text" translate="yes" xml:space="preserve">
+          <source>Check if viewstate is protected</source>
+          <target state="new">Check if viewstate is protected</target>
+        </trans-unit>
+        <trans-unit id="NoDatabaseResults.Text" translate="yes" xml:space="preserve">
+          <source>Search term was not found in the database</source>
+          <target state="new">Search term was not found in the database</target>
+        </trans-unit>
+        <trans-unit id="NoFileResults.Text" translate="yes" xml:space="preserve">
+          <source>Search term was not found in any files</source>
+          <target state="new">Search term was not found in any files</target>
+        </trans-unit>
+        <trans-unit id="SearchTermRequired.Text" translate="yes" xml:space="preserve">
+          <source>Search term is required</source>
+          <target state="new">Search term is required</target>
+        </trans-unit>
+        <trans-unit id="CheckTracingFailure.Text" translate="yes" xml:space="preserve">
+          <source>Tracing is enabled - this allows potential hackers to view site activity.</source>
+          <target state="new">Tracing is enabled - this allows potential hackers to view site activity.</target>
+        </trans-unit>
+        <trans-unit id="Filename.Header" translate="yes" xml:space="preserve">
+          <source>File Name</source>
+          <target state="new">File Name</target>
+        </trans-unit>
+        <trans-unit id="LastModifiedDate.Header" translate="yes" xml:space="preserve">
+          <source>Last Modification Date</source>
+          <target state="new">Last Modification Date</target>
+        </trans-unit>
+        <trans-unit id="ModifiedFiles.Text" translate="yes" xml:space="preserve">
+          <source>Recently Modified Files</source>
+          <target state="new">Recently Modified Files</target>
+        </trans-unit>
+        <trans-unit id="CheckModuleHeaderAndFooterFailure.Text" translate="yes" xml:space="preserve">
+          <source>There are modules in your system that have header and footer settings, please review them to make sure no phishing code is present.</source>
+          <target state="new">There are modules in your system that have header and footer settings, please review them to make sure no phishing code is present.</target>
+        </trans-unit>
+        <trans-unit id="CheckModuleHeaderAndFooterName.Text" translate="yes" xml:space="preserve">
+          <source>Check Modules have Header or Footer settings</source>
+          <target state="new">Check Modules have Header or Footer settings</target>
+        </trans-unit>
+        <trans-unit id="CheckModuleHeaderAndFooterReason.Text" translate="yes" xml:space="preserve">
+          <source>Hackers may use module's header or footer settings to inject content for phishing attacks.</source>
+          <target state="new">Hackers may use module's header or footer settings to inject content for phishing attacks.</target>
+        </trans-unit>
+        <trans-unit id="CheckModuleHeaderAndFooterSuccess.Text" translate="yes" xml:space="preserve">
+          <source>No modules were found that had header or footer values configured.</source>
+          <target state="new">No modules were found that had header or footer values configured.</target>
+        </trans-unit>
+        <trans-unit id="CheckDiskAccessName.Text" translate="yes" xml:space="preserve">
+          <source>Checks extra drives/folders access permission outside the website folder</source>
+          <target state="new">Checks extra drives/folders access permission outside the website folder</target>
+        </trans-unit>
+        <trans-unit id="CheckDiskAccessFailure.Text" translate="yes" xml:space="preserve">
+          <source>Hackers could access drives/folders outside the website</source>
+          <target state="new">Hackers could access drives/folders outside the website</target>
+        </trans-unit>
+        <trans-unit id="CheckDiskAccessReason.Text" translate="yes" xml:space="preserve">
+          <source>The user which your website is running under has access to drives and folders outside the website location. A hacker could access these files and either read, write, or do both activities.</source>
+          <target state="new">The user which your website is running under has access to drives and folders outside the website location. A hacker could access these files and either read, write, or do both activities.</target>
+        </trans-unit>
+        <trans-unit id="CheckDiskAccessSuccess.Text" translate="yes" xml:space="preserve">
+          <source>Hackers cannot access drives/folders outside the website</source>
+          <target state="new">Hackers cannot access drives/folders outside the website</target>
+        </trans-unit>
+        <trans-unit id="HostSettings.Text" translate="yes" xml:space="preserve">
+          <source>Host Settings</source>
+          <target state="new">Host Settings</target>
+        </trans-unit>
+        <trans-unit id="ModifiedSettings.Text" translate="yes" xml:space="preserve">
+          <source>Recently Modified Settings</source>
+          <target state="new">Recently Modified Settings</target>
+        </trans-unit>
+        <trans-unit id="ModuleSettings.Text" translate="yes" xml:space="preserve">
+          <source>Module Settings</source>
+          <target state="new">Module Settings</target>
+        </trans-unit>
+        <trans-unit id="PortalSettings.Text" translate="yes" xml:space="preserve">
+          <source>Portal Settings</source>
+          <target state="new">Portal Settings</target>
+        </trans-unit>
+        <trans-unit id="TabSettings.Text" translate="yes" xml:space="preserve">
+          <source>Tab Settings</source>
+          <target state="new">Tab Settings</target>
+        </trans-unit>
+        <trans-unit id="ModifiedSettingsExplaination.Text" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="ModifiedFilesExplaination.Text" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="new"></target>
+        </trans-unit>
+        <trans-unit id="ModifiedFilesLoadWarning.Text" translate="yes" xml:space="preserve">
+          <source>Tool will enumerate all files in your system to show the recently changed files. It may take a while on a site with lots of files.</source>
+          <target state="new">Tool will enumerate all files in your system to show the recently changed files. It may take a while on a site with lots of files.</target>
+        </trans-unit>
+        <trans-unit id="CheckPasswordFormatName.Text" translate="yes" xml:space="preserve">
+          <source>Check Password Format Setting</source>
+          <target state="new">Check Password Format Setting</target>
+        </trans-unit>
+        <trans-unit id="CheckPasswordFormatFailure.Text" translate="yes" xml:space="preserve">
+          <source>The setting passwordFormat is not set to Hashed in web.config - consider editing web.config and setting it to Hashed (or use the configuration manager)</source>
+          <target state="new">The setting passwordFormat is not set to Hashed in web.config - consider editing web.config and setting it to Hashed (or use the configuration manager)</target>
+        </trans-unit>
+        <trans-unit id="CheckPasswordFormatReason.Text" translate="yes" xml:space="preserve">
+          <source>If the value is Clear or Encrypters, hacker can retrieve password from user's password from database.</source>
+          <target state="new">If the value is Clear or Encrypters, hacker can retrieve password from user's password from database.</target>
+        </trans-unit>
+        <trans-unit id="CheckPasswordFormatSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The passwordFormat is set as Hashed in web.config</source>
+          <target state="new">The passwordFormat is set as Hashed in web.config</target>
+        </trans-unit>
+        <trans-unit id="CheckAllowableFileExtensionsFailure.Text" translate="yes" xml:space="preserve">
+          <source>Either aspx, asp or php files were found in allowable file extensions setting. This will allow hackers to upload code. Remove these extensions at Host &gt; Host Settings &gt; Other Settings &gt; Allowable File Extensions</source>
+          <target state="new">Either aspx, asp or php files were found in allowable file extensions setting. This will allow hackers to upload code. Remove these extensions at Host &gt; Host Settings &gt; Other Settings &gt; Allowable File Extensions</target>
+        </trans-unit>
+        <trans-unit id="CheckAllowableFileExtensionsName.Text" translate="yes" xml:space="preserve">
+          <source>Check if there are any harmful extensions allowed by the file uploader</source>
+          <target state="new">Check if there are any harmful extensions allowed by the file uploader</target>
+        </trans-unit>
+        <trans-unit id="CheckAllowableFileExtensionsReason.Text" translate="yes" xml:space="preserve">
+          <source>Either aspx, asp or php files were found in allowable file extensions setting. This will allow hackers to upload code. Remove these extensions at Host &gt; Host Settings &gt; Other Settings &gt; Allowable File Extensions</source>
+          <target state="new">Either aspx, asp or php files were found in allowable file extensions setting. This will allow hackers to upload code. Remove these extensions at Host &gt; Host Settings &gt; Other Settings &gt; Allowable File Extensions</target>
+        </trans-unit>
+        <trans-unit id="CheckAllowableFileExtensionsSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The allowable file extensions is setup correctly.</source>
+          <target state="new">The allowable file extensions is setup correctly.</target>
+        </trans-unit>
+        <trans-unit id="CheckFileExists.Error" translate="yes" xml:space="preserve">
+          <source>Current SQL Server account can execute xp_fileexist which can detect whether files exist on server.</source>
+          <target state="new">Current SQL Server account can execute xp_fileexist which can detect whether files exist on server.</target>
+        </trans-unit>
+        <trans-unit id="CheckSqlRiskFailure.Text" translate="yes" xml:space="preserve">
+          <source>The current SQL connection can execute dangerous command(s) on your SQL Server.</source>
+          <target state="new">The current SQL connection can execute dangerous command(s) on your SQL Server.</target>
+        </trans-unit>
+        <trans-unit id="CheckSqlRiskName.Text" translate="yes" xml:space="preserve">
+          <source>Check Current SQL Account Permission</source>
+          <target state="new">Check Current SQL Account Permission</target>
+        </trans-unit>
+        <trans-unit id="CheckSqlRiskReason.Text" translate="yes" xml:space="preserve">
+          <source>If the SQL Server account isn't configured properly, it may leave risk and hackers can exploit the server by running special script.</source>
+          <target state="new">If the SQL Server account isn't configured properly, it may leave risk and hackers can exploit the server by running special script.</target>
+        </trans-unit>
+        <trans-unit id="CheckSqlRiskSuccess.Text" translate="yes" xml:space="preserve">
+          <source>The SQL Server account configured correctly.</source>
+          <target state="new">The SQL Server account configured correctly.</target>
+        </trans-unit>
+        <trans-unit id="ExecuteCommand.Error" translate="yes" xml:space="preserve">
+          <source>Current SQL Server account can execute xp_cmdshell which will running command line in sql server system.</source>
+          <target state="new">Current SQL Server account can execute xp_cmdshell which will running command line in sql server system.</target>
+        </trans-unit>
+        <trans-unit id="GetFolderTree.Error" translate="yes" xml:space="preserve">
+          <source>Current SQL Server account can execute xp_dirtree which can see the server's folders structure.</source>
+          <target state="new">Current SQL Server account can execute xp_dirtree which can see the server's folders structure.</target>
+        </trans-unit>
+        <trans-unit id="RegRead.Error" translate="yes" xml:space="preserve">
+          <source>Current SQL Server account can read registry values. You need to check the permissions of xp_regread, xp_regwrite, xp_regenumkeys, xp_regenumvalues, xp_regdeletekey, xp_regdeletekey, xp_regdeletevalue, xp_instance_regread, xp_instance_regwrite, xp_instance_regenumkeys, xp_instance_regenumvalues, xp_instance_regdeletekey, xp_instance_regdeletekey, xp_instance_regdeletevalue stored procedures.</source>
+          <target state="new">Current SQL Server account can read registry values. You need to check the permissions of xp_regread, xp_regwrite, xp_regenumkeys, xp_regenumvalues, xp_regdeletekey, xp_regdeletekey, xp_regdeletevalue, xp_instance_regread, xp_instance_regwrite, xp_instance_regenumkeys, xp_instance_regenumvalues, xp_instance_regdeletekey, xp_instance_regdeletekey, xp_instance_regdeletevalue stored procedures.</target>
+        </trans-unit>
+        <trans-unit id="SysAdmin.Error" translate="yes" xml:space="preserve">
+          <source>Current SQL Server account is 'sysadmin'.</source>
+          <target state="new">Current SQL Server account is 'sysadmin'.</target>
+        </trans-unit>
+        <trans-unit id="HighRiskFiles.Text" translate="yes" xml:space="preserve">
+          <source>High Risk Files</source>
+          <target state="new">High Risk Files</target>
+        </trans-unit>
+        <trans-unit id="LowRiskFiles.Text" translate="yes" xml:space="preserve">
+          <source>Low Risk Files</source>
+          <target state="new">Low Risk Files</target>
+        </trans-unit>
+        <trans-unit id="Pass.Text" translate="yes" xml:space="preserve">
+          <source>PASS</source>
+          <target state="new">PASS</target>
+        </trans-unit>
+        <trans-unit id="Fail.Text" translate="yes" xml:space="preserve">
+          <source>FAIL</source>
+          <target state="new">FAIL</target>
+        </trans-unit>
+        <trans-unit id="Alert.Text" translate="yes" xml:space="preserve">
+          <source>ALERT</source>
+          <target state="new">ALERT</target>
+        </trans-unit>
+        <trans-unit id="FileName.Text" translate="yes" xml:space="preserve">
+          <source>FILE NAME</source>
+          <target state="new">FILE NAME</target>
+        </trans-unit>
+        <trans-unit id="LastWriteTime.Text" translate="yes" xml:space="preserve">
+          <source>LAST MODIFIED DATE</source>
+          <target state="new">LAST MODIFIED DATE</target>
+        </trans-unit>
+        <trans-unit id="PortalId.Text" translate="yes" xml:space="preserve">
+          <source>PORTAL ID</source>
+          <target state="new">PORTAL ID</target>
+        </trans-unit>
+        <trans-unit id="TabId.Text" translate="yes" xml:space="preserve">
+          <source>TAB ID</source>
+          <target state="new">TAB ID</target>
+        </trans-unit>
+        <trans-unit id="ModuleId.Text" translate="yes" xml:space="preserve">
+          <source>MODULE ID</source>
+          <target state="new">MODULE ID</target>
+        </trans-unit>
+        <trans-unit id="SettingName.Text" translate="yes" xml:space="preserve">
+          <source>SETTING NAME</source>
+          <target state="new">SETTING NAME</target>
+        </trans-unit>
+        <trans-unit id="SettingValue.Text" translate="yes" xml:space="preserve">
+          <source>SETTING VALUE</source>
+          <target state="new">SETTING VALUE</target>
+        </trans-unit>
+        <trans-unit id="UserId.Text" translate="yes" xml:space="preserve">
+          <source>USER ID</source>
+          <target state="new">USER ID</target>
+        </trans-unit>
+        <trans-unit id="SearchPlaceHolder.Text" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="SearchFileSystemResult.Text" translate="yes" xml:space="preserve">
+          <source>File System: {0} Files Found</source>
+          <target state="new">File System: {0} Files Found</target>
+        </trans-unit>
+        <trans-unit id="SearchDatabaseResult.Text" translate="yes" xml:space="preserve">
+          <source>Database: {0} Instances Found</source>
+          <target state="new">Database: {0} Instances Found</target>
+        </trans-unit>
+        <trans-unit id="DatabaseInstance.Text" translate="yes" xml:space="preserve">
+          <source>DATABASE INSTANCE</source>
+          <target state="new">DATABASE INSTANCE</target>
+        </trans-unit>
+        <trans-unit id="DatabaseValue.Text" translate="yes" xml:space="preserve">
+          <source>VALUE</source>
+          <target state="new">VALUE</target>
+        </trans-unit>
+        <trans-unit id="plSSLOffload.Text" translate="yes" xml:space="preserve">
+          <source>SSL Offload Header Value</source>
+          <target state="new">SSL Offload Header Value</target>
+        </trans-unit>
+        <trans-unit id="plSSLOffload.Help" translate="yes" xml:space="preserve">
+          <source>Set the name of the HTTP header that will be checked to see if a network balancer has used SSL Offloading</source>
+          <target state="new">Set the name of the HTTP header that will be checked to see if a network balancer has used SSL Offloading</target>
+        </trans-unit>
+        <trans-unit id="BulletinDescription.Text" translate="yes" xml:space="preserve">
+          <source>DESCRIPTION</source>
+          <target state="new">DESCRIPTION</target>
+        </trans-unit>
+        <trans-unit id="BulletinLink.Text" translate="yes" xml:space="preserve">
+          <source>LINK</source>
+          <target state="new">LINK</target>
+        </trans-unit>
+        <trans-unit id="NoneSpecified.Text" translate="yes" xml:space="preserve">
+          <source>None Specified</source>
+          <target state="new">None Specified</target>
+        </trans-unit>
+        <trans-unit id="MinPasswordLengthTitle.Help" translate="yes" xml:space="preserve">
+          <source>Specifies the minimum number of characters in the password.  This can only be changed in web.config file.</source>
+          <target state="new">Specifies the minimum number of characters in the password.  This can only be changed in web.config file.</target>
+        </trans-unit>
+        <trans-unit id="MinPasswordLengthTitle.Text" translate="yes" xml:space="preserve">
+          <source>Min Password Length</source>
+          <target state="new">Min Password Length</target>
+        </trans-unit>
+        <trans-unit id="CheckHiddenSystemFilesFailure.Text" translate="yes" xml:space="preserve">
+          <source>There are files marked as system file or hidden in the website folder.</source>
+          <target state="new">There are files marked as system file or hidden in the website folder.</target>
+        </trans-unit>
+        <trans-unit id="CheckHiddenSystemFilesName.Text" translate="yes" xml:space="preserve">
+          <source>Check Hidden Files</source>
+          <target state="new">Check Hidden Files</target>
+        </trans-unit>
+        <trans-unit id="CheckHiddenSystemFilesReason.Text" translate="yes" xml:space="preserve">
+          <source>Hackers may upload rootkits into the website, they marked them as system file or hidden in file system, then you can not see these files in file explorer.</source>
+          <target state="new">Hackers may upload rootkits into the website, they marked them as system file or hidden in file system, then you can not see these files in file explorer.</target>
+        </trans-unit>
+        <trans-unit id="CheckHiddenSystemFilesSuccess.Text" translate="yes" xml:space="preserve">
+          <source>There are no files marked as system file or hidden in the website folder.</source>
+          <target state="new">There are no files marked as system file or hidden in the website folder.</target>
+        </trans-unit>
+        <trans-unit id="plDisplayCopyright.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to add the DNN copyright credits to the page source.</source>
+          <target state="new">Check this box to add the DNN copyright credits to the page source.</target>
+        </trans-unit>
+        <trans-unit id="plDisplayCopyright.Text" translate="yes" xml:space="preserve">
+          <source>Show Copyright Credits</source>
+          <target state="new">Show Copyright Credits</target>
+        </trans-unit>
+        <trans-unit id="CheckTelerikVulnerabilityFailure.Text" translate="yes" xml:space="preserve">
+          <source>The Telerik component vulnerability has not been patched, please go to http://www.dnnsoftware.com/services/customer-support/success-network/security-fix-june-2017 for detailed information. You also can download a patch from that page or directly from http://dnn.ly/SecurityFix201701 and apply it.</source>
+          <target state="new">The Telerik component vulnerability has not been patched, please go to http://www.dnnsoftware.com/services/customer-support/success-network/security-fix-june-2017 for detailed information. You also can download a patch from that page or directly from http://dnn.ly/SecurityFix201701 and apply it.</target>
+        </trans-unit>
+        <trans-unit id="CheckTelerikVulnerabilityName.Text" translate="yes" xml:space="preserve">
+          <source>Check if Telerik component has vulnerability.</source>
+          <target state="new">Check if Telerik component has vulnerability.</target>
+        </trans-unit>
+        <trans-unit id="CheckTelerikVulnerabilityReason.Text" translate="yes" xml:space="preserve">
+          <source>Third party components referenced in core may have vulnerability in old versions and need to be patched.</source>
+          <target state="new">Third party components referenced in core may have vulnerability in old versions and need to be patched.</target>
+        </trans-unit>
+        <trans-unit id="CheckTelerikVulnerabilitySuccess.Text" translate="yes" xml:space="preserve">
+          <source>Telerik Component already patched.</source>
+          <target state="new">Telerik Component already patched.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="SearchResults.ascx.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="Advanced.Text" translate="yes" xml:space="preserve">
+          <source>Advanced</source>
+          <target state="new">Advanced</target>
+        </trans-unit>
+        <trans-unit id="Date.Text" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target state="new">Date</target>
+        </trans-unit>
+        <trans-unit id="lblAdvancedDates.Help" translate="yes" xml:space="preserve">
+          <source>Limit the search results modified within the specified time.</source>
+          <target state="new">Limit the search results modified within the specified time.</target>
+        </trans-unit>
+        <trans-unit id="lblAdvancedDates.Text" translate="yes" xml:space="preserve">
+          <source>Last Modified:</source>
+          <target state="new">Last Modified:</target>
+        </trans-unit>
+        <trans-unit id="lblAdvancedScope.Help" translate="yes" xml:space="preserve">
+          <source>Limit the search results from the specified source.</source>
+          <target state="new">Limit the search results from the specified source.</target>
+        </trans-unit>
+        <trans-unit id="lblAdvancedScope.Text" translate="yes" xml:space="preserve">
+          <source>Filter:</source>
+          <target state="new">Filter:</target>
+        </trans-unit>
+        <trans-unit id="lblAdvancedTags.Help" translate="yes" xml:space="preserve">
+          <source>Limit the search results with the specified tags.</source>
+          <target state="new">Limit the search results with the specified tags.</target>
+        </trans-unit>
+        <trans-unit id="lblAdvancedTags.Text" translate="yes" xml:space="preserve">
+          <source>Filter by Tags:</source>
+          <target state="new">Filter by Tags:</target>
+        </trans-unit>
+        <trans-unit id="NoResults.Text" translate="yes" xml:space="preserve">
+          <source>No results found.</source>
+          <target state="new">No results found.</target>
+        </trans-unit>
+        <trans-unit id="optionAll.Text" translate="yes" xml:space="preserve">
+          <source>All</source>
+          <target state="new">All</target>
+        </trans-unit>
+        <trans-unit id="optionDay.Text" translate="yes" xml:space="preserve">
+          <source>1 day</source>
+          <target state="new">1 day</target>
+        </trans-unit>
+        <trans-unit id="optionMonth.Text" translate="yes" xml:space="preserve">
+          <source>30 days</source>
+          <target state="new">30 days</target>
+        </trans-unit>
+        <trans-unit id="optionQuarter.Text" translate="yes" xml:space="preserve">
+          <source>90 days</source>
+          <target state="new">90 days</target>
+        </trans-unit>
+        <trans-unit id="optionWeek.Text" translate="yes" xml:space="preserve">
+          <source>7 days</source>
+          <target state="new">7 days</target>
+        </trans-unit>
+        <trans-unit id="optionYear.Text" translate="yes" xml:space="preserve">
+          <source>1 year</source>
+          <target state="new">1 year</target>
+        </trans-unit>
+        <trans-unit id="Relevance.Text" translate="yes" xml:space="preserve">
+          <source>Relevance</source>
+          <target state="new">Relevance</target>
+        </trans-unit>
+        <trans-unit id="ResultPerPage.Text" translate="yes" xml:space="preserve">
+          <source>Results per Page:</source>
+          <target state="new">Results per Page:</target>
+        </trans-unit>
+        <trans-unit id="Source.Text" translate="yes" xml:space="preserve">
+          <source>Source:</source>
+          <target state="new">Source:</target>
+        </trans-unit>
+        <trans-unit id="Tags.Text" translate="yes" xml:space="preserve">
+          <source>Tags:</source>
+          <target state="new">Tags:</target>
+        </trans-unit>
+        <trans-unit id="btnClear.Text" translate="yes" xml:space="preserve">
+          <source>Clear Advanced</source>
+          <target state="new">Clear Advanced</target>
+        </trans-unit>
+        <trans-unit id="btnSearch.Text" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="new">Search</target>
+        </trans-unit>
+        <trans-unit id="lblAdvancedExactSearch.Help" translate="yes" xml:space="preserve">
+          <source>Search results must be an exact match for the keywords.</source>
+          <target state="new">Search results must be an exact match for the keywords.</target>
+        </trans-unit>
+        <trans-unit id="lblAdvancedExactSearch.Text" translate="yes" xml:space="preserve">
+          <source>Exact Search:</source>
+          <target state="new">Exact Search:</target>
+        </trans-unit>
+        <trans-unit id="linkAdvancedTip.Text" translate="yes" xml:space="preserve">
+          <source>Advanced Tips</source>
+          <target state="new">Advanced Tips</target>
+        </trans-unit>
+        <trans-unit id="AdvancedSearchHint.Text" translate="yes" xml:space="preserve">
+          <source><it id="1" pos="open">&lt;table class="dnnSearchResult-hint-tbl dnnTableDisplay"&gt;</it>
+
+                
+				<it id="2" pos="open">&lt;tr&gt;</it>
+                    <it id="3" pos="open">&lt;th style="width: 150px"&gt;</it><it id="4" pos="open">&lt;span&gt;</it>Type<it id="64" pos="close">&lt;/span&gt;</it>
+                    <it id="65" pos="close">&lt;/th&gt;</it>
+                    <it id="5" pos="open">&lt;th style="width: 250px"&gt;</it><it id="6" pos="open">&lt;span&gt;</it>Example<it id="66" pos="close">&lt;/span&gt;</it>
+                    <it id="67" pos="close">&lt;/th&gt;</it>
+                    <it id="7" pos="open">&lt;th&gt;</it><it id="8" pos="open">&lt;span&gt;</it>Notes<it id="68" pos="close">&lt;/span&gt;</it>
+                    <it id="69" pos="close">&lt;/th&gt;</it>
+				<it id="70" pos="close">&lt;/tr&gt;</it>
+         
+
+                <it id="9" pos="open">&lt;tr&gt;</it>
+                    <it id="10" pos="open">&lt;td&gt;</it>Fuzzy<it id="71" pos="close">&lt;/td&gt;</it>
+                    <it id="11" pos="open">&lt;td&gt;</it>kettle<it id="12" pos="open">&lt;b&gt;</it>~<it id="72" pos="close">&lt;/b&gt;</it><it id="73" pos="close">&lt;/td&gt;</it>
+                    <it id="13" pos="open">&lt;td&gt;</it>Contain terms that are close to the word <it id="14" pos="open">&lt;i&gt;</it>kettle<it id="74" pos="close">&lt;/i&gt;</it>, such as <it id="15" pos="open">&lt;i&gt;</it>cattle<it id="75" pos="close">&lt;/i&gt;</it><it id="76" pos="close">&lt;/td&gt;</it>
+                <it id="77" pos="close">&lt;/tr&gt;</it>
+
+                <it id="16" pos="open">&lt;tr&gt;</it>
+                    <it id="17" pos="open">&lt;td&gt;</it>Wild<it id="78" pos="close">&lt;/td&gt;</it>
+                    <it id="18" pos="open">&lt;td&gt;</it>cat*<it id="79" pos="close">&lt;/td&gt;</it>
+                    <it id="19" pos="open">&lt;td&gt;</it>Contain terms that begin with <it id="20" pos="open">&lt;i&gt;</it>cat<it id="80" pos="close">&lt;/i&gt;</it>, such as <it id="21" pos="open">&lt;i&gt;</it>category<it id="81" pos="close">&lt;/i&gt;</it> and the extact term <it id="22" pos="open">&lt;i&gt;</it>cat<it id="82" pos="close">&lt;/i&gt;</it> itself<it id="83" pos="close">&lt;/td&gt;</it>
+                <it id="84" pos="close">&lt;/tr&gt;</it>
+
+                <it id="23" pos="open">&lt;tr&gt;</it>
+                    <it id="24" pos="open">&lt;td&gt;</it>Exact-Single<it id="85" pos="close">&lt;/td&gt;</it>
+                    <it id="25" pos="open">&lt;td&gt;</it>orange<it id="86" pos="close">&lt;/td&gt;</it>
+                    <it id="26" pos="open">&lt;td&gt;</it>Contain the term <it id="27" pos="open">&lt;i&gt;</it>orange<it id="87" pos="close">&lt;/i&gt;</it><it id="88" pos="close">&lt;/td&gt;</it>
+                <it id="89" pos="close">&lt;/tr&gt;</it>
+
+                <it id="28" pos="open">&lt;tr&gt;</it>
+                    <it id="29" pos="open">&lt;td&gt;</it>Exact-Phrase<it id="90" pos="close">&lt;/td&gt;</it>
+                    <it id="30" pos="open">&lt;td&gt;</it>"dnn is awesome"<it id="91" pos="close">&lt;/td&gt;</it>
+                    <it id="31" pos="open">&lt;td&gt;</it>Contain the exact phase <it id="32" pos="open">&lt;i&gt;</it>dnn is awesome<it id="92" pos="close">&lt;/i&gt;</it><it id="93" pos="close">&lt;/td&gt;</it>
+                <it id="94" pos="close">&lt;/tr&gt;</it>
+
+                <it id="33" pos="open">&lt;tr&gt;</it>
+                    <it id="34" pos="open">&lt;td&gt;</it>OR<it id="95" pos="close">&lt;/td&gt;</it>
+                    <it id="35" pos="open">&lt;td&gt;</it>orange bike<it id="96" pos="close">&lt;/td&gt;</it>
+                    <it id="36" pos="open">&lt;td&gt;</it>Contain the term <it id="37" pos="open">&lt;i&gt;</it>orange<it id="97" pos="close">&lt;/i&gt;</it> or <it id="38" pos="open">&lt;i&gt;</it>bike<it id="98" pos="close">&lt;/i&gt;</it>, or both. <it id="39" pos="open">&lt;b&gt;</it><it id="40" pos="open">&lt;i&gt;</it>OR<it id="99" pos="close">&lt;/i&gt;</it>, if used, must be in uppercase<it id="100" pos="close">&lt;/b&gt;</it><it id="101" pos="close">&lt;/td&gt;</it>
+                <it id="102" pos="close">&lt;/tr&gt;</it>
+
+                <it id="41" pos="open">&lt;tr&gt;</it>
+                    <it id="42" pos="open">&lt;td&gt;</it><it id="103" pos="close">&lt;/td&gt;</it>
+                    <it id="43" pos="open">&lt;td&gt;</it>orange <it id="44" pos="open">&lt;b&gt;</it>OR<it id="104" pos="close">&lt;/b&gt;</it> bike<it id="105" pos="close">&lt;/td&gt;</it>
+                    <it id="45" pos="open">&lt;td&gt;</it><it id="106" pos="close">&lt;/td&gt;</it>
+                <it id="107" pos="close">&lt;/tr&gt;</it>
+
+                <it id="46" pos="open">&lt;tr&gt;</it>
+                    <it id="47" pos="open">&lt;td&gt;</it>AND<it id="108" pos="close">&lt;/td&gt;</it>
+                    <it id="48" pos="open">&lt;td&gt;</it>orange <it id="49" pos="open">&lt;b&gt;</it>AND<it id="109" pos="close">&lt;/b&gt;</it> bike<it id="110" pos="close">&lt;/td&gt;</it>
+                    <it id="50" pos="open">&lt;td&gt;</it>Contain both <it id="51" pos="open">&lt;i&gt;</it>orange<it id="111" pos="close">&lt;/i&gt;</it> and <it id="52" pos="open">&lt;i&gt;</it>bike<it id="112" pos="close">&lt;/i&gt;</it>. <it id="53" pos="open">&lt;b&gt;</it><it id="54" pos="open">&lt;i&gt;</it>AND<it id="113" pos="close">&lt;/i&gt;</it> must be in uppercase<it id="114" pos="close">&lt;/b&gt;</it><it id="115" pos="close">&lt;/td&gt;</it><it id="116" pos="close">&lt;/td&gt;</it>
+                <it id="117" pos="close">&lt;/tr&gt;</it>
+
+                <it id="55" pos="open">&lt;tr&gt;</it>
+                    <it id="56" pos="open">&lt;td&gt;</it>Combo<it id="118" pos="close">&lt;/td&gt;</it>
+                    <it id="57" pos="open">&lt;td&gt;</it>(agile <it id="58" pos="open">&lt;b&gt;</it>OR<it id="119" pos="close">&lt;/b&gt;</it> extreme) <it id="59" pos="open">&lt;b&gt;</it>AND<it id="120" pos="close">&lt;/b&gt;</it> methodology<it id="121" pos="close">&lt;/td&gt;</it>
+                    <it id="60" pos="open">&lt;td&gt;</it>Contain <it id="61" pos="open">&lt;i&gt;</it>methodology<it id="122" pos="close">&lt;/i&gt;</it> and must also contain <it id="62" pos="open">&lt;i&gt;</it>agile<it id="123" pos="close">&lt;/i&gt;</it> and/or <it id="63" pos="open">&lt;i&gt;</it>extreme<it id="124" pos="close">&lt;/i&gt;</it>
+                <it id="125" pos="close">&lt;/tr&gt;</it>
+            <it id="126" pos="close">&lt;/table&gt;</it></source>
+          <target state="new"><it id="1" pos="open">&lt;table class="dnnSearchResult-hint-tbl dnnTableDisplay"&gt;</it>
+
+                
+				<it id="2" pos="open">&lt;tr&gt;</it>
+                    <it id="3" pos="open">&lt;th style="width: 150px"&gt;</it><it id="4" pos="open">&lt;span&gt;</it>Type<it id="64" pos="close">&lt;/span&gt;</it>
+                    <it id="65" pos="close">&lt;/th&gt;</it>
+                    <it id="5" pos="open">&lt;th style="width: 250px"&gt;</it><it id="6" pos="open">&lt;span&gt;</it>Example<it id="66" pos="close">&lt;/span&gt;</it>
+                    <it id="67" pos="close">&lt;/th&gt;</it>
+                    <it id="7" pos="open">&lt;th&gt;</it><it id="8" pos="open">&lt;span&gt;</it>Notes<it id="68" pos="close">&lt;/span&gt;</it>
+                    <it id="69" pos="close">&lt;/th&gt;</it>
+				<it id="70" pos="close">&lt;/tr&gt;</it>
+         
+
+                <it id="9" pos="open">&lt;tr&gt;</it>
+                    <it id="10" pos="open">&lt;td&gt;</it>Fuzzy<it id="71" pos="close">&lt;/td&gt;</it>
+                    <it id="11" pos="open">&lt;td&gt;</it>kettle<it id="12" pos="open">&lt;b&gt;</it>~<it id="72" pos="close">&lt;/b&gt;</it><it id="73" pos="close">&lt;/td&gt;</it>
+                    <it id="13" pos="open">&lt;td&gt;</it>Contain terms that are close to the word <it id="14" pos="open">&lt;i&gt;</it>kettle<it id="74" pos="close">&lt;/i&gt;</it>, such as <it id="15" pos="open">&lt;i&gt;</it>cattle<it id="75" pos="close">&lt;/i&gt;</it><it id="76" pos="close">&lt;/td&gt;</it>
+                <it id="77" pos="close">&lt;/tr&gt;</it>
+
+                <it id="16" pos="open">&lt;tr&gt;</it>
+                    <it id="17" pos="open">&lt;td&gt;</it>Wild<it id="78" pos="close">&lt;/td&gt;</it>
+                    <it id="18" pos="open">&lt;td&gt;</it>cat*<it id="79" pos="close">&lt;/td&gt;</it>
+                    <it id="19" pos="open">&lt;td&gt;</it>Contain terms that begin with <it id="20" pos="open">&lt;i&gt;</it>cat<it id="80" pos="close">&lt;/i&gt;</it>, such as <it id="21" pos="open">&lt;i&gt;</it>category<it id="81" pos="close">&lt;/i&gt;</it> and the extact term <it id="22" pos="open">&lt;i&gt;</it>cat<it id="82" pos="close">&lt;/i&gt;</it> itself<it id="83" pos="close">&lt;/td&gt;</it>
+                <it id="84" pos="close">&lt;/tr&gt;</it>
+
+                <it id="23" pos="open">&lt;tr&gt;</it>
+                    <it id="24" pos="open">&lt;td&gt;</it>Exact-Single<it id="85" pos="close">&lt;/td&gt;</it>
+                    <it id="25" pos="open">&lt;td&gt;</it>orange<it id="86" pos="close">&lt;/td&gt;</it>
+                    <it id="26" pos="open">&lt;td&gt;</it>Contain the term <it id="27" pos="open">&lt;i&gt;</it>orange<it id="87" pos="close">&lt;/i&gt;</it><it id="88" pos="close">&lt;/td&gt;</it>
+                <it id="89" pos="close">&lt;/tr&gt;</it>
+
+                <it id="28" pos="open">&lt;tr&gt;</it>
+                    <it id="29" pos="open">&lt;td&gt;</it>Exact-Phrase<it id="90" pos="close">&lt;/td&gt;</it>
+                    <it id="30" pos="open">&lt;td&gt;</it>"dnn is awesome"<it id="91" pos="close">&lt;/td&gt;</it>
+                    <it id="31" pos="open">&lt;td&gt;</it>Contain the exact phase <it id="32" pos="open">&lt;i&gt;</it>dnn is awesome<it id="92" pos="close">&lt;/i&gt;</it><it id="93" pos="close">&lt;/td&gt;</it>
+                <it id="94" pos="close">&lt;/tr&gt;</it>
+
+                <it id="33" pos="open">&lt;tr&gt;</it>
+                    <it id="34" pos="open">&lt;td&gt;</it>OR<it id="95" pos="close">&lt;/td&gt;</it>
+                    <it id="35" pos="open">&lt;td&gt;</it>orange bike<it id="96" pos="close">&lt;/td&gt;</it>
+                    <it id="36" pos="open">&lt;td&gt;</it>Contain the term <it id="37" pos="open">&lt;i&gt;</it>orange<it id="97" pos="close">&lt;/i&gt;</it> or <it id="38" pos="open">&lt;i&gt;</it>bike<it id="98" pos="close">&lt;/i&gt;</it>, or both. <it id="39" pos="open">&lt;b&gt;</it><it id="40" pos="open">&lt;i&gt;</it>OR<it id="99" pos="close">&lt;/i&gt;</it>, if used, must be in uppercase<it id="100" pos="close">&lt;/b&gt;</it><it id="101" pos="close">&lt;/td&gt;</it>
+                <it id="102" pos="close">&lt;/tr&gt;</it>
+
+                <it id="41" pos="open">&lt;tr&gt;</it>
+                    <it id="42" pos="open">&lt;td&gt;</it><it id="103" pos="close">&lt;/td&gt;</it>
+                    <it id="43" pos="open">&lt;td&gt;</it>orange <it id="44" pos="open">&lt;b&gt;</it>OR<it id="104" pos="close">&lt;/b&gt;</it> bike<it id="105" pos="close">&lt;/td&gt;</it>
+                    <it id="45" pos="open">&lt;td&gt;</it><it id="106" pos="close">&lt;/td&gt;</it>
+                <it id="107" pos="close">&lt;/tr&gt;</it>
+
+                <it id="46" pos="open">&lt;tr&gt;</it>
+                    <it id="47" pos="open">&lt;td&gt;</it>AND<it id="108" pos="close">&lt;/td&gt;</it>
+                    <it id="48" pos="open">&lt;td&gt;</it>orange <it id="49" pos="open">&lt;b&gt;</it>AND<it id="109" pos="close">&lt;/b&gt;</it> bike<it id="110" pos="close">&lt;/td&gt;</it>
+                    <it id="50" pos="open">&lt;td&gt;</it>Contain both <it id="51" pos="open">&lt;i&gt;</it>orange<it id="111" pos="close">&lt;/i&gt;</it> and <it id="52" pos="open">&lt;i&gt;</it>bike<it id="112" pos="close">&lt;/i&gt;</it>. <it id="53" pos="open">&lt;b&gt;</it><it id="54" pos="open">&lt;i&gt;</it>AND<it id="113" pos="close">&lt;/i&gt;</it> must be in uppercase<it id="114" pos="close">&lt;/b&gt;</it><it id="115" pos="close">&lt;/td&gt;</it><it id="116" pos="close">&lt;/td&gt;</it>
+                <it id="117" pos="close">&lt;/tr&gt;</it>
+
+                <it id="55" pos="open">&lt;tr&gt;</it>
+                    <it id="56" pos="open">&lt;td&gt;</it>Combo<it id="118" pos="close">&lt;/td&gt;</it>
+                    <it id="57" pos="open">&lt;td&gt;</it>(agile <it id="58" pos="open">&lt;b&gt;</it>OR<it id="119" pos="close">&lt;/b&gt;</it> extreme) <it id="59" pos="open">&lt;b&gt;</it>AND<it id="120" pos="close">&lt;/b&gt;</it> methodology<it id="121" pos="close">&lt;/td&gt;</it>
+                    <it id="60" pos="open">&lt;td&gt;</it>Contain <it id="61" pos="open">&lt;i&gt;</it>methodology<it id="122" pos="close">&lt;/i&gt;</it> and must also contain <it id="62" pos="open">&lt;i&gt;</it>agile<it id="123" pos="close">&lt;/i&gt;</it> and/or <it id="63" pos="open">&lt;i&gt;</it>extreme<it id="124" pos="close">&lt;/i&gt;</it>
+                <it id="125" pos="close">&lt;/tr&gt;</it>
+            <it id="126" pos="close">&lt;/table&gt;</it></target>
+        </trans-unit>
+        <trans-unit id="LastModified.Text" translate="yes" xml:space="preserve">
+          <source>Updated:</source>
+          <target state="new">Updated:</target>
+        </trans-unit>
+        <trans-unit id="AddTag.Text" translate="yes" xml:space="preserve">
+          <source>Add a tag</source>
+          <target state="new">Add a tag</target>
+        </trans-unit>
+        <trans-unit id="AllFeaturesSelected.Text" translate="yes" xml:space="preserve">
+          <source>All</source>
+          <target state="new">All</target>
+        </trans-unit>
+        <trans-unit id="Author.Text" translate="yes" xml:space="preserve">
+          <source>Author:</source>
+          <target state="new">Author:</target>
+        </trans-unit>
+        <trans-unit id="Comments.Text" translate="yes" xml:space="preserve">
+          <source>Comments:</source>
+          <target state="new">Comments:</target>
+        </trans-unit>
+        <trans-unit id="Likes.Text" translate="yes" xml:space="preserve">
+          <source>Likes:</source>
+          <target state="new">Likes:</target>
+        </trans-unit>
+        <trans-unit id="Views.Text" translate="yes" xml:space="preserve">
+          <source>Views:</source>
+          <target state="new">Views:</target>
+        </trans-unit>
+        <trans-unit id="CurrentPageIndex.Text" translate="yes" xml:space="preserve">
+          <source>Page:</source>
+          <target state="new">Page:</target>
+        </trans-unit>
+        <trans-unit id="ResultsCount.Text" translate="yes" xml:space="preserve">
+          <source>About {0} Results</source>
+          <target state="new">About {0} Results</target>
+        </trans-unit>
+        <trans-unit id="DefaultText.Text" translate="yes" xml:space="preserve">
+          <source>Enter Search Term</source>
+          <target state="new">Enter Search Term</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

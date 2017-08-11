@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fa-IR" original="Sites.resx" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1795.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="ResxGroup" datatype="resx">
+        <trans-unit id="BasicSettings.Text" translate="yes" xml:space="preserve">
+          <source>Basic configuration</source>
+          <target state="new">Basic configuration</target>
+        </trans-unit>
+        <trans-unit id="cmdCancel.Text" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+        </trans-unit>
+        <trans-unit id="cmdExport.Text" translate="yes" xml:space="preserve">
+          <source>Create Template</source>
+          <target state="new">Create Template</target>
+        </trans-unit>
+        <trans-unit id="ControlTitle_template.Text" translate="yes" xml:space="preserve">
+          <source>Create Site Template</source>
+          <target state="new">Create Site Template</target>
+        </trans-unit>
+        <trans-unit id="DefaultLanguage.Text" translate="yes" xml:space="preserve">
+          <source>{0} is the default language of the selected site</source>
+          <target state="new">{0} is the default language of the selected site</target>
+        </trans-unit>
+        <trans-unit id="ErrorPages.Text" translate="yes" xml:space="preserve">
+          <source>You must select at least one page to be exported.</source>
+          <target state="new">You must select at least one page to be exported.</target>
+        </trans-unit>
+        <trans-unit id="ExportedMessage.Text" translate="yes" xml:space="preserve">
+          <source>The new site template has been saved in folder:&lt;br/&gt;<bpt id="1">&lt;b&gt;</bpt>{0}<ept id="1">&lt;/b&gt;</ept></source>
+          <target state="new">The new site template has been saved in folder:&lt;br/&gt;<bpt id="1">&lt;b&gt;</bpt>{0}<ept id="1">&lt;/b&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="ErrorAncestorPages.Text" translate="yes" xml:space="preserve">
+          <source>You must select all ancestors from root level in order to include a child page.</source>
+          <target state="new">You must select all ancestors from root level in order to include a child page.</target>
+        </trans-unit>
+        <trans-unit id="ChildExists.Text" translate="yes" xml:space="preserve">
+          <source>The child site name you specified already exists.  Please enter a different child site name.</source>
+          <target state="new">The child site name you specified already exists.  Please enter a different child site name.</target>
+        </trans-unit>
+        <trans-unit id="DuplicatePortalAlias.Text" translate="yes" xml:space="preserve">
+          <source>The site alias name you specified already exists. Please choose a different site alias.</source>
+          <target state="new">The site alias name you specified already exists. Please choose a different site alias.</target>
+        </trans-unit>
+        <trans-unit id="DuplicateWithTab.Text" translate="yes" xml:space="preserve">
+          <source>There is already a page with the same name as you entered for the site alias for this site.  Please change the site alias and try again.</source>
+          <target state="new">There is already a page with the same name as you entered for the site alias for this site.  Please change the site alias and try again.</target>
+        </trans-unit>
+        <trans-unit id="InvalidHomeFolder.Text" translate="yes" xml:space="preserve">
+          <source>The home folder you specified is not valid.</source>
+          <target state="new">The home folder you specified is not valid.</target>
+        </trans-unit>
+        <trans-unit id="InvalidName.Text" translate="yes" xml:space="preserve">
+          <source>The site alias must not contain spaces or punctuation.</source>
+          <target state="new">The site alias must not contain spaces or punctuation.</target>
+        </trans-unit>
+        <trans-unit id="InvalidPassword.Text" translate="yes" xml:space="preserve">
+          <source>The password values entered do not match.</source>
+          <target state="new">The password values entered do not match.</target>
+        </trans-unit>
+        <trans-unit id="SendMail.Error" translate="yes" xml:space="preserve">
+          <source>There was an error sending confirmation emails - {0}  However, the site was created. <bpt id="1">&lt;a href='{1}' {2}&gt;</bpt>Click Here To Access The New Site<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">There was an error sending confirmation emails - {0}  However, the site was created. <bpt id="1">&lt;a href='{1}' {2}&gt;</bpt>Click Here To Access The New Site<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="UnknownEmailAddress.Error" translate="yes" xml:space="preserve">
+          <source>There is no email address set on Site and/or Host level.</source>
+          <target state="new">There is no email address set on Site and/or Host level.</target>
+        </trans-unit>
+        <trans-unit id="UnknownSendMail.Error" translate="yes" xml:space="preserve">
+          <source>There was an error sending confirmation emails, however the site was still created. <bpt id="1">&lt;a href='{0}' {1}&gt;</bpt>Click Here To Access The New Site<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">There was an error sending confirmation emails, however the site was still created. <bpt id="1">&lt;a href='{0}' {1}&gt;</bpt>Click Here To Access The New Site<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="lblAdminOnly.Text" translate="yes" xml:space="preserve">
+          <source>Visible to Administrators only</source>
+          <target state="new">Visible to Administrators only</target>
+        </trans-unit>
+        <trans-unit id="lblDisabled.Text" translate="yes" xml:space="preserve">
+          <source>Page is disabled</source>
+          <target state="new">Page is disabled</target>
+        </trans-unit>
+        <trans-unit id="lblEveryone.Text" translate="yes" xml:space="preserve">
+          <source>Page is visible to everyone</source>
+          <target state="new">Page is visible to everyone</target>
+        </trans-unit>
+        <trans-unit id="lblFiles.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to export all site files and folders when creating the new template.</source>
+          <target state="new">Check this box to export all site files and folders when creating the new template.</target>
+        </trans-unit>
+        <trans-unit id="lblFiles.Text" translate="yes" xml:space="preserve">
+          <source>Include Files</source>
+          <target state="new">Include Files</target>
+        </trans-unit>
+        <trans-unit id="lblHidden.Text" translate="yes" xml:space="preserve">
+          <source>Page is hidden in menu</source>
+          <target state="new">Page is hidden in menu</target>
+        </trans-unit>
+        <trans-unit id="lblHome.Text" translate="yes" xml:space="preserve">
+          <source>Homepage of the site</source>
+          <target state="new">Homepage of the site</target>
+        </trans-unit>
+        <trans-unit id="lblLanguages.Help" translate="yes" xml:space="preserve">
+          <source>Select each of the secondary languages to be included in a multi-language template, or select the language of a single language site.</source>
+          <target state="new">Select each of the secondary languages to be included in a multi-language template, or select the language of a single language site.</target>
+        </trans-unit>
+        <trans-unit id="lblLanguages.Text" translate="yes" xml:space="preserve">
+          <source>Export Languages</source>
+          <target state="new">Export Languages</target>
+        </trans-unit>
+        <trans-unit id="lblModules.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to include module deploy permissions in the exported template. If this option is selected, it may also be necessary to export Roles if any custom roles has deployment permissions.</source>
+          <target state="new">Check this box to include module deploy permissions in the exported template. If this option is selected, it may also be necessary to export Roles if any custom roles has deployment permissions.</target>
+        </trans-unit>
+        <trans-unit id="lblModules.Text" translate="yes" xml:space="preserve">
+          <source>Include Module Deployment Permissions</source>
+          <target state="new">Include Module Deployment Permissions</target>
+        </trans-unit>
+        <trans-unit id="lblMultilanguage.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to create a template for a multi-language site and select each language to be included in addition to the default language.</source>
+          <target state="new">Check this box to create a template for a multi-language site and select each language to be included in addition to the default language.</target>
+        </trans-unit>
+        <trans-unit id="lblMultilanguage.Text" translate="yes" xml:space="preserve">
+          <source>Export As Multilingual Site</source>
+          <target state="new">Export As Multilingual Site</target>
+        </trans-unit>
+        <trans-unit id="lblNote.Text" translate="yes" xml:space="preserve">
+          <source>The default language ({0}) will always be exported.</source>
+          <target state="new">The default language ({0}) will always be exported.</target>
+        </trans-unit>
+        <trans-unit id="lblNoteSingleLanguage.Text" translate="yes" xml:space="preserve">
+          <source>Note: the default language is <bpt id="1">&lt;b&gt;</bpt>{0}<ept id="1">&lt;/b&gt;</ept></source>
+          <target state="new">Note: the default language is <bpt id="1">&lt;b&gt;</bpt>{0}<ept id="1">&lt;/b&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="lblPages.Help" translate="yes" xml:space="preserve">
+          <source>Select the pages to be exported. <bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept>If you intend to use the exported template to create a new site, please be sure to select all, or selected Admin pages. If no Admin pages are available in the template, the new site will not have an Admin menu.</source>
+          <target state="new">Select the pages to be exported. <bpt id="1">&lt;br &gt;</bpt><ept id="1">&lt;/br&gt;</ept>If you intend to use the exported template to create a new site, please be sure to select all, or selected Admin pages. If no Admin pages are available in the template, the new site will not have an Admin menu.</target>
+        </trans-unit>
+        <trans-unit id="lblPages.Text" translate="yes" xml:space="preserve">
+          <source>Pages to Export</source>
+          <target state="new">Pages to Export</target>
+        </trans-unit>
+        <trans-unit id="lblProfile.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to include custom profile property definitions in the template.</source>
+          <target state="new">Check this box to include custom profile property definitions in the template.</target>
+        </trans-unit>
+        <trans-unit id="lblProfile.Text" translate="yes" xml:space="preserve">
+          <source>Include Profile Properties</source>
+          <target state="new">Include Profile Properties</target>
+        </trans-unit>
+        <trans-unit id="lblRedirect.Text" translate="yes" xml:space="preserve">
+          <source>Page redirection</source>
+          <target state="new">Page redirection</target>
+        </trans-unit>
+        <trans-unit id="lblRegistered.Text" translate="yes" xml:space="preserve">
+          <source>Visible to registered users</source>
+          <target state="new">Visible to registered users</target>
+        </trans-unit>
+        <trans-unit id="lblRoles.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to export all security roles when creating the new template.</source>
+          <target state="new">Check this box to export all security roles when creating the new template.</target>
+        </trans-unit>
+        <trans-unit id="lblRoles.Text" translate="yes" xml:space="preserve">
+          <source>Include Roles</source>
+          <target state="new">Include Roles</target>
+        </trans-unit>
+        <trans-unit id="lblSecure.Text" translate="yes" xml:space="preserve">
+          <source>Visible to dedicated roles only</source>
+          <target state="new">Visible to dedicated roles only</target>
+        </trans-unit>
+        <trans-unit id="lblSelectLanguages.Text" translate="yes" xml:space="preserve">
+          <source>-- Select Languages --</source>
+          <target state="new">-- Select Languages --</target>
+        </trans-unit>
+        <trans-unit id="ModuleHelp.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;h1&gt;</bpt>About Templates<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Allows you to export a site template to be used to build new sites.<ept id="2">&lt;/p&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;h1&gt;</bpt>About Templates<ept id="1">&lt;/h1&gt;</ept><bpt id="2">&lt;p&gt;</bpt>Allows you to export a site template to be used to build new sites.<ept id="2">&lt;/p&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="nav_Sites.Text" translate="yes" xml:space="preserve">
+          <source>Sites</source>
+          <target state="new">Sites</target>
+        </trans-unit>
+        <trans-unit id="plContent.Help" translate="yes" xml:space="preserve">
+          <source>Check this box to include the content within iPortable modules.</source>
+          <target state="new">Check this box to include the content within iPortable modules.</target>
+        </trans-unit>
+        <trans-unit id="plContent.Text" translate="yes" xml:space="preserve">
+          <source>Include Content</source>
+          <target state="new">Include Content</target>
+        </trans-unit>
+        <trans-unit id="plDescription.Help" translate="yes" xml:space="preserve">
+          <source>Enter a description for the template file.</source>
+          <target state="new">Enter a description for the template file.</target>
+        </trans-unit>
+        <trans-unit id="plDescription.Text" translate="yes" xml:space="preserve">
+          <source>Template Description</source>
+          <target state="new">Template Description</target>
+        </trans-unit>
+        <trans-unit id="plPortals.Help" translate="yes" xml:space="preserve">
+          <source>Select the site to export.</source>
+          <target state="new">Select the site to export.</target>
+        </trans-unit>
+        <trans-unit id="plPortals.Text" translate="yes" xml:space="preserve">
+          <source>Site</source>
+          <target state="new">Site</target>
+        </trans-unit>
+        <trans-unit id="plTemplateName.Help" translate="yes" xml:space="preserve">
+          <source>Enter a name for the template file to be created.</source>
+          <target state="new">Enter a name for the template file to be created.</target>
+        </trans-unit>
+        <trans-unit id="plTemplateName.Text" translate="yes" xml:space="preserve">
+          <source>Template File Name</source>
+          <target state="new">Template File Name</target>
+        </trans-unit>
+        <trans-unit id="PortalSetup.Text" translate="yes" xml:space="preserve">
+          <source>Site Setup</source>
+          <target state="new">Site Setup</target>
+        </trans-unit>
+        <trans-unit id="Settings.Text" translate="yes" xml:space="preserve">
+          <source>Advanced Configuration</source>
+          <target state="new">Advanced Configuration</target>
+        </trans-unit>
+        <trans-unit id="titleTemplateInfo.Text" translate="yes" xml:space="preserve">
+          <source>Site Template Info</source>
+          <target state="new">Site Template Info</target>
+        </trans-unit>
+        <trans-unit id="valDescription.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Template description is required.</source>
+          <target state="new">Template description is required.</target>
+        </trans-unit>
+        <trans-unit id="valFileName.ErrorMessage" translate="yes" xml:space="preserve">
+          <source>Template file name is required.</source>
+          <target state="new">Template file name is required.</target>
+        </trans-unit>
+        <trans-unit id="SiteDetails_Pages.Text" translate="yes" xml:space="preserve">
+          <source>Pages</source>
+          <target state="new">Pages</target>
+        </trans-unit>
+        <trans-unit id="SiteDetails_SiteID.Text" translate="yes" xml:space="preserve">
+          <source>Site ID</source>
+          <target state="new">Site ID</target>
+        </trans-unit>
+        <trans-unit id="SiteDetails_Updated.Text" translate="yes" xml:space="preserve">
+          <source>Updated</source>
+          <target state="new">Updated</target>
+        </trans-unit>
+        <trans-unit id="SiteDetails_Users.Text" translate="yes" xml:space="preserve">
+          <source>Users</source>
+          <target state="new">Users</target>
+        </trans-unit>
+        <trans-unit id="CancelPortalDelete.Text" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="new">No</target>
+        </trans-unit>
+        <trans-unit id="ConfirmPortalDelete.Text" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="new">Yes</target>
+        </trans-unit>
+        <trans-unit id="deletePortal.Text" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to delete {0}?</source>
+          <target state="new">Are you sure you want to delete {0}?</target>
+        </trans-unit>
+        <trans-unit id="AddNewSite.Header" translate="yes" xml:space="preserve">
+          <source>Add New Site</source>
+          <target state="new">Add New Site</target>
+        </trans-unit>
+        <trans-unit id="AssignCurrentUserAsAdmin.Label" translate="yes" xml:space="preserve">
+          <source>Assign Current User as Administrator</source>
+          <target state="new">Assign Current User as Administrator</target>
+        </trans-unit>
+        <trans-unit id="cmdCreateSite.Text" translate="yes" xml:space="preserve">
+          <source>Create Site</source>
+          <target state="new">Create Site</target>
+        </trans-unit>
+        <trans-unit id="Description.Label" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+        <trans-unit id="Directory.Text" translate="yes" xml:space="preserve">
+          <source>Directory</source>
+          <target state="new">Directory</target>
+        </trans-unit>
+        <trans-unit id="Domain.Text" translate="yes" xml:space="preserve">
+          <source>Domain</source>
+          <target state="new">Domain</target>
+        </trans-unit>
+        <trans-unit id="HomeDirectory.Label" translate="yes" xml:space="preserve">
+          <source>Home Directory</source>
+          <target state="new">Home Directory</target>
+        </trans-unit>
+        <trans-unit id="SiteTemplate.Label" translate="yes" xml:space="preserve">
+          <source>Site Template</source>
+          <target state="new">Site Template</target>
+        </trans-unit>
+        <trans-unit id="SiteType.Label" translate="yes" xml:space="preserve">
+          <source>Site Type:</source>
+          <target state="new">Site Type:</target>
+        </trans-unit>
+        <trans-unit id="SiteUrl.Label" translate="yes" xml:space="preserve">
+          <source>Site URL</source>
+          <target state="new">Site URL</target>
+        </trans-unit>
+        <trans-unit id="Title.Label" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <target state="new">Title</target>
+        </trans-unit>
+        <trans-unit id="CreateSite_AdminEmail.Label" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <target state="new">Email</target>
+        </trans-unit>
+        <trans-unit id="CreateSite_AdminFirstName.Label" translate="yes" xml:space="preserve">
+          <source>First Name</source>
+          <target state="new">First Name</target>
+        </trans-unit>
+        <trans-unit id="CreateSite_AdminLastName.Label" translate="yes" xml:space="preserve">
+          <source>Last Name</source>
+          <target state="new">Last Name</target>
+        </trans-unit>
+        <trans-unit id="CreateSite_AdminPassword.Label" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <target state="new">Password</target>
+        </trans-unit>
+        <trans-unit id="CreateSite_AdminPasswordConfirm.Label" translate="yes" xml:space="preserve">
+          <source>Confirm Password</source>
+          <target state="new">Confirm Password</target>
+        </trans-unit>
+        <trans-unit id="CreateSite_AdminUserName.Label" translate="yes" xml:space="preserve">
+          <source>Administrator User Name</source>
+          <target state="new">Administrator User Name</target>
+        </trans-unit>
+        <trans-unit id="CreateSite_SelectTemplate.Overlay" translate="yes" xml:space="preserve">
+          <source>click to select template</source>
+          <target state="new">click to select template</target>
+        </trans-unit>
+        <trans-unit id="EmailRequired.Error" translate="yes" xml:space="preserve">
+          <source>Email is required.</source>
+          <target state="new">Email is required.</target>
+        </trans-unit>
+        <trans-unit id="FirstNameRequired.Error" translate="yes" xml:space="preserve">
+          <source>First name is required.</source>
+          <target state="new">First name is required.</target>
+        </trans-unit>
+        <trans-unit id="LastNameRequired.Error" translate="yes" xml:space="preserve">
+          <source>Last name is required.</source>
+          <target state="new">Last name is required.</target>
+        </trans-unit>
+        <trans-unit id="PasswordConfirmRequired.Error" translate="yes" xml:space="preserve">
+          <source>Password confirmation is required.</source>
+          <target state="new">Password confirmation is required.</target>
+        </trans-unit>
+        <trans-unit id="PasswordRequired.Error" translate="yes" xml:space="preserve">
+          <source>Password is required. Please enter a minimum of 7 characters.</source>
+          <target state="new">Password is required. Please enter a minimum of 7 characters.</target>
+        </trans-unit>
+        <trans-unit id="SiteAliasRequired.Error" translate="yes" xml:space="preserve">
+          <source>Site Alias is required. <bpt id="1">&lt;ul style="
+    word-break: normal;
+    margin: 10px auto;
+    list-style: none;
+"&gt;</bpt><bpt id="2">&lt;li style="margin-bottom:10px"&gt;</bpt>Domain requirements: No spaces, no special characters (: , . only). <ept id="2">&lt;/li&gt;</ept><bpt id="3">&lt;li&gt;</bpt>Directory requirements: No spaces, no special characters (_ , - only). <ept id="3">&lt;/li&gt;</ept><ept id="1">&lt;/ul&gt;</ept></source>
+          <target state="new">Site Alias is required. <bpt id="1">&lt;ul style="
+    word-break: normal;
+    margin: 10px auto;
+    list-style: none;
+"&gt;</bpt><bpt id="2">&lt;li style="margin-bottom:10px"&gt;</bpt>Domain requirements: No spaces, no special characters (: , . only). <ept id="2">&lt;/li&gt;</ept><bpt id="3">&lt;li&gt;</bpt>Directory requirements: No spaces, no special characters (_ , - only). <ept id="3">&lt;/li&gt;</ept><ept id="1">&lt;/ul&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="SiteTitleRequired.Error" translate="yes" xml:space="preserve">
+          <source>Site Title is required.</source>
+          <target state="new">Site Title is required.</target>
+        </trans-unit>
+        <trans-unit id="UsernameRequired.Error" translate="yes" xml:space="preserve">
+          <source>User name is required.</source>
+          <target state="new">User name is required.</target>
+        </trans-unit>
+        <trans-unit id="PortalDeletionDenied.Text" translate="yes" xml:space="preserve">
+          <source>Site deletion not allowed.</source>
+          <target state="new">Site deletion not allowed.</target>
+        </trans-unit>
+        <trans-unit id="PortalNotFound.Text" translate="yes" xml:space="preserve">
+          <source>Site not found.</source>
+          <target state="new">Site not found.</target>
+        </trans-unit>
+        <trans-unit id="LoadMore.Button" translate="yes" xml:space="preserve">
+          <source>Load More</source>
+          <target state="new">Load More</target>
+        </trans-unit>
+        <trans-unit id="BackToSites.Text" translate="yes" xml:space="preserve">
+          <source>Back To Sites</source>
+          <target state="new">Back To Sites</target>
+        </trans-unit>
+        <trans-unit id="DeleteSite.Text" translate="yes" xml:space="preserve">
+          <source>Delete Site</source>
+          <target state="new">Delete Site</target>
+        </trans-unit>
+        <trans-unit id="ExportTemplate.Text" translate="yes" xml:space="preserve">
+          <source>Export Template</source>
+          <target state="new">Export Template</target>
+        </trans-unit>
+        <trans-unit id="SiteSettings.Text" translate="yes" xml:space="preserve">
+          <source>Site Settings</source>
+          <target state="new">Site Settings</target>
+        </trans-unit>
+        <trans-unit id="ViewSite.Text" translate="yes" xml:space="preserve">
+          <source>View Site</source>
+          <target state="new">View Site</target>
+        </trans-unit>
+        <trans-unit id="SiteExport.Text" translate="yes" xml:space="preserve">
+          <source>Site Export</source>
+          <target state="new">Site Export</target>
+        </trans-unit>
+        <trans-unit id="SiteImport.Text" translate="yes" xml:space="preserve">
+          <source>Site Import</source>
+          <target state="new">Site Import</target>
+        </trans-unit>
+        <trans-unit id="AddNewSite.Text" translate="yes" xml:space="preserve">
+          <source>Add New Site</source>
+          <target state="new">Add New Site</target>
+        </trans-unit>
+        <trans-unit id="Sites.Text" translate="yes" xml:space="preserve">
+          <source>Sites</source>
+          <target state="new">Sites</target>
+        </trans-unit>
+        <trans-unit id="Description.Text" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

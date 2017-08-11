@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Resx2Xlf", "Resx2Xlf\Resx2Xlf.csproj", "{E4F3D6C6-1ED4-4199-981D-1E55A2FC2984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Resources\Resources.csproj", "{AD495C79-51A6-4C9F-B994-B16DD6CE287D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DNN", "DNN", "{5089219B-BD6B-4250-B764-E94D6750E3F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4F3D6C6-1ED4-4199-981D-1E55A2FC2984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F3D6C6-1ED4-4199-981D-1E55A2FC2984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F3D6C6-1ED4-4199-981D-1E55A2FC2984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F3D6C6-1ED4-4199-981D-1E55A2FC2984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD495C79-51A6-4C9F-B994-B16DD6CE287D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD495C79-51A6-4C9F-B994-B16DD6CE287D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD495C79-51A6-4C9F-B994-B16DD6CE287D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD495C79-51A6-4C9F-B994-B16DD6CE287D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

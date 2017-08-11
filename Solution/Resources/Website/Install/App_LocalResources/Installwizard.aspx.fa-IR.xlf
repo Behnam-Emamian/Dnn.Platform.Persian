@@ -1,0 +1,763 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en" target-language="fa-IR" original="RESOURCES/WEBSITE/INSTALL/APP_LOCALRESOURCES/UPGRADEWIZARD.ASPX.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6810.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="RESOURCES/WEBSITE/INSTALL/APP_LOCALRESOURCES/UPGRADEWIZARD.ASPX.RESX" datatype="resx">
+        <trans-unit id="AccountInfo.Text" translate="yes" xml:space="preserve">
+          <source>Account Info</source>
+          <target state="new">Account Info</target>
+        </trans-unit>
+        <trans-unit id="BestPractices.Text" translate="yes" xml:space="preserve">
+          <source>You are about to upgrade your website to a more recent version of the application. Applying upgrades on a consistent basis is the best way to ensure that you are protecting the integrity of your investment and the security of your users and assets. Before proceeding with the automated upgrade process please ensure that:
+<bpt id="1">&lt;ul&gt;</bpt>
+<it id="2" pos="open">&lt;li&gt;</it>you have made plans to first attempt this process in a staging environment
+<it id="3" pos="open">&lt;li&gt;</it>you have documented your current installation characteristics including doing research on the compatibility of any third party modules which you may be using
+<it id="4" pos="open">&lt;li&gt;</it>you have created the necessary backups of your environment so that you will be able to restore your website in the event of an unexpected upgrade failure.
+<ept id="1">&lt;/ul&gt;</ept></source>
+          <target state="new">You are about to upgrade your website to a more recent version of the application. Applying upgrades on a consistent basis is the best way to ensure that you are protecting the integrity of your investment and the security of your users and assets. Before proceeding with the automated upgrade process please ensure that:
+<bpt id="1">&lt;ul&gt;</bpt>
+<it id="2" pos="open">&lt;li&gt;</it>you have made plans to first attempt this process in a staging environment
+<it id="3" pos="open">&lt;li&gt;</it>you have documented your current installation characteristics including doing research on the compatibility of any third party modules which you may be using
+<it id="4" pos="open">&lt;li&gt;</it>you have created the necessary backups of your environment so that you will be able to restore your website in the event of an unexpected upgrade failure.
+<ept id="1">&lt;/ul&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="VersionsMatch.Text" translate="yes" xml:space="preserve">
+          <source>Database and application versions match - there is no upgrade to apply.</source>
+          <target state="new">Database and application versions match - there is no upgrade to apply.</target>
+        </trans-unit>
+        <trans-unit id="VersionsMatchButIncrementalExists.Text" translate="yes" xml:space="preserve">
+          <source>Database and application versions match - there is an incremental release you can upgrade to.</source>
+          <target state="new">Database and application versions match - there is an incremental release you can upgrade to.</target>
+        </trans-unit>
+        <trans-unit id="CurrentVersion.Text" translate="yes" xml:space="preserve">
+          <source>Current Version - {0}</source>
+          <target state="new">Current Version - {0}</target>
+        </trans-unit>
+        <trans-unit id="DatabaseUpgrade.Text" translate="yes" xml:space="preserve">
+          <source>Updating Database</source>
+          <target state="new">Updating Database</target>
+        </trans-unit>
+        <trans-unit id="Error.Text" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <target state="new">Error</target>
+        </trans-unit>
+        <trans-unit id="ErrorInStep.Text" translate="yes" xml:space="preserve">
+          <source>ERROR occured - {0}</source>
+          <target state="new">ERROR occured - {0}</target>
+        </trans-unit>
+        <trans-unit id="ExtensionsUpgrade.Text" translate="yes" xml:space="preserve">
+          <source>Updating Extensions</source>
+          <target state="new">Updating Extensions</target>
+        </trans-unit>
+        <trans-unit id="IntroDetail.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;p&gt;</bpt>Welcome to the DotNetNuke Upgrade Page.<ept id="1">&lt;/p&gt;</ept>
+
+<bpt id="2">&lt;p&gt;</bpt>The first step is to choose the language you want to use for the upgrade.<ept id="2">&lt;/p&gt;</ept>
+
+</source>
+          <target state="new"><bpt id="1">&lt;p&gt;</bpt>Welcome to the DotNetNuke Upgrade Page.<ept id="1">&lt;/p&gt;</ept>
+
+<bpt id="2">&lt;p&gt;</bpt>The first step is to choose the language you want to use for the upgrade.<ept id="2">&lt;/p&gt;</ept>
+
+</target>
+        </trans-unit>
+        <trans-unit id="InvalidCredentials.Text" translate="yes" xml:space="preserve">
+          <source>Username and Password not recognized.</source>
+          <target state="new">Username and Password not recognized.</target>
+        </trans-unit>
+        <trans-unit id="Next.Text" translate="yes" xml:space="preserve">
+          <source>Upgrade Now</source>
+          <target state="new">Upgrade Now</target>
+        </trans-unit>
+        <trans-unit id="NoInstallationLog.Text" translate="yes" xml:space="preserve">
+          <source>No Installation Log</source>
+          <target state="new">No Installation Log</target>
+        </trans-unit>
+        <trans-unit id="Password.Help" translate="yes" xml:space="preserve">
+          <source>The password for the Super User account.</source>
+          <target state="new">The password for the Super User account.</target>
+        </trans-unit>
+        <trans-unit id="Password.Text" translate="yes" xml:space="preserve">
+          <source>Password:</source>
+          <target state="new">Password:</target>
+        </trans-unit>
+        <trans-unit id="ImprovementsProgramTitle.Text" translate="yes" xml:space="preserve">
+          <source>Product Improvement Program</source>
+          <target state="new">Product Improvement Program</target>
+        </trans-unit>
+        <trans-unit id="ImprovementProgramExplain.Text" translate="yes" xml:space="preserve">
+          <source>The product improvement program allows us to better understand how we can
+improve DNN for you. The data will help us analyze usage and what is important
+for people using the product. All of the data is anonymous and for internal use only. Learn more about the <bpt id="1">&lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;</bpt>Product Improvement Program<ept id="1">&lt;/a&gt;</ept>.</source>
+          <target state="new">The product improvement program allows us to better understand how we can
+improve DNN for you. The data will help us analyze usage and what is important
+for people using the product. All of the data is anonymous and for internal use only. Learn more about the <bpt id="1">&lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;</bpt>Product Improvement Program<ept id="1">&lt;/a&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="ImprovementProgramLabel.Text" translate="yes" xml:space="preserve">
+          <source>Send anonymous usage information to DNN</source>
+          <target state="new">Send anonymous usage information to DNN</target>
+        </trans-unit>
+        <trans-unit id="Retry.Text" translate="yes" xml:space="preserve">
+          <source>Retry</source>
+          <target state="new">Retry</target>
+        </trans-unit>
+        <trans-unit id="SeeLogs.Text" translate="yes" xml:space="preserve">
+          <source>View Logs</source>
+          <target state="new">View Logs</target>
+        </trans-unit>
+        <trans-unit id="TimerMinutes.Text" translate="yes" xml:space="preserve">
+          <source>Minutes</source>
+          <target state="new">Minutes</target>
+        </trans-unit>
+        <trans-unit id="Title.Text" translate="yes" xml:space="preserve">
+          <source>Upgrade</source>
+          <target state="new">Upgrade</target>
+        </trans-unit>
+        <trans-unit id="Upgrade.Text" translate="yes" xml:space="preserve">
+          <source>Upgrade</source>
+          <target state="new">Upgrade</target>
+        </trans-unit>
+        <trans-unit id="UpgradeDone.Text" translate="yes" xml:space="preserve">
+          <source>Upgrade Complete</source>
+          <target state="new">Upgrade Complete</target>
+        </trans-unit>
+        <trans-unit id="UpgradingDatabase.Text" translate="yes" xml:space="preserve">
+          <source>Upgrading Database</source>
+          <target state="new">Upgrading Database</target>
+        </trans-unit>
+        <trans-unit id="Username.Help" translate="yes" xml:space="preserve">
+          <source>The username for the Super User account.</source>
+          <target state="new">The username for the Super User account.</target>
+        </trans-unit>
+        <trans-unit id="Username.Text" translate="yes" xml:space="preserve">
+          <source>Host (SuperUser) Username:</source>
+          <target state="new">Host (SuperUser) Username:</target>
+        </trans-unit>
+        <trans-unit id="Version.Text" translate="yes" xml:space="preserve">
+          <source>Upgrade - Version {0}</source>
+          <target state="new">Upgrade - Version {0}</target>
+        </trans-unit>
+        <trans-unit id="ViewWebsite.Text" translate="yes" xml:space="preserve">
+          <source>View Website</source>
+          <target state="new">View Website</target>
+        </trans-unit>
+        <trans-unit id="VisitWebsite.Text" translate="yes" xml:space="preserve">
+          <source>Visit Website</source>
+          <target state="new">Visit Website</target>
+        </trans-unit>
+        <trans-unit id="UpgradeStarted.Text" translate="yes" xml:space="preserve">
+          <source>Upgrade Started at</source>
+          <target state="new">Upgrade Started at</target>
+        </trans-unit>
+        <trans-unit id="AcceptTerms.Required" translate="yes" xml:space="preserve">
+          <source>Accept the terms of the license agreement to continue.</source>
+          <target state="new">Accept the terms of the license agreement to continue.</target>
+        </trans-unit>
+        <trans-unit id="AcceptTerms.Text" translate="yes" xml:space="preserve">
+          <source>I accept the terms of the <bpt id="1">&lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;</bpt>license agreement<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">I accept the terms of the <bpt id="1">&lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;</bpt>license agreement<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="en" target-language="fa-IR" original="RESOURCES/WEBSITE/INSTALL/APP_LOCALRESOURCES/INSTALLWIZARD.ASPX.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6810.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="RESOURCES/WEBSITE/INSTALL/APP_LOCALRESOURCES/INSTALLWIZARD.ASPX.RESX" datatype="resx">
+        <trans-unit id="AccountInfoIntro.Text" translate="yes" xml:space="preserve">
+          <source>To setup your Installation, enter the following information.</source>
+          <target state="new">To setup your Installation, enter the following information.</target>
+        </trans-unit>
+        <trans-unit id="AdminInfo.Text" translate="yes" xml:space="preserve">
+          <source>Administrative Information</source>
+          <target state="new">Administrative Information</target>
+        </trans-unit>
+        <trans-unit id="ChooseDbError.Text" translate="yes" xml:space="preserve">
+          <source>You must choose a Database Type</source>
+          <target state="new">You must choose a Database Type</target>
+        </trans-unit>
+        <trans-unit id="cmdContinue.Text" translate="yes" xml:space="preserve">
+          <source>Continue</source>
+          <target state="new">Continue</target>
+        </trans-unit>
+        <trans-unit id="Confirm.Text" translate="yes" xml:space="preserve">
+          <source>Confirm</source>
+          <target state="new">Confirm</target>
+        </trans-unit>
+        <trans-unit id="DatabaseAdvanced.Text" translate="yes" xml:space="preserve">
+          <source>Custom</source>
+          <target state="new">Custom</target>
+        </trans-unit>
+        <trans-unit id="DatabaseFilename.Text" translate="yes" xml:space="preserve">
+          <source>Filename</source>
+          <target state="new">Filename</target>
+        </trans-unit>
+        <trans-unit id="DatabaseInfo.Text" translate="yes" xml:space="preserve">
+          <source>Database Information</source>
+          <target state="new">Database Information</target>
+        </trans-unit>
+        <trans-unit id="DatabaseName.Text" translate="yes" xml:space="preserve">
+          <source>Database Name</source>
+          <target state="new">Database Name</target>
+        </trans-unit>
+        <trans-unit id="DatabaseObjectQualifier.Text" translate="yes" xml:space="preserve">
+          <source>Object Qualifier</source>
+          <target state="new">Object Qualifier</target>
+        </trans-unit>
+        <trans-unit id="DatabasePassword.Text" translate="yes" xml:space="preserve">
+          <source>Database Password</source>
+          <target state="new">Database Password</target>
+        </trans-unit>
+        <trans-unit id="DatabaseRunAs.Text" translate="yes" xml:space="preserve">
+          <source>Run Database As</source>
+          <target state="new">Run Database As</target>
+        </trans-unit>
+        <trans-unit id="DatabaseSecurity.Text" translate="yes" xml:space="preserve">
+          <source>Security</source>
+          <target state="new">Security</target>
+        </trans-unit>
+        <trans-unit id="DatabaseServer.Text" translate="yes" xml:space="preserve">
+          <source>Server Name</source>
+          <target state="new">Server Name</target>
+        </trans-unit>
+        <trans-unit id="DatabaseSetup.Text" translate="yes" xml:space="preserve">
+          <source>Database Setup</source>
+          <target state="new">Database Setup</target>
+        </trans-unit>
+        <trans-unit id="DatabaseStandard.Text" translate="yes" xml:space="preserve">
+          <source>Default</source>
+          <target state="new">Default</target>
+        </trans-unit>
+        <trans-unit id="DatabaseType.Text" translate="yes" xml:space="preserve">
+          <source>Database Type</source>
+          <target state="new">Database Type</target>
+        </trans-unit>
+        <trans-unit id="DatabaseUsername.Text" translate="yes" xml:space="preserve">
+          <source>Database Username</source>
+          <target state="new">Database Username</target>
+        </trans-unit>
+        <trans-unit id="DbSecurityIntegrated.Text" translate="yes" xml:space="preserve">
+          <source>Integrated</source>
+          <target state="new">Integrated</target>
+        </trans-unit>
+        <trans-unit id="DbSecurityUserDefined.Text" translate="yes" xml:space="preserve">
+          <source>User Defined</source>
+          <target state="new">User Defined</target>
+        </trans-unit>
+        <trans-unit id="ImprovementsProgramTitle.Text" translate="yes" xml:space="preserve">
+          <source>Product Improvement Program</source>
+          <target state="new">Product Improvement Program</target>
+        </trans-unit>
+        <trans-unit id="ImprovementProgramExplain.Text" translate="yes" xml:space="preserve">
+          <source>The product improvement program allows us to better understand how we can
+improve DNN for you. The data will help us analyze usage and what is important
+for people using the product. All of the data is anonymous and for internal use only. Learn more about the <bpt id="1">&lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;</bpt>Product Improvement Program<ept id="1">&lt;/a&gt;</ept>.</source>
+          <target state="new">The product improvement program allows us to better understand how we can
+improve DNN for you. The data will help us analyze usage and what is important
+for people using the product. All of the data is anonymous and for internal use only. Learn more about the <bpt id="1">&lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;</bpt>Product Improvement Program<ept id="1">&lt;/a&gt;</ept>.</target>
+        </trans-unit>
+        <trans-unit id="ImprovementProgramLabel.Text" translate="yes" xml:space="preserve">
+          <source>Send anonymous usage information to DNN</source>
+          <target state="new">Send anonymous usage information to DNN</target>
+        </trans-unit>
+        <trans-unit id="FileAndFolderPermissionCheckTitle.Text" translate="yes" xml:space="preserve">
+          <source>Checking File and Folder Permissions</source>
+          <target state="new">Checking File and Folder Permissions</target>
+        </trans-unit>
+        <trans-unit id="FileCreateCheck.Text" translate="yes" xml:space="preserve">
+          <source>File Creation Check</source>
+          <target state="new">File Creation Check</target>
+        </trans-unit>
+        <trans-unit id="FileDeleteCheck.Text" translate="yes" xml:space="preserve">
+          <source>File Deletion Check</source>
+          <target state="new">File Deletion Check</target>
+        </trans-unit>
+        <trans-unit id="FolderCreateCheck.Text" translate="yes" xml:space="preserve">
+          <source>Folder Creation Check</source>
+          <target state="new">Folder Creation Check</target>
+        </trans-unit>
+        <trans-unit id="FolderDeleteCheck.Text" translate="yes" xml:space="preserve">
+          <source>Folder Deletion Check</source>
+          <target state="new">Folder Deletion Check</target>
+        </trans-unit>
+        <trans-unit id="InstallingExtension.Text" translate="yes" xml:space="preserve">
+          <source>Installing {0} - {1}</source>
+          <target state="new">Installing {0} - {1}</target>
+        </trans-unit>
+        <trans-unit id="InstallingLanguagesTitle.Text" translate="yes" xml:space="preserve">
+          <source>Installing Languages</source>
+          <target state="new">Installing Languages</target>
+        </trans-unit>
+        <trans-unit id="InstallTitle.Text" translate="yes" xml:space="preserve">
+          <source>Installation</source>
+          <target state="new">Installation</target>
+        </trans-unit>
+        <trans-unit id="IntroDetail.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;a class="videoLink" href="http://www.dotnetnuke.com/Resources/Training/Training-Videos/Installation.aspx" target="new"&gt;</bpt>View Installation Video<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;a class="videoLink" href="http://www.dotnetnuke.com/Resources/Training/Training-Videos/Installation.aspx" target="new"&gt;</bpt>View Installation Video<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="IsAbleToPerformDatabaseActionsCheck.Text" translate="yes" xml:space="preserve">
+          <source>Checking database user has ability to perform necessary actions</source>
+          <target state="new">Checking database user has ability to perform necessary actions</target>
+        </trans-unit>
+        <trans-unit id="IsAbleToPerformDatabaseActions.Text" translate="yes" xml:space="preserve">
+          <source>Your database user does not have sufficient permissions (dbo) to install</source>
+          <target state="new">Your database user does not have sufficient permissions (dbo) to install</target>
+        </trans-unit>
+        <trans-unit id="IsSqlServerDbo.Text" translate="yes" xml:space="preserve">
+          <source>Your database user does not have dbo permissions</source>
+          <target state="new">Your database user does not have dbo permissions</target>
+        </trans-unit>
+        <trans-unit id="IsValidDotNetVersion.Text" translate="yes" xml:space="preserve">
+          <source>DotNetNuke requires .net 4.0 or higher to work</source>
+          <target state="new">DotNetNuke requires .net 4.0 or higher to work</target>
+        </trans-unit>
+        <trans-unit id="IsValidSqlServerVersionCheck.Text" translate="yes" xml:space="preserve">
+          <source>Checking database version is SQL 2008 (express or full product) or higher to work</source>
+          <target state="new">Checking database version is SQL 2008 (express or full product) or higher to work</target>
+        </trans-unit>
+        <trans-unit id="IsValidSqlServerVersion.Text" translate="yes" xml:space="preserve">
+          <source>DotNetNuke requires SQL 2008 (express or full product) to work</source>
+          <target state="new">DotNetNuke requires SQL 2008 (express or full product) to work</target>
+        </trans-unit>
+        <trans-unit id="Language.Text" translate="yes" xml:space="preserve">
+          <source>Language</source>
+          <target state="new">Language</target>
+        </trans-unit>
+        <trans-unit id="Password.Text" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <target state="new">Password</target>
+        </trans-unit>
+        <trans-unit id="RequiresFileOrDatabase.Text" translate="yes" xml:space="preserve">
+          <source>File or Database entry is required under connection node in DotNetNuke.Install.Config file</source>
+          <target state="new">File or Database entry is required under connection node in DotNetNuke.Install.Config file</target>
+        </trans-unit>
+        <trans-unit id="SqlTypeExpress.Text" translate="yes" xml:space="preserve">
+          <source>SQL Server Express File</source>
+          <target state="new">SQL Server Express File</target>
+        </trans-unit>
+        <trans-unit id="SqlTypeServer.Text" translate="yes" xml:space="preserve">
+          <source>SQL Server/SQL Server Express Database</source>
+          <target state="new">SQL Server/SQL Server Express Database</target>
+        </trans-unit>
+        <trans-unit id="StepFailed.Text" translate="yes" xml:space="preserve">
+          <source>Step Failed - {0}</source>
+          <target state="new">Step Failed - {0}</target>
+        </trans-unit>
+        <trans-unit id="UserName.Text" translate="yes" xml:space="preserve">
+          <source>Username</source>
+          <target state="new">Username</target>
+        </trans-unit>
+        <trans-unit id="WebsiteInfo.Text" translate="yes" xml:space="preserve">
+          <source>Website Information</source>
+          <target state="new">Website Information</target>
+        </trans-unit>
+        <trans-unit id="WebsiteName.Text" translate="yes" xml:space="preserve">
+          <source>Website Name</source>
+          <target state="new">Website Name</target>
+        </trans-unit>
+        <trans-unit id="WebsiteTemplate.Text" translate="yes" xml:space="preserve">
+          <source>Template </source>
+          <target state="new">Template </target>
+        </trans-unit>
+        <trans-unit id="LanguageDutch.Text" translate="yes" xml:space="preserve">
+          <source>Dutch</source>
+          <target state="new">Dutch</target>
+        </trans-unit>
+        <trans-unit id="LanguageEnglish.Text" translate="yes" xml:space="preserve">
+          <source>English</source>
+          <target state="new">English</target>
+        </trans-unit>
+        <trans-unit id="LanguageFrench.Text" translate="yes" xml:space="preserve">
+          <source>French</source>
+          <target state="new">French</target>
+        </trans-unit>
+        <trans-unit id="LanguageGerman.Text" translate="yes" xml:space="preserve">
+          <source>German</source>
+          <target state="new">German</target>
+        </trans-unit>
+        <trans-unit id="LanguageItalian.Text" translate="yes" xml:space="preserve">
+          <source>Italian</source>
+          <target state="new">Italian</target>
+        </trans-unit>
+        <trans-unit id="LanguageSpanish.Text" translate="yes" xml:space="preserve">
+          <source>Spanish</source>
+          <target state="new">Spanish</target>
+        </trans-unit>
+        <trans-unit id="TemplateDefault.Text" translate="yes" xml:space="preserve">
+          <source>Default Template</source>
+          <target state="new">Default Template</target>
+        </trans-unit>
+        <trans-unit id="TemplateMobile.Text" translate="yes" xml:space="preserve">
+          <source>Mobile Template</source>
+          <target state="new">Mobile Template</target>
+        </trans-unit>
+        <trans-unit id="TemplateSolutions.Text" translate="yes" xml:space="preserve">
+          <source>Solutions Template</source>
+          <target state="new">Solutions Template</target>
+        </trans-unit>
+        <trans-unit id="Confirm.Help" translate="yes" xml:space="preserve">
+          <source>Confirm the password entered in the password field above.</source>
+          <target state="new">Confirm the password entered in the password field above.</target>
+        </trans-unit>
+        <trans-unit id="DatabaseName.Help" translate="yes" xml:space="preserve">
+          <source>The name of your database.</source>
+          <target state="new">The name of your database.</target>
+        </trans-unit>
+        <trans-unit id="DatabaseObjectQualifier.Help" translate="yes" xml:space="preserve">
+          <source>The object qualifier for your website.</source>
+          <target state="new">The object qualifier for your website.</target>
+        </trans-unit>
+        <trans-unit id="DatabaseOwner.Text" translate="yes" xml:space="preserve">
+          <source>Database Owner</source>
+          <target state="new">Database Owner</target>
+        </trans-unit>
+        <trans-unit id="DatabasePassword.Help" translate="yes" xml:space="preserve">
+          <source>The password for your database.</source>
+          <target state="new">The password for your database.</target>
+        </trans-unit>
+        <trans-unit id="DatabaseRunAs.Help" translate="yes" xml:space="preserve">
+          <source>Run the database as the type of user specified.</source>
+          <target state="new">Run the database as the type of user specified.</target>
+        </trans-unit>
+        <trans-unit id="DatabaseSecurity.Help" translate="yes" xml:space="preserve">
+          <source>The type of security used for your database.</source>
+          <target state="new">The type of security used for your database.</target>
+        </trans-unit>
+        <trans-unit id="DatabaseServer.Help" translate="yes" xml:space="preserve">
+          <source>The name of your database server.</source>
+          <target state="new">The name of your database server.</target>
+        </trans-unit>
+        <trans-unit id="DatabaseSetup.Help" translate="yes" xml:space="preserve">
+          <source>Choose a Standard or Advanced Database Setup.</source>
+          <target state="new">Choose a Standard or Advanced Database Setup.</target>
+        </trans-unit>
+        <trans-unit id="DatabaseType.Help" translate="yes" xml:space="preserve">
+          <source>Type of database you want to use for installation.</source>
+          <target state="new">Type of database you want to use for installation.</target>
+        </trans-unit>
+        <trans-unit id="DatabaseUsername.Help" translate="yes" xml:space="preserve">
+          <source>The username for your database.</source>
+          <target state="new">The username for your database.</target>
+        </trans-unit>
+        <trans-unit id="Language.Help" translate="yes" xml:space="preserve">
+          <source>The language you want to use for your website.</source>
+          <target state="new">The language you want to use for your website.</target>
+        </trans-unit>
+        <trans-unit id="Password.Help" translate="yes" xml:space="preserve">
+          <source>The password for the SuperUser account.</source>
+          <target state="new">The password for the SuperUser account.</target>
+        </trans-unit>
+        <trans-unit id="UserName.Help" translate="yes" xml:space="preserve">
+          <source>The username for the Super User account.</source>
+          <target state="new">The username for the Super User account.</target>
+        </trans-unit>
+        <trans-unit id="WebsiteName.Help" translate="yes" xml:space="preserve">
+          <source>Enter the name you want to use for your website.</source>
+          <target state="new">Enter the name you want to use for your website.</target>
+        </trans-unit>
+        <trans-unit id="WebsiteTemplate.Help" translate="yes" xml:space="preserve">
+          <source>The type of website you want to set up.</source>
+          <target state="new">The type of website you want to set up.</target>
+        </trans-unit>
+        <trans-unit id="DatabaseInstallation.Text" translate="yes" xml:space="preserve">
+          <source>Database Installation</source>
+          <target state="new">Database Installation</target>
+        </trans-unit>
+        <trans-unit id="ExtensionsInstallation.Text" translate="yes" xml:space="preserve">
+          <source>Extensions Installation</source>
+          <target state="new">Extensions Installation</target>
+        </trans-unit>
+        <trans-unit id="FileAndFolderPermissionCheck.Text" translate="yes" xml:space="preserve">
+          <source>File and Folder Permissions Check</source>
+          <target state="new">File and Folder Permissions Check</target>
+        </trans-unit>
+        <trans-unit id="LaunchInstall.Text" translate="yes" xml:space="preserve">
+          <source>Launch Installer</source>
+          <target state="new">Launch Installer</target>
+        </trans-unit>
+        <trans-unit id="SeeLogs.Text" translate="yes" xml:space="preserve">
+          <source>See Logs</source>
+          <target state="new">See Logs</target>
+        </trans-unit>
+        <trans-unit id="SuperUserCreation.Text" translate="yes" xml:space="preserve">
+          <source>Super User Creation</source>
+          <target state="new">Super User Creation</target>
+        </trans-unit>
+        <trans-unit id="VisitWebsite.Text" translate="yes" xml:space="preserve">
+          <source>Visit Website</source>
+          <target state="new">Visit Website</target>
+        </trans-unit>
+        <trans-unit id="WebsiteCreation.Text" translate="yes" xml:space="preserve">
+          <source>Website Creation</source>
+          <target state="new">Website Creation</target>
+        </trans-unit>
+        <trans-unit id="CreateSuperUser.Text" translate="yes" xml:space="preserve">
+          <source>Create Super User</source>
+          <target state="new">Create Super User</target>
+        </trans-unit>
+        <trans-unit id="CreatingSite.Text" translate="yes" xml:space="preserve">
+          <source>Creating Site [{0}]</source>
+          <target state="new">Creating Site [{0}]</target>
+        </trans-unit>
+        <trans-unit id="CreatingSuperUser.Text" translate="yes" xml:space="preserve">
+          <source>Creating Super User</source>
+          <target state="new">Creating Super User</target>
+        </trans-unit>
+        <trans-unit id="DeletingOldFiles.Text" translate="yes" xml:space="preserve">
+          <source>Deleting Older Files for </source>
+          <target state="new">Deleting Older Files for </target>
+        </trans-unit>
+        <trans-unit id="InstallationDone.Text" translate="yes" xml:space="preserve">
+          <source>Done</source>
+          <target state="new">Done</target>
+        </trans-unit>
+        <trans-unit id="InstallingDataBaseScriptStep.Text" translate="yes" xml:space="preserve">
+          <source>Installing Database Script </source>
+          <target state="new">Installing Database Script </target>
+        </trans-unit>
+        <trans-unit id="InstallingMembershipDatabaseScriptStep.Text" translate="yes" xml:space="preserve">
+          <source>Installing Membership Database Scripts</source>
+          <target state="new">Installing Membership Database Scripts</target>
+        </trans-unit>
+        <trans-unit id="ProcessingUpgradeScript.Text" translate="yes" xml:space="preserve">
+          <source>Applying Upgrade Script </source>
+          <target state="new">Applying Upgrade Script </target>
+        </trans-unit>
+        <trans-unit id="SkipCreatingSite.Text" translate="yes" xml:space="preserve">
+          <source>Portal Alias [{0}] is already present. Skipping this step.</source>
+          <target state="new">Portal Alias [{0}] is already present. Skipping this step.</target>
+        </trans-unit>
+        <trans-unit id="UpdatingConfigFile.Text" translate="yes" xml:space="preserve">
+          <source>Updating Config for </source>
+          <target state="new">Updating Config for </target>
+        </trans-unit>
+        <trans-unit id="UpgradingNormalApplication.Text" translate="yes" xml:space="preserve">
+          <source>Upgrading Application</source>
+          <target state="new">Upgrading Application</target>
+        </trans-unit>
+        <trans-unit id="UpgradingVersionApplication.Text" translate="yes" xml:space="preserve">
+          <source>Upgrading Application to </source>
+          <target state="new">Upgrading Application to </target>
+        </trans-unit>
+        <trans-unit id="Retry.Text" translate="yes" xml:space="preserve">
+          <source>Retry</source>
+          <target state="new">Retry</target>
+        </trans-unit>
+        <trans-unit id="CheckingIIS.Text" translate="yes" xml:space="preserve">
+          <source>Checking IIS configuration</source>
+          <target state="new">Checking IIS configuration</target>
+        </trans-unit>
+        <trans-unit id="InitHostSetting.Text" translate="yes" xml:space="preserve">
+          <source>Initializing Host Settings</source>
+          <target state="new">Initializing Host Settings</target>
+        </trans-unit>
+        <trans-unit id="ErrorInStep.Text" translate="yes" xml:space="preserve">
+          <source>ERROR occured - {0}</source>
+          <target state="new">ERROR occured - {0}</target>
+        </trans-unit>
+        <trans-unit id="IISVerificationFail.Text" translate="yes" xml:space="preserve">
+          <source>AppPool in IIS must run under Integrated Mode</source>
+          <target state="new">AppPool in IIS must run under Integrated Mode</target>
+        </trans-unit>
+        <trans-unit id="InputErrorInvalidPassword.Text" translate="yes" xml:space="preserve">
+          <source>The password entered does not meet the minimum password requirements.</source>
+          <target state="new">The password entered does not meet the minimum password requirements.</target>
+        </trans-unit>
+        <trans-unit id="InputErrorMissingRequiredFields.Text" translate="yes" xml:space="preserve">
+          <source>Missing Required Fields</source>
+          <target state="new">Missing Required Fields</target>
+        </trans-unit>
+        <trans-unit id="LegacyLangaugePack.Text" translate="yes" xml:space="preserve">
+          <source>This language pack is older than the current application version : </source>
+          <target state="new">This language pack is older than the current application version : </target>
+        </trans-unit>
+        <trans-unit id="TemplateBlank.Text" translate="yes" xml:space="preserve">
+          <source>Blank Template</source>
+          <target state="new">Blank Template</target>
+        </trans-unit>
+        <trans-unit id="NoInstallationLog.Text" translate="yes" xml:space="preserve">
+          <source>No Installation Log</source>
+          <target state="new">No Installation Log</target>
+        </trans-unit>
+        <trans-unit id="NoErrorsLogged.Text" translate="yes" xml:space="preserve">
+          <source>No Installation errors have been logged</source>
+          <target state="new">No Installation errors have been logged</target>
+        </trans-unit>
+        <trans-unit id="DatabaseFilename.Help" translate="yes" xml:space="preserve">
+          <source>Name of your database file.</source>
+          <target state="new">Name of your database file.</target>
+        </trans-unit>
+        <trans-unit id="InstallationIntroInfo.Text" translate="yes" xml:space="preserve">
+          <source>The product is being installed. Thanks for your patience...</source>
+          <target state="new">The product is being installed. Thanks for your patience...</target>
+        </trans-unit>
+        <trans-unit id="LicenseActivation.Text" translate="yes" xml:space="preserve">
+          <source>Activating License</source>
+          <target state="new">Activating License</target>
+        </trans-unit>
+        <trans-unit id="AccountInfo.Text" translate="yes" xml:space="preserve">
+          <source>Enter Your Account Information</source>
+          <target state="new">Enter Your Account Information</target>
+        </trans-unit>
+        <trans-unit id="Installation.Text" translate="yes" xml:space="preserve">
+          <source>Proceed with Installation</source>
+          <target state="new">Proceed with Installation</target>
+        </trans-unit>
+        <trans-unit id="ViewWebsite.Text" translate="yes" xml:space="preserve">
+          <source>View Website</source>
+          <target state="new">View Website</target>
+        </trans-unit>
+        <trans-unit id="Error.Text" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <target state="new">Error</target>
+        </trans-unit>
+        <trans-unit id="InstallingExtensionType.Text" translate="yes" xml:space="preserve">
+          <source>Install Packages for type - {0}</source>
+          <target state="new">Install Packages for type - {0}</target>
+        </trans-unit>
+        <trans-unit id="DatabaseConnectionError.Text" translate="yes" xml:space="preserve">
+          <source>Database Connection Error</source>
+          <target state="new">Database Connection Error</target>
+        </trans-unit>
+        <trans-unit id="DatabaseError.Text" translate="yes" xml:space="preserve">
+          <source>Unable to connect to database. </source>
+          <target state="new">Unable to connect to database. </target>
+        </trans-unit>
+        <trans-unit id="StandardDatabaseMsg.Text" translate="yes" xml:space="preserve">
+          <source>No valid default database connection detected.
+Standard Database setup option is unavailable</source>
+          <target state="new">No valid default database connection detected.
+Standard Database setup option is unavailable</target>
+        </trans-unit>
+        <trans-unit id="TestingDatabase.Text" translate="yes" xml:space="preserve">
+          <source>Verifying Database Connection</source>
+          <target state="new">Verifying Database Connection</target>
+        </trans-unit>
+        <trans-unit id="TimerSeconds.Text" translate="yes" xml:space="preserve">
+          <source>seconds</source>
+          <target state="new">seconds</target>
+        </trans-unit>
+        <trans-unit id="InvalidQualifier.Text" translate="yes" xml:space="preserve">
+          <source>Object Qualifier must start with a letter and be no more than 20 characters.</source>
+          <target state="new">Object Qualifier must start with a letter and be no more than 20 characters.</target>
+        </trans-unit>
+        <trans-unit id="InstallationComplete.Text" translate="yes" xml:space="preserve">
+          <source>Installation Complete!</source>
+          <target state="new">Installation Complete!</target>
+        </trans-unit>
+        <trans-unit id="PageTitle.Text" translate="yes" xml:space="preserve">
+          <source>Installation</source>
+          <target state="new">Installation</target>
+        </trans-unit>
+        <trans-unit id="TimerMinutes.Text" translate="yes" xml:space="preserve">
+          <source>Minutes</source>
+          <target state="new">Minutes</target>
+        </trans-unit>
+        <trans-unit id="PasswordMismatch.Text" translate="yes" xml:space="preserve">
+          <source>The passwords do not match.</source>
+          <target state="new">The passwords do not match.</target>
+        </trans-unit>
+        <trans-unit id="Confirm.Required" translate="yes" xml:space="preserve">
+          <source>Confirmation password is required.</source>
+          <target state="new">Confirmation password is required.</target>
+        </trans-unit>
+        <trans-unit id="DatabaseFilename.Required" translate="yes" xml:space="preserve">
+          <source>Database filename is required.</source>
+          <target state="new">Database filename is required.</target>
+        </trans-unit>
+        <trans-unit id="DatabaseName.Required" translate="yes" xml:space="preserve">
+          <source>Database name is required.</source>
+          <target state="new">Database name is required.</target>
+        </trans-unit>
+        <trans-unit id="DatabasePassword.Required" translate="yes" xml:space="preserve">
+          <source>Database password is required.</source>
+          <target state="new">Database password is required.</target>
+        </trans-unit>
+        <trans-unit id="DatabaseServer.Required" translate="yes" xml:space="preserve">
+          <source>Database server name is required.</source>
+          <target state="new">Database server name is required.</target>
+        </trans-unit>
+        <trans-unit id="DatabaseUsername.Required" translate="yes" xml:space="preserve">
+          <source>Database username is required.</source>
+          <target state="new">Database username is required.</target>
+        </trans-unit>
+        <trans-unit id="Password.Required" translate="yes" xml:space="preserve">
+          <source>Password is required.</source>
+          <target state="new">Password is required.</target>
+        </trans-unit>
+        <trans-unit id="UserName.Required" translate="yes" xml:space="preserve">
+          <source>Username is required.</source>
+          <target state="new">Username is required.</target>
+        </trans-unit>
+        <trans-unit id="WebsiteName.Required" translate="yes" xml:space="preserve">
+          <source>Website name is required.</source>
+          <target state="new">Website name is required.</target>
+        </trans-unit>
+        <trans-unit id="HostWarning.Text" translate="yes" xml:space="preserve">
+          <source>Your Host Name contains illegal characters (only a-Z, 0-9, - and . are allowed).  You should modify the host name used.</source>
+          <target state="new">Your Host Name contains illegal characters (only a-Z, 0-9, - and . are allowed).  You should modify the host name used.</target>
+        </trans-unit>
+        <trans-unit id="FileAndFolderPermissionCheckFailed.Text" translate="yes" xml:space="preserve">
+          <source><bpt id="1">&lt;div class="permission"&gt;</bpt><bpt id="2">&lt;img alt="Image showing the security settings for the root folder of the website must be set to Read, Write and Change Control for the ASPNET or NT AUTHORITY/NETWORK SERVICE accounts." src="..\403-3.gif" align="right" hspace="10"&gt;</bpt><ept id="2">&lt;/img&gt;</ept>
+<bpt id="3">&lt;p&gt;</bpt><bpt id="4">&lt;b&gt;</bpt><bpt id="5">&lt;font color='red'&gt;</bpt>Your site failed the permissions check.<ept id="5">&lt;/font&gt;</ept><ept id="4">&lt;/b&gt;</ept><ept id="3">&lt;/p&gt;</ept>
+Using Windows Explorer, browse to the folders of your website ( {0} ). Right-click the folder and select Sharing and Security from the popup menu. Select the Security tab. Add the appropriate User Account and set the Permissions.
+&lt;br/&gt;&lt;br/&gt;
+<bpt id="6">&lt;h3&gt;</bpt>If using Windows 2000 - IIS5<ept id="6">&lt;/h3&gt;</ept>
+<bpt id="7">&lt;p&gt;</bpt>The ASPNET User Account must have Read, Write, and Change Control of the virtual root of your website.<ept id="7">&lt;/p&gt;</ept>
+<bpt id="8">&lt;h3&gt;</bpt>If using Windows 2003, Windows Vista or Windows Server 2008 and  IIS6 or IIS7<ept id="8">&lt;/h3&gt;</ept>
+<bpt id="9">&lt;p&gt;</bpt>The NT AUTHORITY\NETWORK SERVICE User Account must have Read, Write, and Change Control of the virtual root of your Website.<ept id="9">&lt;/p&gt;</ept>
+<bpt id="10">&lt;h3&gt;</bpt>If using Windows 7 or Windows Server 2008 R2 and  IIS7.5<ept id="10">&lt;/h3&gt;</ept>
+<bpt id="11">&lt;p&gt;</bpt>The IIS AppPool\DefaultAppPool User Account must have Read, Write, and Change Control of the virtual root of your Website.<ept id="11">&lt;/p&gt;</ept><bpt id="12">&lt;p&gt;</bpt><bpt id="13">&lt;a class="dnnPrimaryAction" href=""&gt;</bpt>Recheck<ept id="13">&lt;/a&gt;</ept><ept id="12">&lt;/p&gt;</ept><ept id="1">&lt;/div&gt;</ept></source>
+          <target state="new"><bpt id="1">&lt;div class="permission"&gt;</bpt><bpt id="2">&lt;img alt="Image showing the security settings for the root folder of the website must be set to Read, Write and Change Control for the ASPNET or NT AUTHORITY/NETWORK SERVICE accounts." src="..\403-3.gif" align="right" hspace="10"&gt;</bpt><ept id="2">&lt;/img&gt;</ept>
+<bpt id="3">&lt;p&gt;</bpt><bpt id="4">&lt;b&gt;</bpt><bpt id="5">&lt;font color='red'&gt;</bpt>Your site failed the permissions check.<ept id="5">&lt;/font&gt;</ept><ept id="4">&lt;/b&gt;</ept><ept id="3">&lt;/p&gt;</ept>
+Using Windows Explorer, browse to the folders of your website ( {0} ). Right-click the folder and select Sharing and Security from the popup menu. Select the Security tab. Add the appropriate User Account and set the Permissions.
+&lt;br/&gt;&lt;br/&gt;
+<bpt id="6">&lt;h3&gt;</bpt>If using Windows 2000 - IIS5<ept id="6">&lt;/h3&gt;</ept>
+<bpt id="7">&lt;p&gt;</bpt>The ASPNET User Account must have Read, Write, and Change Control of the virtual root of your website.<ept id="7">&lt;/p&gt;</ept>
+<bpt id="8">&lt;h3&gt;</bpt>If using Windows 2003, Windows Vista or Windows Server 2008 and  IIS6 or IIS7<ept id="8">&lt;/h3&gt;</ept>
+<bpt id="9">&lt;p&gt;</bpt>The NT AUTHORITY\NETWORK SERVICE User Account must have Read, Write, and Change Control of the virtual root of your Website.<ept id="9">&lt;/p&gt;</ept>
+<bpt id="10">&lt;h3&gt;</bpt>If using Windows 7 or Windows Server 2008 R2 and  IIS7.5<ept id="10">&lt;/h3&gt;</ept>
+<bpt id="11">&lt;p&gt;</bpt>The IIS AppPool\DefaultAppPool User Account must have Read, Write, and Change Control of the virtual root of your Website.<ept id="11">&lt;/p&gt;</ept><bpt id="12">&lt;p&gt;</bpt><bpt id="13">&lt;a class="dnnPrimaryAction" href=""&gt;</bpt>Recheck<ept id="13">&lt;/a&gt;</ept><ept id="12">&lt;/p&gt;</ept><ept id="1">&lt;/div&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="InstallVersion.Text" translate="yes" xml:space="preserve">
+          <source>Adding InstallVersion</source>
+          <target state="new">Adding InstallVersion</target>
+        </trans-unit>
+        <trans-unit id="FcnMode.Text" translate="yes" xml:space="preserve">
+          <source>Adding FcnMode</source>
+          <target state="new">Adding FcnMode</target>
+        </trans-unit>
+        <trans-unit id="Email.Help" translate="yes" xml:space="preserve">
+          <source>Enter an email address for this user.</source>
+          <target state="new">Enter an email address for this user.</target>
+        </trans-unit>
+        <trans-unit id="Email.Invalid" translate="yes" xml:space="preserve">
+          <source>The email address entered is not valid</source>
+          <target state="new">The email address entered is not valid</target>
+        </trans-unit>
+        <trans-unit id="Email.Required" translate="yes" xml:space="preserve">
+          <source>An email address is required</source>
+          <target state="new">An email address is required</target>
+        </trans-unit>
+        <trans-unit id="Email.Text" translate="yes" xml:space="preserve">
+          <source>Email address:</source>
+          <target state="new">Email address:</target>
+        </trans-unit>
+        <trans-unit id="AcceptTerms.Text" translate="yes" xml:space="preserve">
+          <source>I accept the terms of the <bpt id="1">&lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;</bpt>license agreement<ept id="1">&lt;/a&gt;</ept></source>
+          <target state="new">I accept the terms of the <bpt id="1">&lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;</bpt>license agreement<ept id="1">&lt;/a&gt;</ept></target>
+        </trans-unit>
+        <trans-unit id="AcceptTerms.Required" translate="yes" xml:space="preserve">
+          <source>Accept the terms of the license agreement to continue.</source>
+          <target state="new">Accept the terms of the license agreement to continue.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
